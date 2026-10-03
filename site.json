@@ -5,7 +5,7 @@
   "description": "İran'ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.",
   "language": "tr",
   "form_endpoint": "d54e522a1e7f5a9f260cea25a2fcef24",
-  "adsense_client": "",
+  "adsense_client": "ca-pub-2614171764127438",
   "analytics": "G-SMRG3TSXH9",
   "adsense_baslangic": "2026-10-10"
 }

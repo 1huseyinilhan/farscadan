@@ -54,7 +54,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - `check_links.py` hata verirse **yayınlama.** Hatayı düzeltmeyi bir kez dene, olmazsa rapora yaz.
 
 ### 7. Canlı kontrol
-- 2 dakika bekle.
+- GitHub Pages dağıtımı genelde 1–2 dakika sürer, ama 8 dakikaya kadar uzayabilir (03.10'da görüldü). 404 alınırsa 30 saniyede bir yeniden dene, en fazla **10 dakika** bekle. Ancak bu sürenin sonunda hâlâ 404 alınıyorsa "başarısız" yaz.
 - `curl -s -o /dev/null -w "%{http_code}" https://farscadan.com/haber/<slug>/` komutunu 5 haberin hepsi için çalıştır. Hepsi 200 dönmeli.
 - `https://farscadan.com/news-sitemap.xml` yeni haberleri içermeli.
 

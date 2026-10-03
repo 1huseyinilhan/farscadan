@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://farscadan.com/sitemap.xml
+Sitemap: https://farscadan.com/news-sitemap.xml

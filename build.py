@@ -402,11 +402,12 @@ def footer(cfg, page):
   <div class="wrap">
     <nav aria-label="Alt menü"><ul class="footer-links">
       <li><a href="{p}yayin-ilkeleri/">Yayın İlkeleri</a></li>
+      <li><a href="{p}editor/">Editörlük</a></li>
       <li><a href="{p}gizlilik/">Gizlilik</a></li>
       <li><a href="{p}iletisim/">İletişim</a></li>
       <li><a href="{p}feed.xml">RSS</a></li>
     </ul></nav>
-    <p class="ai-note">İçerikler yapay zekâ desteğiyle çevrilmektedir.</p>
+    <p class="ai-note">İçerikler yapay zekâ desteğiyle çevrilmekte ve insan editoryal denetimi altında yayımlanmaktadır.</p>
     <p class="copy">© 2026 {sn}</p>
   </div>
 </footer>
@@ -603,6 +604,7 @@ def build_article(cfg, a, arts):
         "keywords": ", ".join(a["tags"]),
         "mainEntityOfPage": {"@type": "WebPage", "@id": abs_url(cfg, canonical_rel)},
         "author": {"@type": "Organization", "name": m.get("yazar") or "AI Agent"},
+        "editor": {"@type": "Organization", "name": "Farsçadan Editörlüğü", "url": abs_url(cfg, "editor/")},
         "publisher": {"@type": "Organization", "name": cfg["site_name"],
                       "logo": {"@type": "ImageObject", "url": abs_url(cfg, "img/logo.png")}},
         "isBasedOn": safe_url(m["kaynak_url"]),
@@ -632,7 +634,7 @@ def build_article(cfg, a, arts):
     <p class="kicker"><a href="{cu}">{cat}</a></p>
     <h1 class="article-title">{t}</h1>
     <p class="dek">{oz}</p>
-    <p class="byline">Yazan: <span class="author">{author}</span> · <time datetime="{iso}">{d}</time> · Kaynak: {src}</p>
+    <p class="byline">Yazan: <span class="author">{author}</span> · Editoryal denetim: <a href="{ed}">Farsçadan Editörlüğü</a> · <time datetime="{iso}">{d}</time> · Kaynak: {src}</p>
   </header>
   {fig}
   <div class="article-body">
@@ -649,7 +651,7 @@ def build_article(cfg, a, arts):
 <div class="wrap wide">{related}</div>
 """.format(cu=page.url("kategori/%s/" % a["cat_slug"]), cat=esc(a["cat"]), t=esc(m["baslik"]),
            oz=esc(m["ozet"]), author=esc(m.get("yazar") or "AI Agent"), iso=a["date"].isoformat(),
-           d=tr_date(a["date"]), src=esc(m["kaynak_adi"]), fig=fig, body=body_html, kaynak=kaynak,
+           d=tr_date(a["date"]), src=esc(m["kaynak_adi"]), fig=fig, ed=page.url("editor/"), body=body_html, kaynak=kaynak,
            ek=ek, tags=tags,
            note_pre=esc(FOOTER_NOTE.split("İletişim sayfasını")[0]),
            il=page.url("iletisim/"),
@@ -672,6 +674,23 @@ def static_page(cfg, rel_dir, title, description, inner, active=""):
 def build_static_pages(cfg):
     sn = esc(cfg["site_name"])
 
+    # Editörlük
+    page = Page("editor/index.html")
+    static_page(cfg, "editor/", "Editörlük",
+                "%s haberleri nasıl denetlenir: editoryal süreç ve sorumluluk." % cfg["site_name"], """
+<p class="lead">{sn} haberleri yapay zekâ ile çevrilir ve <strong>insan editoryal denetimi</strong> altında yayımlanır.</p>
+<h2>Editör kimdir?</h2>
+<p>{sn} Editörlüğü, Farsça mütercim-tercümanlık eğitimi almış ve daha önce haber sitesi genel yayın yönetmenliği yapmış bir editör tarafından yürütülür. Editör; kaynak seçimini, yayın ilkelerini, yönelim etiketlerini ve düzeltmeleri belirler.</p>
+<h2>Denetim nasıl işler?</h2>
+<ul>
+<li><strong>Kurallar:</strong> Her haber, editörün belirlediği yazım ve yayın ilkelerine göre hazırlanır: kaynağa atıf, yönelim etiketi, çelişkili iddiaların “teyit edilmedi” olarak işaretlenmesi, görüş içermeme.</li>
+<li><strong>Haftalık inceleme:</strong> Türkiye’yi doğrudan ilgilendiren ve hassas konulu haberler editör tarafından her hafta tek tek okunur ve onaylanır; gerekirse düzeltilir.</li>
+<li><strong>Doğrulama:</strong> Türkiye’ye veya yaptırımlara ilişkin iddialar yayın öncesinde İngilizce birincil kaynaklarla karşılaştırılır.</li>
+<li><strong>Düzeltmeler:</strong> Okur bildirimleri editör tarafından incelenir; anlamı değiştiren düzeltmeler haberin sonunda tarihli not olarak belirtilir.</li>
+</ul>
+<p>Hata bildirmek için <a href="{p}iletisim/">İletişim</a> sayfasındaki formu kullanabilirsiniz. Yayın ilkelerimiz: <a href="{p}yayin-ilkeleri/">Yayın İlkeleri</a>.</p>
+""".format(sn=sn, p=page.p), "hakkimizda")
+
     # Hakkımızda
     page = Page("hakkimizda/index.html")
     static_page(cfg, "hakkimizda/", "Hakkımızda",
@@ -692,7 +711,7 @@ def build_static_pages(cfg):
 <h2>Görüş yayımlamıyoruz</h2>
 <p>{sn} köşe yazısı ya da yorum yayımlamaz. Haberlerde aktarılan iddia ve değerlendirmeler ilgili yayın organına aittir. Arka plan bilgisi verdiğimiz “Bağlam” bölümleri olgulara dayanır ve görüş içermez.</p>
 <h2>Çeviriyi kim yapıyor?</h2>
-<p>Çeviriler yapay zekâ ile yapılır; bu nedenle haberlerde imza olarak <strong>“AI Agent”</strong> yer alır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır.</p>
+<p>Çeviriler yapay zekâ ile yapılır; bu nedenle haberlerde imza olarak <strong>“AI Agent”</strong> yer alır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır. Ayrıntılar: <a href="{p}editor/">Editörlük</a>.</p>
 <h2>Düzeltme politikası</h2>
 <p>Çeviri ya da bilgi hatalarını ciddiye alıyoruz. Bir hata fark ederseniz <a href="{p}iletisim/">İletişim</a> sayfasındaki formdan “Hata bildirimi” konusunu seçerek bize yazın. Doğrulanan hatalar en kısa sürede düzeltilir; anlamı değiştiren düzeltmeler haberin sonunda not olarak belirtilir.</p>
 <p>Ayrıntılı ilkelerimiz için <a href="{p}yayin-ilkeleri/">Yayın İlkeleri</a> sayfasına bakabilirsiniz.</p>

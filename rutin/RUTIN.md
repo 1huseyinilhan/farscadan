@@ -67,6 +67,15 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - Toplam haber sayısı (AdSense eşiği için)
 - Rapor kişisel veri içermez. Bu depo herkese açıktır.
 
+### 9. Pazar günleri: haftalık editör listesi (editör katmanı, 2026-10-03)
+- Pazar çalıştırmasında, yayın tamamlandıktan sonra `rutin/kayit/editor-YYYY-MM-DD.md` dosyasını yaz. Tarih o pazarın tarihidir.
+- **Kapsam:** Son 7 günde yayınlanan haberlerden şunlar:
+  - `kategori: Türkiye` olanlar
+  - Hassas konulu olanlar: soykırım, din, Kürt meselesi, suçlama veya yargılama, ölüm ve çatışma bilançosu, Türk kişi ve kurumları hakkındaki iddialar
+- **Her satırda:** başlık, canlı bağlantı, hassasiyet nedeni (tek cümle), `[ ] Onaylandı` kutusu.
+- Editör (site sahibi) listeyi okur. Düzeltme isterse bir sonraki oturumda haber güncellenir ve sonuna "*Düzeltme (tarih): …*" notu eklenir.
+- Bu dosya kaynak dalına commit'lenir. Kişisel veri içermez.
+
 ## Asla
 - Token, şifre veya e-posta adresini hiçbir dosyaya yazma.
 - `main` dalını elle düzenleme. `main` yalnızca `yayinla.sh` ile güncellenir.

@@ -1,0 +1,11 @@
+{
+  "site_name": "Farsçadan",
+  "tagline": "Farsça basın, Türkçe okuyun",
+  "base_url": "https://farscadan.com",
+  "description": "İran'ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.",
+  "language": "tr",
+  "form_endpoint": "d54e522a1e7f5a9f260cea25a2fcef24",
+  "adsense_client": "",
+  "analytics": "",
+  "adsense_baslangic": "2026-10-10"
+}

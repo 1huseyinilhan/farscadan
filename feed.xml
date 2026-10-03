@@ -5,8 +5,26 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 03 Oct 2026 09:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 13:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Zahedan ve Rask&#x27;ta çatışma: ölü sayısında kaynaklar arasında çelişki</title>
+    <link>https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</guid>
+    <pubDate>Sat, 03 Oct 2026 13:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Sistan-Beluçistan&#x27;da 1-2 Ekim&#x27;de yaşanan çatışmalarda ölü sayısı kaynağa göre değişiyor; IRGC ve muhalif kaynaklar farklı rakamlar aktardı. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;den LNG sevkiyatı savaş başından bu yana en yüksek seviyeye çıktı</title>
+    <link>https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</guid>
+    <pubDate>Sat, 03 Oct 2026 13:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Reuters&#x27;a göre Hürmüz&#x27;den eylülde geçen LNG sevkiyatı, şubattaki savaşın başından bu yana en yüksek aylık düzeye ulaştı. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>ABD, 23 yılın en büyük yığınağıyla üçüncü uçak gemisini Orta Doğu&#x27;ya gönderdi</title>
     <link>https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</link>

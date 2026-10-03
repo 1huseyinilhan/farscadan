@@ -357,6 +357,7 @@ def head(cfg, page, title, description, canonical_rel, og_type="website",
 <meta property="og:description" content="{d}">
 <meta property="og:url" content="{c}">
 <meta name="twitter:card" content="{tc}">
+{xs}
 <meta name="twitter:title" content="{ti}">
 <meta name="twitter:description" content="{d}">
 {img}<meta name="color-scheme" content="light dark">
@@ -372,6 +373,7 @@ def head(cfg, page, title, description, canonical_rel, og_type="website",
 """.format(t=esc(full_title), d=esc(description), c=esc(canonical), sn=esc(cfg["site_name"]),
            ot=og_type, ti=esc(title), tc="summary_large_image" if image else "summary",
            img=img_meta, p=page.p, ads=ads, an=analytics, extra=extra,
+           xs=('<meta name="twitter:site" content="@%s">\n' % esc(cfg["x_hesap"])) if cfg.get("x_hesap") else "",
            rb="" if 'name="robots"' in extra else
               '<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">\n')
 
@@ -406,6 +408,7 @@ def footer(cfg, page):
       <li><a href="{p}gizlilik/">Gizlilik</a></li>
       <li><a href="{p}iletisim/">İletişim</a></li>
       <li><a href="{p}feed.xml">RSS</a></li>
+      <li><a href="https://x.com/farscadancom" rel="noopener me" target="_blank">X (@farscadancom)</a></li>
     </ul></nav>
     <p class="ai-note">İçerikler yapay zekâ desteğiyle çevrilmekte ve insan editoryal denetimi altında yayımlanmaktadır.</p>
     <p class="copy">© 2026 {sn}</p>
@@ -606,6 +609,7 @@ def build_article(cfg, a, arts):
         "author": {"@type": "Organization", "name": m.get("yazar") or "AI Agent"},
         "editor": {"@type": "Organization", "name": "Farsçadan Editörlüğü", "url": abs_url(cfg, "editor/")},
         "publisher": {"@type": "Organization", "name": cfg["site_name"],
+                      "sameAs": ["https://x.com/%s" % cfg["x_hesap"]] if cfg.get("x_hesap") else [],
                       "logo": {"@type": "ImageObject", "url": abs_url(cfg, "img/logo.png")}},
         "isBasedOn": safe_url(m["kaynak_url"]),
     }

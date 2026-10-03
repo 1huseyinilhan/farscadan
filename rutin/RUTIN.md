@@ -67,6 +67,14 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - Toplam haber sayısı (AdSense eşiği için)
 - Rapor kişisel veri içermez. Bu depo herkese açıktır.
 
+### 8b. X (@farscadancom) paylaşım taslakları
+- Yayından sonra `rutin/kayit/x-YYYY-MM-DD.md` dosyasına bugünün 5 haberi için **paylaşıma hazır 5 gönderi** yaz. Kurallar:
+  - Her gönderi ≤ 270 karakter: haberin en çarpıcı olgusu (kaynağa atıfla, ör. "Kayhan'a göre…") + haber bağlantısı (`https://farscadan.com/haber/<slug>/`).
+  - En fazla 2 hashtag (ör. #İran, #Hürmüz). Görüş, emoji yığını ve clickbait yok.
+  - Türkiye kategorisindeki haber varsa onun gönderisi ilk sıraya konur.
+  - Gönderinin sonunda kaynağın yönelim etiketi parantez içinde verilir: "(Kayhan, sertlik yanlısı)".
+- Dosya kaynak dalına commit'lenir. Paylaşımı site sahibi yapar.
+
 ### 9. Pazar günleri: haftalık editör listesi (editör katmanı, 2026-10-03)
 - Pazar çalıştırmasında, yayın tamamlandıktan sonra `rutin/kayit/editor-YYYY-MM-DD.md` dosyasını yaz. Tarih o pazarın tarihidir.
 - **Kapsam:** Son 7 günde yayınlanan haberlerden şunlar:

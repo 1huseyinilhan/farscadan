@@ -13,7 +13,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 
 ### 0. Hazırlık
 - `git checkout kaynak && git pull --rebase origin kaynak` (oturum başka bir dalda açıldıysa önce `git fetch origin kaynak`)
-- Bugünün tarihi (Europe/Istanbul) ile `content/haberler/` klasörüne bak. Bugün tarihli **5 veya daha fazla** haber varsa dur ve "bugün zaten yayınlandı" diye raporla.
+- **Bugün rutin zaten çalıştı mı?** `rutin/kayit/YYYY-MM-DD.md` dosyası (bugünün tarihi, Europe/Istanbul) varsa ve "Yayın sonucu: başarılı" satırını içeriyorsa dur ve "bugün zaten yayınlandı" diye raporla. Kurulum günü (2026-10-03) elle eklenen 10 haber bu sayıma girmez. Kayıt dosyası yoksa ya da başarısız bir çalıştırmayı gösteriyorsa yeni 5 haber yazılır.
 - Son 7 günün haber başlıklarını ve etiketlerini listele. Bu liste tekrarı önlemek ve iç bağlantı vermek için kullanılır.
 
 ### 1. Kaynakları çek
@@ -59,7 +59,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - `https://farscadan.com/news-sitemap.xml` yeni haberleri içermeli.
 
 ### 8. Raporla
-- `rutin/kayit/YYYY-MM-DD.md` dosyasına kısa bir kayıt yaz ve kaynak dalına commit'le (betiği yeniden çalıştırmaya gerek yok; `git add`, `git commit`, `git push origin HEAD:kaynak` yeterli). Kayıtta şunlar bulunur:
+- `rutin/kayit/YYYY-MM-DD.md` dosyasına kısa bir kayıt yaz (ilk satırlardan biri tam olarak `Yayın sonucu: başarılı` ya da `Yayın sonucu: başarısız — <neden>` olmalı) ve kaynak dalına commit'le (betiği yeniden çalıştırmaya gerek yok; `git add`, `git commit`, `git push origin HEAD:kaynak` yeterli). Kayıtta şunlar bulunur:
   - Seçilen 5 haber (başlık ve URL)
   - Kaynak erişim durumu
   - Uyarılar

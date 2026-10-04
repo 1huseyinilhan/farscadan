@@ -1,36 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://farscadan.com/</loc></url>
-  <url><loc>https://farscadan.com/hakkimizda/</loc></url>
-  <url><loc>https://farscadan.com/yayin-ilkeleri/</loc></url>
-  <url><loc>https://farscadan.com/iletisim/</loc></url>
-  <url><loc>https://farscadan.com/gizlilik/</loc></url>
-  <url><loc>https://farscadan.com/kategori/guvenlik/</loc></url>
-  <url><loc>https://farscadan.com/kategori/ekonomi/</loc></url>
-  <url><loc>https://farscadan.com/kategori/diplomasi/</loc></url>
-  <url><loc>https://farscadan.com/kategori/ic-politika/</loc></url>
-  <url><loc>https://farscadan.com/kategori/toplum/</loc></url>
-  <url><loc>https://farscadan.com/kategori/turkiye/</loc></url>
-  <url><loc>https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/</loc><lastmod>2026-10-04</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-hurmuz-tanker/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-necef-ucuslari/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/</loc><lastmod>2026-10-03</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://farscadan.com/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/"/></url>
+  <url><loc>https://farscadan.com/en/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/"/></url>
+  <url><loc>https://farscadan.com/hakkimizda/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/hakkimizda/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/about/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/hakkimizda/"/></url>
+  <url><loc>https://farscadan.com/en/about/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/hakkimizda/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/about/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/hakkimizda/"/></url>
+  <url><loc>https://farscadan.com/yayin-ilkeleri/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/yayin-ilkeleri/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/editorial-standards/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/yayin-ilkeleri/"/></url>
+  <url><loc>https://farscadan.com/en/editorial-standards/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/yayin-ilkeleri/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/editorial-standards/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/yayin-ilkeleri/"/></url>
+  <url><loc>https://farscadan.com/editor/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/editor/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/editor/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/editor/"/></url>
+  <url><loc>https://farscadan.com/en/editor/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/editor/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/editor/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/editor/"/></url>
+  <url><loc>https://farscadan.com/iletisim/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/iletisim/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/contact/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/iletisim/"/></url>
+  <url><loc>https://farscadan.com/en/contact/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/iletisim/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/contact/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/iletisim/"/></url>
+  <url><loc>https://farscadan.com/gizlilik/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/gizlilik/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/privacy/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/gizlilik/"/></url>
+  <url><loc>https://farscadan.com/en/privacy/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/gizlilik/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/privacy/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/gizlilik/"/></url>
+  <url><loc>https://farscadan.com/konular/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/konular/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/topics/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/konular/"/></url>
+  <url><loc>https://farscadan.com/en/topics/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/konular/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/topics/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/konular/"/></url>
+  <url><loc>https://farscadan.com/kategori/guvenlik/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/guvenlik/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/guvenlik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/guvenlik/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/guvenlik/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/guvenlik/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/guvenlik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/guvenlik/"/></url>
+  <url><loc>https://farscadan.com/kategori/ekonomi/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/ekonomi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/ekonomi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/ekonomi/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/ekonomi/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/ekonomi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/ekonomi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/ekonomi/"/></url>
+  <url><loc>https://farscadan.com/kategori/diplomasi/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/diplomasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/diplomasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/diplomasi/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/diplomasi/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/diplomasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/diplomasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/diplomasi/"/></url>
+  <url><loc>https://farscadan.com/kategori/ic-politika/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/ic-politika/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/ic-politika/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/ic-politika/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/ic-politika/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/ic-politika/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/ic-politika/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/ic-politika/"/></url>
+  <url><loc>https://farscadan.com/kategori/toplum/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/toplum/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/toplum/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/toplum/"/></url>
+  <url><loc>https://farscadan.com/kategori/turkiye/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/turkiye/"/></url>
+  <url><loc>https://farscadan.com/en/kategori/turkiye/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/turkiye/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-yemen-aramco-saldirisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-dolar-270-bin-tumen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-hurmuz-tanker/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-hurmuz-tanker/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-hurmuz-tanker/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-hurmuz-tanker/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-dolar-260-bin-tumen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-kalabarg-yeni-model/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-necef-ucuslari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-necef-ucuslari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-necef-ucuslari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-necef-ucuslari/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-avrupa-dizel-stoklari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-sanayi-gaz-kesintisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-manchester-iki-iran-vatandasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-suudi-yemen-babulmendep/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-otomotiv-yaptirimlari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-04-pezeskiyan-savas-ekonomisi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-04-yemen-aramco-saldirisi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-yemen-aramco-saldirisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-04-iran-diplomatlari-sinir-disi/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-04-dolar-270-bin-tumen/</loc><lastmod>2026-10-04</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-04-dolar-270-bin-tumen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-zahedan-rask-catisma-iddialari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-hurmuz-tanker/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-hurmuz-tanker/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-hurmuz-tanker/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-hurmuz-tanker/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-tetik-mekanizmasi-bildiri/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-dolar-260-bin-tumen/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-dolar-260-bin-tumen/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-kalabarg-yeni-model/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-kalabarg-yeni-model/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-kalabarg-yeni-model/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-necef-ucuslari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-necef-ucuslari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-necef-ucuslari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-necef-ucuslari/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-avrupa-dizel-stoklari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-avrupa-dizel-stoklari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-avrupa-dizel-stoklari/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-sanayi-gaz-kesintisi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-sanayi-gaz-kesintisi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-sanayi-gaz-kesintisi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-manchester-iki-iran-vatandasi/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-manchester-iki-iran-vatandasi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-manchester-iki-iran-vatandasi/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-suudi-yemen-babulmendep/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-suudi-yemen-babulmendep/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/"/></url>
+  <url><loc>https://farscadan.com/en/haber/2026-10-03-otomotiv-yaptirimlari/</loc><lastmod>2026-10-03</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-03-otomotiv-yaptirimlari/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/"/></url>
+  <url><loc>https://farscadan.com/konu/abd/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/abd-donanmasi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/abd-kamuoyu/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/altin/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ap-norc-anketi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/aramco/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/axios/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/azerbaycan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/babulmendep/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/benzin/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/bm-genel-kurulu/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/bm-guvenlik-konseyi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/demokrat-parti/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/devrim-mahkemesi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/dey-ayi-protestolari/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/diplomatlar/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/dizel/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/dogalgaz/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/dolar/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/donald-trump/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/doviz/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/elnaz-shakerdoost/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/enerji-guvenligi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/enerji-ihracati/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/enerji-krizi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/enflasyon/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/erdogan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ermeni-soykirimi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/fatemiyun/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/g7/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/havacilik/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/hurmuz/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/hurmuz-bogazi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/husiler/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ifade-ozgurlugu/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ingiltere/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/irak/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-ekonomisi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-hodro/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-ingiltere-iliskileri/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-merkez-bankasi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-savasi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-yargisi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/irgc/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/israil/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/j-d-vance/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kalabarg/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kamp-david/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/katar/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kayhan/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/khabaronline/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kizildeniz/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/lng/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/manchester/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/necef/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/netanyahu/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/nukleer-program/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ofac/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/orta-dogu/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/otomotiv/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/petrol-fiyati/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/petrol-fiyatlari/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/pezeskiyan/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/rask/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/reuters/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/riyal/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/rubio/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/saipa/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/sanayi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/savas-ekonomisi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/sistan-belucistan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/snapback/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/sosyal-yardim/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/subvansiyon/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/suudi-arabistan/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/taiz/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tanker/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/teror/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tetik-mekanizmasi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tumen/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/turkiye/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ukmto/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/uluslararasi-enerji-ajansi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/uss-theodore-roosevelt/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/yaptirimlar/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/yemen/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/yuksek-milli-guvenlik-konseyi/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/zahedan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/ap-norc-poll/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/aramco/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/armenian-genocide/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/automotive/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/aviation/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/axios/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/azerbaijan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/bab-el-mandeb/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/camp-david/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/central-bank-of-iran/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/democratic-party/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/dey-protests/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/diesel/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/diplomats/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/dollar/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/donald-trump/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/elnaz-shakerdoost/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/energy-crisis/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/energy-exports/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/energy-security/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/erdogan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/fatemiyoun/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/foreign-exchange/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/freedom-of-expression/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/g7/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/gasoline/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/gold/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/hormuz/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/houthis/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/industry/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/inflation/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/international-energy-agency/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iran/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iran-khodro/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iran-uk-relations/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iran-war/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iranian-economy/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iranian-judiciary/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/iraq/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/irgc/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/israel/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/j-d-vance/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/kalabarg/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/kayhan/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/khabaronline/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/lng/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/manchester/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/middle-east/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/najaf/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/natural-gas/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/netanyahu/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/nuclear-program/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/ofac/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/oil-price/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/oil-prices/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/pezeshkian/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/qatar/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/rask/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/red-sea/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/reuters/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/revolutionary-court/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/rial/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/rubio/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/saipa/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/sanctions/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/saudi-arabia/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/sistan-baluchestan/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/snapback/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/snapback-mechanism/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/social-assistance/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/strait-of-hormuz/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/subsidies/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/supreme-national-security-council/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/taiz/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/tanker/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/terrorism/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/toman/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/turkey/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/ukmto/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/un-general-assembly/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/un-security-council/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/united-kingdom/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/united-states/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/us-navy/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/us-public-opinion/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/uss-theodore-roosevelt/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/war-economy/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/yemen/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/en/konu/zahedan/</loc><lastmod>2026-10-03</lastmod></url>
 </urlset>

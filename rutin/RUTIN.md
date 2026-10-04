@@ -43,9 +43,8 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - [ ] Her iddia atfedilmiş; çelişkiler "teyit edilmedi" ile işaretli
   - [ ] Görsel özgür lisanslı ve kredili
 
-### 4b. İngilizce sürüm (2026-10-04)
-- Yazılan her Türkçe haberin İngilizcesi `content/en/haberler/<aynı-dosya-adı>.md` dosyasına yazılır. Kurallar `ICERIK_SOZLESMESI.md` dosyasının "İngilizce sürüm" bölümündedir: kategori Türkçe kanonik değer olarak kalır, yönelim etiketleri tablodaki karşılıklarla yazılır.
-- İngilizce metin Türkçe haberin sadık çevirisidir; yeni iddia eklenmez.
+### 4b. İngilizce sürüm: BU ADIMDA YAZILMAZ (2026-10-04 güncellemesi)
+- Ana rutin **yalnızca Türkçe** yazar. İngilizce çeviriyi ana rutin bittikten sonra çalıştırma betiği yapar: hafif model (Haiku), İngilizcesi olmayan bütün haberleri `ICERIK_SOZLESMESI.md` dosyasının "İngilizce sürüm" kurallarına göre çevirir, İngilizce kartları üretir ve yayınlar.
 
 ### 5. Görseller
 - `SEO_YAZIM.md` §7'ye göre her haber için 1 görsel bulunur.
@@ -59,7 +58,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 
 ### 6b. Çerçeve kartı (X görseli)
 - Bugünün haberlerinden **karşılaştırma tablosu olan** birini seç. Türkiye haberi varsa ve tablosu varsa onu tercih et.
-- Kartı iki dilde üret: `python3 rutin/kart_uret.py <slug>` ve `python3 rutin/kart_uret.py <slug> --lang en`. Kartlar `static/x/kart/` klasörüne yazılır.
+- Türkçe kartı üret: `python3 rutin/kart_uret.py <slug>`. Kart `static/x/kart/` klasörüne yazılır. İngilizce kartı, çeviri adımından sonra betik üretir.
 - Kartları yayınlamak için `bash rutin/yayinla.sh "Çerçeve kartı <slug>"` komutunu tekrar çalıştır. Yayınlanan kart adresi: `https://farscadan.com/x/kart/<slug>.png`.
 - Bugün tablolu haber yoksa kart üretme ve bunu rapora yaz.
 

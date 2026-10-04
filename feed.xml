@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 03 Oct 2026 13:30:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:10:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Pezeşkiyan: Hükümet &quot;düşmanın ekonomik savaşına&quot; karşı yeni düzenleme aldı</title>
+    <link>https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-04-pezeskiyan-savas-ekonomisi/</guid>
+    <pubDate>Sun, 04 Oct 2026 09:10:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Cumhurbaşkanı Pezeşkiyan, hükümetin ekonomiyi &quot;savaş koşullarına&quot; göre yeniden düzenlediğini açıkladı; öncelik geçim ve istikrara kaydı. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Husiler Aramco&#x27;yu vurdu, Suudi Arabistan Sana&#x27;ayı bombaladı; Taiz&#x27;de çatışma büyüyor</title>
+    <link>https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-04-yemen-aramco-saldirisi/</guid>
+    <pubDate>Sun, 04 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Husiler Suudi Aramco&#x27;nun Riyad tesislerini füzeyle vurdu, Suudi uçakları Sana&#x27;ayı bombaladı; Taiz&#x27;de çatışmalar sürüyor. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;ü kapatmak İran&#x27;a ne kazandırıyor? Tahran basınında çelişen hesaplar</title>
+    <link>https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</guid>
+    <pubDate>Sun, 04 Oct 2026 08:50:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Tahran gazeteleri Hürmüz Boğazı&#x27;nın kapatılmasının uzun vadede İran&#x27;a fayda mı zarar mı getirdiğini tartışıyor; petrol 103 dolara çıktı. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>ABD, BM&#x27;deki iki İranlı diplomatı çıkış emrine uymadıkları için sınır dışı etti</title>
+    <link>https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-04-iran-diplomatlari-sinir-disi/</guid>
+    <pubDate>Sun, 04 Oct 2026 08:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Axios&#x27;a göre ABD, New York&#x27;tan ayrılma emrini dinlemeyen iki İranlı BM diplomatını sınır dışı etti; gerginlik tırmanıyor. (Kaynak: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Dolar 270 bin tümeni aştı, savcılık dövizcileri gözaltıyla tehdit etti</title>
+    <link>https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-04-dolar-270-bin-tumen/</guid>
+    <pubDate>Sun, 04 Oct 2026 08:30:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Tahran&#x27;da dolar ilk kez 269 bin, euro 302 bin tümeni geçti; savcılık dövizcileri tehdit etti, Merkez Bankası &quot;geçici&quot; dedi. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>Zahedan ve Rask&#x27;ta çatışma: ölü sayısında kaynaklar arasında çelişki</title>
     <link>https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</link>
@@ -141,24 +186,6 @@
     <category>Güvenlik</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İngiliz polisi, Manchester&#x27;da gözaltına alınan iki İranlıyı terör eylemine hazırlıkla suçladı. İran basını iddiaları reddediyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Reuters: Suudi Arabistan, Husilere karşı Babülmendep&#x27;i geri almak için geniş çaplı harekâta hazırlanıyor</title>
-    <link>https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-suudi-yemen-babulmendep/</guid>
-    <pubDate>Sat, 03 Oct 2026 07:10:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Reuters&#x27;a göre Riyad, Husilere karşı haftalar içinde harekât başlatabilir. Ettelaat&#x27;ın başlığındaki Türkiye iddiası metinde yok. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>ABD&#x27;nin İran otomotiv yaptırımlarında İstanbul merkezli bir şirket de var</title>
-    <link>https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-otomotiv-yaptirimlari/</guid>
-    <pubDate>Sat, 03 Oct 2026 07:00:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD, İran Hodro ve Saipa&#x27;yı yaptırım listesine aldı. Listede İstanbul merkezli Troy Trading de var; baskı kara ticaretine uzanıyor. (Kaynak: Donya-ye Eghtesad)</description>
   </item>
 </channel>
 </rss>

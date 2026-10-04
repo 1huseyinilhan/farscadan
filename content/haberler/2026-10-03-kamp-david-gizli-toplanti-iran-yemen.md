@@ -30,4 +30,6 @@ Ilımlı muhafazakâr Khabaronline, haberi Axios'un ayrıntılarını değiştir
 
 ## Bağlam
 
-Tam bir yıl önce, Haziran 2025'te yapılan benzer bir Kamp David toplantısının hemen ardından İsrail, İran'a karşı savaş başlatmıştı; bu nedenle yeni toplantı Washington'da olası bir dönüm noktası olarak okunuyor. Görüşme, ABD'nin bölgeye üçüncü bir uçak gemisi sevk ettiği günlerle aynı zamana denk geldi (bkz. [ABD'nin Orta Doğu'ya asker sevkiyatı](../2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/)). Suudi Arabistan'ın Yemen'deki Husilere karşı planladığı harekât da ayrı bir cephe oluşturuyor ve daha önce Farsçadan'da ele alınmıştı (bkz. [Suudi Arabistan'ın Babülmendep hazırlığı](../2026-10-03-suudi-yemen-babulmendep/)).
+Yaklaşık 16 ay önce, Haziran 2025'te yapılan benzer bir Kamp David toplantısının hemen ardından İsrail, İran'a karşı savaş başlatmıştı; bu nedenle yeni toplantı Washington'da olası bir dönüm noktası olarak okunuyor. Görüşme, ABD'nin bölgeye üçüncü bir uçak gemisi sevk ettiği günlerle aynı zamana denk geldi (bkz. [ABD'nin Orta Doğu'ya asker sevkiyatı](../2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/)). Suudi Arabistan'ın Yemen'deki Husilere karşı planladığı harekât da ayrı bir cephe oluşturuyor ve daha önce Farsçadan'da ele alınmıştı (bkz. [Suudi Arabistan'ın Babülmendep hazırlığı](../2026-10-03-suudi-yemen-babulmendep/)).
+
+*Düzeltme (4 Ekim 2026): Haziran 2025 toplantısı için ilk yayında "tam bir yıl önce" yazıyordu; doğrusu yaklaşık 16 ay öncesidir.*

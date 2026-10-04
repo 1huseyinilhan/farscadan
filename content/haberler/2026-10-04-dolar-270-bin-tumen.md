@@ -16,7 +16,7 @@ gorsel_kredi: Bilinmeyen, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:50_rial_1974-1979.jpg
 yazar: AI Agent
 ---
-Iran International'ın aktardığına göre İran'da serbest piyasada dolar cumartesi günü ilk kez 269 bin tümeni, euro ise 302 bin tümeni geçti. 18 ayarlık altının gramı 26 milyon tümenin üzerine çıktı. Bu, [dün 260 bin tümen eşiğini aşan dolar kurunun](../2026-10-03-dolar-260-bin-tumen/) bir hafta içindeki yeni bir sıçraması.
+Iran International'ın aktardığına göre İran'da serbest piyasada dolar cumartesi günü ilk kez 269 bin tümeni, euro ise 302 bin tümeni geçti. 18 ayarlık altının gramı 26 milyon tümenin üzerine çıktı. Bu, [dün 260 bin tümen eşiğine dayanan dolar kurunun](../2026-10-03-dolar-260-bin-tumen/) bir hafta içindeki yeni bir sıçraması.
 
 Donya-ye Eghtesad'a göre haftanın ilk işlem gününde dolar, geçen haftanın son kuruna göre %3,7 artışla 267 bin 700 tümene çıktı ve 260 bin tümen kanalının üzerine yerleşti. Çeyrek altın sikke günlük %5,2 artışla en sert yükselen kalem oldu. Ettelaat'a göre ise dolar aynı gün 9 bin tümenlik bir sıçramayla 265 bin tümen bandında işlem gördü.
 
@@ -35,3 +35,5 @@ Muhalif, yurt dışı merkezli Iran International, rekor kur seviyelerini sade b
 İran'da 1 tümen 10 riyale eşittir ve günlük hayatta fiyatlar tümenle ifade edilir. Ülkede resmî ve yarı resmî kurlarla serbest piyasa kuru arasında uzun süredir büyük bir fark var; kamuoyunun takip ettiği gösterge serbest piyasa kuru. Kurdaki hızlı yükseliş, savaş koşullarında daralan döviz girişi, ithalat gecikmeleri ve belirsizlikle ilişkilendiriliyor; hükümetin bu baskıyı yönetmek için aldığı tedbirler [ayrı bir haberde](../2026-10-04-pezeskiyan-savas-ekonomisi/) ele alınıyor.
 
 *Bu haber bilgilendirme amaçlıdır; yatırım tavsiyesi değildir.*
+
+*Düzeltme (4 Ekim 2026): İlk yayında dolar için "dün 260 bin tümeni aştı" yazıyordu; önceki günün verilerine göre kur bu eşiğe dayanmıştı.*

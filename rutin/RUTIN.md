@@ -43,6 +43,10 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - [ ] Her iddia atfedilmiş; çelişkiler "teyit edilmedi" ile işaretli
   - [ ] Görsel özgür lisanslı ve kredili
 
+### 4b. İngilizce sürüm (2026-10-04)
+- Yazılan her Türkçe haberin İngilizcesi `content/en/haberler/<aynı-dosya-adı>.md` dosyasına yazılır. Kurallar `ICERIK_SOZLESMESI.md` dosyasının "İngilizce sürüm" bölümündedir: kategori Türkçe kanonik değer olarak kalır, yönelim etiketleri tablodaki karşılıklarla yazılır.
+- İngilizce metin Türkçe haberin sadık çevirisidir; yeni iddia eklenmez.
+
 ### 5. Görseller
 - `SEO_YAZIM.md` §7'ye göre her haber için 1 görsel bulunur.
 - Wikimedia isteklerinin arasında ≥ 8 saniye beklenir.
@@ -52,6 +56,12 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - Betik sırasıyla şunları yapar: kaynak dalını commit'leyip gönderir, `build.py` ile derler, `check_links.py` ile kontrol eder, `public/` çıktısını `main` dalına gönderir. GitHub Pages siteyi 1–2 dakikada günceller.
 - `build.py` uyarı verirse (eksik alan, geçersiz kategori, özet > 160 karakter) dosyayı düzelt ve betiği yeniden çalıştır.
 - `check_links.py` hata verirse **yayınlama.** Hatayı düzeltmeyi bir kez dene, olmazsa rapora yaz.
+
+### 6b. Çerçeve kartı (X görseli)
+- Bugünün haberlerinden **karşılaştırma tablosu olan** birini seç. Türkiye haberi varsa ve tablosu varsa onu tercih et.
+- Kartı iki dilde üret: `python3 rutin/kart_uret.py <slug>` ve `python3 rutin/kart_uret.py <slug> --lang en`. Kartlar `static/x/kart/` klasörüne yazılır.
+- Kartları yayınlamak için `bash rutin/yayinla.sh "Çerçeve kartı <slug>"` komutunu tekrar çalıştır. Yayınlanan kart adresi: `https://farscadan.com/x/kart/<slug>.png`.
+- Bugün tablolu haber yoksa kart üretme ve bunu rapora yaz.
 
 ### 7. Canlı kontrol
 - GitHub Pages dağıtımı genelde 1–2 dakika sürer, ama 8 dakikaya kadar uzayabilir (03.10'da görüldü). 404 alınırsa 30 saniyede bir yeniden dene, en fazla **10 dakika** bekle. Ancak bu sürenin sonunda hâlâ 404 alınıyorsa "başarısız" yaz.
@@ -68,7 +78,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - Rapor kişisel veri içermez. Bu depo herkese açıktır.
 
 ### 8b. X (@farscadancom) paylaşım taslakları
-- Yayından sonra `rutin/kayit/x-YYYY-MM-DD.md` dosyasına bugünün 5 haberi için **paylaşıma hazır 5 gönderi** yaz. Kurallar:
+- Yayından sonra `rutin/kayit/x-YYYY-MM-DD.md` dosyasına bugünün 5 haberi için **paylaşıma hazır 5 gönderi** yaz. Kartlı haberin gönderisinde "Görsel: https://farscadan.com/x/kart/<slug>.png" satırı da bulunur. Kurallar:
   - Her gönderi ≤ 270 karakter: haberin en çarpıcı olgusu (kaynağa atıfla, ör. "Kayhan'a göre…") + haber bağlantısı (`https://farscadan.com/haber/<slug>/`).
   - En fazla 2 hashtag (ör. #İran, #Hürmüz). Görüş, emoji yığını ve clickbait yok.
   - Türkiye kategorisindeki haber varsa onun gönderisi ilk sıraya konur.

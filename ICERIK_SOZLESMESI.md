@@ -56,3 +56,38 @@ Gövde (Markdown alt kümesi)...
 2. **`## Farsça basında nasıl verildi`:** Aynı olayı işleyen diğer kaynakların başlıkları ve çerçeve farkı. Yalnızca birden fazla kaynak olayı işlediyse eklenir.
 3. **`## Bağlam`:** Okurun haberi anlaması için gereken arka plan. Özgün metindir, görüş içermez. 80–200 kelime.
 4. Kapanış satırı, şablon tarafından otomatik basılır: "Bu haber Farsça kaynaktan yapay zekâ desteğiyle çevrilmiştir. Haberin sorumluluğu ilgili yayın organına aittir."
+
+## İngilizce sürüm (2026-10-04)
+- **Dosya yolu:** `content/en/haberler/<aynı-dosya-adı>.md`. Dosya adı ve slug Türkçe haberle **birebir aynıdır**, böylece iki dil eşleşir. İngilizce sayfa `en/haber/<slug>/` adresinde yayınlanır.
+- **Front matter:** Alanlar Türkçe sürümle aynıdır. Aşağıdakilerin dışındakiler Türkçe dosyadan aynen kopyalanır (`tarih`, `kaynak_url`, `kaynak_baslik_fa`, `gorsel`, `gorsel_kredi_url`):
+  - `baslik`, `seo_baslik` (≤ 60 karakter), `ozet` (≤ 160 karakter): İngilizce.
+  - `kategori`: **Türkçe kanonik değer kalır** (Güvenlik, Ekonomi, Diplomasi, İç Politika, Toplum, Türkiye). Build bunu İngilizce adla gösterir.
+  - `etiketler`: İngilizce.
+  - `kaynak_adi`: Aynı kalır (yayın organının adı).
+  - `kaynak_yonelim`: İngilizce. Karşılıklar:
+    - Devlet ajansı → State news agency
+    - Yarı resmî → Semi-official
+    - Sertlik yanlısı → Hardline
+    - Ilımlı-gelenekçi → Moderate-traditionalist
+    - Ekonomi, teknokrat → Economic daily, technocratic
+    - Tahran Belediyesi, ilkeci → Tehran municipality, principlist
+    - Ilımlı muhafazakâr → Moderate conservative
+    - Muhalif, yurt dışı → Opposition, diaspora
+    - Reformcu → Reformist
+    - Devrim Muhafızları'na yakın → IRGC-affiliated
+    - Köklü gazete (ılımlı-gelenekçi) → Established daily (moderate-traditionalist)
+    - Sertlik yanlısı (Rehberlik çizgisi) → Hardline (Supreme Leader's line)
+    - Ilımlı muhafazakâr (Laricani çevresi) → Moderate conservative (Larijani circle)
+    - Muhalefet (NCRI) → Opposition, anti-government
+    - İngilizce, birincil kaynak → English, primary source
+- **Düzeltme notu biçimi:** Gövdenin sonuna italik bir satır eklenir. TR: `*Düzeltme (G Ay YYYY): …*`. EN: `*Correction (Month D, YYYY): …*`. Düzeltme her iki dilde de yapılır.
+  - `ek_kaynaklar`: Aynı yapıda; yalnızca parantez içindeki yönelim etiketleri İngilizce.
+  - `gorsel_alt`: İngilizce.
+  - `gorsel_kredi`: İngilizce ("Kamu malı" → "Public domain").
+  - `yazar`: `AI Agent`.
+- **Gövde başlıkları:** `## How the Persian press covered it` ve `## Context`.
+- **Tablolar:** Sütun başlıkları `| Source (orientation) | Headline / framing |`.
+- **Uyarı satırları:** "*For information only; not investment advice.*" ve "The presumption of innocence applies."
+- **İç bağlantılar:** `../<slug>/` biçiminde (İngilizce haberler arası).
+- **Dil:** Doğal, haber dili, İngiliz İngilizcesi değil Amerikan İngilizcesi. Farsça özel adlar yaygın İngilizce yazımıyla yazılır: Kayhan, Etemad, Pezeshkian, Araghchi, Zahedan, IRGC, Fatemiyoun.
+- **Doğruluk:** İngilizce metin Türkçe haberin sadık çevirisidir. Yeni iddia eklenmez, mevcut iddia çıkarılmaz.

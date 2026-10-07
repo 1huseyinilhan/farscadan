@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Explosions in Riyadh, fire at Aramco facility; Yemen reports missile strike on Aden</title>
+    <link>https://farscadan.com/en/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Riyadh experienced successive explosion sounds, a fire broke out at Aramco&#x27;s Rabigh facility; Yemen reported missile strike on Aden Airport. (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Turkey deploys additional troops and air defense systems to Saudi Arabia amid Houthi attacks</title>
+    <link>https://farscadan.com/en/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Middle East Eye, Turkey will send additional military personnel, technicians, and air defense systems to protect Saudi Arabia&#x27;s oil pipeline. (Source: Ettelaat (via Tasnim))</description>
+  </item>
+  <item>
+    <title>Vance: Iran must reduce uranium enrichment capacity for war to end</title>
+    <link>https://farscadan.com/en/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>U.S. Vice President Vance told Reuters that for the war to end, Iran must reduce its uranium enrichment capacity. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>London espionage case: 3 Iranians accused of surveilling Iran International journalists</title>
+    <link>https://farscadan.com/en/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>British prosecutors charge 3 Iranians under the National Security Act with surveilling and planning violence against Iran International journalists. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Iran International: At least 70 political prisoners executed since Dey month protests</title>
+    <link>https://farscadan.com/en/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Domestic Politics</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Iran International data from human rights groups, at least 70 political prisoners were executed since January 2026 protests; 194 await execution. (Source: Iran International)</description>
+  </item>
   <item>
     <title>Houthis announced strike on Riyadh and Jeddah; Saudi coalition calls claim &#x27;misleading&#x27;</title>
     <link>https://farscadan.com/en/haber/2026-10-05-yemen-riyad-cidde-saldirisi/</link>
@@ -71,13 +116,13 @@
     <description>The Houthis hit Saudi Aramco facilities in Riyadh with missiles, Saudi jets bombed Sanaa, and fighting continues in Taiz. (Source: IRNA)</description>
   </item>
   <item>
-    <title>Closing the Strait of Hormuz: What does it gain Iran? Conflicting calculations in Tehran press</title>
+    <title>Does closing the Strait of Hormuz benefit Iran? Contradictory calculations in Tehran press</title>
     <link>https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</link>
     <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</guid>
     <pubDate>Sun, 04 Oct 2026 08:50:00 +0300</pubDate>
     <category>Security</category>
     <dc:creator>AI Agent</dc:creator>
-    <description>Tehran newspapers debate whether closing the Strait of Hormuz benefits or harms Iran long-term; oil reached $103. (Source: Khabaronline)</description>
+    <description>Tehran newspapers debate whether long-term closure of the Strait of Hormuz benefits or harms Iran; oil rises to $103. (Source: Khabaronline)</description>
   </item>
   <item>
     <title>US expels two Iranian UN diplomats for defying order to leave</title>
@@ -141,51 +186,6 @@
     <category>Turkey</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Israel&#x27;s cabinet backed recognizing the Armenian genocide; Azerbaijan&#x27;s mediation stalled it in the Knesset. Erdogan and Netanyahu clashed at the UN. (Source: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>US poll: 70% of adults say the Iran war &quot;wasn&#x27;t worth it&quot;</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:50:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>An AP-NORC poll finds 69% of Americans don&#x27;t think the Iran war is worth it; Democrats want the war budget cut. (Source: Ettelaat (via Al Jazeera and AP-NORC))</description>
-  </item>
-  <item>
-    <title>Appeals court upholds prison sentence for actress Elnaz Shakerdoost</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:40:00 +0300</pubDate>
-    <category>Domestic Politics</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>An appeals court upheld Iranian actress Elnaz Shakerdoost&#x27;s 1-year prison sentence over a post about the Dey protests. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Tanker hit off Oman: Persian press reports differ on the scale of the attack</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-hurmuz-tanker/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-hurmuz-tanker/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO said a tanker was hit by an unknown projectile 4 miles east of Oman. Kayhan wrote that three UAE tankers had been targeted. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>On &quot;snapback&quot; anniversary, US and 55 countries issue joint statement; Tehran calls it &quot;legally void&quot;</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-tetik-mekanizmasi-bildiri/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-tetik-mekanizmasi-bildiri/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:20:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>On the anniversary of the return of UN sanctions, the US and its allies pledged to enforce arms and technology restrictions on Iran. (Source: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Dollar nears 260,000 tomans; Central Bank of Iran says it will &quot;intervene where necessary&quot;</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-dolar-260-bin-tumen/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-dolar-260-bin-tumen/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:10:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>The dollar rose more than 10% in a week in Tehran. The central bank began selling cash FX and the judiciary seized online price pages. (Source: Ettelaat)</description>
   </item>
 </channel>
 </rss>

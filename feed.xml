@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Riyad&#x27;da patlama sesleri, Aramco tesisinde yangın; Yemen&#x27;den Aden&#x27;e füze iddiası</title>
+    <link>https://farscadan.com/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Riyad&#x27;da art arda patlama sesleri duyuldu, Aramco&#x27;nun Rabığ tesisinde yangın çıktı; Yemen&#x27;de Aden Havalimanı füzeyle vuruldu. (Kaynak: ISNA)</description>
+  </item>
+  <item>
+    <title>Türkiye, Husi saldırıları sürerken Suudi Arabistan&#x27;a ek asker ve hava savunma sistemi gönderiyor</title>
+    <link>https://farscadan.com/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Middle East Eye&#x27;a göre Türkiye, Suudi Arabistan&#x27;daki petrol boru hattını korumak için ek asker, teknisyen ve hava savunma sistemi gönderecek. (Kaynak: Ettelaat (Tasnim&#x27;den aktarma))</description>
+  </item>
+  <item>
+    <title>Vance: Savaşın bitmesi için İran zenginleştirme kapasitesini azaltmalı</title>
+    <link>https://farscadan.com/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD Başkan Yardımcısı Vance, Reuters&#x27;a savaşın bitmesi için İran&#x27;ın uranyum zenginleştirme kapasitesini azaltması gerektiğini söyledi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Londra&#x27;da casusluk davası: 3 İranlı, İran Internationali gazetecilerini gözetlemekle suçlanıyor</title>
+    <link>https://farscadan.com/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İngiliz savcılar 3 İranlıyı, İran Internationali gazetecilerini gözetleyip şiddet planladıkları gerekçesiyle Ulusal Güvenlik Yasası kapsamında suçluyor. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>İran International: Dey ayı protestolarından bu yana en az 70 siyasi mahkum idam edildi</title>
+    <link>https://farscadan.com/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:00:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran International&#x27;ın derlediği verilere göre Dey ayı protestolarından bu yana en az 70 siyasi mahkum idam edildi, 194 kişi infaz kararı bekliyor. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>Husiler Riyad ve Cidde&#x27;yi vurduğunu açıkladı, Suudi koalisyonu iddiayı &#x27;yanıltıcı&#x27; buldu</title>
     <link>https://farscadan.com/haber/2026-10-05-yemen-riyad-cidde-saldirisi/</link>
@@ -141,51 +186,6 @@
     <category>Türkiye</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İsrail kabinesi Ermeni soykırımını tanıma teklifini onayladı, Azerbaycan arabuluculuğuyla Meclis&#x27;te askıya alındı; BM&#x27;de Erdoğan-Netanyahu atıştı. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>ABD&#x27;de anket: Yetişkinlerin %70&#x27;i İran savaşını &quot;değmedi&quot; diyor</title>
-    <link>https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-abd-kamuoyu-iran-savasi-anketi/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:50:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>AP-NORC anketine göre Amerikalıların %69&#x27;u İran savaşını değerli bulmuyor; Demokratlar savaş bütçesinin kesilmesini istiyor. (Kaynak: Ettelaat (Al Jazeera ve AP-NORC&#x27;tan aktarma))</description>
-  </item>
-  <item>
-    <title>Oyuncu Elnaz Shakerdoost&#x27;a hapis cezası istinafta onandı</title>
-    <link>https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-elnaz-shakerdoost-hapis-cezasi/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:40:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İranlı oyuncu Elnaz Shakerdoost&#x27;un, Dey ayı protestolarıyla ilgili bir paylaşım nedeniyle aldığı 1 yıl hapis cezası istinafta onandı. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Umman açıklarında tanker vuruldu: Farsça basında saldırının boyutu farklı aktarılıyor</title>
-    <link>https://farscadan.com/haber/2026-10-03-hurmuz-tanker/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-hurmuz-tanker/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO, Umman&#x27;ın 4 mil doğusunda bir tankerin kimliği belirsiz bir mermiyle vurulduğunu bildirdi. Kayhan ise üç BAE tankerinin hedef alındığını yazdı. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>&quot;Tetik mekanizması&quot;nın 1. yılında ABD ve 55 ülkeden ortak bildiri; Tahran &quot;hukuken geçersiz&quot; diyor</title>
-    <link>https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-tetik-mekanizmasi-bildiri/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>BM yaptırımlarının geri dönüşünün yıl dönümünde ABD ve müttefikleri İran&#x27;a yönelik silah ve teknoloji kısıtlamalarını uygulama sözü verdi. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Dolar 260 bin tümene dayandı; İran Merkez Bankası &quot;gerektiği yerde müdahale ederiz&quot; dedi</title>
-    <link>https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-dolar-260-bin-tumen/</guid>
-    <pubDate>Sat, 03 Oct 2026 08:10:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Tahran&#x27;da dolar bir haftada %10&#x27;dan fazla yükseldi. Merkez Bankası nakit döviz arzı başlattı, yargı sanal fiyat sayfalarına el koydu. (Kaynak: Ettelaat)</description>
   </item>
 </channel>
 </rss>

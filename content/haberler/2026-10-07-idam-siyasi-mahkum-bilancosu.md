@@ -25,7 +25,7 @@ Habere göre şu anda idam kararı altında bulunan 194 kişiden 113'ü Dey ayı
 
 ## Bağlam
 
-Ocak 2026'da (Dey 1404) başlayan protesto dalgası, ekonomik sıkıntılar ve siyasi taleplerle tetiklenmiş, güvenlik güçlerinin sert müdahalesiyle karşılaşmıştı. İran'da idam cezası; casusluk, uyuşturucu, cinayet ve "Allah'a karşı savaşma" gibi suçlamalar için sıklıkla uygulanıyor. İnsan hakları örgütleri, protestolarla bağlantılı infazların muhalefeti caydırma amacı taşıdığını öne sürerken, İran makamları idam kararlarının bağımsız yargı süreçleri sonucunda verildiğini belirtiyor.
+Ocak 2026'da (Dey 1404) başlayan protesto dalgası, ekonomik sıkıntılar ve siyasi taleplerle tetiklenmiş, güvenlik güçlerinin sert müdahalesiyle karşılaşmıştı. İran'da idam cezası; casusluk, uyuşturucu, cinayet ve "Allah'a karşı savaşma" gibi suçlamalar için sıklıkla uygulanıyor. İnsan hakları örgütleri, protestolarla bağlantılı infazların muhalefeti caydırma amacı taşıdığını öne sürerken, İran makamları idam kararlarının bağımsız yargı süreçleri sonucunda verildiğini belirtiyor. Aynı protesto dalgasının ardından kamuoyunca tanınan isimler de daha hafif cezalara çarptırıldı; örnek olarak oyuncu Elnaz Shakerdoost'un [sosyal medya paylaşımı nedeniyle aldığı hapis cezası](../2026-10-03-elnaz-shakerdoost-hapis-cezasi/) istinafta onanmıştı.
 
 Bu rakamlar, Iran International'ın insan hakları kuruluşlarından derlediği verilere dayanıyor ve resmî İran kaynaklarından bağımsız bir doğrulama bulunmuyor; kaynağın kendisi de bu sayıların yalnızca doğrulanabilen vakaları kapsadığını ve gerçek toplamın daha yüksek olabileceğini belirtiyor.
 

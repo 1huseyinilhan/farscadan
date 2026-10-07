@@ -25,7 +25,7 @@ According to the report, of the 194 people currently under execution orders, 113
 
 ## Context
 
-The wave of protests that began in January 2026 (Dey 1404) was triggered by economic hardship and political demands, and met with harsh security force crackdowns. In Iran, execution is frequently applied for charges including espionage, drugs, murder, and "waging war against God." While human rights organizations contend that executions linked to protests aim to deter dissent, Iranian authorities maintain that execution decisions result from independent judicial proceedings.
+The wave of protests that began in January 2026 (Dey 1404) was triggered by economic hardship and political demands, and met with harsh security force crackdowns. In Iran, execution is frequently applied for charges including espionage, drugs, murder, and "waging war against God." While human rights organizations contend that executions linked to protests aim to deter dissent, Iranian authorities maintain that execution decisions result from independent judicial proceedings. The same wave of protests also led to lighter sentences for well-known public figures; for example, actress Elnaz Shakerdoost's [prison sentence over a social media post](../2026-10-03-elnaz-shakerdoost-hapis-cezasi/) was upheld on appeal.
 
 These figures are based on Iran International's compilation from human rights organizations and lack independent verification from official Iranian sources; the source itself notes that these figures cover only verifiable cases and that the actual total may be higher.
 

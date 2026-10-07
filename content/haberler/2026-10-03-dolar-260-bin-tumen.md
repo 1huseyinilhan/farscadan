@@ -1,5 +1,6 @@
 ---
 baslik: Dolar 260 bin tümene dayandı; İran Merkez Bankası "gerektiği yerde müdahale ederiz" dedi
+seo_baslik: Dolar 260 bin tümene yaklaştı; Merkez Bankası uyardı
 ozet: Tahran'da dolar bir haftada %10'dan fazla yükseldi. Merkez Bankası nakit döviz arzı başlattı, yargı sanal fiyat sayfalarına el koydu.
 tarih: 2026-10-03T08:10:00+03:00
 kategori: Ekonomi

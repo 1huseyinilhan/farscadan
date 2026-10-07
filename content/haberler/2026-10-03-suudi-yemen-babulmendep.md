@@ -1,5 +1,6 @@
 ---
 baslik: Reuters: Suudi Arabistan, Husilere karşı Babülmendep'i geri almak için geniş çaplı harekâta hazırlanıyor
+seo_baslik: Reuters: Suudiler Babülmendep'i geri almayı planlıyor
 ozet: Reuters'a göre Riyad, Husilere karşı haftalar içinde harekât başlatabilir. Ettelaat'ın başlığındaki Türkiye iddiası metinde yok.
 tarih: 2026-10-03T07:10:00+03:00
 kategori: Güvenlik

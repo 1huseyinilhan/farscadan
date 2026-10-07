@@ -1,5 +1,6 @@
 ---
 baslik: Umman açıklarında tanker vuruldu: Farsça basında saldırının boyutu farklı aktarılıyor
+seo_baslik: Umman açığında tankere saldırı; kaynaklar çelişiyor
 ozet: UKMTO, Umman'ın 4 mil doğusunda bir tankerin kimliği belirsiz bir mermiyle vurulduğunu bildirdi. Kayhan ise üç BAE tankerinin hedef alındığını yazdı.
 tarih: 2026-10-03T08:30:00+03:00
 kategori: Güvenlik

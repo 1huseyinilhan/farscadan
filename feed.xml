@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 20:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Pakistan ordusu Suudi Arabistan&#x27;daki konuşlanmayı doğruladı: Türkiye&#x27;yle üçlü savunma bağı</title>
+    <link>https://farscadan.com/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</guid>
+    <pubDate>Thu, 08 Oct 2026 20:00:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Pakistan ordu sözcüsü, CNN&#x27;e Suudi Arabistan&#x27;daki asker varlığını doğruladı ve Mekke Savunma Paktı&#x27;nda Türkiye&#x27;yle üçlü bağa işaret etti. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Husiler: Suudi Arabistan&#x27;ın Türk yapımı Akıncı İHA&#x27;sı Taiz&#x27;de düşürüldü</title>
+    <link>https://farscadan.com/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:50:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Yemen&#x27;deki Husi ordusu sözcüsü, Suudi Arabistan&#x27;a ait Türk yapımı Bayraktar Akıncı İHA&#x27;sının Taiz semalarında düşürüldüğünü açıkladı. (Kaynak: ISNA)</description>
+  </item>
+  <item>
+    <title>Atlantic: Beyaz Saray, ara seçimden önce İran&#x27;a saldırı seçeneklerini hazır istiyor</title>
+    <link>https://farscadan.com/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Atlantic dergisi, Beyaz Saray&#x27;ın 3 Kasım ara seçiminden önce uygulanabilecek İran saldırı seçenekleri hazırlanmasını Pentagon&#x27;dan istediğini yazdı. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>İran, savaşı bitirme şartlarını açıkladı; Umman&#x27;la Hürmüz&#x27;de güvenli geçiş anlaşması</title>
+    <link>https://farscadan.com/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:30:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Dışişleri sözcüsü Bakayi, İran&#x27;ın savaşı bitirme şartlarını açıkladığını ve Umman&#x27;la Hürmüz&#x27;de güvenli geçiş koridorunda anlaşıldığını bildirdi. (Kaynak: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Parsiyan Bankası, ABD yaptırımına rağmen sarrafıyla milyonlarca dolar taşımış</title>
+    <link>https://farscadan.com/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Sızdırılan belgelere dayanan araştırmaya göre Parsiyan Bankası, ABD yaptırımına karşın Parsiyan Sarrafı&#x27;yla yurt dışına milyonlarca dolar transfer etti. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>Riyad&#x27;da patlama sesleri, Aramco tesisinde yangın; Yemen&#x27;den Aden&#x27;e füze iddiası</title>
     <link>https://farscadan.com/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Tahran&#x27;da dolar ilk kez 269 bin, euro 302 bin tümeni geçti; savcılık dövizcileri tehdit etti, Merkez Bankası &quot;geçici&quot; dedi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Zahedan ve Rask&#x27;ta çatışma: ölü sayısında kaynaklar arasında çelişki</title>
-    <link>https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-zahedan-rask-catisma-iddialari/</guid>
-    <pubDate>Sat, 03 Oct 2026 13:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Sistan-Beluçistan&#x27;da 1-2 Ekim&#x27;de yaşanan çatışmalarda ölü sayısı kaynağa göre değişiyor; IRGC ve muhalif kaynaklar farklı rakamlar aktardı. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>Hürmüz&#x27;den LNG sevkiyatı savaş başından bu yana en yüksek seviyeye çıktı</title>
-    <link>https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</guid>
-    <pubDate>Sat, 03 Oct 2026 13:20:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Reuters&#x27;a göre Hürmüz&#x27;den eylülde geçen LNG sevkiyatı, şubattaki savaşın başından bu yana en yüksek aylık düzeye ulaştı. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>ABD, 23 yılın en büyük yığınağıyla üçüncü uçak gemisini Orta Doğu&#x27;ya gönderdi</title>
-    <link>https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>USS Theodore Roosevelt Orta Doğu&#x27;ya hareket etti; bölgedeki ABD askeri varlığı 60 bini aşabilir. Bu, 2003&#x27;ten beri en büyük yığınak. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Trump&#x27;ın güvenlik ekibi Kamp David&#x27;de gizlice İran ve Yemen&#x27;i görüştü</title>
-    <link>https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Axios&#x27;a göre Vance başkanlığındaki toplantıda Rubio, Hegseth, Witkoff, Ratcliffe ve Caine İran savaşının sonraki adımlarını ele aldı. (Kaynak: Khabaronline (Axios&#x27;tan aktarma))</description>
-  </item>
-  <item>
-    <title>İsrail&#x27;in Türkiye&#x27;ye karşı &quot;Demokles kılıcı&quot;: Ermeni soykırımı tartışması</title>
-    <link>https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İsrail kabinesi Ermeni soykırımını tanıma teklifini onayladı, Azerbaycan arabuluculuğuyla Meclis&#x27;te askıya alındı; BM&#x27;de Erdoğan-Netanyahu atıştı. (Kaynak: Donya-ye Eghtesad)</description>
   </item>
 </channel>
 </rss>

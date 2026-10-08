@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 20:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Pakistan military confirms deployment in Saudi Arabia: Three-way defense tie with Turkey</title>
+    <link>https://farscadan.com/en/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</guid>
+    <pubDate>Thu, 08 Oct 2026 20:00:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Pakistani military spokesman confirmed troops in Saudi Arabia to CNN, pointing to trilateral defense bond with Turkey in Mecca Defense Pact. (Source: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Houthis: Saudi Bayraktar Akinci UAV downed in Taiz airspace</title>
+    <link>https://farscadan.com/en/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:50:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Yemen&#x27;s Houthi military spokesman announced the downing of a Turkish-made Bayraktar Akinci UAV belonging to Saudi Arabia over Taiz. (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Atlantic: White House wants Iran strike options ready before November 3 election</title>
+    <link>https://farscadan.com/en/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Atlantic magazine reports White House requested Pentagon prepare Iran strike options implementable before November 3 midterm election. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Iran lays out terms to end war; agrees with Oman on Hormuz safe passage corridor</title>
+    <link>https://farscadan.com/en/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:30:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Foreign ministry spokesman Bakaei announced Iran&#x27;s conditions for ending war and said agreement reached with Oman on safe passage corridor in Hormuz. (Source: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Parsian Bank moved millions in dollars with affiliate despite U.S. sanctions</title>
+    <link>https://farscadan.com/en/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</guid>
+    <pubDate>Thu, 08 Oct 2026 19:20:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Investigation based on leaked documents shows Parsian Bank transferred millions abroad via Parsian Exchange despite U.S. sanctions. (Source: Iran International)</description>
+  </item>
   <item>
     <title>Explosions in Riyadh, fire at Aramco facility; Yemen reports missile strike on Aden</title>
     <link>https://farscadan.com/en/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</link>
@@ -116,13 +161,13 @@
     <description>The Houthis hit Saudi Aramco facilities in Riyadh with missiles, Saudi jets bombed Sanaa, and fighting continues in Taiz. (Source: IRNA)</description>
   </item>
   <item>
-    <title>Does closing the Strait of Hormuz benefit Iran? Contradictory calculations in Tehran press</title>
+    <title>Closing Hormuz: What does it gain Iran? Conflicting calculations in Tehran press</title>
     <link>https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</link>
     <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-04-hurmuz-bogazi-kapatma-tartismasi/</guid>
     <pubDate>Sun, 04 Oct 2026 08:50:00 +0300</pubDate>
     <category>Security</category>
     <dc:creator>AI Agent</dc:creator>
-    <description>Tehran newspapers debate whether long-term closure of the Strait of Hormuz benefits or harms Iran; oil rises to $103. (Source: Khabaronline)</description>
+    <description>Tehran newspapers debate whether closing Hormuz Strait helps or harms Iran long-term; oil rose to $103. (Source: Khabaronline)</description>
   </item>
   <item>
     <title>US expels two Iranian UN diplomats for defying order to leave</title>
@@ -141,51 +186,6 @@
     <category>Economy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>In Tehran the dollar passed 269,000 and the euro 302,000 tomans for the first time; prosecutors threatened dealers, and the central bank said &quot;temporary.&quot; (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Clashes in Zahedan and Rask: Sources contradict each other on the death toll</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-zahedan-rask-catisma-iddialari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-zahedan-rask-catisma-iddialari/</guid>
-    <pubDate>Sat, 03 Oct 2026 13:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>The death toll from Oct. 1-2 clashes in Sistan-Baluchestan varies by source; the IRGC and opposition outlets reported different figures. (Source: Kayhan)</description>
-  </item>
-  <item>
-    <title>LNG shipments through Hormuz hit highest level since the war began</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-hurmuz-lng-sevkiyati-rekor/</guid>
-    <pubDate>Sat, 03 Oct 2026 13:20:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>LNG shipments through Hormuz in September reached their highest monthly level since the war began in February, Reuters reports. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>US sends third aircraft carrier to Middle East in biggest buildup in 23 years</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>The USS Theodore Roosevelt has left for the Middle East; US forces in the region could top 60,000, the largest buildup since 2003. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Trump&#x27;s security team secretly discussed Iran and Yemen at Camp David</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-kamp-david-gizli-toplanti-iran-yemen/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Per Axios, Rubio, Hegseth, Witkoff, Ratcliffe and Caine discussed next steps in the Iran war at a meeting chaired by Vance. (Source: Khabaronline (via Axios))</description>
-  </item>
-  <item>
-    <title>Israel&#x27;s &quot;sword of Damocles&quot; over Turkey: The Armenian genocide debate</title>
-    <link>https://farscadan.com/en/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi/</guid>
-    <pubDate>Sat, 03 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Israel&#x27;s cabinet backed recognizing the Armenian genocide; Azerbaijan&#x27;s mediation stalled it in the Knesset. Erdogan and Netanyahu clashed at the UN. (Source: Donya-ye Eghtesad)</description>
   </item>
 </channel>
 </rss>

@@ -1,5 +1,6 @@
 ---
 baslik: "Tetik mekanizması"nın 1. yılında ABD ve 55 ülkeden ortak bildiri; Tahran "hukuken geçersiz" diyor
+seo_baslik: Tetik mekanizması 1 yaşında: ABD-55 ülke bildirisi
 ozet: BM yaptırımlarının geri dönüşünün yıl dönümünde ABD ve müttefikleri İran'a yönelik silah ve teknoloji kısıtlamalarını uygulama sözü verdi.
 tarih: 2026-10-03T08:20:00+03:00
 kategori: Diplomasi

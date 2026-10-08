@@ -1,5 +1,6 @@
 ---
 baslik: İran'da gıda kuponunda yeni dönem: hak sahipleri üç gelir grubuna ayrılıyor
+seo_baslik: Gıda kuponunda yeni dönem: 3 gelir grubu
 ozet: Bakan Meydari, gıda kuponu kalabarg için yeni modeli açıkladı: üç gelir grubu, desteklenen kesimlere 7 Ekim'den itibaren %50 artış.
 tarih: 2026-10-03T08:00:00+03:00
 kategori: Toplum

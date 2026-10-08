@@ -1,5 +1,6 @@
 ---
 baslik: İngiltere'de iki İran vatandaşına terör suçlaması: Manchester'da Yahudi toplumuna saldırı hazırlığı iddiası
+seo_baslik: Manchester'da 2 İranlıya terör suçlaması
 ozet: İngiliz polisi, Manchester'da gözaltına alınan iki İranlıyı terör eylemine hazırlıkla suçladı. İran basını iddiaları reddediyor.
 tarih: 2026-10-03T07:20:00+03:00
 kategori: Güvenlik

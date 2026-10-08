@@ -1,5 +1,6 @@
 ---
 baslik: İran'da kış alarmı: Meclis "sanayide gaz kesintisi yıl sonuna kadar sürecek" dedi
+seo_baslik: Sanayide gaz kesintisi yıl sonuna kadar sürecek
 ozet: Meclis Enerji Komisyonu sözcüsü, doğalgaz açığının geçen yıla göre 130 milyon metreküp arttığını ve sanayide kesintilerin süreceğini açıkladı.
 tarih: 2026-10-03T07:30:00+03:00
 kategori: Ekonomi

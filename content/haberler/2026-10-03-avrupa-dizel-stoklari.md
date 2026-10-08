@@ -1,5 +1,6 @@
 ---
 baslik: G7 100 milyon varil yakıt stokunu piyasaya sürüyor: Tahran basını "Trump'ın çaresizliği" diye okudu
+seo_baslik: G7 100 milyon varil stok açıyor, Tahran: çaresizlik
 ozet: Trump, Avrupa'nın dizel stoklarını açmayı kabul ettiğini duyurdu. G7, dört ayda 100 milyon varil yakıt stokunu serbest bırakma kararı aldı.
 tarih: 2026-10-03T07:40:00+03:00
 kategori: Ekonomi

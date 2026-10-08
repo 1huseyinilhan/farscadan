@@ -1,5 +1,6 @@
 ---
 baslik: İranlı havayollarına Necef izni: günde 40 sefer, Mahan Air hariç
+seo_baslik: Necef'e günde 40 sefer, Mahan Air hariç
 ozet: Irak hükümeti, İran şirketlerinin Necef'e uçuşları için ABD'den muafiyet aldığını açıkladı. Tahran'da haber farklı vurgularla verildi.
 tarih: 2026-10-03T07:50:00+03:00
 kategori: Diplomasi

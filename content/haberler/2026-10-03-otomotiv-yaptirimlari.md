@@ -1,5 +1,6 @@
 ---
 baslik: ABD'nin İran otomotiv yaptırımlarında İstanbul merkezli bir şirket de var
+seo_baslik: Otomotiv yaptırımında İstanbul merkezli şirket
 ozet: ABD, İran Hodro ve Saipa'yı yaptırım listesine aldı. Listede İstanbul merkezli Troy Trading de var; baskı kara ticaretine uzanıyor.
 tarih: 2026-10-03T07:00:00+03:00
 kategori: Türkiye

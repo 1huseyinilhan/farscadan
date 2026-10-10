@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Fri, 09 Oct 2026 19:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 19:20:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ABD&#x27;den Türkiye ve Pakistan&#x27;a çağrı: İran&#x27;a kara yollarını kapatın</title>
+    <link>https://farscadan.com/haber/2026-10-10-bessent-turkiye-pakistan-kara-yolu/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-bessent-turkiye-pakistan-kara-yolu/</guid>
+    <pubDate>Sat, 10 Oct 2026 19:20:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD Hazine Bakanı Bessent, Türkiye ve Pakistan&#x27;la İran&#x27;a kara yolu kapatma konusunda görüştüklerini açıkladı; &quot;tam izolasyon&quot; kampanyası genişliyor. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>Kalibaf&#x27;tan Rubio&#x27;ya: Valerian&#x27;ın sonunu yaşayacaksınız, diz çökeceksiniz</title>
+    <link>https://farscadan.com/haber/2026-10-10-kalibaf-rubio-diplomatik-polemik/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-kalibaf-rubio-diplomatik-polemik/</guid>
+    <pubDate>Sat, 10 Oct 2026 19:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Rubio&#x27;nun Atina&#x27;daki İran&#x27;a dair sözlerine Kalibaf, Zarif ve hükûmet sözcüsü Mohajerani tarihî göndermelerle yanıt verdi; polemik sürüyor. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Husiler Suudi Arabistan&#x27;ı vurdu: Abkayk&#x27;ta yangın, Riyad&#x27;da yüzlerce uçuş durdu</title>
+    <link>https://farscadan.com/haber/2026-10-10-abkik-rafineri-patlama-husi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-abkik-rafineri-patlama-husi/</guid>
+    <pubDate>Sat, 10 Oct 2026 19:00:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Yemenli Husiler, Riyad ve Yenbu&#x27;daki Suudi tesislerini vurduklarını açıkladı; Abkayk rafinerisinde yangın çıktı, yüzlerce uçuş iptal edildi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Pentagon, İran savaşı kayıp sayısını sessizce güncelledi: rakam arttı</title>
+    <link>https://farscadan.com/haber/2026-10-10-pentagon-kayip-sayisi-guncelleme/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-pentagon-kayip-sayisi-guncelleme/</guid>
+    <pubDate>Sat, 10 Oct 2026 18:50:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ISNA&#x27;nın aktardığına göre Pentagon, İran savaşındaki resmî kayıp rakamlarını açıklama yapmadan güncelledi; Washington Post&#x27;a göre gerçek sayı daha yüksek. (Kaynak: ISNA)</description>
+  </item>
+  <item>
+    <title>Dünya İdam Cezası Günü: İran&#x27;da bir yılda 2.003 kişi idam edildi</title>
+    <link>https://farscadan.com/haber/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran/</guid>
+    <pubDate>Sat, 10 Oct 2026 18:40:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Dünya İdam Cezasına Karşı Mücadele Günü&#x27;nde yayımlanan rapora göre İran&#x27;da son bir yılda 2.003 kişi idam edildi; en az 69&#x27;u siyasi-güvenlik suçlamasıyla. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>Trump: ABD, 3 Kasım ara seçiminden önce İran&#x27;a saldırmayacak</title>
     <link>https://farscadan.com/haber/2026-10-09-trump-iran-saldiri-yok-ara-secim/</link>
@@ -141,51 +186,6 @@
     <category>İç Politika</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İran International&#x27;ın derlediği verilere göre Dey ayı protestolarından bu yana en az 70 siyasi mahkum idam edildi, 194 kişi infaz kararı bekliyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Husiler Riyad ve Cidde&#x27;yi vurduğunu açıkladı, Suudi koalisyonu iddiayı &#x27;yanıltıcı&#x27; buldu</title>
-    <link>https://farscadan.com/haber/2026-10-05-yemen-riyad-cidde-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-05-yemen-riyad-cidde-saldirisi/</guid>
-    <pubDate>Mon, 05 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Husiler füze ve İHA&#x27;larla Riyad ile Cidde&#x27;yi vurduğunu açıkladı, uçuşlar durduruldu; Suudi koalisyonu iddiayı yanıltıcı buldu. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Fedavi: ABD donanması Hürmüz&#x27;den çekildi; aynı akşam &#x27;kural dışı&#x27; tankere ateş açıldı</title>
-    <link>https://farscadan.com/haber/2026-10-05-hurmuz-donanma-cekilme-iddiasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-05-hurmuz-donanma-cekilme-iddiasi/</guid>
-    <pubDate>Mon, 05 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>General Fedavi, ABD donanmasının bölgeden tamamen çekildiğini duyurdu; aynı akşam Hürmüz&#x27;de bir tankere ateş açıldığı bildirildi. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>ABD, terör komplosu soruşturması süren İngiltere üssünden tüm B-1 uçaklarını çekti</title>
-    <link>https://farscadan.com/haber/2026-10-05-b1-ucaklari-fairford-cekilme/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-05-b1-ucaklari-fairford-cekilme/</guid>
-    <pubDate>Mon, 05 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD, terör komplosu soruşturması süren Fairford üssünden İran savaşında kullanılan tüm B-1 bombardıman uçaklarını geri çekti. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Petrol Bakanı Paknejad istifa etti, Pezeşkiyan yerine Hamid Bord&#x27;u vekil atadı</title>
-    <link>https://farscadan.com/haber/2026-10-05-paknejad-istifa-petrol-bakanligi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-05-paknejad-istifa-petrol-bakanligi/</guid>
-    <pubDate>Mon, 05 Oct 2026 09:10:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Petrol Bakanı Muhsin Paknejad &quot;kişisel nedenlerle&quot; istifa etti; Cumhurbaşkanı Pezeşkiyan, Hamid Bord&#x27;u bakanlığa vekil olarak atadı. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Kalibaf, 18 yaş üstüne 10 bin dolar satışına &#x27;şaşırdım&#x27; dedi; kalabarg komitesi kuruldu</title>
-    <link>https://farscadan.com/haber/2026-10-05-dolar-270-bin-kalabarg-sehmiye/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-05-dolar-270-bin-kalabarg-sehmiye/</guid>
-    <pubDate>Mon, 05 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Meclis Başkanı Kalibaf, 18 yaş üstü herkese 10 bin dolar satışı kararına şaşırdığını söyledi; hükümet kalabarg fiyat komitesi kurdu. (Kaynak: Kayhan)</description>
   </item>
 </channel>
 </rss>

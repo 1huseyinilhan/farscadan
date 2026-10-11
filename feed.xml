@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 10 Oct 2026 19:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Riyad&#x27;da Kral Halid Havalimanı&#x27;na füze saldırısı: 12 ölü, rakamlar çelişkili</title>
+    <link>https://farscadan.com/haber/2026-10-11-riyad-havalimani-saldirisi-ensarallah/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-11-riyad-havalimani-saldirisi-ensarallah/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Yemen&#x27;de Ensarallah&#x27;ın Riyad&#x27;daki Kral Halid Havalimanı&#x27;na füze saldırısında en az 12 kişi öldü; yaralı sayısında kaynaklar arasında fark var. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;de bir tankere ne oldu? Sepah &quot;mayın&quot;, CENTCOM &quot;hava saldırısı&quot; diyor</title>
+    <link>https://farscadan.com/haber/2026-10-11-hurmuz-nefkes-sepah-centcom-celiskisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-11-hurmuz-nefkes-sepah-centcom-celiskisi/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Hürmüz Boğazı&#x27;nda alev alan bir tankerin akıbeti hakkında Sepah mayın, CENTCOM hava saldırısı, UKMTO ise sade bir &quot;kaza&quot; iddiasında bulundu. (Kaynak: ISNA)</description>
+  </item>
+  <item>
+    <title>Trump, Riyad saldırısı sonrası Ensarallah&#x27;la temas kurduğunu açıkladı</title>
+    <link>https://farscadan.com/haber/2026-10-11-trump-ensarallah-bin-selman-diplomasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-11-trump-ensarallah-bin-selman-diplomasi/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Trump, Riyad&#x27;daki saldırının ardından Ensarallah ile temas halinde olduklarını söyledi; ABD&#x27;nin çatışmaya girip girmeyeceği sorusunu yanıtsız bıraktı. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>Türkiye&#x27;de 15 yaş altı çocuklara sosyal medya yasağının yönetmeliği yayımlandı</title>
+    <link>https://farscadan.com/haber/2026-10-11-turkiye-15-yas-alti-sosyal-medya-yasagi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-11-turkiye-15-yas-alti-sosyal-medya-yasagi/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Türkiye&#x27;de 15 yaş altı çocukların sosyal medyaya erişimini düzenleyen yönetmelik Resmî Gazete&#x27;de yayımlandı; yasa 1 Kasım&#x27;da yürürlüğe girecek. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>11 milyon kişiye 500 bin tümen ek kalabarg desteği, diğer haneler belirsizlikte</title>
+    <link>https://farscadan.com/haber/2026-10-11-kalabarg-artisi-11-milyon-kisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-11-kalabarg-artisi-11-milyon-kisi/</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran&#x27;da Emdad Komitesi ve Refah Örgütü kapsamındaki 11 milyon kişiye 500 bin tümen ek kalabarg kredisi yatırıldı; diğer haneler için takvim belirsiz. (Kaynak: ISNA)</description>
+  </item>
   <item>
     <title>ABD&#x27;den Türkiye ve Pakistan&#x27;a çağrı: İran&#x27;a kara yollarını kapatın</title>
     <link>https://farscadan.com/haber/2026-10-10-bessent-turkiye-pakistan-kara-yolu/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Sızdırılan belgelere dayanan araştırmaya göre Parsiyan Bankası, ABD yaptırımına karşın Parsiyan Sarrafı&#x27;yla yurt dışına milyonlarca dolar transfer etti. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Riyad&#x27;da patlama sesleri, Aramco tesisinde yangın; Yemen&#x27;den Aden&#x27;e füze iddiası</title>
-    <link>https://farscadan.com/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-riyad-patlamalar-aramco-yemen/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Riyad&#x27;da art arda patlama sesleri duyuldu, Aramco&#x27;nun Rabığ tesisinde yangın çıktı; Yemen&#x27;de Aden Havalimanı füzeyle vuruldu. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>Türkiye, Husi saldırıları sürerken Suudi Arabistan&#x27;a ek asker ve hava savunma sistemi gönderiyor</title>
-    <link>https://farscadan.com/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Middle East Eye&#x27;a göre Türkiye, Suudi Arabistan&#x27;daki petrol boru hattını korumak için ek asker, teknisyen ve hava savunma sistemi gönderecek. (Kaynak: Ettelaat (Tasnim&#x27;den aktarma))</description>
-  </item>
-  <item>
-    <title>Vance: Savaşın bitmesi için İran zenginleştirme kapasitesini azaltmalı</title>
-    <link>https://farscadan.com/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-vance-iran-zenginlestirme-sarti/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD Başkan Yardımcısı Vance, Reuters&#x27;a savaşın bitmesi için İran&#x27;ın uranyum zenginleştirme kapasitesini azaltması gerektiğini söyledi. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Londra&#x27;da casusluk davası: 3 İranlı, İran Internationali gazetecilerini gözetlemekle suçlanıyor</title>
-    <link>https://farscadan.com/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-londra-casusluk-davasi-iran-internationali/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İngiliz savcılar 3 İranlıyı, İran Internationali gazetecilerini gözetleyip şiddet planladıkları gerekçesiyle Ulusal Güvenlik Yasası kapsamında suçluyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>İran International: Dey ayı protestolarından bu yana en az 70 siyasi mahkum idam edildi</title>
-    <link>https://farscadan.com/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-07-idam-siyasi-mahkum-bilancosu/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:00:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran International&#x27;ın derlediği verilere göre Dey ayı protestolarından bu yana en az 70 siyasi mahkum idam edildi, 194 kişi infaz kararı bekliyor. (Kaynak: Iran International)</description>
   </item>
 </channel>
 </rss>

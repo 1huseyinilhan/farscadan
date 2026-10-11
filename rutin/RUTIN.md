@@ -84,6 +84,16 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - Gönderinin sonunda kaynağın yönelim etiketi parantez içinde verilir: "(Kayhan, sertlik yanlısı)".
 - Dosya kaynak dalına commit'lenir. Paylaşımı site sahibi yapar.
 
+### 8c. Günün Özeti görseli (her gün, kullanıcı talimatı 2026-10-11)
+- Yayından sonra `python3 rutin/ozet_karti.py <YYYY-MM-DD>` komutunu çalıştır. Komut, günün bütün haberlerinin başlığını ve kısa açıklamasını tek bir 1080×1350 görselde toplar ve `static/x/ozet/<tarih>.png` dosyasına yazar.
+- Görseli yayınlamak için `bash rutin/yayinla.sh "Günün özeti <tarih>"` komutunu çalıştır. Görsel adresi: `https://farscadan.com/x/ozet/<tarih>.png`.
+- `rutin/kayit/x-<tarih>.md` dosyasının **en üstüne** "## Günün Özeti (görselli)" başlığıyla bir gönderi ekle:
+  - ≤ 270 karakter, kalıp: "İran basınında bugün: 5 başlık 🧵 …"
+  - En önemli 2 başlığın tek satırlık özeti
+  - `https://farscadan.com` bağlantısı
+  - `Görsel: <url>` satırı
+- İngilizce özet görselini (`<tarih>-en.png`) çeviri adımından sonra betik üretir.
+
 ### 9. Pazar günleri: haftalık editör listesi (editör katmanı, 2026-10-03)
 - Pazar çalıştırmasında, yayın tamamlandıktan sonra `rutin/kayit/editor-YYYY-MM-DD.md` dosyasını yaz. Tarih o pazarın tarihidir.
 - **Kapsam:** Son 7 günde yayınlanan haberlerden şunlar:

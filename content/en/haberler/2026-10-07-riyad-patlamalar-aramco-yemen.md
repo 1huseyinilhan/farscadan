@@ -35,6 +35,6 @@ According to separate IRNA reports, a member of the political bureau of the Hout
 
 ## Context
 
-The civil war ongoing in Yemen since 2014 between the Houthi movement (Ansarullah) and the Saudi-backed Yemeni government has escalated anew following the collapse of a 2022 ceasefire. This event is a continuation of [the October 5 Riyadh-Jeddah attack allegations](../2026-10-05-yemen-riyad-cidde-saldirisi/) and [the October 4 Aramco attack report](../2026-10-04-yemen-aramco-saldirisi/); cycles of attack and denial repeat within days.
+The civil war ongoing in Yemen since 2014 between the Houthi movement (Ansarullah) and the Saudi-backed Yemeni government has escalated anew following the collapse of a 2022 ceasefire. This event is a continuation of [the October 5 Riyadh-Jeddah attack allegations](../2026-10-05-yemen-riyad-cidde-saldirisi/) and [the October 4 Aramco attack report](../2026-10-04-yemen-aramco-saldirisi/); cycles of attack and denial repeat within days. The conflict escalated further on October 11, when Ansarallah [struck Riyadh's King Khalid Airport with missiles](../2026-10-11-riyad-havalimani-saldirisi-ensarallah/).
 
 Repeated attack allegations against Saudi oil infrastructure are being evaluated alongside tensions in the Strait of Hormuz in global energy markets; the East-West Pipeline, one of Riyadh's energy export routes, is among the facilities mentioned as affected by these attacks. This tension also brought Turkey's decision to send additional troops and air defense systems to Saudi Arabia to the fore.

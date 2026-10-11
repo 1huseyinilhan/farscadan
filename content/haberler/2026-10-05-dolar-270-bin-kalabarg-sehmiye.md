@@ -34,6 +34,6 @@ Ettelaat'ın ayrı haberine göre, Merkez Bankası Başkanı Abdünnasır Himmet
 
 İran hükümeti, savaş sonrası ağırlaşan döviz krizini yönetmek için hem doğrudan döviz satışı (18 yaş üstü herkese 10 bin dolar) hem de düşük gelirli haneler için kalabarg (gıda kuponu) kredisini artırma yolunu birlikte deniyor. Ancak Hamshahri'nin aktardığı resmî istatistiklere göre gıda ve içecek enflasyonu yıllık yüzde 121'e, yağ ve katı yağlarda yüzde 257'ye ulaşmış durumda; bu da nominal destek artışlarının reel alım gücünü koruyamayacağını gösteriyor. Meclis Başkanı'nın "şaşırdım" açıklaması, kararın hükümet içinde bile geniş mutabakatla alınmadığı izlenimini güçlendiriyor.
 
-Bu haber, [dolar kurunun 270 bin tümeni aştığı haberle](../2026-10-04-dolar-270-bin-tumen/) doğrudan bağlantılı: aynı kriz, hem döviz arzı hem de gıda desteği cephesinden yönetilmeye çalışılıyor, ancak her iki cephede de rakamlar henüz kesinleşmedi.
+Bu haber, [dolar kurunun 270 bin tümeni aştığı haberle](../2026-10-04-dolar-270-bin-tumen/) doğrudan bağlantılı: aynı kriz, hem döviz arzı hem de gıda desteği cephesinden yönetilmeye çalışılıyor, ancak her iki cephede de rakamlar henüz kesinleşmedi. Burada sözü edilen kalabarg artışı 11 Ekim'de kısmen netleşti: [Emdad Komitesi ve Refah Örgütü kapsamındaki 11 milyon kişiye 500 bin tümen ek kredi yatırıldı](../2026-10-11-kalabarg-artisi-11-milyon-kisi/), ancak diğer hak sahipleri için takvim hâlâ belirsiz.
 
 *Bu haber bilgilendirme amaçlıdır; yatırım tavsiyesi değildir.*

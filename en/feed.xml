@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 11 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 19:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Third supertanker hit by mine in Hormuz, IRGC says rules violations will be met with force</title>
+    <link>https://farscadan.com/en/haber/2026-10-12-hurmuz-ucuncu-nefkes-mayin/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-12-hurmuz-ucuncu-nefkes-mayin/</guid>
+    <pubDate>Mon, 12 Oct 2026 19:00:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>IRGC Navy confirms third supertanker hit by sea mine in Hormuz strait since Saturday; U.S. escort ships withdrawn. (Source: Ettelaat)</description>
+  </item>
+  <item>
+    <title>U.S. accepted some of Iran&#x27;s seven conditions; Rezaei says response is insufficient</title>
+    <link>https://farscadan.com/en/haber/2026-10-12-iran-abd-yedi-sart-rezayi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-12-iran-abd-yedi-sart-rezayi/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:50:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>U.S. accepted some of Iran&#x27;s seven conditions conveyed through Qatar in September; National Security Council Secretary Rezaei found the response insufficient. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Some countries filed suit over Minab school attack; Iran pressing legal case</title>
+    <link>https://farscadan.com/en/haber/2026-10-12-minab-saldirisi-yabanci-dava/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-12-minab-saldirisi-yabanci-dava/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Deputy Legal Advisor of Foreign Ministry Garibabadi said some foreign countries have filed suits over the Minab school attack; legal process continues. (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Petropars workers in Khuzestan flogged for protesting layoffs; worker councils call for widespread demonstrations</title>
+    <link>https://farscadan.com/en/haber/2026-10-12-petropars-isci-kirbac-protesto/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-12-petropars-isci-kirbac-protesto/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:30:00 +0300</pubDate>
+    <category>Domestic Politics</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>More than 10 Petropars workers in Khuzestan who resisted layoffs have been flogged; two worker councils called for large-scale protest. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Zarif says Iran lacks enriched uranium for nuclear bomb</title>
+    <link>https://farscadan.com/en/haber/2026-10-12-zarif-uranyum-bomba-iddiasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-12-zarif-uranyum-bomba-iddiasi/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:20:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Former Foreign Minister Zarif argues nuclear weapons aren&#x27;t deterrents, claiming Iran lacks the enriched uranium needed to make an atomic bomb. (Source: Khabaronline)</description>
+  </item>
   <item>
     <title>Missile attack on Riyadh&#x27;s King Khalid Airport: 12 dead, conflicting figures</title>
     <link>https://farscadan.com/en/haber/2026-10-11-riyad-havalimani-saldirisi-ensarallah/</link>
@@ -141,51 +186,6 @@
     <category>Economy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Chinese independent refineries are shifting to Iraqi crude to compensate for declining Iranian oil; experts say origin labels may not reflect true sources. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Pakistan military confirms deployment in Saudi Arabia: Three-way defense tie with Turkey</title>
-    <link>https://farscadan.com/en/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti/</guid>
-    <pubDate>Thu, 08 Oct 2026 20:00:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Pakistani military spokesman confirmed troops in Saudi Arabia to CNN, pointing to trilateral defense bond with Turkey in Mecca Defense Pact. (Source: Khabaronline)</description>
-  </item>
-  <item>
-    <title>Houthis: Saudi Bayraktar Akinci UAV downed in Taiz airspace</title>
-    <link>https://farscadan.com/en/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler/</guid>
-    <pubDate>Thu, 08 Oct 2026 19:50:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Yemen&#x27;s Houthi military spokesman announced the downing of a Turkish-made Bayraktar Akinci UAV belonging to Saudi Arabia over Taiz. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>Atlantic: White House wants Iran strike options ready before November 3 election</title>
-    <link>https://farscadan.com/en/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim/</guid>
-    <pubDate>Thu, 08 Oct 2026 19:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Atlantic magazine reports White House requested Pentagon prepare Iran strike options implementable before November 3 midterm election. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Iran lays out terms to end war; agrees with Oman on Hormuz safe passage corridor</title>
-    <link>https://farscadan.com/en/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi/</guid>
-    <pubDate>Thu, 08 Oct 2026 19:30:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Foreign ministry spokesman Bakaei announced Iran&#x27;s conditions for ending war and said agreement reached with Oman on safe passage corridor in Hormuz. (Source: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Parsian Bank moved millions in dollars with affiliate despite U.S. sanctions</title>
-    <link>https://farscadan.com/en/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma/</guid>
-    <pubDate>Thu, 08 Oct 2026 19:20:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Investigation based on leaked documents shows Parsian Bank transferred millions abroad via Parsian Exchange despite U.S. sanctions. (Source: Iran International)</description>
   </item>
 </channel>
 </rss>

@@ -29,7 +29,7 @@ Berekati also clarified that birth numbers must not be confused with fertility r
 
 ## Context
 
-Iran pursued birth-rate increases in the 1980s, shifted toward family planning in the 1990s and early 2000s, then returned to birth-promotion policies after 2012. Berekati's remarks today show these policy shifts have not yet achieved desired results and that state authorities acknowledge the problem. His references to economic pressure and high inflation making marriage and childbearing difficult align with widespread economic hardship; this condition makes population policy not only a demographic but an economic matter, with long-term consequences for pensions and healthcare systems.
+Iran pursued birth-rate increases in the 1980s, shifted toward family planning in the 1990s and early 2000s, then returned to birth-promotion policies after 2012. Berekati's remarks today show these policy shifts have not yet achieved desired results and that state authorities acknowledge the problem. His references to economic pressure and high inflation making marriage and childbearing difficult align with President Pezeshkian's announcement that the government had reorganized the economy around ["war conditions"](../2026-10-04-pezeskiyan-savas-ekonomisi/); this condition makes population policy not only a demographic but an economic matter, with long-term consequences for pensions and healthcare systems.
 
 ## How the Persian press covered it
 

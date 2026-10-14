@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 15:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Azerbaycan&#x27;da okul hicap yasağı protestoları Türkiye&#x27;ye sıçradı</title>
+    <link>https://farscadan.com/haber/2026-10-14-turkiye-azerbaycan-hicap-yasagi-okullar/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-14-turkiye-azerbaycan-hicap-yasagi-okullar/</guid>
+    <pubDate>Wed, 14 Oct 2026 15:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Azerbaycan okullarında başörtülü öğrenci ve öğretmenlere uygulanan yasak protestoları büyüttü; İstanbul&#x27;daki gösteri Ankara-Bakü gerginliğine dönüştü. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>İMF 2026&#x27;da %7,6 küçülme öngördü; İran&#x27;ın kendi verisi daha kötü</title>
+    <link>https://farscadan.com/haber/2026-10-14-imf-iran-ekonomi-buyume-tahmini/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-14-imf-iran-ekonomi-buyume-tahmini/</guid>
+    <pubDate>Wed, 14 Oct 2026 15:30:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İMF, savaşın etkisiyle İran ekonomisinin 2026&#x27;da %7,6 küçüleceğini öngördü; Tahran&#x27;ın kendi istatistikleri ise %10,1 düşüş gösteriyor. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>Husiler Zehran&#x27;ı vurdu: Aramco&#x27;nun idare binası tahliye edildi</title>
+    <link>https://farscadan.com/haber/2026-10-14-aramco-zehran-misil-saldirisi-tahliye/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-14-aramco-zehran-misil-saldirisi-tahliye/</guid>
+    <pubDate>Wed, 14 Oct 2026 15:20:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Suudi Arabistan Enerji Bakanlığı, Aramco&#x27;nun Zehran&#x27;daki idare binasının füzeyle vurulduğunu doğruladı; Riyad&#x27;da 4 kişi yaralandı. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>77 ABD&#x27;li yasa yapıcı, İranlı sivillere yönelik saldırıların açıklanmasını istedi</title>
+    <link>https://farscadan.com/haber/2026-10-14-abd-kongre-mektubu-iran-sivil-kayiplar/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-14-abd-kongre-mektubu-iran-sivil-kayiplar/</guid>
+    <pubDate>Wed, 14 Oct 2026 15:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>77 ABD Kongre üyesi, İran&#x27;la savaşta sivillerin vurulması ve ölümleriyle ilgili hükümetten resmî açıklama talep eden bir mektup gönderdi. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>Af Örgütü: İran&#x27;da protestoculara idam dalgası sürüyor</title>
+    <link>https://farscadan.com/haber/2026-10-14-idam-dey-kalkismasi-af-orgutu-cagri/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-14-idam-dey-kalkismasi-af-orgutu-cagri/</guid>
+    <pubDate>Wed, 14 Oct 2026 15:00:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Af Örgütü, Dey ayaklanmasıyla ilgili 5 kişinin idam edildiğini açıkladı; aynı gün bir siyasi mahkumun idam kararı Yargıtay&#x27;da onandı. (Kaynak: İran International)</description>
+  </item>
   <item>
     <title>29 ülkeden Fairford bildirisi: İngiltere İran&#x27;a 2 kişiye daha yaptırım uyguladı</title>
     <link>https://farscadan.com/haber/2026-10-13-fairford-29-ulke-bildirisi-ingiltere-yaptirim/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İran&#x27;da Emdad Komitesi ve Refah Örgütü kapsamındaki 11 milyon kişiye 500 bin tümen ek kalabarg kredisi yatırıldı; diğer haneler için takvim belirsiz. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>ABD&#x27;den Türkiye ve Pakistan&#x27;a çağrı: İran&#x27;a kara yollarını kapatın</title>
-    <link>https://farscadan.com/haber/2026-10-10-bessent-turkiye-pakistan-kara-yolu/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-bessent-turkiye-pakistan-kara-yolu/</guid>
-    <pubDate>Sat, 10 Oct 2026 19:20:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD Hazine Bakanı Bessent, Türkiye ve Pakistan&#x27;la İran&#x27;a kara yolu kapatma konusunda görüştüklerini açıkladı; &quot;tam izolasyon&quot; kampanyası genişliyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Kalibaf&#x27;tan Rubio&#x27;ya: Valerian&#x27;ın sonunu yaşayacaksınız, diz çökeceksiniz</title>
-    <link>https://farscadan.com/haber/2026-10-10-kalibaf-rubio-diplomatik-polemik/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-kalibaf-rubio-diplomatik-polemik/</guid>
-    <pubDate>Sat, 10 Oct 2026 19:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Rubio&#x27;nun Atina&#x27;daki İran&#x27;a dair sözlerine Kalibaf, Zarif ve hükûmet sözcüsü Mohajerani tarihî göndermelerle yanıt verdi; polemik sürüyor. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Husiler Suudi Arabistan&#x27;ı vurdu: Abkayk&#x27;ta yangın, Riyad&#x27;da yüzlerce uçuş durdu</title>
-    <link>https://farscadan.com/haber/2026-10-10-abkik-rafineri-patlama-husi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-abkik-rafineri-patlama-husi/</guid>
-    <pubDate>Sat, 10 Oct 2026 19:00:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Yemenli Husiler, Riyad ve Yenbu&#x27;daki Suudi tesislerini vurduklarını açıkladı; Abkayk rafinerisinde yangın çıktı, yüzlerce uçuş iptal edildi. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Pentagon, İran savaşı kayıp sayısını sessizce güncelledi: rakam arttı</title>
-    <link>https://farscadan.com/haber/2026-10-10-pentagon-kayip-sayisi-guncelleme/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-pentagon-kayip-sayisi-guncelleme/</guid>
-    <pubDate>Sat, 10 Oct 2026 18:50:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ISNA&#x27;nın aktardığına göre Pentagon, İran savaşındaki resmî kayıp rakamlarını açıklama yapmadan güncelledi; Washington Post&#x27;a göre gerçek sayı daha yüksek. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>Dünya İdam Cezası Günü: İran&#x27;da bir yılda 2.003 kişi idam edildi</title>
-    <link>https://farscadan.com/haber/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran/</guid>
-    <pubDate>Sat, 10 Oct 2026 18:40:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Dünya İdam Cezasına Karşı Mücadele Günü&#x27;nde yayımlanan rapora göre İran&#x27;da son bir yılda 2.003 kişi idam edildi; en az 69&#x27;u siyasi-güvenlik suçlamasıyla. (Kaynak: Iran International)</description>
   </item>
 </channel>
 </rss>

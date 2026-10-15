@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 14 Oct 2026 15:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Container ship with 2,500+ boxes sinks in Hormuz after hitting mine</title>
+    <link>https://farscadan.com/en/haber/2026-10-15-hurmuz-konteyner-gemisi-batti-mayin/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-hurmuz-konteyner-gemisi-batti-mayin/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>IRGC says a container vessel hit a mine in Hormuz and sank; Singapore and Reuters sources call it an attack and report multiple vessel incidents. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Riyadh airport emptied: Missile strikes Jeddah, Saudi fighter jet downed</title>
+    <link>https://farscadan.com/en/haber/2026-10-15-suudi-arabistan-yemen-cidde-saldirisi-ucak/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-suudi-arabistan-yemen-cidde-saldirisi-ucak/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Houthi attacks have largely emptied Riyadh airport; a missile struck Jeddah, and Yemen says a Saudi F-15 Typhoon was shot down. (Source: Ettelaat (citing Wall Street Journal))</description>
+  </item>
+  <item>
+    <title>Macron heads to the Gulf to address Hormuz crisis</title>
+    <link>https://farscadan.com/en/haber/2026-10-15-macron-korfez-hurmuz-ziyareti/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-macron-korfez-hurmuz-ziyareti/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>French President Macron will visit Kuwait, UAE, Bahrain, and Qatar on October 19–21 to discuss the Strait of Hormuz and the energy crisis. (Source: IRNA (citing Reuters))</description>
+  </item>
+  <item>
+    <title>Fed raises rates: The cost of the Iran war reaches the American consumer</title>
+    <link>https://farscadan.com/en/haber/2026-10-15-abd-faiz-artisi-iran-savasi-enflasyon/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-abd-faiz-artisi-iran-savasi-enflasyon/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>The U.S. Federal Reserve raised interest rates for the first time since 2023, citing inflation driven by the Iran war; Trump opposed the move. (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Flooding in Istanbul: Schools closed, public workers granted leave</title>
+    <link>https://farscadan.com/en/haber/2026-10-15-istanbul-sel-okul-tatili/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-istanbul-sel-okul-tatili/</guid>
+    <pubDate>Thu, 15 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Heavy rain brought flooding to Istanbul; schools closed, administrative leave granted to public workers, residents urged to stay home. (Source: ISNA)</description>
+  </item>
   <item>
     <title>School hijab ban in Azerbaijan sparks protests spilling into Turkey</title>
     <link>https://farscadan.com/en/haber/2026-10-14-turkiye-azerbaycan-hicap-yasagi-okullar/</link>
@@ -141,51 +186,6 @@
     <category>Diplomacy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Former Foreign Minister Zarif argues nuclear weapons aren&#x27;t deterrents, claiming Iran lacks the enriched uranium needed to make an atomic bomb. (Source: Khabaronline)</description>
-  </item>
-  <item>
-    <title>Missile attack on Riyadh&#x27;s King Khalid Airport: 12 dead, conflicting figures</title>
-    <link>https://farscadan.com/en/haber/2026-10-11-riyad-havalimani-saldirisi-ensarallah/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-11-riyad-havalimani-saldirisi-ensarallah/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Ansarallah&#x27;s missile strike on King Khalid International Airport in Riyadh killed at least 12 people; casualty figures vary among sources. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>What happened to a tanker in Hormuz? Revolutionary Guards say &quot;mine,&quot; CENTCOM says &quot;air strike&quot;</title>
-    <link>https://farscadan.com/en/haber/2026-10-11-hurmuz-nefkes-sepah-centcom-celiskisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-11-hurmuz-nefkes-sepah-centcom-celiskisi/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>A burning tanker near Hormuz: Revolutionary Guards claim mine strike, CENTCOM claims air strike, UKMTO calls it accident. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>Trump says he is in contact with Ansarallah following Riyadh strike</title>
-    <link>https://farscadan.com/en/haber/2026-10-11-trump-ensarallah-bin-selman-diplomasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-11-trump-ensarallah-bin-selman-diplomasi/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Trump said the U.S. is in contact with Ansarallah following the Riyadh airport strike; left unclear whether the U.S. will directly enter the conflict. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Turkey publishes regulations implementing social media ban for under-15s</title>
-    <link>https://farscadan.com/en/haber/2026-10-11-turkiye-15-yas-alti-sosyal-medya-yasagi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-11-turkiye-15-yas-alti-sosyal-medya-yasagi/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Turkey&#x27;s Official Gazette published regulations enforcing the social media restriction for children under 15; the law takes effect November 1. (Source: Kayhan)</description>
-  </item>
-  <item>
-    <title>11 million people receive 500,000-toman increase in food allowance; other households in limbo</title>
-    <link>https://farscadan.com/en/haber/2026-10-11-kalabarg-artisi-11-milyon-kisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-11-kalabarg-artisi-11-milyon-kisi/</guid>
-    <pubDate>Sun, 11 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Iran disbursed 500,000 tomans in food allowance to 11 million under Emdad and Welfare; timeline for others unclear. (Source: ISNA)</description>
   </item>
 </channel>
 </rss>

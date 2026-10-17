@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Fri, 16 Oct 2026 09:00:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Trump nükleer silahı reddetti ama &#x27;mader bombaları&#x27;nı masada tuttu</title>
+    <link>https://farscadan.com/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Trump nükleer silah kullanmayacağını söyledi ama İran&#x27;ın nükleer tesislerine karşı &quot;mader bombaları&quot; seçeneğini reddetmedi; Tahran&#x27;dan karşılık geldi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;de dev tanker vuruldu: Sepah &#x27;mayın&#x27; dedi, Hindistan &#x27;mermi&#x27; iddiasında</title>
+    <link>https://farscadan.com/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Hürmüz Boğazı&#x27;nda 2 milyon varil ham petrol yüklü bir süper tanker hasar aldı; Sepah mayın dedi, Hindistan mermi isabeti iddia etti. (Kaynak: İRNA)</description>
+  </item>
+  <item>
+    <title>CENTCOM &#x27;abluka aşılamaz&#x27; dedi, Reuters İran&#x27;ın gaz ve jet yakıtı sattığını yazdı</title>
+    <link>https://farscadan.com/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>CENTCOM komutanı İran&#x27;ın 25 milyar dolarlık petrol ihracatını durdurduğunu söyledi; Reuters ise İran&#x27;ın gemi gemi LPG ve jet yakıtı sattığını bildirdi. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>Azerbaycan hicap yasağı: Ankara eleştiriden geri adım attı, Kayhan &#x27;tehdit&#x27; dedi</title>
+    <link>https://farscadan.com/haber/2026-10-17-azerbaycan-hicap-yasagi-turkiye-geri-adim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-azerbaycan-hicap-yasagi-turkiye-geri-adim/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Türk bakan Fidan ve eski başbakan Yıldırım, Azerbaycan hicap yasağı eleştirisinden geri adım attı; Kayhan bunu &quot;tehdit&quot; olarak sundu. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>Dey protestosunda başından vurulan Peyman Kadiri, 9 ay sonra hayatını kaybetti</title>
+    <link>https://farscadan.com/haber/2026-10-17-peyman-kadiri-dey-protestosu-olum/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-peyman-kadiri-dey-protestosu-olum/</guid>
+    <pubDate>Sat, 17 Oct 2026 09:00:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Dey ayaklanması protestocusu Peyman Kadiri, güvenlik güçlerinin başına ateş açtığı iddia edilen olaydan 9 ay sonra komadan çıkamayarak hayatını kaybetti. (Kaynak: İran International)</description>
+  </item>
   <item>
     <title>Türkiye&#x27;de partiler Mekke Paktı&#x27;na karşı: &#x27;Ankara&#x27;yı Yemen savaşına sürüklemesin&#x27;</title>
     <link>https://farscadan.com/haber/2026-10-16-turkiye-mekke-pakti-muhalefet-yemen-savasi/</link>
@@ -141,51 +186,6 @@
     <category>İç Politika</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Af Örgütü, Dey ayaklanmasıyla ilgili 5 kişinin idam edildiğini açıkladı; aynı gün bir siyasi mahkumun idam kararı Yargıtay&#x27;da onandı. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>29 ülkeden Fairford bildirisi: İngiltere İran&#x27;a 2 kişiye daha yaptırım uyguladı</title>
-    <link>https://farscadan.com/haber/2026-10-13-fairford-29-ulke-bildirisi-ingiltere-yaptirim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-13-fairford-29-ulke-bildirisi-ingiltere-yaptirim/</guid>
-    <pubDate>Tue, 13 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İngiltere öncülüğünde 29 ülke, Fairford üs baskını iddiasında İran&#x27;ı suçlayan ortak bildiri yayınladı; Londra iki İranlıya yaptırım uyguladı. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Garib-Abadi: İran, ABD&#x27;ye yanıtını tamamlıyor; savaşa hazırlık müzakereden eksik değil</title>
-    <link>https://farscadan.com/haber/2026-10-13-garibabadi-iran-abd-yanit-ateskes/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-13-garibabadi-iran-abd-yanit-ateskes/</guid>
-    <pubDate>Tue, 13 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran Dışişleri Bakan Yardımcısı Garib-Abadi, ABD&#x27;nin ateşkes önerisine yanıtın nihai hale getirildiğini, taleplerin gerçekçi olması gerektiğini söyledi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Riyad Havalimanı yeniden vuruldu: Emirates ve Qatar Airways seferleri durdurdu</title>
-    <link>https://farscadan.com/haber/2026-10-13-riyad-havalimani-ucuncu-saldiri-ucak-seferleri/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-13-riyad-havalimani-ucuncu-saldiri-ucak-seferleri/</guid>
-    <pubDate>Tue, 13 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Yemen&#x27;den Riyad ve Dammam&#x27;a yönelik yeni saldırılar sonrası Emirates, Qatar Airways ve Etihad, Suudi Arabistan seferlerini askıya aldı. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Mehr ayı nakit yardımı iki aşamada ödenecek: dilimlere göre tarih ve tutar</title>
-    <link>https://farscadan.com/haber/2026-10-13-yarana-nakdi-mehr-1405-odeme-takvimi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-13-yarana-nakdi-mehr-1405-odeme-takvimi/</guid>
-    <pubDate>Tue, 13 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran&#x27;da Mehr ayı nakit yardımı, 1-3. gelir dilimlerine 25 Mehr&#x27;de, 4-9. dilimlere 30 Mehr&#x27;de ödenecek; kişi başı tutar 300-400 bin tümen. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>İran, 2046&#x27;da 25-30 milyon yaşlıya hazır değil: doğurganlık 1,34&#x27;e geriledi</title>
-    <link>https://farscadan.com/haber/2026-10-13-iran-yaslanan-nufus-dogurganlik/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-13-iran-yaslanan-nufus-dogurganlik/</guid>
-    <pubDate>Tue, 13 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran Nüfus Ulusal Merkezi yetkilisi, doğurganlık oranının 1,34&#x27;e gerilediğini, ülkenin 25-30 milyon yaşlı nüfusa hazır olmadığını açıkladı. (Kaynak: Kayhan)</description>
   </item>
 </channel>
 </rss>

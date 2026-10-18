@@ -28,6 +28,10 @@ CONTENT_DIRS = {
     "tr": os.path.join(ROOT, "content", "haberler"),
     "en": os.path.join(ROOT, "content", "en", "haberler"),
 }
+GLOSSARY_DIRS = {
+    "tr": os.path.join(ROOT, "content", "sozluk"),
+    "en": os.path.join(ROOT, "content", "en", "sozluk"),
+}
 STATIC_DIR = os.path.join(ROOT, "static")
 PUBLIC_DIR = os.path.join(ROOT, "public")
 
@@ -41,10 +45,17 @@ CATEGORIES = [
     ("İç Politika", "ic-politika"),
     ("Toplum", "toplum"),
     ("Türkiye", "turkiye"),
+    ("Analiz", "analiz"),
 ]
 CAT_SLUG = dict(CATEGORIES)
 CAT_EN = {"Güvenlik": "Security", "Ekonomi": "Economy", "Diplomasi": "Diplomacy",
-          "İç Politika": "Domestic Politics", "Toplum": "Society", "Türkiye": "Turkey"}
+          "İç Politika": "Domestic Politics", "Toplum": "Society", "Türkiye": "Turkey",
+          "Analiz": "Analysis"}
+ANALYSIS_CAT = "Analiz"   # özgün haftalık analiz (çeviri değil)
+TOPIC_MIN = 3             # bundan az haberli konu sayfaları noindex + sitemap dışı
+GLOSS_MAX_RELATED = 12    # sözlük sayfasında "İlgili haberler" üst sınırı
+GLOSS_MAX_BOX = 5         # haberde "Kavramlar" kutusu üst sınırı
+GLOSS_MAX_INLINE = 3      # haber gövdesinde sözlüğe verilen bağlantı üst sınırı
 
 MONTHS = {
     "tr": ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
@@ -63,6 +74,7 @@ ROUTES = {
     "thanks": {"tr": "iletisim/tesekkurler/", "en": "en/contact/thanks/"},
     "privacy": {"tr": "gizlilik/", "en": "en/privacy/"},
     "topics": {"tr": "konular/", "en": "en/topics/"},
+    "glossary": {"tr": "sozluk/", "en": "en/glossary/"},
     "feed": {"tr": "feed.xml", "en": "en/feed.xml"},
 }
 
@@ -97,6 +109,20 @@ T = {
         "topics_lead": "Haberlerde geçen tüm konu etiketleri ve haber sayıları.",
         "topics_desc": "%s konu dizini: İran Farsça basınından çevrilen haberlerin etiketleri.",
         "src_note": "Kaynak",
+        # Analiz
+        "an_label": "ANALİZ", "an_src": "%s özgün analizi", "an_week": "Bu haftanın kaynakları",
+        "an_lead": "Farsçadan'ın özgün haftalık analizleri: Farsça basın haftayı nasıl gördü, kamplar olayları nasıl farklı çerçeveledi.",
+        "an_desc": "%s analiz: İran Farsça basınının haftalık gündemine ilişkin özgün, kaynaklı ve görüş içermeyen değerlendirmeler.",
+        "an_note_pre": ("Bu analiz, Farsçadan'da yayımlanan haberlere ve bu haberlerin atıf yaptığı Farsça kaynaklara "
+                        "dayanan özgün bir derlemedir; görüş içermez. Hata bildirimi için "),
+        # Sözlük
+        "glossary": "Sözlük", "gl_title": "%s nedir?",
+        "gl_lead": "İran haberlerinde sık geçen kavramların kısa, kaynaklı açıklamaları.",
+        "gl_desc": "%s sözlüğü: İran gündeminde sık geçen kavramların kaynaklı açıklamaları.",
+        "gl_set": "%s Sözlüğü", "gl_empty": "Sözlükte henüz kavram yok. Yeni maddeler eklendikçe burada görünecek.",
+        "gl_letters": "Harfler", "gl_sources": "Kaynaklar", "gl_updated": "Son güncelleme:",
+        "gl_related": "İlgili haberler", "gl_no_related": "Bu kavramın geçtiği haber henüz yok.",
+        "key_terms": "Kavramlar",
     },
     "en": {
         "html_lang": "en", "og_locale": "en_US", "skip": "Skip to content",
@@ -128,6 +154,20 @@ T = {
         "topics_lead": "Every topic tag used in our stories, with the number of stories.",
         "topics_desc": "%s topic index: tags for stories translated from Iran's Persian-language press.",
         "src_note": "Source",
+        # Analysis
+        "an_label": "ANALYSIS", "an_src": "%s original analysis", "an_week": "Sources this week",
+        "an_lead": "Farsçadan's original weekly analyses: how Iran's Persian-language press saw the week and how rival camps framed the same events.",
+        "an_desc": "%s analysis: original, sourced and opinion-free reviews of the week in Iran's Persian-language press.",
+        "an_note_pre": ("This analysis is an original synthesis based on stories published on Farsçadan and the "
+                        "Persian-language sources they cite; it contains no opinion. To report an error, please use our "),
+        # Glossary
+        "glossary": "Glossary", "gl_title": "What is %s?",
+        "gl_lead": "Short, sourced explanations of terms that come up often in news from Iran.",
+        "gl_desc": "%s glossary: sourced explanations of terms that come up often in news from Iran.",
+        "gl_set": "%s Glossary", "gl_empty": "The glossary has no entries yet. New entries will appear here as they are added.",
+        "gl_letters": "Letters", "gl_sources": "Sources", "gl_updated": "Last updated:",
+        "gl_related": "Related stories", "gl_no_related": "No stories mention this term yet.",
+        "key_terms": "Key terms",
     },
 }
 EN_TAGLINE = "Iran's Persian-language press, in English and Turkish"
@@ -137,6 +177,8 @@ EN_DESCRIPTION = ("AI-assisted English translations of selected stories from Ira
 REQUIRED = ["baslik", "ozet", "tarih", "kategori", "kaynak_adi", "kaynak_url"]
 
 WARNINGS = []
+NOINDEX = set()   # noindex üretilen sayfaların kanonik yolları (sitemap'ten çıkarılır)
+NOINDEX_META = '<meta name="robots" content="noindex, follow">\n'
 
 
 def warn(msg):
@@ -178,6 +220,31 @@ _SLUG_MAP = str.maketrans({"ç": "c", "Ç": "c", "ğ": "g", "Ğ": "g", "ı": "i"
 def slugify(s):
     s = s.translate(_SLUG_MAP).lower()
     return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+
+
+def lower_lang(s, lang):
+    """Dile duyarlı küçük harf. Türkçede I→ı, İ→i. Uzunluk korunur (eşleşme konumları için)."""
+    if lang == "tr":
+        s = s.replace("I", "ı").replace("İ", "i")
+    return s.lower()
+
+
+def upper_lang(s, lang):
+    if lang == "tr":
+        s = s.replace("i", "İ").replace("ı", "I")
+    return s.upper()
+
+
+_TR_ALPHA = "abcçdefgğhıijklmnoöpqrsştuüvwxyz"
+_TR_FOLD = str.maketrans({"â": "a", "î": "i", "û": "u"})
+
+
+def sort_key(s, lang):
+    s = lower_lang(s, lang)
+    if lang == "tr":
+        s = s.translate(_TR_FOLD)
+        return [(_TR_ALPHA.index(ch) if ch in _TR_ALPHA else 100 + ord(ch)) for ch in s]
+    return [ord(ch) for ch in s]
 
 
 # ---------------------------------------------------------------- markdown
@@ -289,9 +356,13 @@ def md_blocks(src, base_url):
     return blocks
 
 
-def md_to_html(src, base_url, ad_after_para=None, ad_comment=""):
+def md_to_html(src, base_url, ad_after_para=None, ad_comment="", linker=None):
+    """linker: isteğe bağlı fn(html) → html; yalnızca paragraf, liste ve alıntı bloklarına uygulanır
+    (başlık ve tablolara uygulanmaz)."""
     out, pcount = [], 0
     for kind, h in md_blocks(src, base_url):
+        if linker and kind in ("p", "ul", "quote"):
+            h = linker(h)
         out.append(h)
         if kind == "p":
             pcount += 1
@@ -424,6 +495,162 @@ def collect_topics(arts):
             if a not in tp["arts"]:
                 tp["arts"].append(a)
     return topics
+
+
+# ---------------------------------------------------------------- glossary
+
+def parse_sources(val):
+    """'Ad | url ;; Ad | url' → [{'ad', 'url'}]."""
+    out = []
+    for chunk in (val or "").split(";;"):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        name, url = chunk.rsplit("|", 1) if "|" in chunk else (chunk, "")
+        out.append({"ad": name.strip(), "url": url.strip()})
+    return out
+
+
+def alias_pattern(alias, lang):
+    """Küçük harfli metinde tam kelime eşleşmesi. Türkçede ≥5 harfli ifadeler ek alabilir
+    (kalabargı, Devrim Muhafızları'nın); İngilizcede çoğul/iyelik eki kabul edilir."""
+    words = [re.escape(w) for w in lower_lang(alias, lang).split()]
+    core = r"\s+".join(words)
+    if lang == "tr":
+        tail = r"\w*" if len(alias.replace(" ", "")) >= 5 else ""
+    else:
+        tail = r"(?:'s|’s|es|s)?"
+    return re.compile(r"(?<![\w&#])" + core + tail + r"(?!\w)")
+
+
+def load_glossary(include_samples, lang):
+    terms = []
+    gdir = GLOSSARY_DIRS[lang]
+    label = "en/sozluk/" if lang == "en" else "sozluk/"
+    if not os.path.isdir(gdir):
+        return terms
+    for fname in sorted(os.listdir(gdir)):
+        if not fname.endswith(".md") or fname.startswith(".") or fname.upper().startswith("README"):
+            continue
+        if fname.startswith("_") and not include_samples:
+            continue
+        shown = label + fname
+        try:
+            with open(os.path.join(gdir, fname), encoding="utf-8") as f:
+                meta, body = parse_front_matter(f.read(), shown)
+        except Exception as e:
+            warn("%s atlandı: %s" % (shown, e))
+            continue
+        missing = [k for k in ("terim", "ozet") if not meta.get(k)]
+        if missing:
+            warn("%s atlandı: eksik alan(lar): %s" % (shown, ", ".join(missing)))
+            continue
+        slug = re.sub(r"[^a-z0-9-]+", "-", fname[:-3].lstrip("_").lower()).strip("-")
+        if len(meta["ozet"]) > 160:
+            warn("%s: özet 160 karakteri aşıyor (%d)" % (shown, len(meta["ozet"])))
+        upd = None
+        if meta.get("guncelleme"):
+            try:
+                upd = dt.date.fromisoformat(meta["guncelleme"][:10])
+            except ValueError:
+                warn("%s: guncelleme okunamadı '%s'" % (shown, meta["guncelleme"]))
+        # Eşleşme ifadeleri: esanlamlar + terimin parantez dışı kısmı
+        aliases, seen = [], set()
+        base_term = re.sub(r"\s*\([^)]*\)\s*", " ", meta["terim"]).strip()
+        for al in [base_term] + meta.get("esanlamlar", "").split(","):
+            al = al.strip()
+            key = lower_lang(al, lang)
+            if len(al) >= 2 and key not in seen:
+                seen.add(key)
+                aliases.append(al)
+        terms.append({
+            "file": shown, "lang": lang, "slug": slug, "terim": meta["terim"], "ozet": meta["ozet"],
+            "farsca": meta.get("farsca", ""), "kaynaklar": parse_sources(meta.get("kaynaklar", "")),
+            "guncelleme": upd, "body": body, "aliases": aliases,
+            "patterns": [alias_pattern(al, lang) for al in aliases],
+            "arts": [],
+        })
+    seen_slugs = set()
+    for g in terms:
+        if g["slug"] in seen_slugs:
+            warn("Yinelenen sözlük slug'ı: %s (%s)" % (g["slug"], g["file"]))
+        seen_slugs.add(g["slug"])
+    terms.sort(key=lambda g: sort_key(g["terim"], lang))
+    return terms
+
+
+def plain_text(md):
+    """Eşleşme için düz metin: bağlantı adresleri ve Markdown işaretleri atılır."""
+    md = re.sub(r"\]\([^)]*\)", "]", md)
+    return re.sub(r"[*_`#>|\[\]]", " ", md)
+
+
+def match_glossary(arts, terms, lang):
+    """Her habere geçtiği sözlük maddelerini (ilk geçiş sırasıyla) bağlar: a['terms'];
+    her maddeye geçtiği haberleri (yeniden eskiye) bağlar: g['arts']."""
+    for a in arts:
+        text = lower_lang(a["meta"]["baslik"] + "\n" + plain_text(a["body"]), lang)
+        found = []
+        for g in terms:
+            pos = [m.start() for p in g["patterns"] for m in [p.search(text)] if m]
+            if pos:
+                found.append((min(pos), g))
+        found.sort(key=lambda x: x[0])
+        a["terms"] = [g for _, g in found]
+        for g in a["terms"]:
+            g["arts"].append(a)
+
+
+def make_linker(page, terms, lang, limit=GLOSS_MAX_INLINE):
+    """Gövde HTML'inde her maddenin ilk geçişini sözlük sayfasına bağlar (en fazla `limit`).
+    Mevcut <a> içinde bağlantı kurulmaz; başlık/tablolar md_to_html'de zaten hariçtir."""
+    state = {"left": list(terms), "n": 0}
+
+    def link_text(txt):
+        out, cur = [], 0
+        low = lower_lang(txt, lang)
+        if len(low) != len(txt):  # konumlar kayarsa güvenli tarafta kal
+            return txt
+        while state["left"] and state["n"] < limit:
+            best = None
+            for g in state["left"]:
+                for p in g["patterns"]:
+                    m = p.search(low, cur)
+                    if m and (best is None or m.start() < best[0].start()):
+                        best = (m, g)
+            if not best:
+                break
+            m, g = best
+            out.append(txt[cur:m.start()])
+            out.append('<a class="gloss-link" href="%s" title="%s">%s</a>' % (
+                page.url(gloss_path(lang, g["slug"])), esc(g["ozet"]),
+                txt[m.start():m.end()]))
+            cur = m.end()
+            state["left"].remove(g)
+            state["n"] += 1
+        out.append(txt[cur:])
+        return "".join(out)
+
+    def linker(block_html):
+        if not state["left"] or state["n"] >= limit:
+            return block_html
+        parts = re.split(r"(<[^>]+>)", block_html)
+        depth = 0
+        for i, part in enumerate(parts):
+            if part.startswith("<"):
+                if re.match(r"<a[\s>]", part):
+                    depth += 1
+                elif part.startswith("</a"):
+                    depth = max(0, depth - 1)
+            elif part and depth == 0:
+                parts[i] = link_text(part)
+        return "".join(parts)
+    return linker
+
+
+def gloss_path(lang, slug=None):
+    """Sözlük sayfasının public/ köküne göre yolu."""
+    return ROUTES["glossary"][lang] + ("%s/" % slug if slug else "")
 
 
 # ---------------------------------------------------------------- layout
@@ -566,6 +793,7 @@ def header(cfg, page, active="", switch_rel=None):
         switch_rel = ROUTES["home"]["en" if page.lang == "tr" else "tr"]
     links = [(page.r("home"), t["home"], "home")]
     links += [(page.l("kategori/%s/" % s), cat_name(n, page.lang), s) for n, s in CATEGORIES]
+    links += [(page.r("glossary"), t["glossary"], "sozluk")]
     links += [(page.r("about"), t["about"], "hakkimizda"), (page.r("contact"), t["contact"], "iletisim")]
     nav = []
     for href, label, key in links:
@@ -595,6 +823,7 @@ def footer(cfg, page):
       <li><a href="{st}">{st_l}</a></li>
       <li><a href="{ed}">{ed_l}</a></li>
       <li><a href="{tp}">{tp_l}</a></li>
+      <li><a href="{gl}">{gl_l}</a></li>
       <li><a href="{pr}">{pr_l}</a></li>
       <li><a href="{co}">{co_l}</a></li>
       <li><a href="{feed}">RSS</a></li>
@@ -621,6 +850,7 @@ if(btn)btn.addEventListener("click",function(){{try{{localStorage.setItem(k,"1")
            st=page.r("standards"), st_l=esc(t["standards"]),
            ed=page.r("editor"), ed_l=esc(t["editor"]),
            tp=page.r("topics"), tp_l=esc(t["topics"]),
+           gl=page.r("glossary"), gl_l=esc(t["glossary"]),
            pr=page.r("privacy"), pr_l=esc(t["privacy"]),
            co=page.r("contact"), co_l=esc(t["contact"]),
            feed=page.r("feed"), ai=esc(t["ai_note"]),
@@ -636,11 +866,25 @@ def write(rel, content):
 
 
 def render(cfg, page, title, desc, canonical_rel, body, active="", switch_rel=None, alts=None, **kw):
+    if "noindex" in kw.get("extra", ""):
+        NOINDEX.add(canonical_rel)
     write(page.path, head(cfg, page, title, desc, canonical_rel, alts=alts, **kw)
           + header(cfg, page, active, switch_rel) + body + footer(cfg, page))
 
 
 # ---------------------------------------------------------------- components
+
+def is_analysis(a):
+    return a["cat"] == ANALYSIS_CAT
+
+
+def kicker_cat(a, page):
+    """Kicker'daki kategori bağlantısı; Analiz yazılarında ayırt edici "ANALİZ"/"ANALYSIS" etiketi."""
+    href = page.l("kategori/%s/" % a["cat_slug"])
+    if is_analysis(a):
+        return '<a class="type-label" href="%s">%s</a>' % (href, esc(T[page.lang]["an_label"]))
+    return '<a href="%s">%s</a>' % (href, esc(cat_name(a["cat"], page.lang)))
+
 
 def card(a, page, size="card"):
     m = a["meta"]
@@ -651,14 +895,14 @@ def card(a, page, size="card"):
                % (page.url(a["gorsel"]), esc(m.get("gorsel_alt", m["baslik"]))))
     else:
         img = '<div class="noimg" aria-hidden="true">F</div>'
-    fields = dict(h=href, cu=page.l("kategori/%s/" % a["cat_slug"]),
+    fields = dict(h=href, kc=kicker_cat(a, page),
                   cat=esc(cat_name(a["cat"], lang)), src=esc(m["kaynak_adi"]), t=esc(m["baslik"]),
                   oz=esc(m["ozet"]), iso=a["date"].isoformat(), d=fmt_date(a["date"], lang))
     if size == "hero":
         return """<article class="hero">
   <a class="hero-media" href="{h}" tabindex="-1" aria-hidden="true">{img}</a>
   <div class="hero-body">
-    <p class="kicker"><a href="{cu}">{cat}</a> · <span class="src">{src}</span></p>
+    <p class="kicker">{kc} · <span class="src">{src}</span></p>
     <h2 class="hero-title"><a href="{h}">{t}</a></h2>
     <p class="dek">{oz}</p>
     <p class="meta"><time datetime="{iso}">{d}</time></p>
@@ -666,7 +910,7 @@ def card(a, page, size="card"):
 </article>""".format(img=img.replace(' loading="lazy"', ''), **fields)
     return """<article class="card">
   <a class="card-media" href="{h}" tabindex="-1" aria-hidden="true">{img}</a>
-  <p class="kicker"><a href="{cu}">{cat}</a> · <span class="src">{src}</span></p>
+  <p class="kicker">{kc} · <span class="src">{src}</span></p>
   <h3 class="card-title"><a href="{h}">{t}</a></h3>
   <p class="card-dek">{oz}</p>
   <p class="meta"><time datetime="{iso}">{d}</time></p>
@@ -768,19 +1012,22 @@ def build_category(cfg, arts, name, slug, lang):
     page = Page(PFX[lang] + "kategori/%s/index.html" % slug, lang)
     items = [a for a in arts if a["cat_slug"] == slug]
     disp = cat_name(name, lang)
+    analysis = name == ANALYSIS_CAT
+    lead = t["an_lead"] if analysis else t["cat_lead"] % disp
     body = ['<div class="wrap wide">', chips(page, slug),
             '<header class="page-head"><h1>%s</h1><p class="lead">%s</p></header>'
-            % (esc(disp), esc(t["cat_lead"] % disp))]
+            % (esc(disp), esc(lead))]
     if items:
         body.append('<div class="grid">%s</div>' % "".join(card(a, page) for a in items))
     else:
         body.append(empty_state(lang))
     body.append("</div>")
-    desc = t["cat_desc"] % (cfg["site_name"], disp)
+    desc = t["an_desc"] % cfg["site_name"] if analysis else t["cat_desc"] % (cfg["site_name"], disp)
     alts = {lg: PFX[lg] + "kategori/%s/" % slug for lg in LANGS}
     other = "en" if lang == "tr" else "tr"
+    # Boş kategori sayfası (ör. ilk analizden önce Analiz) ince sayfadır: noindex + sitemap dışı
     render(cfg, page, disp, desc, alts[lang], "\n".join(body), active=slug,
-           switch_rel=alts[other], alts=alts)
+           switch_rel=alts[other], alts=alts, extra="" if items else NOINDEX_META)
 
 
 def related_for(a, arts, n=3):
@@ -804,7 +1051,19 @@ def fix_cross_links(body, own_slugs, other_slugs, lang):
     return REL_LINK_RE.sub(sub, body)
 
 
-def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
+def internal_story(cfg, url, by_lang):
+    """farscadan.com/(en/)haber/<slug>/ adresi → (dil, haber) ya da None."""
+    base = cfg["base_url"].rstrip("/")
+    m = re.match(r"^(?:%s|%s)/(en/)?haber/([a-z0-9-]+)/?$" % (
+        re.escape(base), re.escape(base.replace("://", "://www."))), url.strip(), re.I)
+    if not m:
+        return None
+    lg = "en" if m.group(1) else "tr"
+    a = by_lang.get(lg, {}).get(m.group(2))
+    return (lg, a) if a else None
+
+
+def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=None):
     lang = a["lang"]
     t = T[lang]
     other = "en" if lang == "tr" else "tr"
@@ -813,8 +1072,11 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
     base = cfg["base_url"]
     ad_mid = "<!-- AD_SLOT: article-inline (2. paragraftan sonra; adsense_client ayarlanınca manuel reklam birimi buraya eklenebilir) -->"
     own_slugs = {x["slug"] for x in arts}
+    terms = a.get("terms") or []
+    linker = make_linker(page, terms, lang) if terms else None
     body_html = md_to_html(fix_cross_links(a["body"], own_slugs, other_slugs, lang), base,
-                           ad_after_para=2, ad_comment=ad_mid)
+                           ad_after_para=2, ad_comment=ad_mid, linker=linker)
+    analysis = is_analysis(a)
 
     fig = ""
     if a["gorsel"]:
@@ -836,6 +1098,21 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
 
     fa = m.get("kaynak_baslik_fa", "")
     yon = m.get("kaynak_yonelim", "")
+    def ek_items():
+        lis = []
+        for e in a["ek"]:
+            name = esc(e["ad"])
+            hit = internal_story(cfg, e["url"], by_lang or {}) if e["url"] else None
+            if hit:  # Farsçadan haberi: başlığıyla, göreli bağlantıyla
+                lg, x = hit
+                name = '<a href="%s">%s</a>' % (page.url(PFX[lg] + "haber/%s/" % x["slug"]),
+                                                esc(x["meta"]["baslik"]))
+            elif e["url"]:
+                name = '<a href="%s" rel="noopener" target="_blank">%s</a>' % (esc(safe_url(e["url"])), name)
+            lab = (' <span class="label">%s</span>' % esc(e["yonelim"])) if e["yonelim"] else ""
+            lis.append("<li>%s%s</li>" % (name, lab))
+        return "".join(lis)
+
     kaynak = """<aside class="source-box" aria-labelledby="kaynak-baslik">
   <h2 id="kaynak-baslik">{h}</h2>
   <p class="source-name"><strong>{ad}</strong>{yon}</p>
@@ -849,16 +1126,28 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
         u=esc(safe_url(m["kaynak_url"])))
 
     ek = ""
-    if a["ek"]:
-        lis = []
-        for e in a["ek"]:
-            name = esc(e["ad"])
-            if e["url"]:
-                name = '<a href="%s" rel="noopener" target="_blank">%s</a>' % (esc(safe_url(e["url"])), name)
-            lab = (' <span class="label">%s</span>' % esc(e["yonelim"])) if e["yonelim"] else ""
-            lis.append("<li>%s%s</li>" % (name, lab))
+    if analysis:
+        # Özgün analiz: "özgün haberi oku" yok; ek_kaynaklar "Bu haftanın kaynakları" olur
+        week = ""
+        if a["ek"]:
+            week = '<h3>%s</h3><ul class="week-sources">%s</ul>' % (esc(t["an_week"]), ek_items())
+        kaynak = """<aside class="source-box" aria-labelledby="kaynak-baslik">
+  <h2 id="kaynak-baslik">{h}</h2>
+  <p class="source-name"><strong>{ad}</strong>{yon}</p>
+  {week}
+</aside>""".format(h=esc(t["source_h"]), ad=esc(t["an_src"] % cfg["site_name"]),
+                   yon=(' <span class="label">%s</span>' % esc(yon)) if yon else "", week=week)
+    elif a["ek"]:
         ek = ('<section class="extra-sources"><h2>%s</h2><ul>%s</ul></section>'
-              % (esc(t["extra_sources"]), "".join(lis)))
+              % (esc(t["extra_sources"]), ek_items()))
+
+    key_terms = ""
+    if terms:
+        lis = "".join('<li><a href="%s">%s</a><span class="kt-dek">%s</span></li>'
+                      % (page.url(gloss_path(lang, g["slug"])), esc(g["terim"]), esc(g["ozet"]))
+                      for g in terms[:GLOSS_MAX_BOX])
+        key_terms = ('<aside class="key-terms" aria-labelledby="kavramlar"><h2 id="kavramlar">%s</h2>'
+                     '<ul>%s</ul></aside>' % (esc(t["key_terms"]), lis))
 
     tags = ""
     if a["tags"]:
@@ -883,7 +1172,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
     disp_cat = cat_name(a["cat"], lang)
     ld = {
         "@context": "https://schema.org",
-        "@type": "NewsArticle",
+        "@type": "AnalysisNewsArticle" if analysis else "NewsArticle",
         "headline": m["baslik"][:110],
         "description": m["ozet"],
         "datePublished": a["date"].isoformat(),
@@ -901,10 +1190,13 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
     }
     if counterpart:
         ld["translationOfWork" if lang == "en" else "workTranslation"] = {
-            "@type": "NewsArticle", "@id": abs_url(cfg, PFX[other] + "haber/%s/" % a["slug"]),
+            "@type": ld["@type"], "@id": abs_url(cfg, PFX[other] + "haber/%s/" % a["slug"]),
             "inLanguage": other}
     if img_abs:
         ld["image"] = [img_abs]
+    if terms:
+        ld["mentions"] = [{"@type": "DefinedTerm", "name": g["terim"],
+                           "url": abs_url(cfg, gloss_path(lang, g["slug"]))} for g in terms[:GLOSS_MAX_BOX]]
     mod = a.get("modified") or a["date"]
     ld["dateModified"] = mod.isoformat()
     crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
@@ -926,7 +1218,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
     article = """<div class="wrap">
 <article class="article">
   <header class="article-head">
-    <p class="kicker"><a href="{cu}">{cat}</a></p>
+    <p class="kicker">{kc}</p>
     <h1 class="article-title">{t}</h1>
     <p class="dek">{oz}</p>
     <p class="byline">{by} <span class="author">{author}</span> · {ov} <a href="{ed}">{eds}</a> · <time datetime="{iso}">{d}</time> · {sl} {src}</p>
@@ -937,6 +1229,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
 {body}
   </div>
   {share}
+  {key_terms}
   {kaynak}
   {ek}
   {tags}
@@ -951,7 +1244,8 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs):
                  by=esc(t["by"]), ov=esc(t["oversight"]), eds=esc(t["editors"]), sl=esc(t["source_lbl"]),
                  d=fmt_date(a["date"], lang), src=esc(m["kaynak_adi"]), fig=fig, ed=page.r("editor"),
                  body=body_html, kaynak=kaynak, ek=ek, tags=tags, share=share,
-                 note_pre=esc(t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
+                 kc=kicker_cat(a, page), key_terms=key_terms,
+                 note_pre=esc(t["an_note_pre"] if analysis else t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
                  note_post=esc(t["note_post"]), related=related, copy=COPY_SCRIPT)
     alts = None
     if counterpart:
@@ -975,15 +1269,126 @@ def build_topics(cfg, topics, lang):
                 % (page.r("topics"), esc(t["topics"]), esc(tp["name"]),
                    esc(t["topic_lead"] % (tp["name"], len(tp["arts"]))),
                    "".join(card(a, page) for a in tp["arts"])))
+        # TOPIC_MIN'den az haberli konu sayfası ince sayfadır: noindex, follow + sitemap dışı
+        thin = len(tp["arts"]) < TOPIC_MIN
         render(cfg, page, tp["name"], t["topic_desc"] % (cfg["site_name"], tp["name"]),
-               PFX[lang] + "konu/%s/" % s, body, switch_rel=ROUTES["topics"][other])
+               PFX[lang] + "konu/%s/" % s, body, switch_rel=ROUTES["topics"][other],
+               extra=NOINDEX_META if thin else "")
     page = Page(ROUTES["topics"][lang] + "index.html", lang)
     items = sorted(topics.values(), key=lambda x: x["slug"])
-    lis = "".join('<li><a href="%s">%s <span class="count">%d</span></a></li>'
-                  % (page.l("konu/%s/" % tp["slug"]), esc(tp["name"]), len(tp["arts"])) for tp in items)
+    lis = "".join('<li%s><a href="%s">%s <span class="count">%d</span></a></li>'
+                  % (' class="is-thin"' if len(tp["arts"]) < TOPIC_MIN else "",
+                     page.l("konu/%s/" % tp["slug"]), esc(tp["name"]), len(tp["arts"])) for tp in items)
     inner = ('<p class="lead">%s</p>\n<ul class="topic-list">%s</ul>' % (esc(t["topics_lead"]), lis)
              if items else empty_state(lang))
     static_page(cfg, lang, "topics", t["topics"], t["topics_desc"] % cfg["site_name"], inner)
+
+
+def build_glossary(cfg, terms, other_terms, lang):
+    """sozluk/<slug>/ (en/glossary/<slug>/) madde sayfaları + sozluk/ (en/glossary/) A–Z dizini."""
+    t = T[lang]
+    other = "en" if lang == "tr" else "tr"
+    other_slugs = {g["slug"] for g in other_terms}
+    index_abs = abs_url(cfg, gloss_path(lang))
+    set_name = t["gl_set"] % cfg["site_name"]
+    base = cfg["base_url"]
+    for g in terms:
+        rel = gloss_path(lang, g["slug"])
+        page = Page(rel + "index.html", lang)
+        body_html = md_to_html(g["body"], base)
+        fa = ('<p class="term-fa" dir="rtl" lang="fa">%s</p>' % esc(g["farsca"])) if g["farsca"] else ""
+        src = ""
+        if g["kaynaklar"]:
+            lis = []
+            for k in g["kaynaklar"]:
+                if k["url"]:
+                    lis.append('<li><a href="%s" rel="noopener" target="_blank">%s</a></li>'
+                               % (esc(safe_url(k["url"])), esc(k["ad"] or k["url"])))
+                else:
+                    lis.append("<li>%s</li>" % esc(k["ad"]))
+            src = ('<section class="term-sources" aria-labelledby="kaynaklar"><h2 id="kaynaklar">%s</h2>'
+                   '<ul>%s</ul></section>' % (esc(t["gl_sources"]), "".join(lis)))
+        upd = ""
+        if g["guncelleme"]:
+            upd = ('<p class="term-updated">%s <time datetime="%s">%s</time></p>'
+                   % (esc(t["gl_updated"]), g["guncelleme"].isoformat(), fmt_date(g["guncelleme"], lang)))
+        rel_arts = g["arts"][:GLOSS_MAX_RELATED]
+        if rel_arts:
+            related = ('<div class="grid">%s</div>' % "".join(card(a, page) for a in rel_arts))
+        else:
+            related = '<p class="empty">%s</p>' % esc(t["gl_no_related"])
+        html_ = """<div class="wrap">
+<article class="term">
+  <header class="article-head">
+    <p class="kicker"><a href="{gi}">{gl}</a></p>
+    <h1 class="article-title">{h}</h1>
+    {fa}
+    <p class="dek">{oz}</p>
+  </header>
+  <div class="article-body">
+{body}
+  </div>
+  {src}
+  {upd}
+</article>
+</div>
+<div class="wrap wide"><section class="related" aria-labelledby="ilgili"><h2 id="ilgili" class="section-title">{rh}</h2>{rel}</section></div>
+""".format(gi=page.r("glossary"), gl=esc(t["glossary"]), h=esc(g["terim"]), fa=fa, oz=esc(g["ozet"]),
+           body=body_html, src=src, upd=upd, rh=esc(t["gl_related"]), rel=related)
+        ld = {"@context": "https://schema.org", "@type": "DefinedTerm", "name": g["terim"],
+              "description": g["ozet"], "url": abs_url(cfg, rel), "inLanguage": lang,
+              "inDefinedTermSet": index_abs}
+        if g["farsca"]:
+            ld["alternateName"] = g["farsca"]
+        crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": t["home"], "item": abs_url(cfg, ROUTES["home"][lang])},
+            {"@type": "ListItem", "position": 2, "name": t["glossary"], "item": index_abs},
+            {"@type": "ListItem", "position": 3, "name": g["terim"], "item": abs_url(cfg, rel)}]}
+        extra = "".join('<script type="application/ld+json">%s</script>\n'
+                        % json.dumps(x, ensure_ascii=False).replace("<", "\\u003c") for x in (ld, crumbs))
+        if g["slug"] in other_slugs:
+            alts = {lg: gloss_path(lg, g["slug"]) for lg in LANGS}
+            switch_rel = alts[other]
+        else:
+            alts, switch_rel = None, gloss_path(other)
+        render(cfg, page, g["terim"], g["ozet"], rel, html_, active="sozluk", switch_rel=switch_rel,
+               alts=alts, extra=extra, seo_title=t["gl_title"] % g["terim"])
+
+    # A–Z dizini
+    page = Page(gloss_path(lang) + "index.html", lang)
+    groups = []
+    for g in terms:
+        ch = upper_lang(g["terim"][:1], lang)
+        letter = ch if ch.isalpha() else "#"
+        if not groups or groups[-1][0] != letter:
+            groups.append((letter, []))
+        groups[-1][1].append(g)
+    if terms:
+        jump = "".join('<li><a href="#harf-%d">%s</a></li>' % (i, esc(l)) for i, (l, _) in enumerate(groups))
+        secs = []
+        for i, (letter, gs) in enumerate(groups):
+            lis = "".join('<li><a href="%s">%s</a>%s<p>%s</p></li>' % (
+                page.url(gloss_path(lang, g["slug"])), esc(g["terim"]),
+                (' <span class="gl-fa" dir="rtl" lang="fa">%s</span>' % esc(g["farsca"])) if g["farsca"] else "",
+                esc(g["ozet"])) for g in gs)
+            secs.append('<section class="gl-letter"><h2 id="harf-%d">%s</h2><ul class="gl-list">%s</ul></section>'
+                        % (i, esc(letter), lis))
+        inner = ('<p class="lead">%s</p>\n<nav aria-label="%s"><ul class="gl-jump">%s</ul></nav>\n%s'
+                 % (esc(t["gl_lead"]), esc(t["gl_letters"]), jump, "\n".join(secs)))
+    else:
+        inner = '<p class="lead">%s</p>\n<p class="empty">%s</p>' % (esc(t["gl_lead"]), esc(t["gl_empty"]))
+    ld = {"@context": "https://schema.org", "@type": "DefinedTermSet", "name": set_name, "url": index_abs,
+          "inLanguage": lang, "description": t["gl_desc"] % cfg["site_name"],
+          "hasDefinedTerm": [{"@type": "DefinedTerm", "name": g["terim"],
+                              "url": abs_url(cfg, gloss_path(lang, g["slug"]))} for g in terms]}
+    extra = '<script type="application/ld+json">%s</script>\n' % json.dumps(
+        ld, ensure_ascii=False).replace("<", "\\u003c")
+    if not terms:
+        extra += NOINDEX_META
+    html_ = ('<div class="wrap"><article class="prose glossary-index">\n<h1>%s</h1>\n%s\n</article></div>\n'
+             % (esc(t["glossary"]), inner))
+    render(cfg, page, t["glossary"], t["gl_desc"] % cfg["site_name"], gloss_path(lang), html_,
+           active="sozluk", switch_rel=gloss_path(other), alts=ROUTES["glossary"], extra=extra)
 
 
 def static_page(cfg, lang, key, title, desc, inner, active=""):
@@ -1279,7 +1684,7 @@ def xml_esc(s):
     return html.escape(str(s), quote=True)
 
 
-def build_feeds(cfg, arts_by_lang, topics_by_lang):
+def build_feeds(cfg, arts_by_lang, topics_by_lang, gloss_by_lang=None):
     tr_slugs = {a["slug"] for a in arts_by_lang["tr"]}
     en_slugs = {a["slug"] for a in arts_by_lang["en"]}
     both = tr_slugs & en_slugs
@@ -1300,6 +1705,18 @@ def build_feeds(cfg, arts_by_lang, topics_by_lang):
     for lg in LANGS:
         for s, tp in sorted(topics_by_lang[lg].items()):
             urls.append((PFX[lg] + "konu/%s/" % s, tp["arts"][0]["date"], None))
+    gloss_by_lang = gloss_by_lang or {lg: [] for lg in LANGS}
+    for lg in LANGS:
+        urls.append((gloss_path(lg), None, ROUTES["glossary"]))
+    g_both = ({g["slug"] for g in gloss_by_lang["tr"]} & {g["slug"] for g in gloss_by_lang["en"]})
+    for lg in LANGS:
+        for g in gloss_by_lang[lg]:
+            alts = {x: gloss_path(x, g["slug"]) for x in LANGS} if g["slug"] in g_both else None
+            d = (dt.datetime.combine(g["guncelleme"], dt.time()) if g["guncelleme"] else None)
+            urls.append((gloss_path(lg, g["slug"]), d, alts))
+    # noindex sayfalar sitemap'e girmez; alternatiflerden biri noindex ise xhtml:link yazılmaz
+    urls = [(rel, d, None if alts and any(v in NOINDEX for v in alts.values()) else alts)
+            for rel, d, alts in urls if rel not in NOINDEX]
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
           'xmlns:xhtml="http://www.w3.org/1999/xhtml">']
@@ -1397,20 +1814,25 @@ def main():
     arts_by_lang = {lg: load_articles(include_samples, lg) for lg in LANGS}
     slugs = {lg: {a["slug"] for a in arts_by_lang[lg]} for lg in LANGS}
     topics_by_lang = {lg: collect_topics(arts_by_lang[lg]) for lg in LANGS}
+    gloss_by_lang = {lg: load_glossary(include_samples, lg) for lg in LANGS}
+    for lg in LANGS:
+        match_glossary(arts_by_lang[lg], gloss_by_lang[lg], lg)
+    by_lang = {lg: {a["slug"]: a for a in arts_by_lang[lg]} for lg in LANGS}
     for lg in LANGS:
         other = "en" if lg == "tr" else "tr"
         arts = arts_by_lang[lg]
-        other_by_slug = {a["slug"]: a for a in arts_by_lang[other]}
         build_index(cfg, arts, lg)
         for name, slug in CATEGORIES:
             build_category(cfg, arts, name, slug, lg)
         for a in arts:
-            build_article(cfg, a, arts, other_by_slug.get(a["slug"]), topics_by_lang[lg], slugs[other])
+            build_article(cfg, a, arts, by_lang[other].get(a["slug"]), topics_by_lang[lg], slugs[other],
+                          by_lang)
         build_topics(cfg, topics_by_lang[lg], lg)
+        build_glossary(cfg, gloss_by_lang[lg], gloss_by_lang[other], lg)
     build_static_pages_tr(cfg)
     build_static_pages_en(cfg)
     build_404(cfg)
-    build_feeds(cfg, arts_by_lang, topics_by_lang)
+    build_feeds(cfg, arts_by_lang, topics_by_lang, gloss_by_lang)
 
     write(".nojekyll", "")
     client = adsense_active(cfg)
@@ -1419,10 +1841,20 @@ def main():
         write("ads.txt", "google.com, %s, DIRECT, f08c47fec0942fa0\n" % pub)
 
     pairs = len(slugs["tr"] & slugs["en"])
-    print("Derleme tamam: %d TR + %d EN haber (%d eşli), %d TR + %d EN konu, %d uyarı%s → %s" % (
-        len(arts_by_lang["tr"]), len(arts_by_lang["en"]), pairs,
-        len(topics_by_lang["tr"]), len(topics_by_lang["en"]), len(WARNINGS),
+    thin = {lg: sum(1 for tp in topics_by_lang[lg].values() if len(tp["arts"]) < TOPIC_MIN) for lg in LANGS}
+    n_an = {lg: sum(1 for a in arts_by_lang[lg] if is_analysis(a)) for lg in LANGS}
+    print("Derleme tamam: %d TR + %d EN haber (%d eşli; analiz %d TR + %d EN), %d uyarı%s → %s" % (
+        len(arts_by_lang["tr"]), len(arts_by_lang["en"]), pairs, n_an["tr"], n_an["en"], len(WARNINGS),
         " (örnekler dahil)" if include_samples else "", PUBLIC_DIR))
+    for lg in LANGS:
+        n = len(topics_by_lang[lg])
+        print("  %s konu: %d (indeksli %d, noindex %d; eşik ≥ %d haber)" % (
+            lg.upper(), n, n - thin[lg], thin[lg], TOPIC_MIN))
+    print("  sözlük: %d TR + %d EN madde (%d eşli); haber–madde eşleşmesi: %d TR + %d EN haber" % (
+        len(gloss_by_lang["tr"]), len(gloss_by_lang["en"]),
+        len({g["slug"] for g in gloss_by_lang["tr"]} & {g["slug"] for g in gloss_by_lang["en"]}),
+        sum(1 for a in arts_by_lang["tr"] if a.get("terms")),
+        sum(1 for a in arts_by_lang["en"] if a.get("terms"))))
 
 
 if __name__ == "__main__":

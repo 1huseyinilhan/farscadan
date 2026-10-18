@@ -91,3 +91,39 @@ Gövde (Markdown alt kümesi)...
 - **İç bağlantılar:** `../<slug>/` biçiminde (İngilizce haberler arası).
 - **Dil:** Doğal, haber dili, İngiliz İngilizcesi değil Amerikan İngilizcesi. Farsça özel adlar yaygın İngilizce yazımıyla yazılır: Kayhan, Etemad, Pezeshkian, Araghchi, Zahedan, IRGC, Fatemiyoun.
 - **Doğruluk:** İngilizce metin Türkçe haberin sadık çevirisidir. Yeni iddia eklenmez, mevcut iddia çıkarılmaz.
+
+## Özgün içerik (AdSense "düşük değerli içerik" reddi sonrası, 2026-10-18)
+
+### Haftalık analiz: "Haftanın Çerçevesi"
+- **Dosya:** `content/haberler/YYYY-MM-DD-haftanin-cercevesi-<gg>-<gg>-<ay>.md` (TR) ve aynı adla `content/en/haberler/` (EN).
+- **Kategori:** `kategori: Analiz` (EN'de de kanonik değer `Analiz`; görünen ad "Analysis").
+- **Front matter:** Haberle aynı alanlar.
+  - `kaynak_adi: Farsçadan` ve `kaynak_yonelim: Haftalık analiz` (EN: `Weekly analysis`).
+  - `kaynak_url`: Haftanın en önemli haberinin Farsçadan sayfası.
+  - `kaynak_baslik_fa`: Boş bırakılabilir.
+  - `ek_kaynaklar`: Haftanın kullanılan Farsçadan haberleri (`Farsçadan | https://farscadan.com/haber/<slug>/`).
+- **Gövde (900–1.300 kelime, ÖZGÜN metin; çeviri değildir):**
+  1. Giriş: haftanın ana teması.
+  2. `## Haftanın üç başlığı`: Farsça basının haftayı nasıl gördüğü; Farsçadan haberlerine iç bağlantı ve kaynak atfı ile.
+  3. `## Çerçeve farkları`: Kamplar aynı olayları nasıl farklı sundu. Bir tablo içerir.
+  4. `## Türkiye açısından`: Haftanın Türkiye'yi ilgilendiren boyutu.
+  5. `## Önümüzdeki hafta neye bakmalı`: Takvimdeki olaylar. Tahmin değil, izlenecek başlıklar.
+- **Görüş yasağı sürer:** Analiz betimleyicidir ve her olgu atfedilir. "Bize göre…" türü yorum yazılmaz.
+
+### Sözlük: "X nedir?"
+- **Dosya:** `content/sozluk/<slug>.md` (TR) ve `content/en/sozluk/<slug>.md` (EN, aynı slug). Slug ASCII olur, ör. `kalabarg`, `devrim-muhafizlari`, `tetik-mekanizmasi`.
+- **Front matter:**
+```
+---
+terim: Kalabarg
+ozet: İran'da hanelere temel gıda alımı için tanımlanan elektronik kredi (gıda kuponu) sistemi. (≤160 karakter)
+esanlamlar: kalabarg, gıda kuponu, elektronik kupon     # gövdesinde bu ifadelerden biri geçen haberler "İlgili haberler" listesine girer
+farsca: کالابرگ
+kaynaklar: Ad | url ;; Ad | url                          # en az 2 güvenilir kaynak (resmî site, ansiklopedi, uluslararası basın)
+guncelleme: 2026-10-18
+---
+```
+  EN dosyasında `terim`, `ozet` ve `esanlamlar` İngilizce olur (ör. "Kalabarg (food e-coupon)"); diğer alanlar aynıdır.
+- **Gövde (300–600 kelime, özgün):** `## Nedir?`, `## Nasıl işler?`, `## Neden önemli?` ve isteğe bağlı `## Tartışmalar`. EN başlıklar: What is it? / How does it work? / Why does it matter? / Debates. Tarafsız ve kaynaklı yazılır. Farsça terimin okunuşu ve anlamı verilir.
+- **İlgili haberler:** Build bu listeyi `esanlamlar` ile otomatik üretir; gövdeye yazılmaz.
+- **Eşanlam kuralı (build dersi, 18.10):** Eşanlamlılar gövdede otomatik bağlantı üretir, bu yüzden **ayırt edici** olmalı. Genel ifadeler kullanılmaz ("bin tümen", "nükleer anlaşma" gibi ifadeler her fiyat ya da diplomasi haberini bağlar). Yalnızca haberlerde gerçekten geçen özel adlar ve terimler yazılır. Farsça yazı gövdede kullanılmaz (sağdan sola yazım bozulur); Farsça yalnızca `farsca` alanına yazılır, gövdede Latin harfli okunuşu verilir.

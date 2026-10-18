@@ -165,7 +165,7 @@ blockquote { margin: 20px 0; padding: 4px 0 4px 18px; border-left: 3px solid var
 .share-telegram svg { color: #229ed9; }
 
 /* Konu dizini */
-.topic-list { list-style: none; padding: 0 !important; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; font-family: var(--sans); }
+.topic-list { list-style: none; padding: 0 !important; margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-family: var(--sans); }
 .topic-list li { margin: 0 !important; }
 .topic-list a { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border: 1px solid var(--border); border-radius: 999px; background: var(--surface); color: var(--text); text-decoration: none; font-size: 14px; }
 .topic-list a:hover { border-color: var(--accent); color: var(--accent); }
@@ -206,3 +206,40 @@ button:hover { filter: brightness(1.08); }
 .tablo th { font-family: var(--sans); font-size: .8rem; text-transform: uppercase; letter-spacing: .04em; }
 .tablo td:first-child { white-space: nowrap; font-weight: 600; }
 @media (max-width: 560px) { .tablo td:first-child { white-space: normal; } }
+
+/* Analiz tür etiketi (kart ve haber başlığı) */
+.kicker a.type-label, .type-label { display: inline-block; margin-right: 2px; color: var(--accent-ink); padding: 2px 7px; border-radius: 4px; background: var(--accent); color: var(--accent-ink); font-size: 10.5px; font-weight: 700; letter-spacing: .08em; line-height: 1.5; vertical-align: 1px; }
+.source-box h3 { font: 600 13px/1.2 var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 16px 0 8px; }
+.week-sources { margin: 0; padding-left: 1.2em; }
+.week-sources li { margin: 4px 0; }
+
+/* Haber gövdesinde sözlük bağlantısı + "Kavramlar" kutusu */
+.gloss-link { text-decoration-style: dotted; text-decoration-thickness: 1px; }
+.key-terms { margin: 28px 0 0; padding: 14px 18px; border: 1px solid var(--border); border-left: 3px solid var(--accent); border-radius: var(--radius); background: var(--surface); font-size: 15px; }
+.key-terms h2 { font: 600 13px/1.2 var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 8px; }
+.key-terms ul { list-style: none; margin: 0; padding: 0; }
+.key-terms li { margin: 6px 0; }
+.key-terms a { font-weight: 600; }
+.key-terms .kt-dek { display: block; color: var(--muted); font-size: 14px; line-height: 1.45; }
+
+/* Sözlük */
+.term-fa { font-family: var(--fa); font-size: 22px; color: var(--muted); margin: 0 0 8px; text-align: right; }
+.term .article-head .term-fa { text-align: left; }
+.term-sources { margin: 32px 0 12px; padding: 18px 20px; background: var(--surface-2); border-radius: var(--radius); border: 1px solid var(--border); font-size: 15px; }
+.term-sources h2 { font: 600 13px/1.2 var(--sans); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 10px; }
+.term-sources ul { margin: 0; padding-left: 1.2em; overflow-wrap: anywhere; }
+.term-updated { font-size: 14px; color: var(--muted); }
+.gl-jump { list-style: none; padding: 0 !important; margin: 0 0 8px; display: flex; flex-wrap: wrap; gap: 6px; font-family: var(--sans); }
+.gl-jump li { margin: 0 !important; }
+.gl-jump a { display: inline-grid; place-items: center; min-width: 34px; height: 34px; padding: 0 8px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); text-decoration: none; font-weight: 600; font-size: 14px; }
+.gl-jump a:hover { border-color: var(--accent); }
+.gl-letter h2 { border-bottom: 1px solid var(--border); padding-bottom: 4px; }
+.gl-list { list-style: none; padding: 0 !important; margin: 0; }
+.gl-list li { margin: 0 0 14px !important; }
+.gl-list a { font-family: var(--sans); font-weight: 600; font-size: 18px; }
+.gl-list .gl-fa { font-family: var(--fa); color: var(--muted); font-size: 16px; margin-left: 6px; }
+.gl-list p { margin: 2px 0 0; font-size: 16px; line-height: 1.5; color: var(--muted); }
+
+/* Konu dizini: TOPIC_MIN'den az haberli (noindex) konular daha küçük */
+.topic-list li.is-thin a { padding: 3px 9px; font-size: 12.5px; color: var(--muted); }
+.topic-list li.is-thin .count { font-size: 11px; padding: 0 6px; }

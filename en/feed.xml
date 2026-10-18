@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 18 Oct 2026 10:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 20:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The Week in Frame (Oct. 12-18): Hormuz numbers don&#x27;t add up as diplomacy continues</title>
+    <link>https://farscadan.com/en/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</guid>
+    <pubDate>Sun, 18 Oct 2026 20:00:00 +0300</pubDate>
+    <category>Analysis</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>The Persian press, Oct. 12-18. Mine vs. attack accounts in Hormuz, indirect U.S. talks and sanctions, the Yemen front and the Turkey angle. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Attack count disputes: TASS said 22 ships in 13 days; UK center logged 12</title>
     <link>https://farscadan.com/en/haber/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/</link>
@@ -177,15 +186,6 @@
     <category>Economy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>The U.S. Federal Reserve raised interest rates for the first time since 2023, citing inflation driven by the Iran war; Trump opposed the move. (Source: Kayhan)</description>
-  </item>
-  <item>
-    <title>Flooding in Istanbul: Schools closed, public workers granted leave</title>
-    <link>https://farscadan.com/en/haber/2026-10-15-istanbul-sel-okul-tatili/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-15-istanbul-sel-okul-tatili/</guid>
-    <pubDate>Thu, 15 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Heavy rain brought flooding to Istanbul; schools closed, administrative leave granted to public workers, residents urged to stay home. (Source: ISNA)</description>
   </item>
 </channel>
 </rss>

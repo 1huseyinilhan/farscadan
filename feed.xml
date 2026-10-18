@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 18 Oct 2026 10:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 20:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Haftanın Çerçevesi (12-18 Ekim): Hürmüz&#x27;de sayılar tutmuyor, diplomasi sürüyor</title>
+    <link>https://farscadan.com/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</guid>
+    <pubDate>Sun, 18 Oct 2026 20:00:00 +0300</pubDate>
+    <category>Analiz</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Farsça basında 12-18 Ekim haftası. Hürmüz&#x27;de mayın ve saldırı anlatıları, ABD ile dolaylı yazışma ve yaptırımlar, Yemen cephesi ve Türkiye boyutu. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Hürmüz&#x27;de saldırı sayımı karışıyor: TASS &#x27;13 günde 22 gemi&#x27; dedi, İngiliz merkezi 12 saydı</title>
     <link>https://farscadan.com/haber/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/</link>
@@ -177,15 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>ABD Merkez Bankası (Fed), İran savaşının tetiklediği enflasyon baskısıyla faizi 2023&#x27;ten sonra ilk kez yükseltti; Trump bu karara karşı çıktı. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>İstanbul&#x27;da sel: okullar tatil edildi, kamu çalışanlarına izin verildi</title>
-    <link>https://farscadan.com/haber/2026-10-15-istanbul-sel-okul-tatili/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-15-istanbul-sel-okul-tatili/</guid>
-    <pubDate>Thu, 15 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Çarşamba günü İstanbul&#x27;u vuran şiddetli yağış sele yol açtı; valilik okulları tatil etti, kamu çalışanlarına izin verdi, halka evde kalma çağrısı yaptı. (Kaynak: ISNA)</description>
   </item>
 </channel>
 </rss>

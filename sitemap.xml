@@ -26,6 +26,11 @@
   <url><loc>https://farscadan.com/en/kategori/toplum/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/toplum/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/toplum/"/></url>
   <url><loc>https://farscadan.com/kategori/turkiye/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/turkiye/"/></url>
   <url><loc>https://farscadan.com/en/kategori/turkiye/</loc><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/kategori/turkiye/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/kategori/turkiye/"/></url>
+  <url><loc>https://farscadan.com/haber/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://farscadan.com/haber/2026-10-18-katar-6-milyar-dolar-iran-bloke-para/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://farscadan.com/haber/2026-10-18-uzmanlar-meclisi-hicap-abd-tehdit-bildiri/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://farscadan.com/haber/2026-10-18-ev-okulu-egitim-bakanligi-uyari/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://farscadan.com/haber/2026-10-18-kalabarg-yarane-destek-genisleme/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/</loc><lastmod>2026-10-17</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi/"/></url>
   <url><loc>https://farscadan.com/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/</loc><lastmod>2026-10-17</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia/"/></url>
   <url><loc>https://farscadan.com/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/</loc><lastmod>2026-10-17</lastmod><xhtml:link rel="alternate" hreflang="tr" href="https://farscadan.com/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/"/><xhtml:link rel="alternate" hreflang="en" href="https://farscadan.com/en/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://farscadan.com/haber/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski/"/></url>
@@ -199,10 +204,13 @@
   <url><loc>https://farscadan.com/konu/abd-kamuoyu/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/abd-kongresi/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/abd-savunma-bakanligi/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://farscadan.com/konu/abd-tehdidi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/abkayk/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://farscadan.com/konu/abluka/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://farscadan.com/konu/af-orgutu/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/aile-destegi/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://farscadan.com/konu/aileler/</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://farscadan.com/konu/al-udeid/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/alaeddin-boroujerdi/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/altin/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/ambargo/</loc><lastmod>2026-10-09</lastmod></url>
@@ -224,11 +232,13 @@
   <url><loc>https://farscadan.com/konu/beyaz-saray/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://farscadan.com/konu/bin-selman/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://farscadan.com/konu/binali-yildirim/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/bloke-para/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/bm-genel-kurulu/</loc><lastmod>2026-10-04</lastmod></url>
   <url><loc>https://farscadan.com/konu/bm-guvenlik-konseyi/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/butce-ve-planlama-orgutu/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/buyume-tahmini/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/casusluk/</loc><lastmod>2026-10-07</lastmod></url>
-  <url><loc>https://farscadan.com/konu/caydiricilik/</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://farscadan.com/konu/caydiricilik/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/centcom/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/cidde/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://farscadan.com/konu/cin/</loc><lastmod>2026-10-09</lastmod></url>
@@ -251,17 +261,19 @@
   <url><loc>https://farscadan.com/konu/doviz-sehmiyesi/</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://farscadan.com/konu/dunya-ekonomik-gorunumu/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/dunya-idam-gunu/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://farscadan.com/konu/egitim-bakanligi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/elnaz-shakerdoost/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/emdad-komitesi/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://farscadan.com/konu/enerji-diplomasisi/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://farscadan.com/konu/enerji-guvenligi/</loc><lastmod>2026-10-04</lastmod></url>
   <url><loc>https://farscadan.com/konu/enerji-ihracati/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/enerji-krizi/</loc><lastmod>2026-10-03</lastmod></url>
-  <url><loc>https://farscadan.com/konu/enflasyon/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://farscadan.com/konu/enflasyon/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/ensarallah/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/erdogan/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/ermeni-soykirimi/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/esmail-bakayi/</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ev-okulu/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/evin-cezaevi/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://farscadan.com/konu/fairford/</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://farscadan.com/konu/faiz-orani/</loc><lastmod>2026-10-15</lastmod></url>
@@ -270,7 +282,7 @@
   <url><loc>https://farscadan.com/konu/fransa/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://farscadan.com/konu/g7/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/garib-abadi/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://farscadan.com/konu/gelir-dilimi/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://farscadan.com/konu/gelir-dilimi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/gida-destegi/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://farscadan.com/konu/golge-bankacilik/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://farscadan.com/konu/golge-filo/</loc><lastmod>2026-10-17</lastmod></url>
@@ -283,12 +295,14 @@
   <url><loc>https://farscadan.com/konu/hava-savunma/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://farscadan.com/konu/havacilik/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/hazine-bakanligi/</loc><lastmod>2026-10-10</lastmod></url>
+  <url><loc>https://farscadan.com/konu/hedefli-yardimlar-orgutu/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/hicap-yasagi/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/hicap-yasasi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/hindistan/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/hrana/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://farscadan.com/konu/hurmuz/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/hurmuz-ablukasi/</loc><lastmod>2026-10-17</lastmod></url>
-  <url><loc>https://farscadan.com/konu/hurmuz-bogazi/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/hurmuz-bogazi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/hurmuzgan/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/husiler/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://farscadan.com/konu/huveyze/</loc><lastmod>2026-10-12</lastmod></url>
@@ -301,7 +315,7 @@
   <url><loc>https://farscadan.com/konu/insan-haklari/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/irak/</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://farscadan.com/konu/iran/</loc><lastmod>2026-10-16</lastmod></url>
-  <url><loc>https://farscadan.com/konu/iran-abd-muzakereleri/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://farscadan.com/konu/iran-abd-muzakereleri/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/iran-abd-savasi/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/iran-ekonomisi/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/iran-hodro/</loc><lastmod>2026-10-03</lastmod></url>
@@ -320,12 +334,13 @@
   <url><loc>https://farscadan.com/konu/j-d-vance/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/jd-vance/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://farscadan.com/konu/kabine/</loc><lastmod>2026-10-05</lastmod></url>
-  <url><loc>https://farscadan.com/konu/kalabarg/</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kalabarg/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/kamp-david/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/karcek/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/karoun-insan-haklari/</loc><lastmod>2026-10-12</lastmod></url>
-  <url><loc>https://farscadan.com/konu/katar/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/katar/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/kayhan/</loc><lastmod>2026-10-04</lastmod></url>
+  <url><loc>https://farscadan.com/konu/kayit-disi-egitim/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/khabaronline/</loc><lastmod>2026-10-04</lastmod></url>
   <url><loc>https://farscadan.com/konu/kirbac-cezasi/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/kizildeniz/</loc><lastmod>2026-10-03</lastmod></url>
@@ -338,7 +353,7 @@
   <url><loc>https://farscadan.com/konu/macron/</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://farscadan.com/konu/manchester/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/marko-rubio/</loc><lastmod>2026-10-10</lastmod></url>
-  <url><loc>https://farscadan.com/konu/mayin/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/mayin/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/mehr-ayi/</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://farscadan.com/konu/mekke-ittifaki/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://farscadan.com/konu/mekke-pakti/</loc><lastmod>2026-10-16</lastmod></url>
@@ -351,7 +366,7 @@
   <url><loc>https://farscadan.com/konu/muhammed-bakir-kalibaf/</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://farscadan.com/konu/muhammed-cevad-zarif/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/muhsin-paknejad/</loc><lastmod>2026-10-05</lastmod></url>
-  <url><loc>https://farscadan.com/konu/nakit-yardim/</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://farscadan.com/konu/nakit-yardim/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/nato/</loc><lastmod>2026-10-13</lastmod></url>
   <url><loc>https://farscadan.com/konu/necef/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/netanyahu/</loc><lastmod>2026-10-03</lastmod></url>
@@ -394,7 +409,7 @@
   <url><loc>https://farscadan.com/konu/scott-bessent/</loc><lastmod>2026-10-10</lastmod></url>
   <url><loc>https://farscadan.com/konu/secere-i-tayyibe-okulu/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/sel/</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://farscadan.com/konu/sepah/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/sepah/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/sistan-belucistan/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/sivil-kayiplar/</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://farscadan.com/konu/siyasi-mahkum/</loc><lastmod>2026-10-07</lastmod></url>
@@ -406,9 +421,11 @@
   <url><loc>https://farscadan.com/konu/subvansiyon/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/suriye/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://farscadan.com/konu/suudi-arabistan/</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tahran/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/taiz/</loc><lastmod>2026-10-08</lastmod></url>
-  <url><loc>https://farscadan.com/konu/tanker/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tanker/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/tanker-saldirilari/</loc><lastmod>2026-10-08</lastmod></url>
+  <url><loc>https://farscadan.com/konu/tass/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/teror/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/teror-komplosu/</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://farscadan.com/konu/tetik-mekanizmasi/</loc><lastmod>2026-10-03</lastmod></url>
@@ -417,13 +434,14 @@
   <url><loc>https://farscadan.com/konu/turkiye/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://farscadan.com/konu/turkmenistan/</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://farscadan.com/konu/ucus-iptali/</loc><lastmod>2026-10-13</lastmod></url>
-  <url><loc>https://farscadan.com/konu/ukmto/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/ukmto/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/ulusal-guvenlik-yasasi/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://farscadan.com/konu/uluslararasi-enerji-ajansi/</loc><lastmod>2026-10-03</lastmod></url>
   <url><loc>https://farscadan.com/konu/uluslararasi-hukuk/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/umman/</loc><lastmod>2026-10-08</lastmod></url>
   <url><loc>https://farscadan.com/konu/uranyum/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://farscadan.com/konu/uss-theodore-roosevelt/</loc><lastmod>2026-10-03</lastmod></url>
+  <url><loc>https://farscadan.com/konu/uzmanlar-meclisi/</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://farscadan.com/konu/woolwich/</loc><lastmod>2026-10-07</lastmod></url>
   <url><loc>https://farscadan.com/konu/yaptirim/</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://farscadan.com/konu/yaptirimlar/</loc><lastmod>2026-10-08</lastmod></url>

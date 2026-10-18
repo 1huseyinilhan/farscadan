@@ -33,4 +33,6 @@ The Strait of Hormuz is a narrow waterway through which a significant portion of
 
 The U.S. CENTCOM command claims that the naval blockade in the strait is "impenetrable" and that mine-clearing operations continue; however, the conflicting accounts from the parties involved make independent verification of responsibility increasingly difficult with each incident. The vessel's AIS being dark for weeks also raises questions about off-the-books navigation and hidden cargo information—practices known as "shadow fleet" operations that complicate tracking of sanctioned oil. International maritime insurance and shipping costs are affected by this ambiguity; insurers continue to apply "high-risk war zone" premiums in the region.
 
+A day later, the attack count itself became disputed: TASS reported 22 ships hit in 13 days while the UK's UKMTO recorded 12 in the same window ([Attack count disputes: TASS said 22 ships in 13 days; UK center logged 12](../2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/)).
+
 *This article is for information only; not investment advice.*

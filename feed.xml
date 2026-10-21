@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Mon, 19 Oct 2026 10:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Mekke Savunma Paktı Meclis&#x27;e sunuldu, Ankara&#x27;nın savunma ağı büyüyor</title>
+    <link>https://farscadan.com/haber/2026-10-22-mekke-pakti-meclis-badr-anlasmasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-22-mekke-pakti-meclis-badr-anlasmasi/</guid>
+    <pubDate>Thu, 22 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Türkiye&#x27;nin Suudi Arabistan ve Pakistan&#x27;la imzaladığı Mekke Paktı Meclis&#x27;e sunuldu; Katar ve Pakistan&#x27;la ayrı bir savunma sanayii anlaşması da imzalandı. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>ABD, Suudi Arabistan&#x27;daki büyükelçilik personeline tahliye emri verdi</title>
+    <link>https://farscadan.com/haber/2026-10-22-abd-buyukelcilik-tahliye-korfez/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-22-abd-buyukelcilik-tahliye-korfez/</guid>
+    <pubDate>Thu, 22 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>AFP&#x27;ye göre ABD, Suudi Arabistan&#x27;daki büyükelçilik personelini tahliye etti; Reuters, Körfez&#x27;de daha geniş bir hazırlık sürdüğünü bildirdi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>ABD Hazinesi, İran&#x27;ın &#x27;gölge filosu&#x27;na bağlı 18 hedefi yaptırımladı</title>
+    <link>https://farscadan.com/haber/2026-10-22-abd-hazine-golge-filosu-yaptirim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-22-abd-hazine-golge-filosu-yaptirim/</guid>
+    <pubDate>Thu, 22 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD Hazine Bakanlığı, İran&#x27;ın petrol kaçakçılığına yardımcı olan 5 kişi, 4 şirket ve 9 gemiyi yaptırım listesine ekledi. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>Şeybe petrol sahasına İHA saldırısı: 2 ölü, Suudi Arabistan Yemen&#x27;i vurdu</title>
+    <link>https://farscadan.com/haber/2026-10-22-seybe-petrol-sahasi-iha-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-22-seybe-petrol-sahasi-iha-saldirisi/</guid>
+    <pubDate>Thu, 22 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Suudi Enerji Bakanlığı, Aramco&#x27;ya ait Şeybe petrol sahasını hedef alan bir İHA&#x27;nın 2 işçiyi öldürdüğünü, 2&#x27;sini yaraladığını bildirdi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>İran&#x27;da iki ayda 28 vakada en az 38 kadın ve çocuk öldürüldü</title>
+    <link>https://farscadan.com/haber/2026-10-22-iran-zan-kiyimi-iki-ay-istatistik/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-22-iran-zan-kiyimi-iki-ay-istatistik/</guid>
+    <pubDate>Thu, 22 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Toplum</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Şark gazetesinin derlediği verilere göre İran&#x27;da son iki ayda 28 kadın cinayeti vakasında en az 38 kadın ve çocuk hayatını kaybetti. (Kaynak: İran International)</description>
+  </item>
   <item>
     <title>Mecliste 237 oyla onaylanan yeni savunma bakanı: &#x27;4. savaşa hazırız&#x27;</title>
     <link>https://farscadan.com/haber/2026-10-19-ahlagi-savunma-bakani-meclis-oyu/</link>
@@ -141,51 +186,6 @@
     <category>Türkiye</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Türk bakan Fidan ve eski başbakan Yıldırım, Azerbaycan hicap yasağı eleştirisinden geri adım attı; Kayhan bunu &quot;tehdit&quot; olarak sundu. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>Dey protestosunda başından vurulan Peyman Kadiri, 9 ay sonra hayatını kaybetti</title>
-    <link>https://farscadan.com/haber/2026-10-17-peyman-kadiri-dey-protestosu-olum/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-17-peyman-kadiri-dey-protestosu-olum/</guid>
-    <pubDate>Sat, 17 Oct 2026 09:00:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Dey ayaklanması protestocusu Peyman Kadiri, güvenlik güçlerinin başına ateş açtığı iddia edilen olaydan 9 ay sonra komadan çıkamayarak hayatını kaybetti. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Türkiye&#x27;de partiler Mekke Paktı&#x27;na karşı: &#x27;Ankara&#x27;yı Yemen savaşına sürüklemesin&#x27;</title>
-    <link>https://farscadan.com/haber/2026-10-16-turkiye-mekke-pakti-muhalefet-yemen-savasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-16-turkiye-mekke-pakti-muhalefet-yemen-savasi/</guid>
-    <pubDate>Fri, 16 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Türk siyasi partileri, Suudi Arabistan ile imzalanan Mekke Paktı&#x27;nın Türkiye&#x27;yi Yemen&#x27;deki çatışmaya çekebileceği uyarısında bulundu. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>İran üst düzey diplomatı: NPT&#x27;den çıkmayı ciddi bir seçenek olarak değerlendiriyoruz</title>
-    <link>https://farscadan.com/haber/2026-10-16-iran-npt-cikis-degerlendirme-lubnan/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-16-iran-npt-cikis-degerlendirme-lubnan/</guid>
-    <pubDate>Fri, 16 Oct 2026 08:50:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Kıdemli bir İran diplomatı, Tahran&#x27;ın nükleer silahların yayılmasını önleme antlaşmasından çıkmayı ciddi bir seçenek olarak incelediğini söyledi. (Kaynak: Hamşehri)</description>
-  </item>
-  <item>
-    <title>ABD Hazinesi, İran&#x27;a bağlı 16 kişi ve 10&#x27;dan fazla kurumu yaptırım listesine aldı</title>
-    <link>https://farscadan.com/haber/2026-10-16-abd-hazine-iran-yaptirim-golge-bankacilik/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-16-abd-hazine-iran-yaptirim-golge-bankacilik/</guid>
-    <pubDate>Fri, 16 Oct 2026 08:40:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD Hazine Bakanlığı, İran&#x27;ın döviz temini ve petrol gelirini sağlayan ağları hedef alarak 16 kişi ve çok sayıda kurumu yaptırım listesine ekledi. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Lübnan Merkez Bankası, İran Saderat Bankası&#x27;nın faaliyet ruhsatını iptal etti</title>
-    <link>https://farscadan.com/haber/2026-10-16-lubnan-iran-bankasi-ruhsat-iptal/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-16-lubnan-iran-bankasi-ruhsat-iptal/</guid>
-    <pubDate>Fri, 16 Oct 2026 08:30:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Bloomberg&#x27;e göre Lübnan Merkez Bankası, bölgesel kısıtlamalara paralel olarak İran Saderat Bankası&#x27;nın ruhsatını iptal etti. (Kaynak: Hamşehri)</description>
   </item>
 </channel>
 </rss>

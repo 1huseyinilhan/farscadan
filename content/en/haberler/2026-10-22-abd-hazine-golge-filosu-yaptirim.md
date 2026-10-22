@@ -26,6 +26,6 @@ Treasury Secretary Scott Bessent said in a statement: "Whether you're smuggling 
 
 ## Context
 
-This sanctions package is the latest in a series that the US has applied against Iran's "shadow fleet" throughout the year. According to Iran International, the Treasury Department had added 16 Iranians and 10 entities on October 15 and, on October 8, had sanctioned 6 individuals, 27 companies, and 22 vessels on similar grounds. The focus of sanctions is continuously expanding across oil sales, money transfers, and military supply chains; this shows that Iran is attempting to find limited alternative trade and shipping channels while the US is focused on identifying these channels one by one.
+This sanctions package is the latest in a series that the US has applied against Iran's "shadow fleet" throughout the year. According to Iran International, the Treasury Department had [added 16 Iranians and 10 entities on October 15](../2026-10-16-abd-hazine-iran-yaptirim-golge-bankacilik/) and, [on October 8, had sanctioned 6 individuals, 27 companies, and 22 vessels](../2026-10-09-abd-iran-golge-filo-yaptirim/) on similar grounds. The focus of sanctions is continuously expanding across oil sales, money transfers, and military supply chains; this shows that Iran is attempting to find limited alternative trade and shipping channels while the US is focused on identifying these channels one by one.
 
 *For information only; not investment advice.*

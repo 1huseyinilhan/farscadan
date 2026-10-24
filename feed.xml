@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Fri, 23 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Fidan&#x27;dan İstanbul zirvesinde net mesaj: Yeni saldırı savaşı büyütür</title>
+    <link>https://farscadan.com/haber/2026-10-24-fidan-istanbul-savas-karsiti-blok-bildirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-24-fidan-istanbul-savas-karsiti-blok-bildirisi/</guid>
+    <pubDate>Sat, 24 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İstanbul&#x27;daki R4+E3 zirvesinde Fidan ve Avrupalı bakanlar, İran&#x27;a yeni bir saldırının savaşı bölgede büyüteceği konusunda hemfikir olduklarını açıkladı. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>ABD&#x27;nin Ankara Büyükelçisi Barrack: İran&#x27;a saldırı bu hafta sonu mümkün</title>
+    <link>https://farscadan.com/haber/2026-10-24-tom-barrack-iran-saldiri-hafta-sonu-iddiasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-24-tom-barrack-iran-saldiri-hafta-sonu-iddiasi/</guid>
+    <pubDate>Sat, 24 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD&#x27;nin Ankara Büyükelçisi Tom Barrack, İran&#x27;a bu hafta sonu saldırı düzenlenmesinin &quot;kesinlikle mümkün&quot; olduğunu söyledi; Trump&#x27;ın mesajları çelişkili. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Petrol fiyatı 117 doları geçti: Hürmüz gerginliği ve Trump&#x27;ın çelişkili mesajları</title>
+    <link>https://farscadan.com/haber/2026-10-24-petrol-fiyati-117-dolar-hurmuz-gerginligi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-24-petrol-fiyati-117-dolar-hurmuz-gerginligi/</guid>
+    <pubDate>Sat, 24 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Küresel ham petrol fiyatı, Hürmüz gerginliği ve ABD&#x27;nin olası İran saldırısı endişesiyle 117 doların üzerine çıktı; Trump&#x27;ın mesajları çelişkili. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>İran International: Mehr ayında en az 79 kişi idam edildi</title>
+    <link>https://farscadan.com/haber/2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/</guid>
+    <pubDate>Sat, 24 Oct 2026 09:10:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran International&#x27;ın aktardığına göre yargı, Mehr ayında aralarında iki kadının bulunduğu en az 79 kişiyi farklı suçlamalarla idam etti. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>Tahran Eğitim Müdürlüğü 10 mülkü satışa çıkarıyor: Vanak&#x27;taki arsa 70 okula dönüşebilir</title>
+    <link>https://farscadan.com/haber/2026-10-24-tahran-egitim-mulk-satisi-okul-insaati/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-24-tahran-egitim-mulk-satisi-okul-insaati/</guid>
+    <pubDate>Sat, 24 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Toplum</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Tahran Eğitim Müdürlüğü 10 mülkü satışa hazırlıyor; Vanak Meydanı&#x27;ndaki bir arsanın satışı tek başına 60-70 okulun inşasını finanse edebilir. (Kaynak: ISNA)</description>
+  </item>
   <item>
     <title>İstanbul&#x27;da 7 ülke dışişleri bakanı toplandı: Hürmüz, Yemen ve İran savaşı masada</title>
     <link>https://farscadan.com/haber/2026-10-23-istanbul-disisleri-bakanlari-turkiye-hurmuz-yemen/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Macron, Fransa&#x27;daki akaryakıt zammının ABD-İran savaşından kaynaklandığını söyledi; ülkede yağma sürüyor, muhalefetten istifa çağrısı geldi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Haftanın Çerçevesi (12-18 Ekim): Hürmüz&#x27;de sayılar tutmuyor, diplomasi sürüyor</title>
-    <link>https://farscadan.com/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-haftanin-cercevesi-12-18-ekim/</guid>
-    <pubDate>Sun, 18 Oct 2026 20:00:00 +0300</pubDate>
-    <category>Analiz</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Farsça basında 12-18 Ekim haftası. Hürmüz&#x27;de mayın ve saldırı anlatıları, ABD ile dolaylı yazışma ve yaptırımlar, Yemen cephesi ve Türkiye boyutu. (Kaynak: Farsçadan)</description>
-  </item>
-  <item>
-    <title>Hürmüz&#x27;de saldırı sayımı karışıyor: TASS &#x27;13 günde 22 gemi&#x27; dedi, İngiliz merkezi 12 saydı</title>
-    <link>https://farscadan.com/haber/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi/</guid>
-    <pubDate>Sun, 18 Oct 2026 10:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>TASS&#x27;a göre Hürmüz&#x27;de 13 günde 22 gemi vuruldu; İngiliz deniz ticareti merkezi aynı haftada 12 saldırı kaydetti, Sepah da iki tankeri mayın vurdu dedi. (Kaynak: İRNA (TASS&#x27;tan aktarma))</description>
-  </item>
-  <item>
-    <title>Katar: İran&#x27;ın 6 milyar dolarlık bloke parası müzakerede güven artırıcı kart</title>
-    <link>https://farscadan.com/haber/2026-10-18-katar-6-milyar-dolar-iran-bloke-para/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-katar-6-milyar-dolar-iran-bloke-para/</guid>
-    <pubDate>Sun, 18 Oct 2026 10:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Katar Dışişleri sözcüsü, insani kanal anlaşmasıyla bloke edilen 6 milyar dolarlık İran parasının müzakerede güven artırıcı araç olarak tutulduğunu söyledi. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Uzmanlar Meclisi hicabın &#x27;kesin uygulanmasını&#x27; ve ABD tehditlerine sert yanıtı istedi</title>
-    <link>https://farscadan.com/haber/2026-10-18-uzmanlar-meclisi-hicap-abd-tehdit-bildiri/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-uzmanlar-meclisi-hicap-abd-tehdit-bildiri/</guid>
-    <pubDate>Sun, 18 Oct 2026 10:00:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Rehberi seçen ve denetleyen Uzmanlar Meclisi, hicabın kesin uygulanmasını istedi; ABD tehditlerine karşı askeri ve diplomatik hazırlık çağrısı yaptı. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Eğitim Bakanlığı &#x27;ev okulu&#x27; merkezlerine karşı harekete geçti: bazıları mühürlendi</title>
-    <link>https://farscadan.com/haber/2026-10-18-ev-okulu-egitim-bakanligi-uyari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-18-ev-okulu-egitim-bakanligi-uyari/</guid>
-    <pubDate>Sun, 18 Oct 2026 09:50:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Tahran Eğitim Bakanlığı, yasa dışı saydığı &quot;ev okulu&quot; adlı özel eğitim merkezlerini ilgili makamlara bildireceğini, bazılarının mühürlendiğini açıkladı. (Kaynak: ISNA (Kayhan&#x27;dan aktarma))</description>
   </item>
 </channel>
 </rss>

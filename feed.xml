@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 24 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>İran&#x27;ın hedef bankası büyüyor: Hürmüz&#x27;deki internet kabloları da listede</title>
+    <link>https://farscadan.com/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Lübnan&#x27;daki El Ahbar, İran&#x27;ın olası yeni bir savaşta enerji tesislerinin yanı sıra Hürmüz&#x27;deki denizaltı internet kablolarını da vuracağını yazdı. (Kaynak: Donya-e Eqtesad)</description>
+  </item>
+  <item>
+    <title>Obama, Trump&#x27;ın İran savaşına sert çıktı: Tahran artık Hürmüz&#x27;de veto hakkına sahip</title>
+    <link>https://farscadan.com/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Eski ABD Başkanı Obama, Ohio&#x27;daki seçim mitinginde Trump&#x27;ın İran savaşını ve ekonomi yönetimini eleştirdi; Hürmüz&#x27;ün Tahran&#x27;ın vetosuna girdiğini söyledi. (Kaynak: Ettelaat)</description>
+  </item>
+  <item>
+    <title>Emekli Türk amiral Yaycı: Türkiye ile savaşırsa İsrail ordusunu böcek gibi ezeriz</title>
+    <link>https://farscadan.com/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Emekli amiral Cihat Yaycı, İsrail&#x27;in Suriye&#x27;yi hedefleyen &quot;güvenlik haritası&quot;nı eleştirdi; olası bir Türkiye-İsrail savaşında tehditkâr bir dil kullandı. (Kaynak: Ettelaat)</description>
+  </item>
+  <item>
+    <title>Kalabarg krizi büyüyor: Mağazalar devletten alacaklarını alamayınca kartı kabul etmiyor</title>
+    <link>https://farscadan.com/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Devletin kalabarg borçlarını ödememesi nedeniyle İran&#x27;da et, tavuk ve meyve-sebze satan birçok mağaza gıda kuponunu artık kabul etmiyor. (Kaynak: Ettelaat)</description>
+  </item>
+  <item>
+    <title>İran&#x27;ın savunma bakanları tarihi: Ahlaki en yaşlısı oldu, dördü şehit düştü</title>
+    <link>https://farscadan.com/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</guid>
+    <pubDate>Sun, 25 Oct 2026 09:00:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Devrim sonrası 14 hükümette görev yapan 15 savunma bakanından dördü şehit oldu; yeni bakan Mehrdad Ahlaki, 73 yaşıyla göreve gelen en yaşlı isim oldu. (Kaynak: Donya-e Eqtesad)</description>
+  </item>
   <item>
     <title>Fidan&#x27;dan İstanbul zirvesinde net mesaj: Yeni saldırı savaşı büyütür</title>
     <link>https://farscadan.com/haber/2026-10-24-fidan-istanbul-savas-karsiti-blok-bildirisi/</link>
@@ -141,51 +186,6 @@
     <category>Toplum</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Şark gazetesinin derlediği verilere göre İran&#x27;da son iki ayda 28 kadın cinayeti vakasında en az 38 kadın ve çocuk hayatını kaybetti. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Mecliste 237 oyla onaylanan yeni savunma bakanı: &#x27;4. savaşa hazırız&#x27;</title>
-    <link>https://farscadan.com/haber/2026-10-19-ahlagi-savunma-bakani-meclis-oyu/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-19-ahlagi-savunma-bakani-meclis-oyu/</guid>
-    <pubDate>Mon, 19 Oct 2026 10:20:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Mehrdad Ahlaki Kitabçi, Meclis&#x27;te 237 kabul oyuyla savunma bakanı oldu; nitelik oturumunda &quot;4. savaş&quot; senaryosuna hazır olduklarını söyledi. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>Netanyahu&#x27;nun sözlerine Araqchi&#x27;den yanıt: &#x27;Bizim de bitmemiş işimiz var&#x27;</title>
-    <link>https://farscadan.com/haber/2026-10-19-araghchi-netanyahu-karsilikli-aciklamalar/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-19-araghchi-netanyahu-karsilikli-aciklamalar/</guid>
-    <pubDate>Mon, 19 Oct 2026 10:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Netanyahu İran&#x27;ın yeniden toparlanacağını söyledi; Dışişleri Bakanı Araqchi, &quot;bizim de bitmemiş işimiz var&quot; diyerek yanıt verdi. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>Rubio, Fairford saldırı planında İran değerlendirmesine katıldı</title>
-    <link>https://farscadan.com/haber/2026-10-19-fairford-iran-plan-rubio-ingiltere/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-19-fairford-iran-plan-rubio-ingiltere/</guid>
-    <pubDate>Mon, 19 Oct 2026 10:00:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD Dışişleri Bakanı Rubio, Fairford hava üssüne yönelik saldırı planında İran&#x27;ın rolüne ilişkin İngiliz değerlendirmesine Washington&#x27;ın katıldığını söyledi. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Türkiye Enerji Bakanı: Rusya-ABD gazoil anlaşmasından Türkiye de pay alacak</title>
-    <link>https://farscadan.com/haber/2026-10-19-turkiye-enerji-bakani-rusya-gazoil-anlasma/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-19-turkiye-enerji-bakani-rusya-gazoil-anlasma/</guid>
-    <pubDate>Mon, 19 Oct 2026 09:50:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Türkiye Enerji Bakanı Bayraktar, Rusya ile ABD arasındaki gazoil anlaşmasından Türkiye&#x27;nin de bir pay alacağını söyledi; anlaşmanın ayrıntıları doğrulanamadı. (Kaynak: İSNA (Kanal 7 röportajından, Donya-ye Eqtesad sitexwan&#x27;ı üzerinden))</description>
-  </item>
-  <item>
-    <title>Makron akaryakıt zammını İran savaşına bağladı, Fransa&#x27;da sokak olayları sürüyor</title>
-    <link>https://farscadan.com/haber/2026-10-19-makron-fransa-sokak-olaylari-akaryakit/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-19-makron-fransa-sokak-olaylari-akaryakit/</guid>
-    <pubDate>Mon, 19 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Macron, Fransa&#x27;daki akaryakıt zammının ABD-İran savaşından kaynaklandığını söyledi; ülkede yağma sürüyor, muhalefetten istifa çağrısı geldi. (Kaynak: Ettelaat)</description>
   </item>
 </channel>
 </rss>

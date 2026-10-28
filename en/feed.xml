@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 27 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 10:10:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Israeli election aftermath: Neither Netanyahu nor Eisenkot alliance reached 61 seats</title>
+    <link>https://farscadan.com/en/haber/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Exit polls show neither Netanyahu nor retired general Gadi Eisenkot&#x27;s alliance reached the 61 seats needed to form government; channel numbers conflict. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>US military spending against Iran reaches $47 billion, according to CENTCOM estimate</title>
+    <link>https://farscadan.com/en/haber/2026-10-28-abd-iran-savasi-maliyeti-47-milyar-dolar/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-28-abd-iran-savasi-maliyeti-47-milyar-dolar/</guid>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to The Hill, CENTCOM&#x27;s latest estimate shows US military spending against Iran has risen to $47 billion since early September. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>Russia plans to increase personnel at Bushehr Nuclear Plant to 700</title>
+    <link>https://farscadan.com/en/haber/2026-10-28-bushehr-nukleer-santral-rus-personel-artisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-28-bushehr-nukleer-santral-rus-personel-artisi/</guid>
+    <pubDate>Wed, 28 Oct 2026 09:50:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Rosatom CEO Likhachev announced that Russian personnel at Bushehr will be increased to 700; Russian embassy denied evacuation rumors. (Source: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Houthi attacks push Saudi stock market to lowest level since 2021</title>
+    <link>https://farscadan.com/en/haber/2026-10-28-suudi-borsasi-yemen-saldirilari-ekonomik-etki/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-28-suudi-borsasi-yemen-saldirilari-ekonomik-etki/</guid>
+    <pubDate>Wed, 28 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Bloomberg, continued attacks from Yemen have driven the Saudi stock market to its lowest levels in years; tourism and foreign investment at risk. (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Meetings described by Kalibaf and Mohseni-Ejei: &#x27;No vacuum in leadership&#x27; message</title>
+    <link>https://farscadan.com/en/haber/2026-10-28-iran-liderlik-soylentileri-kalibaf-mohseni-ejei/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-28-iran-liderlik-soylentileri-kalibaf-mohseni-ejei/</guid>
+    <pubDate>Wed, 28 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Domestic Politics</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Hamshahri, meetings with Kalibaf and Mohseni-Ejei convey government is functioning; health rumors unconfirmed. (Source: Hamshahri)</description>
+  </item>
   <item>
     <title>Erdoğan dismisses chief adviser Saral over Azerbaijan headscarf crisis</title>
     <link>https://farscadan.com/en/haber/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi/</link>
@@ -141,51 +186,6 @@
     <category>Domestic Politics</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Of 15 defense ministers serving in 14 governments since the Revolution, four were martyred; new minister Mehrdad Ahlaki, 73, is the oldest to take office. (Source: Donya-e Eqtesad)</description>
-  </item>
-  <item>
-    <title>Fidan sends clear message from Istanbul summit: New attack would widen war</title>
-    <link>https://farscadan.com/en/haber/2026-10-24-fidan-istanbul-savas-karsiti-blok-bildirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-24-fidan-istanbul-savas-karsiti-blok-bildirisi/</guid>
-    <pubDate>Sat, 24 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>At the R4+E3 summit in Istanbul, Fidan and European counterparts stated agreement that a new attack on Iran would widen the conflict in the region. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>US Ambassador to Ankara Barrack: Attack on Iran this weekend is possible</title>
-    <link>https://farscadan.com/en/haber/2026-10-24-tom-barrack-iran-saldiri-hafta-sonu-iddiasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-24-tom-barrack-iran-saldiri-hafta-sonu-iddiasi/</guid>
-    <pubDate>Sat, 24 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>US Ambassador to Ankara Tom Barrack said an attack on Iran this coming weekend is &quot;absolutely possible&quot;; Trump&#x27;s messaging has been contradictory. (Source: Khabaronline)</description>
-  </item>
-  <item>
-    <title>Oil price exceeds $117: Hormuz tensions and Trump&#x27;s conflicting messages</title>
-    <link>https://farscadan.com/en/haber/2026-10-24-petrol-fiyati-117-dolar-hurmuz-gerginligi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-24-petrol-fiyati-117-dolar-hurmuz-gerginligi/</guid>
-    <pubDate>Sat, 24 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Oil prices climb above $117 amid Strait of Hormuz tensions and concerns over possible US military action against Iran; Trump signals are mixed. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Iran International: At least 79 executed in the month of Mehr</title>
-    <link>https://farscadan.com/en/haber/2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/</guid>
-    <pubDate>Sat, 24 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Domestic Politics</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>According to Iran International, the judiciary executed at least 79 people, including two women, on various charges during the month of Mehr. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Tehran Education Department selling 10 properties: Vanak land could finance 70 new schools</title>
-    <link>https://farscadan.com/en/haber/2026-10-24-tahran-egitim-mulk-satisi-okul-insaati/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-24-tahran-egitim-mulk-satisi-okul-insaati/</guid>
-    <pubDate>Sat, 24 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Society</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Tehran Education Department prepares to sell 10 properties; a single parcel in Vanak Square could finance construction of 60-70 new schools. (Source: ISNA)</description>
   </item>
 </channel>
 </rss>

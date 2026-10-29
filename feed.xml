@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Wed, 28 Oct 2026 10:10:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ABD, müttefiklerini seçim sonrası olası İran saldırısına karşı uyardı</title>
+    <link>https://farscadan.com/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>AP&#x27;ye göre Washington, ara seçim sonrası İran&#x27;a olası yeni saldırılar için müttefiklerini uyardı; Katar yedi günlük bir plan öneriyor. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>Suudi Arabistan&#x27;da patlama sesleri: Yemen&#x27;e saldırılar tırmanıyor</title>
+    <link>https://farscadan.com/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Suudi Arabistan&#x27;ın doğusunda ve Necran&#x27;da patlama sesleri duyuldu; koalisyon aynı gün Yemen&#x27;e 24 saatte 101 hava ve füze saldırısı düzenledi. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>ABD istihbaratı: İran&#x27;ın yeni saldırıya 3 olası karşılığı var</title>
+    <link>https://farscadan.com/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Washington Post&#x27;a göre CIA, İran&#x27;ın yeni ABD saldırılarına Hürmüz, siber ve dış hedef seçenekleriyle karşılık verebileceğini değerlendirdi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>İsrail&#x27;de Katz-Ayzenkot çekişmesi: İran kararını kim verecek?</title>
+    <link>https://farscadan.com/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İsrail&#x27;de seçim sonucu netleşmeden Savunma Bakanı Katz, Ayzenkot&#x27;u orduyu itaatsizliğe çağırmakla suçladı; tartışma İran&#x27;a saldırı kararına uzanıyor. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>İran&#x27;da yıllık enflasyon %88,7&#x27;de: kırsal-kentsel fark büyüyor</title>
+    <link>https://farscadan.com/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran İstatistik Merkezi&#x27;ne göre mehr ayında aylık enflasyon %4,4, yıllık nokta enflasyonu %88,7 oldu; kırsal haneler kentsellerden daha çok etkilendi. (Kaynak: Kayhan)</description>
+  </item>
   <item>
     <title>İsrail&#x27;de seçim sonrası belirsizlik: Netanyahu ve Ayzenkot ittifakları çoğunluğu bulamadı</title>
     <link>https://farscadan.com/haber/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/</link>
@@ -141,51 +186,6 @@
     <category>Toplum</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Sri Lanka, ABD yaptırımı altındaki tankerlerde mahsur kalan 40 İranlı gemiciyi sağlık sorunları nedeniyle karaya çıkardı, tedavi sonrası ülkelerine gönderdi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>İran&#x27;ın hedef bankası büyüyor: Hürmüz&#x27;deki internet kabloları da listede</title>
-    <link>https://farscadan.com/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Lübnan&#x27;daki El Ahbar, İran&#x27;ın olası yeni bir savaşta enerji tesislerinin yanı sıra Hürmüz&#x27;deki denizaltı internet kablolarını da vuracağını yazdı. (Kaynak: Donya-e Eqtesad)</description>
-  </item>
-  <item>
-    <title>Obama, Trump&#x27;ın İran savaşına sert çıktı: Tahran artık Hürmüz&#x27;de veto hakkına sahip</title>
-    <link>https://farscadan.com/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Eski ABD Başkanı Obama, Ohio&#x27;daki seçim mitinginde Trump&#x27;ın İran savaşını ve ekonomi yönetimini eleştirdi; Hürmüz&#x27;ün Tahran&#x27;ın vetosuna girdiğini söyledi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Emekli Türk amiral Yaycı: Türkiye ile savaşırsa İsrail ordusunu böcek gibi ezeriz</title>
-    <link>https://farscadan.com/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Emekli amiral Cihat Yaycı, İsrail&#x27;in Suriye&#x27;yi hedefleyen &quot;güvenlik haritası&quot;nı eleştirdi; olası bir Türkiye-İsrail savaşında tehditkâr bir dil kullandı. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Kalabarg krizi büyüyor: Mağazalar devletten alacaklarını alamayınca kartı kabul etmiyor</title>
-    <link>https://farscadan.com/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Devletin kalabarg borçlarını ödememesi nedeniyle İran&#x27;da et, tavuk ve meyve-sebze satan birçok mağaza gıda kuponunu artık kabul etmiyor. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>İran&#x27;ın savunma bakanları tarihi: Ahlaki en yaşlısı oldu, dördü şehit düştü</title>
-    <link>https://farscadan.com/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Devrim sonrası 14 hükümette görev yapan 15 savunma bakanından dördü şehit oldu; yeni bakan Mehrdad Ahlaki, 73 yaşıyla göreve gelen en yaşlı isim oldu. (Kaynak: Donya-e Eqtesad)</description>
   </item>
 </channel>
 </rss>

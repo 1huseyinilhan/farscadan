@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 28 Oct 2026 10:10:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>U.S. warns allies of possible Iranian strike after midterms</title>
+    <link>https://farscadan.com/en/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Washington warned allies of a potential Iranian response after Nov. 3 midterms, AP reports; Qatar proposing a seven-day confidence plan. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Explosions in Saudi Arabia: Yemen attacks escalating</title>
+    <link>https://farscadan.com/en/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Blast sounds heard in eastern Saudi Arabia and Najran; coalition conducted 101 air and missile strikes on Yemen in 24 hours. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>CIA assessment: Iran has three response options to new U.S. strikes</title>
+    <link>https://farscadan.com/en/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Washington Post, CIA assesses that Iran could respond with Strait actions, cyber strikes, or attacks on overseas U.S. targets. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Israel&#x27;s Katz-Ayzenkot clash: Who decides on Iran?</title>
+    <link>https://farscadan.com/en/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>As Israel&#x27;s election results remain unclear, Defense Min. Katz accuses Ayzenkot of inciting military insubordination; dispute extends to Iran strike decision. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Iran&#x27;s annual inflation hits 88.7%: rural-urban gap widens</title>
+    <link>https://farscadan.com/en/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Iran Statistics Center reports 4.4% monthly inflation and 88.7% year-on-year in mehr; rural households hit harder than urban. (Source: Kayhan)</description>
+  </item>
   <item>
     <title>Israeli election aftermath: Neither Netanyahu nor Eisenkot alliance reached 61 seats</title>
     <link>https://farscadan.com/en/haber/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/</link>
@@ -141,51 +186,6 @@
     <category>Society</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Sri Lanka evacuates 40 Iranian sailors from sanctioned tankers due to health concerns, provides medical care. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Iran&#x27;s target bank expands: Submarine internet cables in the Strait of Hormuz now on the list</title>
-    <link>https://farscadan.com/en/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Lebanon&#x27;s El Ahbar reported Iran will strike submarine internet cables in the Strait of Hormuz in a potential new war, alongside energy facilities. (Source: Donya-e Eqtesad)</description>
-  </item>
-  <item>
-    <title>Obama hits Trump hard on Iran war: Tehran now has a veto on the Strait of Hormuz</title>
-    <link>https://farscadan.com/en/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-25-obama-trump-iran-savasi-hurmuz-veto/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Former U.S. President Obama criticized Trump&#x27;s Iran war and economic management at Ohio rally; said Tehran holds veto over the Strait of Hormuz. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Retired Turkish admiral Yaycı: If Turkey fights Israel, we will crush their army like insects</title>
-    <link>https://farscadan.com/en/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-25-cihat-yayci-turkiye-israil-uyari/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Retired admiral Cihat Yaycı criticized Israel&#x27;s &quot;security map&quot; targeting Syria; used threatening language about a hypothetical Turkey-Israel war. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Kalabarg crisis grows: Stores reject the card when government doesn&#x27;t pay its debts</title>
-    <link>https://farscadan.com/en/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-25-kalabarg-odeme-krizi-magazalar/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Because the government is not paying its kalabarg debts, many Iranian stores selling meat, poultry, and produce are no longer accepting the food voucher. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Iran&#x27;s defense ministers in history: Ahlaki became the oldest, four were martyred</title>
-    <link>https://farscadan.com/en/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki/</guid>
-    <pubDate>Sun, 25 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Domestic Politics</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Of 15 defense ministers serving in 14 governments since the Revolution, four were martyred; new minister Mehrdad Ahlaki, 73, is the oldest to take office. (Source: Donya-e Eqtesad)</description>
   </item>
 </channel>
 </rss>

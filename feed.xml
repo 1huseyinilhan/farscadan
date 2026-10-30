@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Thu, 29 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ABD&#x27;nin Ankara Büyükelçisi Barrack: İran&#x27;la gerginliği azaltan anlaşmaya yakınız</title>
+    <link>https://farscadan.com/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</guid>
+    <pubDate>Fri, 30 Oct 2026 09:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD&#x27;nin Ankara Büyükelçisi Tom Barrack, İran&#x27;la gerginliği azaltacak bir anlaşmaya yakın olunduğunu, iki hafta içinde ilerleme olabileceğini söyledi. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;de bir tanker bilinmeyen bir cisimle vuruldu, ayrı bir tekne yanarak battı</title>
+    <link>https://farscadan.com/haber/2026-10-30-hurmuz-tanker-ates-firlatma-cismi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-30-hurmuz-tanker-ates-firlatma-cismi/</guid>
+    <pubDate>Fri, 30 Oct 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UKMTO, Hürmüz Boğazı&#x27;ndan çıkan bir tankerin bilinmeyen bir cisimle vurulduğunu bildirdi; ayrı bir teknenin yanıp battığı da aktarıldı. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>ABD, İsrail&#x27;e Patriot bataryası gönderdi; 10 askeri uçakla &#x27;hava köprüsü&#x27; kuruldu</title>
+    <link>https://farscadan.com/haber/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik/</guid>
+    <pubDate>Fri, 30 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>WSJ&#x27;ye göre CENTCOM Komutanı Trump&#x27;a İran seçeneklerini sundu; İsrail&#x27;e Patriot bataryası ve on askeri nakliye uçağı gönderildi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Politico: Pentagon, Trump&#x27;ın savunma bütçesinde 400 milyar dolar kesebilir</title>
+    <link>https://farscadan.com/haber/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi/</guid>
+    <pubDate>Fri, 30 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Politico&#x27;ya göre Pentagon, Trump&#x27;ın talep ettiği savunma bütçesinden 400 milyar dolar kesmeye hazırlanıyor; haber İran basınında da yankı buldu. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Kalabarg&#x27;da yeni hane sınıflandırması: üst gelir grupları kapsam dışı kalabilir</title>
+    <link>https://farscadan.com/haber/2026-10-30-kalabarg-hane-siniflandirma-kriterleri/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-30-kalabarg-hane-siniflandirma-kriterleri/</guid>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran&#x27;da hükümet, haneleri varlığına göre üç gruba ayıran yeni bir kalabarg kriteri uyguluyor; üst gelir grubunun kapsam dışı kalması tartışılıyor. (Kaynak: Donya-e Eqtesad)</description>
+  </item>
   <item>
     <title>ABD, müttefiklerini seçim sonrası olası İran saldırısına karşı uyardı</title>
     <link>https://farscadan.com/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</link>
@@ -141,51 +186,6 @@
     <category>Güvenlik</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Suudi Arabistan&#x27;ın doğusundaki Dammam kentinde patlama sesleri duyuldu; FlightRadar verilerine göre Kral Fahd Havalimanı&#x27;nda uçuşlar durduruldu. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>CIA sızıntısında iddia: İsrail, Trump yönetiminden Kalibaf&#x27;ı öldürmesini istemiş</title>
-    <link>https://farscadan.com/haber/2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil/</guid>
-    <pubDate>Mon, 26 Oct 2026 10:40:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Gizli belgeleri sızdırmakla suçlanan bir CIA yüklenicisinin davasında, İsrail&#x27;in Kalibaf&#x27;ın öldürülmesini istediği iddiası ortaya çıktı; Kalibaf yanıt verdi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Netanyahu ile ordu komutanı Zamir, seçimden önce İran&#x27;a saldırı konusunda ayrıştı</title>
-    <link>https://farscadan.com/haber/2026-10-26-netanyahu-zamir-ihtilafi-iran-saldirisi-secim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-26-netanyahu-zamir-ihtilafi-iran-saldirisi-secim/</guid>
-    <pubDate>Mon, 26 Oct 2026 10:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İsrail&#x27;de Netanyahu, Genelkurmay Başkanı Zamir ile İran&#x27;a olası bir saldırının zamanlaması konusunda, Knesset seçiminden iki gün önce anlaşamadı. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Trump: Anlaşma mı yapacağız yoksa işlerini mi bitireceğiz, Katar arabuluculuğu sürüyor</title>
-    <link>https://farscadan.com/haber/2026-10-26-trump-iran-anlasma-savas-katar-arabuluculuk/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-26-trump-iran-anlasma-savas-katar-arabuluculuk/</guid>
-    <pubDate>Mon, 26 Oct 2026 10:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Trump, İran ile &quot;anlaşma mı yapacağını yoksa işini mi bitireceğini&quot; seçeceğini söyledi; Katarlı arabulucular Tahran&#x27;da gerginliği düşürmeye çalışıyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Irak&#x27;ta Çezabe sınır kapısı krizi: Başbakan, yerel yetkili hakkında soruşturma açtı</title>
-    <link>https://farscadan.com/haber/2026-10-26-cezabe-sinir-kapisi-irak-iran-gerginligi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-26-cezabe-sinir-kapisi-irak-iran-gerginligi/</guid>
-    <pubDate>Mon, 26 Oct 2026 10:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Irak Başbakanı, İran ile Çezabe (Şiib) sınır kapısının açılması için bir haftalık süre tanıyan Meysan yetkilisi hakkında soruşturma başlattı. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Sri Lanka, yaptırımlı tankerlerden 40 İranlı gemiciyi sağlık nedeniyle tahliye etti</title>
-    <link>https://farscadan.com/haber/2026-10-26-srilanka-iranli-gemiciler-tahliye-saglik/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-26-srilanka-iranli-gemiciler-tahliye-saglik/</guid>
-    <pubDate>Mon, 26 Oct 2026 10:00:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Sri Lanka, ABD yaptırımı altındaki tankerlerde mahsur kalan 40 İranlı gemiciyi sağlık sorunları nedeniyle karaya çıkardı, tedavi sonrası ülkelerine gönderdi. (Kaynak: Ettelaat)</description>
   </item>
 </channel>
 </rss>

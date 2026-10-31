@@ -5,6 +5,7 @@ esanlamlar: Kayhan
 farsca: کیهان
 kaynaklar: Radio Farda, Hardline Newspaper Kayhan Blasts Government For Brief Shutdown (14 Kasım 2017) | https://en.radiofarda.com/a/iran-hardline-newspaper-blasts-rouhani-government/28853123.html ;; Wikipedia, Kayhan (ikincil kaynak) | https://en.wikipedia.org/wiki/Kayhan
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

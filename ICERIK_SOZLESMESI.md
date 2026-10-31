@@ -127,3 +127,8 @@ guncelleme: 2026-10-18
 - **Gövde (300–600 kelime, özgün):** `## Nedir?`, `## Nasıl işler?`, `## Neden önemli?` ve isteğe bağlı `## Tartışmalar`. EN başlıklar: What is it? / How does it work? / Why does it matter? / Debates. Tarafsız ve kaynaklı yazılır. Farsça terimin okunuşu ve anlamı verilir.
 - **İlgili haberler:** Build bu listeyi `esanlamlar` ile otomatik üretir; gövdeye yazılmaz.
 - **Eşanlam kuralı (build dersi, 18.10):** Eşanlamlılar gövdede otomatik bağlantı üretir, bu yüzden **ayırt edici** olmalı. Genel ifadeler kullanılmaz ("bin tümen", "nükleer anlaşma" gibi ifadeler her fiyat ya da diplomasi haberini bağlar). Yalnızca haberlerde gerçekten geçen özel adlar ve terimler yazılır. Farsça yazı gövdede kullanılmaz (sağdan sola yazım bozulur); Farsça yalnızca `farsca` alanına yazılır, gövdede Latin harfli okunuşu verilir.
+
+### Editör onayı (`editor_onay`)
+- Editör bir yazıyı onaylayınca ön bilgiye `editor_onay: YYYY-MM-DD` eklenir (TR ve EN dosyasına aynı tarih).
+- Haberde ve sözlük maddesinde "Editör onayı: Farsçadan Editörlüğü, <tarih>" / "Reviewed by Farsçadan Editors on <date>" satırı görünür.
+- Yalnızca site sahibinin açıkça onayladığı içeriğe eklenir; model kendi başına asla eklemez.

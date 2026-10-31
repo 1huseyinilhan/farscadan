@@ -5,6 +5,7 @@ esanlamlar: Supreme Leader, Khamenei
 farsca: رهبری / ولایت فقیه
 kaynaklar: Iran Constitution (1989), Constitute Project | https://www.constituteproject.org/constitution/Iran_1989 ;; Fortune / Associated Press, Iran's Assembly of Experts picks 56-year-old Mojtaba Khamenei as next supreme leader (March 9, 2026) | https://fortune.com/2026/03/09/irans-assembly-of-experts-picks-56-year-old-mojtaba-khamenei-as-next-supreme-leader ;; Wikipedia, Mojtaba Khamenei (secondary source) | https://en.wikipedia.org/wiki/Mojtaba_Khamenei
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

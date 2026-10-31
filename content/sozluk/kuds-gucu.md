@@ -5,6 +5,7 @@ esanlamlar: Kudüs Gücü
 farsca: نیروی قدس
 kaynaklar: Council on Foreign Relations, Iran's Revolutionary Guards | https://www.cfr.org/backgrounder/irans-revolutionary-guards ;; ABD Hazine Bakanlığı, IRGC ve Kudüs Gücü listelemeleri (13 Ekim 2017) | https://home.treasury.gov/news/press-releases/sm0177 ;; Wikipedia, Quds Force (ikincil kaynak) | https://en.wikipedia.org/wiki/Quds_Force
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

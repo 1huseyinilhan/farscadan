@@ -5,6 +5,7 @@ esanlamlar: Tasnim, Tesnim
 farsca: خبرگزاری تسنیم / خبرگزاری فارس
 kaynaklar: ABD Hazine Bakanlığı, Mahsa Amini'nin ölüm yıl dönümü öncesi yaptırımlar (15 Eylül 2023) | https://home.treasury.gov/news/press-releases/jy1733 ;; Wikipedia, Tasnim News Agency (ikincil kaynak) | https://en.wikipedia.org/wiki/Tasnim_News_Agency ;; Wikipedia, Fars News Agency (ikincil kaynak) | https://en.wikipedia.org/wiki/Fars_News_Agency
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

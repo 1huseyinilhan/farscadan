@@ -5,6 +5,7 @@ esanlamlar: IRGC, Revolutionary Guards, Islamic Revolutionary Guard Corps, Sepah
 farsca: سپاه پاسداران انقلاب اسلامی
 kaynaklar: Council on Foreign Relations, Iran's Revolutionary Guards | https://www.cfr.org/backgrounder/irans-revolutionary-guards ;; U.S. Department of the Treasury, designation of the IRGC under counterterrorism authority (October 13, 2017) | https://home.treasury.gov/news/press-releases/sm0177
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

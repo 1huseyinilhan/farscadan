@@ -5,6 +5,7 @@ esanlamlar: Tasnim
 farsca: خبرگزاری تسنیم / خبرگزاری فارس
 kaynaklar: U.S. Department of the Treasury, sanctions ahead of the anniversary of Mahsa Amini's death (September 15, 2023) | https://home.treasury.gov/news/press-releases/jy1733 ;; Wikipedia, Tasnim News Agency (secondary source) | https://en.wikipedia.org/wiki/Tasnim_News_Agency ;; Wikipedia, Fars News Agency (secondary source) | https://en.wikipedia.org/wiki/Fars_News_Agency
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

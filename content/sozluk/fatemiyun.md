@@ -5,6 +5,7 @@ esanlamlar: Fatemiyun, Fatemiyun Tümeni
 farsca: لشکر فاطمیون
 kaynaklar: ABD Hazine Bakanlığı, Fatemiyun Tümeni ve Zeynebiyun Tugayı listelemesi (24 Ocak 2019) | https://home.treasury.gov/news/press-releases/sm590 ;; Human Rights Watch, Iran: Afghan Children Recruited to Fight in Syria (1 Ekim 2017) | https://www.hrw.org/news/2017/10/01/iran-afghan-children-recruited-fight-syria
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

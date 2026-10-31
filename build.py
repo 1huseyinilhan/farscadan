@@ -120,7 +120,7 @@ T = {
         "gl_lead": "İran haberlerinde sık geçen kavramların kısa, kaynaklı açıklamaları.",
         "gl_desc": "%s sözlüğü: İran gündeminde sık geçen kavramların kaynaklı açıklamaları.",
         "gl_set": "%s Sözlüğü", "gl_empty": "Sözlükte henüz kavram yok. Yeni maddeler eklendikçe burada görünecek.",
-        "gl_letters": "Harfler", "gl_sources": "Kaynaklar", "gl_updated": "Son güncelleme:",
+        "gl_letters": "Harfler", "gl_sources": "Kaynaklar", "gl_updated": "Son güncelleme:", "reviewed": "Editör onayı:",
         "gl_related": "İlgili haberler", "gl_no_related": "Bu kavramın geçtiği haber henüz yok.",
         "key_terms": "Kavramlar",
     },
@@ -165,7 +165,7 @@ T = {
         "gl_lead": "Short, sourced explanations of terms that come up often in news from Iran.",
         "gl_desc": "%s glossary: sourced explanations of terms that come up often in news from Iran.",
         "gl_set": "%s Glossary", "gl_empty": "The glossary has no entries yet. New entries will appear here as they are added.",
-        "gl_letters": "Letters", "gl_sources": "Sources", "gl_updated": "Last updated:",
+        "gl_letters": "Letters", "gl_sources": "Sources", "gl_updated": "Last updated:", "reviewed": "Reviewed by",
         "gl_related": "Related stories", "gl_no_related": "No stories mention this term yet.",
         "key_terms": "Key terms",
     },
@@ -195,6 +195,25 @@ def fmt_date(d, lang):
         return "%s %d, %d" % (MONTHS["en"][d.month - 1], d.day, d.year)
     return "%d %s %d" % (d.day, MONTHS["tr"][d.month - 1], d.year)
 
+
+
+def reviewed_line(meta, t, lang, page):
+    """`editor_onay: YYYY-MM-DD` ön bilgisi → görünür editör onayı satırı (31.10, AdSense insan katkısı)."""
+    v = (meta.get("editor_onay") or "").strip()
+    if not v:
+        return ""
+    try:
+        d = dt.date.fromisoformat(v[:10])
+    except ValueError:
+        warn("editor_onay okunamadı '%s'" % v)
+        return ""
+    if lang == "en":
+        txt = '%s <a href="%s">%s</a> on <time datetime="%s">%s</time>' % (
+            esc(t["reviewed"]), page.r("editor"), esc(t["editors"]), d.isoformat(), fmt_date(d, lang))
+    else:
+        txt = '%s <a href="%s">%s</a>, <time datetime="%s">%s</time>' % (
+            esc(t["reviewed"]), page.r("editor"), esc(t["editors"]), d.isoformat(), fmt_date(d, lang))
+    return '<p class="reviewed">%s</p>' % txt
 
 def tr_date(d):
     return fmt_date(d, "tr")
@@ -566,7 +585,7 @@ def load_glossary(include_samples, lang):
         terms.append({
             "file": shown, "lang": lang, "slug": slug, "terim": meta["terim"], "ozet": meta["ozet"],
             "farsca": meta.get("farsca", ""), "kaynaklar": parse_sources(meta.get("kaynaklar", "")),
-            "guncelleme": upd, "body": body, "aliases": aliases,
+            "guncelleme": upd, "body": body, "aliases": aliases, "meta": meta,
             "patterns": [alias_pattern(al, lang) for al in aliases],
             "arts": [],
         })
@@ -1233,6 +1252,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
   {kaynak}
   {ek}
   {tags}
+  {rev}
   <p class="disclaimer">{note_pre}<a href="{il}">{nl}</a>{note_post}</p>
   <!-- AD_SLOT: article-bottom (haber sonu reklam alanı; şimdilik boş) -->
 </article>
@@ -1246,7 +1266,8 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
                  body=body_html, kaynak=kaynak, ek=ek, tags=tags, share=share,
                  kc=kicker_cat(a, page), key_terms=key_terms,
                  note_pre=esc(t["an_note_pre"] if analysis else t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
-                 note_post=esc(t["note_post"]), related=related, copy=COPY_SCRIPT)
+                 note_post=esc(t["note_post"]), related=related, copy=COPY_SCRIPT,
+                 rev=reviewed_line(m, t, lang, page))
     alts = None
     if counterpart:
         alts = {lg: PFX[lg] + "haber/%s/" % a["slug"] for lg in LANGS}
@@ -1312,6 +1333,7 @@ def build_glossary(cfg, terms, other_terms, lang):
         if g["guncelleme"]:
             upd = ('<p class="term-updated">%s <time datetime="%s">%s</time></p>'
                    % (esc(t["gl_updated"]), g["guncelleme"].isoformat(), fmt_date(g["guncelleme"], lang)))
+        upd += reviewed_line(g["meta"], t, lang, page)
         rel_arts = g["arts"][:GLOSS_MAX_RELATED]
         if rel_arts:
             related = ('<div class="grid">%s</div>' % "".join(card(a, page) for a in rel_arts))

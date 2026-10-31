@@ -5,6 +5,7 @@ esanlamlar: JCPOA, Barjam
 farsca: برجام
 kaynaklar: Arms Control Association, The Joint Comprehensive Plan of Action (JCPOA) at a Glance | https://www.armscontrol.org/factsheets/joint-comprehensive-plan-action-jcpoa-glance ;; Wikipedia, Joint Comprehensive Plan of Action (ikincil kaynak) | https://en.wikipedia.org/wiki/Joint_Comprehensive_Plan_of_Action
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

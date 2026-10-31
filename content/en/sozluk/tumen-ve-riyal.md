@@ -5,6 +5,7 @@ esanlamlar: toman, rials
 farsca: تومان / ریال
 kaynaklar: Gulf News, Iran approves plan to slash four zeros from currency (October 5, 2025) | https://gulfnews.com/world/mena/iran-approves-plan-to-slash-four-zeros-from-currency-1.500295059 ;; bne IntelliNews, Iran revives currency redenomination bill but keeps 'rial' as official unit | https://www.intellinews.com/iran-revives-currency-redenomination-bill-but-keeps-rial-as-official-unit-394273/
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

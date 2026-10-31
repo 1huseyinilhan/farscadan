@@ -5,6 +5,7 @@ esanlamlar: Devrim Muhafızları, Sepah, IRGC
 farsca: سپاه پاسداران انقلاب اسلامی
 kaynaklar: Council on Foreign Relations, Iran's Revolutionary Guards | https://www.cfr.org/backgrounder/irans-revolutionary-guards ;; ABD Hazine Bakanlığı, IRGC'nin terörle mücadele yetkisiyle listelenmesi (13 Ekim 2017) | https://home.treasury.gov/news/press-releases/sm0177
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

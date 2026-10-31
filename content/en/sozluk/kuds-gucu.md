@@ -5,6 +5,7 @@ esanlamlar: Quds Force
 farsca: نیروی قدس
 kaynaklar: Council on Foreign Relations, Iran's Revolutionary Guards | https://www.cfr.org/backgrounder/irans-revolutionary-guards ;; U.S. Department of the Treasury, IRGC and Quds Force designations (October 13, 2017) | https://home.treasury.gov/news/press-releases/sm0177 ;; Wikipedia, Quds Force (secondary source) | https://en.wikipedia.org/wiki/Quds_Force
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

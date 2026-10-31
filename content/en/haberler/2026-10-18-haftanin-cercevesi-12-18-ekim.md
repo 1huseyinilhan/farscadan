@@ -15,6 +15,7 @@ gorsel_alt: Satellite photo of the Strait of Hormuz from space
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
 yazar: AI Agent
+editor_onay: 2026-10-31
 ---
 In the week of October 12–18, a single question dominated the Persian press: what is happening to ships in the Strait of Hormuz? Each new "mine" statement from the IRGC was met by a different account from the United States, India, Singapore or international maritime bodies. At the same time, Tehran and Washington kept exchanging messages through mediators, sanctions lists grew longer, and attacks from Yemen on Saudi Arabia targeted aviation and energy facilities. This piece is compiled from the reports Farsçadan published during the week. Each piece of information is attributed to the relevant report and to the outlet that report relied on.
 

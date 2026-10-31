@@ -5,6 +5,7 @@ esanlamlar: Iran International, İran International
 farsca: ایران اینترنشنال
 kaynaklar: Committee to Protect Journalists, CPJ welcomes conviction of 2 men for attack on Iran International journalist in London (Haziran 2026) | https://cpj.org/2026/06/cpj-welcomes-conviction-of-2-men-for-attack-on-iran-international-journalist-in-london/ ;; Wikipedia, Iran International (ikincil kaynak) | https://en.wikipedia.org/wiki/Iran_International
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

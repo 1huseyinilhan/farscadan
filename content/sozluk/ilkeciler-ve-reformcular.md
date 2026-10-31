@@ -5,6 +5,7 @@ esanlamlar: ilkeci, reformcu
 farsca: اصولگرایان / اصلاح‌طلبان
 kaynaklar: Wikipedia, Iranian principlists (ikincil kaynak) | https://en.wikipedia.org/wiki/Iranian_principlists ;; Wikipedia, Political factions in Iran (ikincil kaynak) | https://en.wikipedia.org/wiki/Political_factions_in_Iran ;; Iran Constitution (1989), Constitute Project | https://www.constituteproject.org/constitution/Iran_1989
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

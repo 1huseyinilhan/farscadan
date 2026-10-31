@@ -5,6 +5,7 @@ esanlamlar: Strait of Hormuz, Hormuz
 farsca: تنگه هرمز
 kaynaklar: International Energy Agency (IEA), Strait of Hormuz | https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz ;; U.S. Energy Information Administration (EIA), Amid regional conflict, the Strait of Hormuz remains critical oil chokepoint (June 16, 2025) | https://www.eia.gov/todayinenergy/detail.php?id=65504 ;; Wikipedia, Strait of Hormuz (secondary source) | https://en.wikipedia.org/wiki/Strait_of_Hormuz
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

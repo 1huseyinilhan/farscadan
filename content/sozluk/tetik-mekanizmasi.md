@@ -5,6 +5,7 @@ esanlamlar: tetik mekanizması, snapback
 farsca: مکانیسم ماشه
 kaynaklar: Mayer Brown, EU Reintroduces Sanctions Against Iran Following UN Snapback (Ekim 2025) | https://www.mayerbrown.com/en/insights/publications/2025/10/eu-reintroduces-sanctions-against-iran-following-un-snapback ;; Arms Control Association, The Joint Comprehensive Plan of Action (JCPOA) at a Glance | https://www.armscontrol.org/factsheets/joint-comprehensive-plan-action-jcpoa-glance ;; Wikipedia, Snapback mechanism of sanctions against Iran (ikincil kaynak) | https://en.wikipedia.org/wiki/Snapback_mechanism_of_sanctions_against_Iran
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

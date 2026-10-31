@@ -5,6 +5,7 @@ esanlamlar: kalabarg, food card, food voucher
 farsca: کالابرگ
 kaynaklar: Wikipedia, National Credit Network (secondary source) | https://en.wikipedia.org/wiki/National_Credit_Network ;; NIAC, Iran Moves to Freeze Food Prices and Steady the Rial (October 7, 2026) | https://niacouncil.org/iran-moves-to-freeze-food-prices-and-steady-the-rial-as-households-face-mounting-costs/
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

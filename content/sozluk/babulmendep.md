@@ -5,6 +5,7 @@ esanlamlar: Babülmendep
 farsca: تنگه باب‌المندب
 kaynaklar: ABD Enerji Bilgi İdaresi (EIA), Red Sea chokepoints are critical for international oil and natural gas flows (4 Aralık 2023) | https://www.eia.gov/todayinenergy/detail.php?id=61025 ;; Wikipedia, Bab-el-Mandeb (ikincil kaynak) | https://en.wikipedia.org/wiki/Bab-el-Mandeb
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## Nedir?
 

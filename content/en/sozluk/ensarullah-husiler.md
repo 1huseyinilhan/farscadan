@@ -5,6 +5,7 @@ esanlamlar: Ansarallah, Ansarullah, Houthis, Houthi
 farsca: انصارالله
 kaynaklar: Council on Foreign Relations, Iran's Support of the Houthis - What to Know | https://www.cfr.org/articles/irans-support-houthis-what-know ;; Council on Foreign Relations, Who Are Yemen's Houthis? | https://www.cfr.org/articles/who-are-yemens-houthis ;; Wikipedia, Houthis (secondary source) | https://en.wikipedia.org/wiki/Houthis
 guncelleme: 2026-10-18
+editor_onay: 2026-10-31
 ---
 ## What is it?
 

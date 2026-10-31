@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 30 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:20:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Fourth tanker caught fire in Hormuz: Sepah says mine, FT says attack</title>
+    <link>https://farscadan.com/en/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>A supertanker caught fire in Hormuz; Sepah blamed a mine, FT reported deliberate attack with sticky mine. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>Qatar&#x27;s mediators shuttled between Tehran and Doha; framework claim persists</title>
+    <link>https://farscadan.com/en/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Qatari mediators spent 12 hours in Tehran; Al Arabiya claims draft includes uranium transfer and Chinese guarantor role. (Source: Donya-ye Eqtesad)</description>
+  </item>
+  <item>
+    <title>Canadian intelligence: We thwarted Iran&#x27;s \&quot;lethal\&quot; plots</title>
+    <link>https://farscadan.com/en/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>CSIS and RCMP confirmed they have thwarted lethal plots by Iranian intelligence services operating in Canada. (Source: IranIntl)</description>
+  </item>
+  <item>
+    <title>U.S. Treasury: Iran&#x27;s inflation climbed to 90%, rial lost a quarter of value in one month</title>
+    <link>https://farscadan.com/en/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</guid>
+    <pubDate>Sat, 31 Oct 2026 08:50:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to a U.S. Treasury report, Iran&#x27;s annual inflation reached 90% in September; the rial has fallen 25% since August. (Source: IranIntl)</description>
+  </item>
+  <item>
+    <title>Despite Erdoğan&#x27;s personal invitation, Aliyev skipped the Ankara summit of Turkic states</title>
+    <link>https://farscadan.com/en/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</guid>
+    <pubDate>Sat, 31 Oct 2026 08:40:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Azerbaijani President Aliyev declined to attend the Turkic States summit in Ankara despite President Erdoğan&#x27;s personal invitation; tensions escalate. (Source: ISNA)</description>
+  </item>
   <item>
     <title>U.S. Ankara Ambassador Barrack: We&#x27;re close to a deal reducing tension with Iran</title>
     <link>https://farscadan.com/en/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</link>
@@ -141,51 +186,6 @@
     <category>Domestic Politics</category>
     <dc:creator>AI Agent</dc:creator>
     <description>According to Hamshahri, meetings with Kalibaf and Mohseni-Ejei convey government is functioning; health rumors unconfirmed. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Erdoğan dismisses chief adviser Saral over Azerbaijan headscarf crisis</title>
-    <link>https://farscadan.com/en/haber/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Presidential chief adviser Oktay Saral, who criticized Azerbaijan&#x27;s school headscarf ban, was dismissed on Sunday at Baku&#x27;s request. (Source: Kayhan)</description>
-  </item>
-  <item>
-    <title>Four-way summit in Tehran: MIT chief Kalin meets Rezaei on regional security</title>
-    <link>https://farscadan.com/en/haber/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Top officials from Turkey, Saudi Arabia and Pakistan meet Iranian counterparts in Tehran to discuss regional security; talks end without consensus. (Source: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Jordan&#x27;s airstrikes on Syria&#x27;s Dera: death toll disputed among sources</title>
-    <link>https://farscadan.com/en/haber/2026-10-27-urdun-suriye-dera-hava-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-27-urdun-suriye-dera-hava-saldirisi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Jordanian warplanes struck Syria&#x27;s Dera province at night; a family home was hit, with death toll ranging from 8 to 10 according to sources. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Oman FM: U.S. portrays Iran as threat, obstructs regional peace</title>
-    <link>https://farscadan.com/en/haber/2026-10-27-umman-disisleri-bakani-korfez-guvenligi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-27-umman-disisleri-bakani-korfez-guvenligi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Oman&#x27;s Foreign Minister Badr al-Busaidi says Gulf security cannot be achieved without Iran and that the U.S. is obstructing peace. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Explosions in Dammam: King Fahd Airport suspends flights</title>
-    <link>https://farscadan.com/en/haber/2026-10-27-dammam-havalimani-patlama-ucuslar/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-27-dammam-havalimani-patlama-ucuslar/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Explosion sounds reported in Dammam, eastern Saudi Arabia; King Fahd Airport suspends flights, according to FlightRadar data. (Source: IRNA)</description>
   </item>
 </channel>
 </rss>

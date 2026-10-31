@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Fri, 30 Oct 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 09:20:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Hürmüz&#x27;de 4. tanker alev aldı: Sepah mina dedi, FT saldırı iddia etti</title>
+    <link>https://farscadan.com/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:20:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Hürmüz&#x27;de bir süpertanker alev aldı; Sepah mayına çarpma dedi, FT yapışkan minayla kasıtlı saldırı olduğunu yazdı. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Katar arabulucuları Tahran-Doha arasında mekik dokudu, çerçeve iddiası sürüyor</title>
+    <link>https://farscadan.com/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Katarlı arabulucular Tahran&#x27;da 12 saat görüştü; El Arabiye&#x27;ye göre taslak çerçeve uranyum transferini ve Çin garantörlüğünü içeriyor. (Kaynak: Donya-ye Eqtesad)</description>
+  </item>
+  <item>
+    <title>Kanada istihbaratı: İran&#x27;ın \&quot;ölümcül\&quot; komplolarını etkisiz hale getirdik</title>
+    <link>https://farscadan.com/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</guid>
+    <pubDate>Sat, 31 Oct 2026 09:00:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>CSIS ve RCMP, İran&#x27;a bağlı istihbarat servislerinin Kanada&#x27;daki ölümcül komplolarını etkisiz hale getirdiklerini doğruladı. (Kaynak: IranIntl)</description>
+  </item>
+  <item>
+    <title>ABD Hazinesi: İran&#x27;da enflasyon %90&#x27;a çıktı, riyal bir ayda çeyrek değer kaybetti</title>
+    <link>https://farscadan.com/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</guid>
+    <pubDate>Sat, 31 Oct 2026 08:50:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD Hazine Bakanlığı raporuna göre İran&#x27;da yıllık enflasyon %90&#x27;a ulaştı, riyal ağustostan bu yana %25 değer kaybetti. (Kaynak: IranIntl)</description>
+  </item>
+  <item>
+    <title>Aliyev, Erdoğan&#x27;ın kişisel davetine rağmen Ankara&#x27;daki Türk Devletleri zirvesine gitmedi</title>
+    <link>https://farscadan.com/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</guid>
+    <pubDate>Sat, 31 Oct 2026 08:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Azerbaycan Cumhurbaşkanı Aliyev, Erdoğan&#x27;ın kişisel davetine rağmen Türk Devletleri zirvesine katılmadı; gerginlik iddiaları güçlendi. (Kaynak: ISNA)</description>
+  </item>
   <item>
     <title>ABD&#x27;nin Ankara Büyükelçisi Barrack: İran&#x27;la gerginliği azaltan anlaşmaya yakınız</title>
     <link>https://farscadan.com/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</link>
@@ -141,51 +186,6 @@
     <category>İç Politika</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Hamşehri&#x27;ye göre Kalibaf ve Mohseni-Ejei&#x27;nin görüşme ayrıntıları, ülke yönetiminde aksama olmadığı mesajı için kullanılıyor; sağlık söylentileri doğrulanmadı. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Erdoğan, Azerbaycan&#x27;la başörtüsü krizinde baş müşaviri Oktay Saral&#x27;ı görevden aldı</title>
-    <link>https://farscadan.com/haber/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Cumhurbaşkanlığı baş müşaviri Oktay Saral, Azerbaycan&#x27;daki okul başörtüsü yasağını eleştirmişti; Bakü&#x27;nün talebiyle görevden alındı. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>Tahran&#x27;da dörtlü zirve: MİT Başkanı Kalın, Rezaî ile bölge güvenliğini görüştü</title>
-    <link>https://farscadan.com/haber/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Türkiye, Suudi Arabistan ve Pakistanın üst düzey yetkilileri Tahran&#x27;da İranlı mevkidaşlarıyla bölge güvenliğini görüştü; taraflar sonuçta ayrıştı. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Ürdün&#x27;ün Suriye&#x27;nin Dera iline hava saldırısında ölü sayısı kaynaklara göre değişti</title>
-    <link>https://farscadan.com/haber/2026-10-27-urdun-suriye-dera-hava-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-27-urdun-suriye-dera-hava-saldirisi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Ürdün savaş uçaklarının Suriye&#x27;nin Dera iline saldırısında bir ailenin evi vuruldu; ölü sayısı kaynaklara göre 8 ile 10 arasında değişiyor. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Umman Dışişleri Bakanı: ABD, İran&#x27;ı tehdit göstererek bölgede barışın önüne geçiyor</title>
-    <link>https://farscadan.com/haber/2026-10-27-umman-disisleri-bakani-korfez-guvenligi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-27-umman-disisleri-bakani-korfez-guvenligi/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Umman Dışişleri Bakanı Bedir el-Busaidi, Körfez güvenliğinin İran&#x27;sız sağlanamayacağını ve ABD&#x27;nin barışı engellediğini söyledi. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Dammam&#x27;da patlama sesleri: Kral Fahd Havalimanı&#x27;nda uçuşlar durdu</title>
-    <link>https://farscadan.com/haber/2026-10-27-dammam-havalimani-patlama-ucuslar/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-27-dammam-havalimani-patlama-ucuslar/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Suudi Arabistan&#x27;ın doğusundaki Dammam kentinde patlama sesleri duyuldu; FlightRadar verilerine göre Kral Fahd Havalimanı&#x27;nda uçuşlar durduruldu. (Kaynak: IRNA)</description>
   </item>
 </channel>
 </rss>

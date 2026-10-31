@@ -245,3 +245,12 @@ button:hover { filter: brightness(1.08); }
 .topic-list li.is-thin .count { font-size: 11px; padding: 0 6px; }
 .reviewed { font-size: 14px; color: var(--muted); margin: 18px 0 6px; }
 .reviewed a { color: inherit; font-weight: 600; }
+/* Bülten (31.10) */
+.nl-form { margin: 20px 0; }
+.nl-compact { border: 1px solid var(--border); background: var(--accent-soft); border-radius: var(--radius); padding: 16px 18px; margin: 26px 0 10px; }
+.nl-title { font-weight: 700; margin: 0 0 4px; }
+.nl-desc { margin: 0 0 10px; color: var(--muted); font-size: 15px; }
+.nl-row { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 6px; }
+.nl-row input[type=email] { flex: 1 1 220px; min-width: 0; padding: 10px 12px; font: inherit; font-size: 16px; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; }
+.nl-row button { flex: 0 0 auto; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

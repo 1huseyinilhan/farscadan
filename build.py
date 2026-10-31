@@ -76,6 +76,7 @@ ROUTES = {
     "topics": {"tr": "konular/", "en": "en/topics/"},
     "glossary": {"tr": "sozluk/", "en": "en/glossary/"},
     "feed": {"tr": "feed.xml", "en": "en/feed.xml"},
+    "newsletter": {"tr": "bulten/", "en": "en/newsletter/"},
 }
 
 # Arayüz metinleri (tek sözlük, dile göre)
@@ -83,7 +84,7 @@ T = {
     "tr": {
         "html_lang": "tr", "og_locale": "tr_TR", "skip": "İçeriğe geç",
         "home": "Ana sayfa", "about": "Hakkımızda", "contact": "İletişim",
-        "standards": "Yayın İlkeleri", "editor": "Editörlük", "privacy": "Gizlilik",
+        "standards": "Yayın İlkeleri", "editor": "Editörlük", "privacy": "Gizlilik", "newsletter": "Haftalık Bülten",
         "topics": "Konular", "rss": "RSS",
         "nav_main": "Ana menü", "nav_footer": "Alt menü", "nav_lang": "Dil seçimi",
         "ai_note": "İçerikler yapay zekâ desteğiyle çevrilmekte ve insan editoryal denetimi altında yayımlanmaktadır.",
@@ -127,7 +128,7 @@ T = {
     "en": {
         "html_lang": "en", "og_locale": "en_US", "skip": "Skip to content",
         "home": "Home", "about": "About", "contact": "Contact",
-        "standards": "Editorial Standards", "editor": "Editorial Oversight", "privacy": "Privacy",
+        "standards": "Editorial Standards", "editor": "Editorial Oversight", "privacy": "Privacy", "newsletter": "Weekly Newsletter",
         "topics": "Topics", "rss": "RSS",
         "nav_main": "Main menu", "nav_footer": "Footer menu", "nav_lang": "Language",
         "ai_note": "Stories are translated with AI assistance and published under human editorial oversight.",
@@ -845,7 +846,7 @@ def footer(cfg, page):
       <li><a href="{gl}">{gl_l}</a></li>
       <li><a href="{pr}">{pr_l}</a></li>
       <li><a href="{co}">{co_l}</a></li>
-      <li><a href="{feed}">RSS</a></li>
+      {nll}      <li><a href="{feed}">RSS</a></li>
       <li><a href="https://x.com/farscadancom" rel="noopener me" target="_blank">X (@farscadancom)</a></li>
     </ul></nav>
     <p class="ai-note">{ai}</p>
@@ -873,6 +874,7 @@ if(btn)btn.addEventListener("click",function(){{try{{localStorage.setItem(k,"1")
            pr=page.r("privacy"), pr_l=esc(t["privacy"]),
            co=page.r("contact"), co_l=esc(t["contact"]),
            feed=page.r("feed"), ai=esc(t["ai_note"]),
+           nll=('<li><a href="%s">%s</a></li>\n      ' % (page.r("newsletter"), esc(t["newsletter"]))) if newsletter_user(cfg) else "",
            ca=esc(t["cookie_aria"]), ct=esc(t["cookie_text"]), cl=esc(t["cookie_link"]),
            ok=esc(t["cookie_ok"]))
 
@@ -1252,6 +1254,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
   {kaynak}
   {ek}
   {tags}
+  {nlbox}
   {rev}
   <p class="disclaimer">{note_pre}<a href="{il}">{nl}</a>{note_post}</p>
   <!-- AD_SLOT: article-bottom (haber sonu reklam alanı; şimdilik boş) -->
@@ -1267,7 +1270,8 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
                  kc=kicker_cat(a, page), key_terms=key_terms,
                  note_pre=esc(t["an_note_pre"] if analysis else t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
                  note_post=esc(t["note_post"]), related=related, copy=COPY_SCRIPT,
-                 rev=reviewed_line(m, t, lang, page))
+                 rev=reviewed_line(m, t, lang, page),
+                 nlbox=newsletter_form(cfg, page, lang, compact=True) if newsletter_user(cfg) else "")
     alts = None
     if counterpart:
         alts = {lg: PFX[lg] + "haber/%s/" % a["slug"] for lg in LANGS}
@@ -1459,6 +1463,69 @@ def contact_form(cfg, page, lang):
 </form>""".format(ep=esc(endpoint), next=esc(abs_url(cfg, ROUTES["thanks"]["en"])), priv=page.r("privacy"))
 
 
+def newsletter_user(cfg):
+    """Bülten (31.10): Buttondown kullanıcı adı site.json'da `bulten_buttondown`. Boşsa form gösterilmez."""
+    return (cfg.get("bulten_buttondown") or "").strip()
+
+
+def newsletter_form(cfg, page, lang, compact=False):
+    u = newsletter_user(cfg)
+    if not u:
+        return '<p class="notice">%s</p>' % (
+            "Bülten aboneliği çok yakında açılacak." if lang == "tr" else "Newsletter sign-up opens very soon.")
+    tr = lang == "tr"
+    head_ = ""
+    if compact:
+        head_ = ('<p class="nl-title">%s</p><p class="nl-desc">%s</p>' % (
+            ("Haftalık bülten" if tr else "Weekly newsletter"),
+            ("Her pazar: haftanın önemli haberleri ve Haftanın Çerçevesi analizi e-postanızda. Ücretsiz."
+             if tr else "Every Sunday: the week's key stories and our weekly analysis (in Turkish). Free.")))
+    return """<form class="nl-form{cls}" action="https://buttondown.com/api/emails/embed-subscribe/{u}" method="post">
+  {head}
+  <input type="hidden" name="embed" value="1">
+  <input type="hidden" name="tag" value="{tag}">
+  <p class="nl-row"><label class="sr" for="nl-{k}">{lbl}</label><input id="nl-{k}" type="email" name="email" required autocomplete="email" placeholder="{ph}"><button type="submit">{btn}</button></p>
+  <p class="form-note">{note} <a href="{priv}">{pl}</a>.</p>
+</form>""".format(cls=" nl-compact" if compact else "", u=esc(u), head=head_, tag="site-" + lang,
+                  k="c" if compact else "p", lbl=esc("E-posta adresiniz" if tr else "Your email"),
+                  ph=esc("e-posta adresiniz" if tr else "your email"), btn=esc("Abone ol" if tr else "Subscribe"),
+                  note=esc("Onay e-postasındaki bağlantıya tıklayınca abonelik başlar; her e-postadaki bağlantıyla tek tıkla ayrılabilirsiniz. Ayrıntılar:"
+                           if tr else "Your subscription starts when you click the link in the confirmation email; you can leave with one click from any issue. Details:"),
+                  priv=page.r("privacy"), pl=esc(T[lang]["privacy"]))
+
+
+def build_newsletter_page(cfg, lang):
+    page = Page(ROUTES["newsletter"][lang] + "index.html", lang)
+    if lang == "tr":
+        inner = """<p class="lead">Farsçadan bülteni her <strong>pazar akşamı</strong> e-postanıza gelir. Ücretsizdir.</p>
+<h2>Bültende ne var?</h2>
+<ul>
+<li><strong>Haftanın Çerçevesi:</strong> İran'ın Farsça basınında haftanın ana başlıklarını birbirine bağlayan özgün analizimiz.</li>
+<li><strong>Haftanın önemli haberleri:</strong> Hafta boyunca yayımladığımız haberlerden seçilmiş başlıklar ve birer cümlelik özetler. Her başlık haberin sitemizdeki tam metnine götürür.</li>
+</ul>
+{form}
+<h2>Abonelik nasıl işler?</h2>
+<p>E-posta adresinizi yazdıktan sonra size bir onay e-postası gönderilir. Abonelik, o e-postadaki bağlantıya tıkladığınızda başlar. Her bültenin altındaki bağlantıyla tek tıkla abonelikten çıkabilirsiniz. E-posta adresiniz yalnızca bülteni göndermek için kullanılır; ayrıntılar <a href="{priv}">Gizlilik</a> sayfasındadır.</p>
+""".format(form=newsletter_form(cfg, page, lang), priv=page.r("privacy"))
+        title, desc = "Haftalık Bülten", "Farsçadan haftalık bülteni: her pazar haftanın önemli haberleri ve Haftanın Çerçevesi analizi e-postanızda."
+    else:
+        inner = """<p class="lead">The Farsçadan newsletter arrives every <strong>Sunday evening</strong>. It is free and, for now, written in <strong>Turkish</strong>.</p>
+<h2>What's inside?</h2>
+<ul>
+<li><strong>The weekly analysis</strong> ("Haftanın Çerçevesi"): our original piece connecting the week's main threads in Iran's Persian-language press.</li>
+<li><strong>Key stories of the week:</strong> selected headlines with one-line summaries, each linking to the full story on our site.</li>
+</ul>
+{form}
+<p>After you enter your email, we send a confirmation email; your subscription starts when you click its link. Every issue has a one-click unsubscribe link. Details: <a href="{priv}">Privacy</a>.</p>
+""".format(form=newsletter_form(cfg, page, lang), priv=page.r("privacy"))
+        title, desc = "Weekly Newsletter", "The Farsçadan weekly newsletter: the week's key stories from Iran's Persian-language press and our weekly analysis, every Sunday."
+    other = "en" if lang == "tr" else "tr"
+    html_ = '<div class="wrap"><article class="prose">\n<h1>%s</h1>\n%s\n</article></div>\n' % (esc(title), inner)
+    render(cfg, page, title, desc, ROUTES["newsletter"][lang], html_,
+           switch_rel=ROUTES["newsletter"][other], alts=ROUTES["newsletter"],
+           extra="" if newsletter_user(cfg) else NOINDEX_META)
+
+
 def build_static_pages_tr(cfg):
     sn = esc(cfg["site_name"])
     lang = "tr"
@@ -1541,7 +1608,7 @@ def build_static_pages_tr(cfg):
     page = Page(ROUTES["privacy"][lang] + "index.html", lang)
     static_page(cfg, lang, "privacy", "Gizlilik Politikası",
                 "%s gizlilik politikası ve KVKK kapsamında aydınlatma metni: çerezler, reklam, iletişim formu." % cfg["site_name"], """
-<p class="meta">Son güncelleme: 3 Ekim 2026</p>
+<p class="meta">Son güncelleme: 31 Ekim 2026</p>
 <p class="lead">Bu politika, {sn} (farscadan.com) web sitesini ziyaret ettiğinizde hangi verilerin işlendiğini, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında açıklar.</p>
 <h2>1. Hesap sistemi yoktur</h2>
 <p>{sn}'da üyelik, giriş ya da kullanıcı hesabı bulunmaz. Siteyi okumak için herhangi bir kişisel bilgi vermeniz gerekmez.</p>
@@ -1559,6 +1626,8 @@ def build_static_pages_tr(cfg):
 <p>Tarayıcınızın ayarlarından çerezleri silebilir veya engelleyebilirsiniz; bu durumda bazı özellikler beklendiği gibi çalışmayabilir.</p>
 <h2>4. İletişim formu</h2>
 <p>İletişim formunu kullandığınızda adınız, e-posta adresiniz, seçtiğiniz konu ve mesajınız, form hizmeti sağlayıcısı <strong>FormSubmit</strong> (formsubmit.co) aracılığıyla bize e-posta olarak iletilir. Bu veriler yalnızca mesajınıza yanıt vermek ve hata bildirimlerini değerlendirmek amacıyla, açık rızanıza ve meşru menfaate dayanılarak işlenir; pazarlama amacıyla kullanılmaz ve üçüncü kişilere satılmaz. FormSubmit, hizmeti sağlamak için bu verileri kendi sunucularında işleyebilir; bu nedenle verileriniz yurt dışına aktarılabilir.</p>
+<h2>4a. E-posta bülteni</h2>
+<p>Haftalık bültene abone olursanız e-posta adresiniz, abonelik tarihiniz ve aboneliği hangi sayfadan başlattığınız, bülten gönderim hizmeti sağlayıcısı <strong>Buttondown</strong> (buttondown.com, ABD) tarafından saklanır. Bu veriler yalnızca bülteni göndermek amacıyla, açık rızanıza dayanılarak işlenir. Abonelik, onay e-postasındaki bağlantıya tıklamanızla başlar (çift onay). Sağlayıcı, e-postaların açılıp açılmadığına ve bağlantılara tıklanıp tıklanmadığına ilişkin toplu istatistik tutabilir. Verileriniz yurt dışına aktarılır; pazarlama amacıyla üçüncü kişilerle paylaşılmaz ve satılmaz. Her bültenin altındaki bağlantıyla istediğiniz zaman abonelikten çıkabilirsiniz; çıktığınızda adresiniz gönderim listesinden kaldırılır.</p>
 <h2>5. Sunucu kayıtları</h2>
 <p>Site statik olarak barındırılır. Barındırma hizmeti sağlayıcısı, güvenlik ve işletim amacıyla IP adresi, tarayıcı türü ve erişim zamanı gibi standart teknik kayıtları tutabilir.</p>
 <h2>6. Saklama süresi</h2>
@@ -1652,7 +1721,7 @@ def build_static_pages_en(cfg):
     page = Page(ROUTES["privacy"][lang] + "index.html", lang)
     static_page(cfg, lang, "privacy", "Privacy Policy",
                 "%s privacy policy and data protection notice under Turkish law (KVKK): cookies, advertising, contact form." % cfg["site_name"], """
-<p class="meta">Last updated: October 3, 2026</p>
+<p class="meta">Last updated: October 31, 2026</p>
 <p class="lead">This policy explains what data is processed when you visit the {sn} (farscadan.com) website, in accordance with Turkey's Personal Data Protection Law No. 6698 (KVKK).</p>
 <h2>1. No account system</h2>
 <p>{sn} has no membership, login or user accounts. You do not need to provide any personal information to read the site.</p>
@@ -1670,6 +1739,8 @@ def build_static_pages_en(cfg):
 <p>You can delete or block cookies in your browser settings; if you do, some features may not work as expected.</p>
 <h2>4. Contact form</h2>
 <p>When you use the contact form, your name, email address, chosen subject and message are forwarded to us by email through the form service provider <strong>FormSubmit</strong> (formsubmit.co). This data is processed solely to reply to your message and to assess error reports, on the basis of your explicit consent and our legitimate interest; it is not used for marketing and is not sold to third parties. FormSubmit may process this data on its own servers in order to provide the service, so your data may be transferred abroad.</p>
+<h2>4a. Email newsletter</h2>
+<p>If you subscribe to the weekly newsletter, your email address, subscription date and the page you subscribed from are stored by our newsletter provider <strong>Buttondown</strong> (buttondown.com, USA). This data is processed only to send the newsletter, based on your explicit consent. Your subscription starts when you click the link in the confirmation email (double opt-in). The provider may keep aggregate statistics on opens and link clicks. Your data is transferred abroad; it is not shared with or sold to third parties for marketing. You can unsubscribe at any time with the link at the bottom of every issue, and your address is then removed from the mailing list.</p>
 <h2>5. Server logs</h2>
 <p>The site is hosted as a static site. The hosting provider may keep standard technical logs, such as IP address, browser type and time of access, for security and operational purposes.</p>
 <h2>6. Retention</h2>
@@ -1712,7 +1783,7 @@ def build_feeds(cfg, arts_by_lang, topics_by_lang, gloss_by_lang=None):
     both = tr_slugs & en_slugs
     # (rel, lastmod, alts)
     urls = []
-    for key in ("home", "about", "standards", "editor", "contact", "privacy", "topics"):
+    for key in ("home", "about", "standards", "editor", "contact", "privacy", "topics", "newsletter"):
         for lg in LANGS:
             urls.append((ROUTES[key][lg], None, ROUTES[key]))
     for _, s in CATEGORIES:
@@ -1853,6 +1924,8 @@ def main():
         build_glossary(cfg, gloss_by_lang[lg], gloss_by_lang[other], lg)
     build_static_pages_tr(cfg)
     build_static_pages_en(cfg)
+    for lg in LANGS:
+        build_newsletter_page(cfg, lg)
     build_404(cfg)
     build_feeds(cfg, arts_by_lang, topics_by_lang, gloss_by_lang)
 

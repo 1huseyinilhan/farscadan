@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 01 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 21:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Week&#x27;s Frame (Oct 26-Nov 1): Between war-restart signals and diplomacy</title>
+    <link>https://farscadan.com/en/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</guid>
+    <pubDate>Sun, 01 Nov 2026 21:00:00 +0300</pubDate>
+    <category>Analysis</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Persian press, Oct 26-Nov 1: Israel election crisis, U.S. war-prep signals, Qatar diplomacy, fourth tanker at Hormuz, Turkey dimension. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>WSJ: Trump spoke with Netanyahu as U.S. prepared to resume Iran strikes</title>
     <link>https://farscadan.com/en/haber/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/</link>
@@ -177,15 +186,6 @@
     <category>Diplomacy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>As Israel&#x27;s election results remain unclear, Defense Min. Katz accuses Ayzenkot of inciting military insubordination; dispute extends to Iran strike decision. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Iran&#x27;s annual inflation hits 88.7%: rural-urban gap widens</title>
-    <link>https://farscadan.com/en/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Iran Statistics Center reports 4.4% monthly inflation and 88.7% year-on-year in mehr; rural households hit harder than urban. (Source: Kayhan)</description>
   </item>
 </channel>
 </rss>

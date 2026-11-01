@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 01 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 21:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Haftanın Çerçevesi (26 Ekim-1 Kasım): Savaşa dönüş sinyalleri ile diplomasi arasında</title>
+    <link>https://farscadan.com/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</guid>
+    <pubDate>Sun, 01 Nov 2026 21:00:00 +0300</pubDate>
+    <category>Analiz</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Farsça basında 26 Ekim-1 Kasım: İsrail seçim krizi, ABD&#x27;nin saldırı hazırlığı sinyalleri, Katar diplomasisi, Hürmüz&#x27;de dördüncü tanker ve Türkiye boyutu. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>WSJ: Trump, İran&#x27;a saldırıların yeniden başlaması için Netanyahu&#x27;yla görüştü</title>
     <link>https://farscadan.com/haber/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/</link>
@@ -177,15 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İsrail&#x27;de seçim sonucu netleşmeden Savunma Bakanı Katz, Ayzenkot&#x27;u orduyu itaatsizliğe çağırmakla suçladı; tartışma İran&#x27;a saldırı kararına uzanıyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>İran&#x27;da yıllık enflasyon %88,7&#x27;de: kırsal-kentsel fark büyüyor</title>
-    <link>https://farscadan.com/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-29-iran-enflasyon-mehr-ayi-889/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran İstatistik Merkezi&#x27;ne göre mehr ayında aylık enflasyon %4,4, yıllık nokta enflasyonu %88,7 oldu; kırsal haneler kentsellerden daha çok etkilendi. (Kaynak: Kayhan)</description>
   </item>
 </channel>
 </rss>

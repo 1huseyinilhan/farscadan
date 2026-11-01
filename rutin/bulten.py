@@ -144,7 +144,9 @@ def gonder(konu, govde, durum):
         sys.exit(4)
     req = urllib.request.Request(API, method="POST",
                                  data=json.dumps({"subject": konu, "body": govde, "status": durum}).encode("utf-8"),
-                                 headers={"Authorization": "Token " + key, "Content-Type": "application/json"})
+                                 headers={"Authorization": "Token " + key, "Content-Type": "application/json",
+                                          # 02.11: about_to_send bu başlığı ister (anahtar başına bir kez; her seferinde göndermek zararsız)
+                                          "X-Buttondown-Live-Dangerously": "true"})
     try:
         with urllib.request.urlopen(req, timeout=60) as r:
             cevap = json.loads(r.read().decode("utf-8") or "{}")

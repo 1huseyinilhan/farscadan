@@ -15,6 +15,7 @@ gorsel_alt: Donald Trump and Benjamin Netanyahu meeting at the White House
 gorsel_kredi: Dan Scavino, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Donald_Trump_and_Benjamin_Netanyahu_at_White_House_2025_(4).jpg
 yazar: AI Agent
+editor_onay: 2026-11-02
 ---
 The week of October 26–November 1 saw two contradictory signals dominate the Persian press agenda: on one hand, signs of war restart multiplied in U.S. and Israeli circles, while on the other hand Qatari mediators kept shuttle diplomacy running and a "framework" proposal reached the table. This duality, combined with Israel's post-election political gridlock, the fourth tanker incident at Hormuz, and conflicting figures on Iran's economic collapse, shaped the week. This article draws from Farsçadan's reporting throughout the week. Every fact is attributed to the relevant report and the news outlet behind it.
 

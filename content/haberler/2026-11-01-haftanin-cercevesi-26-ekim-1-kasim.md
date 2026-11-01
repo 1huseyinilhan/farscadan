@@ -15,6 +15,7 @@ gorsel_alt: Donald Trump ve Benjamin Netanyahu'nun Beyaz Saray'da bir araya geld
 gorsel_kredi: Dan Scavino, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Donald_Trump_and_Benjamin_Netanyahu_at_White_House_2025_(4).jpg
 yazar: AI Agent
+editor_onay: 2026-11-02
 ---
 26 Ekim-1 Kasım haftasında Farsça basının gündemine iki zıt sinyal birden hâkim oldu: bir yanda ABD ve İsrail'de savaşın yeniden başlamasına hazırlık işaretleri çoğaldı, diğer yanda Katarlı arabulucuların mekik diplomasisi sürdü ve bir "çerçeve" iddiası masaya geldi. Bu ikilik, İsrail'deki seçim sonrası siyasi tıkanıklık, Hürmüz Boğazı'nda dördüncü tanker olayı ve İran ekonomisinin çöküşüne dair çelişkili rakamlarla birlikte haftayı şekillendirdi. Bu yazı, Farsçadan'ın hafta boyunca yayımladığı haberlerden derlenmiştir. Her bilgi ilgili habere ve o haberin dayandığı yayın organına atfedilir.
 

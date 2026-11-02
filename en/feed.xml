@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 01 Nov 2026 21:00:00 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Axios: Iran-U.S. talks in Doha went positively; Araghchi says &#x27;no definitive conclusion&#x27;</title>
+    <link>https://farscadan.com/en/haber/2026-11-02-iran-abd-doha-muzakereleri-aksios/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-02-iran-abd-doha-muzakereleri-aksios/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Axios reported Iran&#x27;s delegation left Doha Sunday morning; Araghchi said no direct talks were planned and no final outcome reached. (Source: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Tanker struck in Persian Gulf; Revolutionary Guards claim separate mine incident</title>
+    <link>https://farscadan.com/en/haber/2026-11-02-basra-korfezi-tanker-saldirisi-ukmto/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-02-basra-korfezi-tanker-saldirisi-ukmto/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UKMTO reported a tanker struck by two unidentified objects off Saudi Arabia; the Guards separately claimed a mine strike. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>ElBaradei: A new U.S. attack on Iran would be &#x27;complete madness&#x27;</title>
+    <link>https://farscadan.com/en/haber/2026-11-02-elbaradei-abd-iran-saldiri-uyarisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-02-elbaradei-abd-iran-saldiri-uyarisi/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Former IAEA chief Mohamed ElBaradei called a new U.S. military strike on Iran &#x27;complete madness.&#x27; (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Iran Parliament revives NPT withdrawal proposal: at least 10 bills awaiting</title>
+    <link>https://farscadan.com/en/haber/2026-11-02-iran-meclis-npt-cikis-talepleri/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-02-iran-meclis-npt-cikis-talepleri/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Iranian lawmakers demanded Parliament take up NPT withdrawal bills; one said &#x27;nuclear weapons are our right.&#x27; (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Somali pirates hijacked Iranian fishing vessel with 23 crew</title>
+    <link>https://farscadan.com/en/haber/2026-11-02-somali-korsanlari-iran-balikci-gemisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-02-somali-korsanlari-iran-balikci-gemisi/</guid>
+    <pubDate>Mon, 02 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Society</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Somali pirates hijacked a fishing vessel carrying 21 Iranians and 2 Somali security guards in the Indian Ocean; crew status unclear. (Source: Iran International)</description>
+  </item>
   <item>
     <title>Week&#x27;s Frame (Oct 26-Nov 1): Between war-restart signals and diplomacy</title>
     <link>https://farscadan.com/en/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</link>
@@ -141,51 +186,6 @@
     <category>Security</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Politico reports Pentagon is preparing to cut $400 billion from Trump&#x27;s requested defense budget; report echoed in Iran press. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>New Kalabarg household classification: top earners may be excluded</title>
-    <link>https://farscadan.com/en/haber/2026-10-30-kalabarg-hane-siniflandirma-kriterleri/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-30-kalabarg-hane-siniflandirma-kriterleri/</guid>
-    <pubDate>Fri, 30 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Iran&#x27;s government is applying new Kalabarg criteria that divide households into three wealth groups; exclusion of top earners is debated. (Source: Donya-e Eqtesad)</description>
-  </item>
-  <item>
-    <title>U.S. warns allies of possible Iranian strike after midterms</title>
-    <link>https://farscadan.com/en/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Washington warned allies of a potential Iranian response after Nov. 3 midterms, AP reports; Qatar proposing a seven-day confidence plan. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Explosions in Saudi Arabia: Yemen attacks escalating</title>
-    <link>https://farscadan.com/en/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Blast sounds heard in eastern Saudi Arabia and Najran; coalition conducted 101 air and missile strikes on Yemen in 24 hours. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>CIA assessment: Iran has three response options to new U.S. strikes</title>
-    <link>https://farscadan.com/en/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-cia-iran-karsilik-senaryolari-rusya/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>According to Washington Post, CIA assesses that Iran could respond with Strait actions, cyber strikes, or attacks on overseas U.S. targets. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Israel&#x27;s Katz-Ayzenkot clash: Who decides on Iran?</title>
-    <link>https://farscadan.com/en/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-29-katz-ayzenkot-israil-iran-karari/</guid>
-    <pubDate>Thu, 29 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>As Israel&#x27;s election results remain unclear, Defense Min. Katz accuses Ayzenkot of inciting military insubordination; dispute extends to Iran strike decision. (Source: Iran International)</description>
   </item>
 </channel>
 </rss>

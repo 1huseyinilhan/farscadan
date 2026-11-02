@@ -847,7 +847,7 @@ def footer(cfg, page):
       <li><a href="{pr}">{pr_l}</a></li>
       <li><a href="{co}">{co_l}</a></li>
       {nll}      <li><a href="{feed}">RSS</a></li>
-      <li><a href="https://x.com/farscadancom" rel="noopener me" target="_blank">X (@farscadancom)</a></li>
+      <li><a href="https://x.com/farscadan" rel="noopener me" target="_blank">X (@farscadan)</a></li>
     </ul></nav>
     <p class="ai-note">{ai}</p>
     <p class="copy">© 2026 {sn}</p>

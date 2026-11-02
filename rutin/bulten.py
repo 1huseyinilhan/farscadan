@@ -122,7 +122,7 @@ def olustur(son):
         s.append("  %s *(%s)*" % (m.get("ozet", ""), m.get("kaynak_adi", "")))
         s.append("")
     s += ["---", "",
-          "Bu hafta toplam %d haber yayımladık. Hepsi: [farscadan.com](%s/?utm_source=bulten&utm_medium=email&utm_campaign=%s) · X: [@farscadancom](https://x.com/farscadancom)"
+          "Bu hafta toplam %d haber yayımladık. Hepsi: [farscadan.com](%s/?utm_source=bulten&utm_medium=email&utm_campaign=%s) · X: [@farscadan](https://x.com/farscadan)"
           % (len(arts), BASE, kampanya), "",
           "*Farsçadan, İran'ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirilerini yayımlar; "
           "içerikler Farsçadan Editörlüğü'nün denetimi altındadır. Her haberde kaynağın yönelimi belirtilir.*"]

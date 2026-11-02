@@ -243,7 +243,7 @@ def render(meta, rows, lang, out_path):
     bb = d.textbbox((0, 0), "farscadan.com", font=ff)
     d.text((PAD_X, H - PAD_Y - (bb[3] - bb[1]) - bb[1]), "farscadan.com", font=ff, fill=GOLD)
     fx = font("sans", 17)
-    handle = "@farscadancom"
+    handle = "@farscadan"
     bbh = d.textbbox((0, 0), handle, font=fx)
     od.text((W - PAD_X - (bbh[2] - bbh[0]) - bbh[0], H - PAD_Y - (bbh[3] - bbh[1]) - bbh[1]),
             handle, font=fx, fill=(255, 255, 255, 170))

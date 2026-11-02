@@ -120,7 +120,7 @@ def main():
     # Alt bant
     dr.rectangle([M, H - 100, W - M, H - 98], fill=GOLD)
     dr.text((M, H - 55), TXT[lang]["more"] + "  farscadan.com" + ("/en" if lang == "en" else ""), font=f_foot, fill=GOLD, anchor="lm")
-    dr.text((W - M, H - 55), "@farscadancom", font=font("Arial.ttf", 24), fill=MUTED, anchor="rm")
+    dr.text((W - M, H - 55), "@farscadan", font=font("Arial.ttf", 24), fill=MUTED, anchor="rm")
 
     out_dir = os.path.join(ROOT, "static", "x", "ozet")
     os.makedirs(out_dir, exist_ok=True)

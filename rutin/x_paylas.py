@@ -115,8 +115,10 @@ def main():
     gorsel = a[a.index("--gorsel") + 1] if "--gorsel" in a else None
     sayi = bugunku_sayi()
     print("bugün gönderilen: %d / tavan %d" % (sayi, GUNLUK_TAVAN))
-    if len(metin) > 280:
-        sys.exit("HATA: metin 280 karakteri aşıyor (%d)" % len(metin))
+    import re
+    uzunluk = len(re.sub(r"https?://\S+", "x" * 23, metin))  # X her bağlantıyı 23 karakter sayar
+    if uzunluk > 280:
+        sys.exit("HATA: metin 280 karakteri aşıyor (%d)" % uzunluk)
     if "--prova" in a:
         print("PROVA — gönderilmedi:\n%s\n[görsel: %s]" % (metin, gorsel or "yok"))
         return

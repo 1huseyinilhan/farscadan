@@ -112,7 +112,7 @@ def main():
         for j, line in enumerate(hl):
             dr.text((x, y + j * 40), line, font=f_head, fill=WHITE)
         dy = y + len(hl) * 40 + 8
-        for j, line in enumerate(wrap(dr, m.get("ozet", ""), f_desc, w, 2)):
+        for j, line in enumerate(wrap(dr, m.get("ozet", "").strip('"'), f_desc, w, 2)):
             dr.text((x, dy + j * 30), line, font=f_desc, fill=MUTED)
         if i < len(items) - 1:
             dr.line([x, y + slot - 14, W - M, y + slot - 14], fill=LINE, width=1)

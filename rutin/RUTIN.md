@@ -82,7 +82,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
   - En fazla 2 hashtag (ör. #İran, #Hürmüz). Görüş, emoji yığını ve clickbait yok.
   - Türkiye kategorisindeki haber varsa onun gönderisi ilk sıraya konur.
   - Gönderinin sonunda kaynağın yönelim etiketi parantez içinde verilir: "(Kayhan, sertlik yanlısı)".
-- Dosya kaynak dalına commit'lenir. Paylaşımı site sahibi yapar.
+- Dosya kaynak dalına commit'lenir. **Paylaşım otomatik (02.11):** betik `rutin/x_taslak_paylas.py` sabah Günün Özeti (bağlantılı) + ilk 2 gönderiyi, akşam sıradaki 2 gönderiyi bağlantısız (maliyet) olarak X API ile atar. Bu yüzden taslak biçimi (## Günün Özeti, ## Gönderiler, numaralı maddeler, "Görsel:" satırı) korunmalıdır.
 
 ### 8c. Günün Özeti görseli (her gün, kullanıcı talimatı 2026-10-11)
 - Yayından sonra `python3 rutin/ozet_karti.py <YYYY-MM-DD>` komutunu çalıştır. Komut, günün bütün haberlerinin başlığını ve kısa açıklamasını tek bir 1080×1350 görselde toplar ve `static/x/ozet/<tarih>.png` dosyasına yazar.

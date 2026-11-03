@@ -2,10 +2,10 @@
 """Günün X taslaklarını (rutin/kayit/x-<tarih>.md) otomatik paylaşır (02.11).
 
 Kullanım: python3 rutin/x_taslak_paylas.py sabah|aksam [YYYY-MM-DD] [--prova]
-  sabah → "Günün Özeti" (bağlantılı, özet görseliyle) + ilk 2 haber gönderisi (bağlantısız, kart görseli varsa)
-  aksam → sıradaki 2 haber gönderisi (bağlantısız)
-Maliyet notu: X bağlantılı gönderiyi ~0,20 $, bağlantısızı ~0,015 $ ücretlendiriyor; bu yüzden yalnızca
-Günün Özeti bağlantı taşır (profilde site bağlantısı var). Günlük tavan x_paylas.py'de (6).
+  sabah → "Günün Özeti" (özet görseliyle) + ilk 2 haber gönderisi (kart görseli varsa)
+  aksam → sıradaki 2 haber gönderisi
+Kural (04.11, kullanıcı): HİÇBİR tweet bağlantı içermez (uzantısız); site bağlantısı profilde.
+Günlük tavan x_paylas.py'de (6).
 Paylaşılanlar: ~/farscadan/state/x-paylasilan-<tarih>.txt (aynı gönderi iki kez atılmaz).
 """
 import datetime as dt
@@ -26,6 +26,14 @@ def yerel(url):
     return p if os.path.exists(p) else None
 
 
+def temizle(metin):
+    """04.11 kullanıcı kuralı: tweet'ler uzantısız — bağlantı, alan adı ve 'Haberlerin tamamı:' kalıntıları silinir."""
+    metin = re.sub(r"\s*(?:Haberlerin tamamı|Tamamı|Ayrıntılar)\s*:?\s*(?=https?://|www\.|[\w-]+\.com)", " ", metin)
+    metin = re.sub(r"\s*(?:https?://\S+|www\.\S+|\b[\w-]+\.(?:com|net|org|ir|tr|io|co)\b\S*)", "", metin, flags=re.I)
+    metin = re.sub(r"[ \t]{2,}", " ", metin)
+    return re.sub(r"\n{3,}", "\n\n", metin).strip()
+
+
 def ayristir(yol):
     t = open(yol, encoding="utf-8").read()
     ozet, gonderiler = None, []
@@ -34,6 +42,7 @@ def ayristir(yol):
         blok = m.group(1).strip()
         g = re.search(r"^Görsel:\s*(\S+)", blok, re.M)
         metin = re.sub(r"^Görsel:.*$", "", blok, flags=re.M).strip()
+        metin = temizle(metin)
         ozet = {"metin": metin, "gorsel": yerel(g.group(1)) if g else None}
     m = re.search(r"## Gönderiler\s*\n(.*?)(?=\n## |\Z)", t, re.S)
     if m:
@@ -45,8 +54,7 @@ def ayristir(yol):
             g = re.search(r"^Görsel:\s*(\S+)", parca, re.M)
             metin = re.sub(r"^Görsel:.*$", "", parca, flags=re.M)
             metin = re.sub(r"^\d+\.\s*", "", metin.strip())
-            metin = re.sub(r"\s*https?://\S+", "", metin)          # bağlantısız (maliyet)
-            metin = re.sub(r"[ \t]{2,}", " ", metin).strip()
+            metin = temizle(metin)
             gonderiler.append({"no": no, "metin": metin, "gorsel": yerel(g.group(1)) if g else None})
     return ozet, gonderiler
 

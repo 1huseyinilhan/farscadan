@@ -4,6 +4,7 @@
 Kullanım:
   python3 rutin/x_paylas.py --kontrol                      → kimlik doğrulama testi (GET /2/users/me, gönderi atmaz)
   python3 rutin/x_paylas.py --gonder "metin" [--gorsel yol.png] [--prova]
+       Kural (04.11): metin bağlantı/alan adı içeremez; içerirse gönderilmez.
        --prova: hiçbir şey göndermez, yalnızca ne gönderileceğini ve günlük sayacı gösterir.
 
 Anahtarlar yalnızca Keychain'de (hesap: farscadan):
@@ -119,6 +120,10 @@ def main():
     uzunluk = len(re.sub(r"https?://\S+", "x" * 23, metin))  # X her bağlantıyı 23 karakter sayar
     if uzunluk > 280:
         sys.exit("HATA: metin 280 karakteri aşıyor (%d)" % uzunluk)
+    # 04.11 kullanıcı kuralı: HİÇBİR tweet bağlantı ya da alan adı içermez (uzantısız).
+    if re.search(r"https?://|www\.|\b[\w-]+\.(?:com|net|org|ir|tr|io|co)\b", metin, re.I):
+        kaydet("ENGEL bağlantı içeriyor: " + metin[:60].replace("\n", " "))
+        sys.exit("HATA: metinde bağlantı/alan adı var; kurala göre gönderilmedi")
     if "--prova" in a:
         print("PROVA — gönderilmedi:\n%s\n[görsel: %s]" % (metin, gorsel or "yok"))
         return

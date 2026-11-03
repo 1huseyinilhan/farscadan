@@ -78,7 +78,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 
 ### 8b. X (@farscadan) paylaşım taslakları
 - Yayından sonra `rutin/kayit/x-YYYY-MM-DD.md` dosyasına bugünün 5 haberi için **paylaşıma hazır 5 gönderi** yaz. Kartlı haberin gönderisinde "Görsel: https://farscadan.com/x/kart/<slug>.png" satırı da bulunur. Kurallar:
-  - Her gönderi ≤ 270 karakter: haberin en çarpıcı olgusu (kaynağa atıfla, ör. "Kayhan'a göre…") + haber bağlantısı (`https://farscadan.com/haber/<slug>/`).
+  - Her gönderi ≤ 270 karakter: haberin en çarpıcı olgusu (kaynağa atıfla, ör. "Kayhan'a göre…"). **BAĞLANTI YOK (04.11 kullanıcı kuralı):** gönderilerde hiçbir URL veya alan adı (farscadan.com dahil) yazılmaz; site bağlantısı X profilinde.
   - En fazla 2 hashtag (ör. #İran, #Hürmüz). Görüş, emoji yığını ve clickbait yok.
   - Türkiye kategorisindeki haber varsa onun gönderisi ilk sıraya konur.
   - Gönderinin sonunda kaynağın yönelim etiketi parantez içinde verilir: "(Kayhan, sertlik yanlısı)".
@@ -90,7 +90,7 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - `rutin/kayit/x-<tarih>.md` dosyasının **en üstüne** "## Günün Özeti (görselli)" başlığıyla bir gönderi ekle:
   - ≤ 270 karakter, kalıp: "İran basınında bugün: 5 başlık 🧵 …"
   - En önemli 2 başlığın tek satırlık özeti
-  - `https://farscadan.com` bağlantısı
+  - Bağlantı ya da alan adı YOK (04.11 kuralı)
   - `Görsel: <url>` satırı
 - İngilizce özet görselini (`<tarih>-en.png`) çeviri adımından sonra betik üretir.
 

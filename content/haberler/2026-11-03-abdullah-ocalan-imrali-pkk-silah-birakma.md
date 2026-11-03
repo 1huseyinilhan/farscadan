@@ -1,0 +1,28 @@
+---
+baslik: "Khabaronline'dan Öcalan portresi: silahlı ayrılıkçılıktan 'siyaset dönemi' söylemine"
+seo_baslik: "Khabaronline'dan Öcalan portresi: PKK'nın dönüşümü"
+ozet: "İran basınından Khabaronline, PKK kurucusu Abdullah Öcalan'ın hayatını ve örgütün 2025'teki silah bırakma kararına uzanan süreci özetledi."
+tarih: 2026-11-03T09:30:00+03:00
+kategori: Türkiye
+etiketler: Abdullah Öcalan, PKK, İmralı, Kürt meselesi, çözüm süreci
+kaynak_adi: Khabaronline
+kaynak_yonelim: Reformcu
+kaynak_url: https://www.khabaronline.ir/news/2296623/%D9%85%D8%B1%D8%AF-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%DB%8C%DA%A9-%D9%BE-%DA%A9-%DA%A9-%D8%A7%D8%B2-%D8%AC%D8%AF%D8%A7%DB%8C%DB%8C-%D8%B7%D9%84%D8%A8%DB%8C-%D9%85%D8%B3%D9%84%D8%AD%D8%A7%D9%86%D9%87-%D8%AA%D8%A7-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%B5%D9%84%D8%AD
+kaynak_baslik_fa: "مرد شماره یک پ‌ک‌ک: از جدایی‌طلبی مسلحانه تا مذاکره‌کننده صلح / زندگی عبدالله اوجالان زیر ذره‌بین"
+gorsel: img/2026-11-03-abdullah-ocalan-imrali-pkk-silah-birakma.jpg
+gorsel_alt: "İmralı Adası'ndaki cezaevi binasının dış görünümü"
+gorsel_kredi: "Amerikanın Sesi (VOA), Kamu malı, Wikimedia Commons"
+gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Imrali_prison.jpg"
+yazar: AI Agent
+---
+Reformcu çizgideki Khabaronline'ın yayımladığı uzun portre yazısına göre Abdullah Öcalan, 4 Nisan 1949'da Şanlıurfa'nın Halfeti ilçesine bağlı Ömerli köyünde doğdu. Haberde, Öcalan'ın 1960'ların sonunda Ankara'da bir meslek okuluna gittiği, Diyarbakır'da tapu dairesinde çalıştığı ve 1971'de Ankara Üniversitesi Siyasal Bilgiler Fakültesi'ne girdiği; o dönemin fakültede sol ve öğrenci hareketlerinin yoğunlaştığı bir ortam olarak tarif edildiği anlatılıyor. Khabaronline'a göre Öcalan ve arkadaşları 1973'te "Kürdistan Devrimcileri" adlı gayri resmî bir grup kurdu; bu grup Kürdistan'ı bir "sömürge" olarak görüp silahlı Marksist-Leninist bir öncü yapı çağrısı yaptı. 27 Kasım 1978'de Diyarbakır yakınlarındaki Fis köyünde gizli bir kongrede Kürdistan İşçi Partisi (PKK) resmen kuruldu ve Öcalan genel sekreter seçildi.
+
+Habere göre Öcalan, 12 Eylül 1980 darbesinden kısa süre önce Türkiye'den ayrılıp dönemin Suriye ve Filistinli grupların denetimindeki Lübnan'ın Bekaa Vadisi'ne geçti; Khabaronline bunun askeri örgütlenme ve Mahsum Korkmaz kampı gibi gerilla eğitim tesislerinin kurulmasına imkân verdiğini yazıyor. 15 Ağustos 1984'te PKK, Eruh ve Şemdinli'deki askeri karakollara eşzamanlı baskınlarla silahlı mücadeleyi başlattı; Khabaronline bu çatışmayı 40 binden fazla ölüm, binlerce köyün tahribi ve milyonlarca kişinin yerinden edilmesiyle ilişkilendiriyor, ancak bu rakamların kaynağını belirtmiyor. Öcalan'ın siyasi merkezini Şam'a taşıdığı, 1980'lerin sonu ve 1990'ların başında PKK'nın Türkiye ve Avrupa'daki Kürt toplumunun büyük bir kesimini harekete geçirdiği aktarılıyor.
+
+Habere göre Suriye, 1998 sonbaharında Türkiye'nin PKK'ya verdiği destek nedeniyle askeri harekat tehdidi üzerine Öcalan'ı sınır dışı etti; Öcalan Moskova, Roma ve Atina üzerinden hareket etti, ancak Avrupa ülkeleri Türkiye ve ABD'nin diplomatik baskısı nedeniyle sığınma talebini kabul etmedi. 15 Şubat 1999'da Nairobi'deki Yunan büyükelçiliğinden çıktıktan sonra yakalanıp Türkiye'ye getirildi; Khabaronline bunu kaynak göstermeden CIA, MİT ve bölgesel istihbarat servislerinin ortak operasyonu olarak tanımlıyor — bu iddia "teyit edilmedi" kaydıyla aktarılmalı. İmralı Adası'na nakledilen Öcalan, Haziran 1999'da "devleti bölmeye teşebbüs" suçundan idama mahkûm edildi; Türkiye'nin 2002'de idam cezasını kaldırmasıyla ceza müebbet hapse çevrildi.
+
+Khabaronline'a göre uzun süren tecrit döneminde yüzlerce kitap okuyan Öcalan, Murray Bookchin, Fernand Braudel ve Michel Foucault'dan etkilenerek görüşlerini revize etti ve bağımsız bir Kürt devletini reddeden, kadın özgürlüğünü ("Jin, Jiyan, Azadî" sloganıyla), katılımcı meclis demokrasisini ve ekolojiyi merkeze alan "demokratik konfederalizm" kavramını geliştirdi. Habere göre 2012-2015 arasında Erdoğan hükümeti İmralı'da Öcalan'la doğrudan görüşmeler yürüttü ("çözüm süreci"); Öcalan 2013 Nevruz'unda "silah dönemi"nin bitip "siyaset dönemi"nin başlaması çağrısı yaptı. 2015 seçimleri ve Suriye'deki çatışmanın tırmanmasıyla görüşmeler çöktü ve çatışma yeniden alevlendi; Khabaronline, Öcalan'ın uzun süre avukat, aile ve siyasi heyetlerle görüşememe şeklinde iletişim tecridine tabi tutulduğunu, bunun Türkiye ve Avrupa'daki destekçileri arasında protesto ve açlık grevlerine yol açtığını yazıyor. Habere göre PKK 2025'te silah bırakma kararı aldı; 1 Kasım 2026'da Öcalan'ın, siyasi heyetlerin ziyaretine imkân vermek üzere hücresinden adadaki yeni bir yerleşim birimine nakledildiği, bunun bazı yayınlarca "villa" diye tarif edildiği, bir milletvekilinin ise yeni inşa edilmiş bir yapı olduğunu söylediği aktarılıyor.
+
+## Bağlam
+
+Khabaronline'ın portresi büyük ölçüde betimleyici bir dille yazılmış; Öcalan'ı "karizmatik lider" olarak tanımlarken PKK'nın silahlı kampanyasının şiddetini de kabul ediyor, ancak 2015 sonrası çöküşün nedenlerine ve bugünkü sürecin şartlarına dair ayrıntı vermiyor. Haberde "bazılarına göre" gibi ihtiyatlı ifadelerle aktarılan iddialar, özellikle 1999'daki yakalanma operasyonuna dair CIA bağlantısı, doğrulanmamış durumda. Öcalan hakkındaki suçlamalar kesinleşmiş bir yargı kararına dayanıyor; Masumiyet karinesi, henüz yargılanmakta olan şüpheliler için geçerlidir. PKK'nın 2025'teki silah bırakma kararı, Türkiye'nin yıllardır sürdürdüğü Kürt meselesiyle ilgili tartışmanın güncel bir unsuru olarak öne çıkıyor; haberin bu sürecin Ankara'daki siyasi karşılığına dair ayrıntısı bulunmuyor.

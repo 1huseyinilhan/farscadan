@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 02 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>WSJ: U.S. strikes Qeshm Island ahead of midterm election; explosions reported</title>
+    <link>https://farscadan.com/en/haber/2026-11-03-kism-adasi-abd-saldirisi-wsj/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-03-kism-adasi-abd-saldirisi-wsj/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to WSJ, U.S. conducted covert strike on Qeshm Island; Iranian press reported explosions and alleged drone shootdowns on the island and Bandar Lengeh. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Khabaronline portrait of Öcalan: from armed separatism to &quot;political era&quot; rhetoric</title>
+    <link>https://farscadan.com/en/haber/2026-11-03-abdullah-ocalan-imrali-pkk-silah-birakma/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-03-abdullah-ocalan-imrali-pkk-silah-birakma/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Iranian news outlet Khabaronline profiled PKK founder Abdullah Öcalan&#x27;s life and the organization&#x27;s 2025 weapons-laying-down decision. (Source: Khabaronline)</description>
+  </item>
+  <item>
+    <title>ADNOC CEO: War against Iran has consumed 1 billion barrels from global oil reserves</title>
+    <link>https://farscadan.com/en/haber/2026-11-03-bae-adnoc-kuresel-petrol-rezervi-uyarisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-03-bae-adnoc-kuresel-petrol-rezervi-uyarisi/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UAE&#x27;s ADNOC said 1 billion barrels have been drawn from global stockpiles since the war against Iran began. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Vance says progress has been made in Iran talks ahead of U.S. midterm elections</title>
+    <link>https://farscadan.com/en/haber/2026-11-03-vance-iran-muzakere-iddiasi-ara-secim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-03-vance-iran-muzakere-iddiasi-ara-secim/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>U.S. Vice President Vance said progress has been made in talks with Iran before the midterms; Iranian press reported the claim with conditions and caveats. (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Witkoff: Trilateral U.S.-Russia-Ukraine talks set for November 10-11 in Abu Dhabi</title>
+    <link>https://farscadan.com/en/haber/2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri/</guid>
+    <pubDate>Tue, 03 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>U.S. presidential special envoy Witkoff announced that representatives of the U.S., Russia, and Ukraine will hold trilateral talks November 10-11 in Abu Dhabi. (Source: Donya-ye Eghtesad)</description>
+  </item>
   <item>
     <title>Axios: Iran-U.S. talks in Doha went positively; Araghchi says &#x27;no definitive conclusion&#x27;</title>
     <link>https://farscadan.com/en/haber/2026-11-02-iran-abd-doha-muzakereleri-aksios/</link>
@@ -141,51 +186,6 @@
     <category>Economy</category>
     <dc:creator>AI Agent</dc:creator>
     <description>According to a U.S. Treasury report, Iran&#x27;s annual inflation reached 90% in September; the rial has fallen 25% since August. (Source: IranIntl)</description>
-  </item>
-  <item>
-    <title>Despite Erdoğan&#x27;s personal invitation, Aliyev skipped the Ankara summit of Turkic states</title>
-    <link>https://farscadan.com/en/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi/</guid>
-    <pubDate>Sat, 31 Oct 2026 08:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Azerbaijani President Aliyev declined to attend the Turkic States summit in Ankara despite President Erdoğan&#x27;s personal invitation; tensions escalate. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>U.S. Ankara Ambassador Barrack: We&#x27;re close to a deal reducing tension with Iran</title>
-    <link>https://farscadan.com/en/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi/</guid>
-    <pubDate>Fri, 30 Oct 2026 09:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>U.S. Ambassador to Turkey Tom Barrack said the U.S. is close to an agreement reducing tensions with Iran, with possible progress within two weeks. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Tanker struck by unidentified projectile in Strait of Hormuz; separate vessel burned and sank</title>
-    <link>https://farscadan.com/en/haber/2026-10-30-hurmuz-tanker-ates-firlatma-cismi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-30-hurmuz-tanker-ates-firlatma-cismi/</guid>
-    <pubDate>Fri, 30 Oct 2026 09:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO reported a tanker leaving the Strait of Hormuz was struck by an unidentified object; a separate vessel burned and sank the same night. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>U.S. sends Patriot battery to Israel; &#x27;airlift&#x27; with 10 military aircraft</title>
-    <link>https://farscadan.com/en/haber/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik/</guid>
-    <pubDate>Fri, 30 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Wall Street Journal reports CENTCOM Commander presented Iran options to Trump; Israel received Patriot battery and 10 military transport aircraft. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Politico: Pentagon preparing to cut $400 billion from Trump&#x27;s defense budget</title>
-    <link>https://farscadan.com/en/haber/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi/</guid>
-    <pubDate>Fri, 30 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Politico reports Pentagon is preparing to cut $400 billion from Trump&#x27;s requested defense budget; report echoed in Iran press. (Source: IRNA)</description>
   </item>
 </channel>
 </rss>

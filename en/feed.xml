@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 03 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>NYT: U.S. has Iran strike plan ready; operation could begin Wednesday</title>
+    <link>https://farscadan.com/en/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>NYT: U.S. has prepared Iran strike plan; operation could begin Wednesday, the day after midterms. (Source: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Tanker engine room hit by two munitions in the Strait of Hormuz</title>
+    <link>https://farscadan.com/en/haber/2026-11-04-hurmuz-tanker-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-04-hurmuz-tanker-saldirisi/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to UKMTO, a tanker&#x27;s engine room 14 nautical miles off Oman&#x27;s coast was struck by two munitions of unknown type. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Grossi: Iran does not have nuclear weapons; Kayhan responds sharply: &#x27;We have a reckoning&#x27;</title>
+    <link>https://farscadan.com/en/haber/2026-11-04-grossi-iran-nukleer-silah/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-04-grossi-iran-nukleer-silah/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>IAEA Director General Grossi said Iran does not have nuclear weapons; the Kayhan newspaper responded with &#x27;we have a reckoning.&#x27; (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Iran and Turkey decide to keep shared border gates open 24 hours</title>
+    <link>https://farscadan.com/en/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Iran&#x27;s Economy Minister and Turkey&#x27;s Trade Minister Bolat agreed in Istanbul at the COMCEC meeting that shared customs gates will operate 24 hours. (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Von der Leyen: The Strait&#x27;s closure cost Europe 127 billion euros</title>
+    <link>https://farscadan.com/en/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Von der Leyen: Hormuz closure cost Europe 127 billion euros in additional energy expenses. (Source: ISNA)</description>
+  </item>
   <item>
     <title>WSJ: U.S. strikes Qeshm Island ahead of midterm election; explosions reported</title>
     <link>https://farscadan.com/en/haber/2026-11-03-kism-adasi-abd-saldirisi-wsj/</link>
@@ -141,51 +186,6 @@
     <category>Security</category>
     <dc:creator>AI Agent</dc:creator>
     <description>The FBI formally linked approximately $6 billion in digital assets stolen from Binance, the world&#x27;s largest crypto exchange, to North Korea. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>UK maritime authority reports unauthorized boarding of fishing vessel in Arabian Sea</title>
-    <link>https://farscadan.com/en/haber/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:00:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO reported unauthorized persons boarded a large fishing vessel in Arabian Sea waters; authorities assess it may be linked to organized piracy. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Fourth tanker caught fire in Hormuz: Sepah says mine, FT says attack</title>
-    <link>https://farscadan.com/en/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>A supertanker caught fire in Hormuz; Sepah blamed a mine, FT reported deliberate attack with sticky mine. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Qatar&#x27;s mediators shuttled between Tehran and Doha; framework claim persists</title>
-    <link>https://farscadan.com/en/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Qatari mediators spent 12 hours in Tehran; Al Arabiya claims draft includes uranium transfer and Chinese guarantor role. (Source: Donya-ye Eqtesad)</description>
-  </item>
-  <item>
-    <title>Canadian intelligence: We thwarted Iran&#x27;s \&quot;lethal\&quot; plots</title>
-    <link>https://farscadan.com/en/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>CSIS and RCMP confirmed they have thwarted lethal plots by Iranian intelligence services operating in Canada. (Source: IranIntl)</description>
-  </item>
-  <item>
-    <title>U.S. Treasury: Iran&#x27;s inflation climbed to 90%, rial lost a quarter of value in one month</title>
-    <link>https://farscadan.com/en/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</guid>
-    <pubDate>Sat, 31 Oct 2026 08:50:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>According to a U.S. Treasury report, Iran&#x27;s annual inflation reached 90% in September; the rial has fallen 25% since August. (Source: IranIntl)</description>
   </item>
 </channel>
 </rss>

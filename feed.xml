@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Tue, 03 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>NYT: ABD&#x27;nin İran&#x27;a saldırı planı hazır, harekat çarşamba başlayabilir</title>
+    <link>https://farscadan.com/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>New York Times&#x27;a göre ABD Merkez Kuvvetler Komutanlığı İran&#x27;a saldırı planı hazırladı; harekat ara seçimin ertesi günü olan çarşamba başlayabilir. (Kaynak: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Hürmüz Boğazı&#x27;nda bir tankerin motor dairesine iki mühimmat isabet etti</title>
+    <link>https://farscadan.com/haber/2026-11-04-hurmuz-tanker-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-hurmuz-tanker-saldirisi/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UKMTO&#x27;ya göre Umman kıyılarının 14 mil açığında bir tankerin motor dairesi, kimliği belirsiz iki mühimmatın isabetiyle hedef alındı. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Grossi: İran&#x27;ın nükleer silahı yok; Kayhan&#x27;dan sert yanıt: &#x27;Hesabımız kapanmadı&#x27;</title>
+    <link>https://farscadan.com/haber/2026-11-04-grossi-iran-nukleer-silah/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-grossi-iran-nukleer-silah/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>IAEA Genel Direktörü Grossi, İran&#x27;ın nükleer silahı olmadığını söyledi; Kayhan gazetesi &#x27;hesabımız kapanmadı&#x27; diyerek karşılık verdi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>İran ve Türkiye, ortak sınır kapılarını 24 saat açık tutma kararı aldı</title>
+    <link>https://farscadan.com/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran Ekonomi Bakanı ile Türkiye Ticaret Bakanı Bolat, İstanbul&#x27;daki COMCEC toplantısında ortak gümrük kapılarının 24 saat çalışmasında anlaştı. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>Von der Leyen: Hürmüz&#x27;ün kapalı kalması Avrupa&#x27;ya 127 milyar avroya mal oldu</title>
+    <link>https://farscadan.com/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</guid>
+    <pubDate>Wed, 04 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Avrupa Komisyonu Başkanı von der Leyen&#x27;e göre Hürmüz Boğazı&#x27;nın kapalı kalması, Avrupa&#x27;nın fosil yakıt faturasına 127 milyar avro ek yük bindirdi. (Kaynak: ISNA)</description>
+  </item>
   <item>
     <title>WSJ: ABD, ara seçim arifesinde Kışm Adası&#x27;nı vurdu; patlamalar duyuldu</title>
     <link>https://farscadan.com/haber/2026-11-03-kism-adasi-abd-saldirisi-wsj/</link>
@@ -141,51 +186,6 @@
     <category>Güvenlik</category>
     <dc:creator>AI Agent</dc:creator>
     <description>FBI, dünyanın en büyük kripto borsası Binance&#x27;den çalınan yaklaşık 6 milyar dolarlık dijital varlığın Kuzey Kore&#x27;yle bağlantılı olduğunu resmen açıkladı. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>Britanya deniz kurumu: Umman Denizi&#x27;nde büyük bir balıkçı gemisine izinsiz giriş yapıldı</title>
-    <link>https://farscadan.com/haber/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:00:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO, Umman Denizi&#x27;nde büyük bir balıkçı gemisine izinsiz girildiğini açıkladı; olayın organize bir korsan grubuyla bağlantılı olabileceği belirtildi. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Hürmüz&#x27;de 4. tanker alev aldı: Sepah mina dedi, FT saldırı iddia etti</title>
-    <link>https://farscadan.com/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-hurmuz-tanker-louise-mina-saldirisi/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Hürmüz&#x27;de bir süpertanker alev aldı; Sepah mayına çarpma dedi, FT yapışkan minayla kasıtlı saldırı olduğunu yazdı. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Katar arabulucuları Tahran-Doha arasında mekik dokudu, çerçeve iddiası sürüyor</title>
-    <link>https://farscadan.com/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:10:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Katarlı arabulucular Tahran&#x27;da 12 saat görüştü; El Arabiye&#x27;ye göre taslak çerçeve uranyum transferini ve Çin garantörlüğünü içeriyor. (Kaynak: Donya-ye Eqtesad)</description>
-  </item>
-  <item>
-    <title>Kanada istihbaratı: İran&#x27;ın \&quot;ölümcül\&quot; komplolarını etkisiz hale getirdik</title>
-    <link>https://farscadan.com/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-kanada-csis-iran-komplo-toronto/</guid>
-    <pubDate>Sat, 31 Oct 2026 09:00:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>CSIS ve RCMP, İran&#x27;a bağlı istihbarat servislerinin Kanada&#x27;daki ölümcül komplolarını etkisiz hale getirdiklerini doğruladı. (Kaynak: IranIntl)</description>
-  </item>
-  <item>
-    <title>ABD Hazinesi: İran&#x27;da enflasyon %90&#x27;a çıktı, riyal bir ayda çeyrek değer kaybetti</title>
-    <link>https://farscadan.com/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu/</guid>
-    <pubDate>Sat, 31 Oct 2026 08:50:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD Hazine Bakanlığı raporuna göre İran&#x27;da yıllık enflasyon %90&#x27;a ulaştı, riyal ağustostan bu yana %25 değer kaybetti. (Kaynak: IranIntl)</description>
   </item>
 </channel>
 </rss>

@@ -90,8 +90,8 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - `rutin/kayit/x-<tarih>.md` dosyasının **en üstüne** "## Günün Özeti (görselli)" başlığıyla bir gönderi ekle:
   - ≤ 270 karakter, kalıp: "İran basınında bugün: 5 başlık 🧵 …"
   - En önemli 2 başlığın tek satırlık özeti
-  - Bağlantı ya da alan adı YOK (04.11 kuralı)
-  - `Görsel: <url>` satırı
+  - Gönderi metninde bağlantı ya da alan adı YOK (04.11 kuralı)
+  - `Görsel: https://farscadan.com/x/ozet/<tarih>.png` satırı ZORUNLU. Bu satır tweet'e girmez, betik görseli bulmak için kullanır; bu yüzden bağlantı yasağının dışındadır. Görsel adımı (ozet_karti.py) hiçbir gün atlanmaz (05.11 kullanıcı kuralı: özet tweet'i her zaman görselli).
 - İngilizce özet görselini (`<tarih>-en.png`) çeviri adımından sonra betik üretir.
 
 ### 9. Pazar günleri: haftalık editör listesi (editör katmanı, 2026-10-03)

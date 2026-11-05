@@ -5,6 +5,7 @@ Kullanım: python3 rutin/x_taslak_paylas.py sabah|aksam [YYYY-MM-DD] [--prova]
   sabah → "Günün Özeti" (özet görseliyle) + ilk 2 haber gönderisi (kart görseli varsa)
   aksam → sıradaki 2 haber gönderisi
 Kural (04.11, kullanıcı): HİÇBİR tweet bağlantı içermez (uzantısız); site bağlantısı profilde.
+Kural (05.11, kullanıcı): Günün Özeti tweet'i her zaman görselli (görsel yoksa üretilir, üretilemezse atılmaz).
 Günlük tavan x_paylas.py'de (6).
 Paylaşılanlar: ~/farscadan/state/x-paylasilan-<tarih>.txt (aynı gönderi iki kez atılmaz).
 """
@@ -73,7 +74,16 @@ def main():
     yapildi = set(open(kayit).read().split()) if os.path.exists(kayit) else set()
     plan = []
     if mod == "sabah" and ozet and "ozet" not in yapildi:
-        plan.append(("ozet", ozet))
+        # 05.11 kullanıcı kuralı: Günün Özeti tweet'i HER ZAMAN görselli. Görsel taslaktaki satıra bağlı değil;
+        # static/x/ozet/<tarih>.png kullanılır, yoksa burada üretilir; yine yoksa özet tweet'i atılmaz.
+        png = os.path.join(ROOT, "static", "x", "ozet", gun + ".png")
+        if not os.path.exists(png):
+            subprocess.run([sys.executable, os.path.join(ROOT, "rutin", "ozet_karti.py"), gun], capture_output=True)
+        if os.path.exists(png):
+            ozet["gorsel"] = png
+            plan.append(("ozet", ozet))
+        else:
+            print("[ozet] HATA: Günün Özeti görseli üretilemedi; görselsiz özet atılmadı")
     kalan = [g for g in gonderiler if g["no"] not in yapildi]
     plan += [(g["no"], g) for g in kalan[:2]]
     if not plan:

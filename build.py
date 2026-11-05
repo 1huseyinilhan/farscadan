@@ -94,6 +94,8 @@ T = {
         "all": "Tümü", "cats_aria": "Kategoriler",
         "empty": "Bu bölümde henüz haber yayımlanmadı. Yeni çeviriler eklendikçe burada görünecek.",
         "latest": "Son haberler",
+        "brief": "Günün Özeti", "brief_lead": "İran'ın Farsça basınından %d başlık",
+        "brief_lead1": "İran'ın Farsça basınından 1 başlık", "brief_more": "Tüm haberler",
         "cat_lead": "%s kategorisindeki çeviri haberler.",
         "cat_desc": "%s: İran Farsça basınından %s haberlerinin Türkçe çevirileri.",
         "by": "Yazan:", "oversight": "Editoryal denetim:", "editors": "Farsçadan Editörlüğü",
@@ -138,6 +140,8 @@ T = {
         "all": "All", "cats_aria": "Categories",
         "empty": "No stories have been published in this section yet. New translations will appear here as they are added.",
         "latest": "Latest stories",
+        "brief": "Today in Brief", "brief_lead": "%d stories from Iran's Persian-language press",
+        "brief_lead1": "1 story from Iran's Persian-language press", "brief_more": "All stories",
         "cat_lead": "Translated stories in %s.",
         "cat_desc": "%s: English translations of %s stories from Iran's Persian-language press.",
         "by": "By", "oversight": "Editorial oversight:", "editors": "Farsçadan Editors",
@@ -189,6 +193,12 @@ def warn(msg):
 
 def esc(s):
     return html.escape(str(s or ""), quote=True)
+
+
+DAYS = {
+    "tr": ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"],
+    "en": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+}
 
 
 def fmt_date(d, lang):
@@ -938,6 +948,34 @@ def card(a, page, size="card"):
 </article>""".format(img=img, **fields)
 
 
+def daily_brief(arts, page):
+    """Ana sayfa 'Günün Özeti' paneli (05.11): en son yayın gününün haberleri, numaralı başlık + kısa özet."""
+    if not arts:
+        return ""
+    t = T[page.lang]
+    lang = page.lang
+    gun = arts[0]["date"].date()
+    items = [a for a in arts if a["date"].date() == gun][:6]
+    lis = []
+    for a in items:
+        m = a["meta"]
+        lis.append('<li><a class="brief-t" href="%s">%s</a><span class="brief-oz">%s</span>'
+                   '<span class="brief-src">%s</span></li>'
+                   % (page.l("haber/%s/" % a["slug"]), esc(m["baslik"]), esc(m["ozet"]),
+                      esc(m["kaynak_adi"])))
+    tarih = "%s, %s" % (fmt_date(gun, lang), DAYS[lang][gun.weekday()]) if lang == "tr" else \
+            "%s, %s" % (DAYS[lang][gun.weekday()], fmt_date(gun, lang))
+    lead = t["brief_lead1"] if len(items) == 1 else t["brief_lead"] % len(items)
+    return """<aside class="brief" aria-labelledby="brief-h">
+  <div class="brief-head">
+    <h2 class="brief-title" id="brief-h">{bt}</h2>
+    <p class="brief-date"><time datetime="{iso}">{tarih}</time></p>
+  </div>
+  <p class="brief-lead">{lead}</p>
+  <ol class="brief-list">{lis}</ol>
+</aside>""".format(bt=esc(t["brief"]), iso=gun.isoformat(), tarih=esc(tarih), lead=esc(lead), lis="".join(lis))
+
+
 def chips(page, active=None):
     t = T[page.lang]
     out = ['<li><a class="chip%s" href="%s">%s</a></li>'
@@ -1006,7 +1044,8 @@ def build_index(cfg, arts, lang):
     page = Page(PFX[lang] + "index.html", lang)
     body = ['<div class="wrap wide">', chips(page)]
     if arts:
-        body.append(card(arts[0], page, "hero"))
+        # 05.11: ana haber + Günün Özeti paneli üst bölümde yan yana (masaüstü), alt alta (mobil)
+        body.append('<div class="top">%s%s</div>' % (card(arts[0], page, "hero"), daily_brief(arts, page)))
         if len(arts) > 1:
             body.append('<h2 class="section-title">%s</h2>' % esc(t["latest"]))
             body.append('<div class="grid">%s</div>' % "".join(card(a, page) for a in arts[1:]))

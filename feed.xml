@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Wed, 04 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Türkiye-İran sınırında asker öldürüldü; ateşin İran&#x27;dan geldiği değerlendiriliyor</title>
+    <link>https://farscadan.com/haber/2026-11-05-turkiye-iran-sinirinda-asker-olumu/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-turkiye-iran-sinirinda-asker-olumu/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Türkiye Savunma Bakanlığı, Hakkari&#x27;de sınır ihlaline müdahale eden bir askerin İran&#x27;dan açılan ateşle öldüğünü açıkladı; iki ülke soruşturma başlattı. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>ABD, İran hava yollarına hizmet veren İstanbul merkezli Fugo&#x27;yu yaptırımladı</title>
+    <link>https://farscadan.com/haber/2026-11-05-abd-fugo-turkiye-havacilik-yaptirimi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-abd-fugo-turkiye-havacilik-yaptirimi/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>ABD Hazine Bakanlığı, yaptırımlı İran hava yollarına İstanbul&#x27;dan yer hizmeti sağlayan Fugo Ground Services&#x27;i tahrim listesine ekledi. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>FT: Rusya, İran&#x27;a helikopterden atılan 90 roket fırlatıcısı vermeyi kabul etti</title>
+    <link>https://farscadan.com/haber/2026-11-05-rusya-iran-roket-firlatici-mi28-helikopter/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-rusya-iran-roket-firlatici-mi28-helikopter/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Financial Times, Rusya&#x27;nın İran&#x27;a Mi-28&#x27;e monte edilebilen 90 güdümlü roket fırlatıcısı sağlamayı kabul ettiğini yazdı; teslimat teyit edilmedi. (Kaynak: İran International)</description>
+  </item>
+  <item>
+    <title>Umman ve İran, Hürmüz&#x27;de denizciliğin yeniden başlaması için teknik düzenleme arıyor</title>
+    <link>https://farscadan.com/haber/2026-11-05-umman-iran-hurmuz-denizcilik-gorusmesi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-umman-iran-hurmuz-denizcilik-gorusmesi/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Umman Dışişleri Bakanlığı, Tahran ile Hürmüz Boğazı&#x27;nda deniz trafiğinin güvenli şekilde yeniden başlaması için teknik görüşmeler yürütüldüğünü bildirdi. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>İran&#x27;da ekonomik suç davalarından 10,5 milyar euro döviz geri alındı</title>
+    <link>https://farscadan.com/haber/2026-11-05-iran-adliye-doviz-istirdadi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-iran-adliye-doviz-istirdadi/</guid>
+    <pubDate>Thu, 05 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Tahran Adliyesi Başkanı Atebati, ekonomik suç dosyalarında bugüne kadar 10,5 milyar euro dövizin ülkeye geri döndüğünü açıkladı. (Kaynak: Donya-e Eqtesad (ISNA&#x27;dan aktarma))</description>
+  </item>
   <item>
     <title>NYT: ABD&#x27;nin İran&#x27;a saldırı planı hazır, harekat çarşamba başlayabilir</title>
     <link>https://farscadan.com/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</link>
@@ -141,51 +186,6 @@
     <category>Toplum</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Somalili korsanlar, 21 İranlı ve 2 Somalili güvenlik görevlisinin bulunduğu bir balıkçı gemisini Hint Okyanusu&#x27;nda kaçırdı; mürettebatın durumu belirsiz. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Haftanın Çerçevesi (26 Ekim-1 Kasım): Savaşa dönüş sinyalleri ile diplomasi arasında</title>
-    <link>https://farscadan.com/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-haftanin-cercevesi-26-ekim-1-kasim/</guid>
-    <pubDate>Sun, 01 Nov 2026 21:00:00 +0300</pubDate>
-    <category>Analiz</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Farsça basında 26 Ekim-1 Kasım: İsrail seçim krizi, ABD&#x27;nin saldırı hazırlığı sinyalleri, Katar diplomasisi, Hürmüz&#x27;de dördüncü tanker ve Türkiye boyutu. (Kaynak: Farsçadan)</description>
-  </item>
-  <item>
-    <title>WSJ: Trump, İran&#x27;a saldırıların yeniden başlaması için Netanyahu&#x27;yla görüştü</title>
-    <link>https://farscadan.com/haber/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>WSJ&#x27;ye göre Trump, ABD saldırıların yeniden başlamasına hazırlanırken Netanyahu ile telefonda görüştü; görüşme askerî istişarelerin ardından geldi. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>Fidan: Hürmüz Boğazı&#x27;nın kapalı kalması küresel ekonomiye ağır yük bindiriyor</title>
-    <link>https://farscadan.com/haber/2026-11-01-fidan-hurmuz-bogazi-kuresel-ekonomi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-fidan-hurmuz-bogazi-kuresel-ekonomi/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Dışişleri Bakanı Hakan Fidan, Hürmüz Boğazı&#x27;nın kapanmasının Ukrayna savaşıyla birleşerek küresel ekonomiye ağır yük bindirdiğini söyledi. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>Ulyanov: Avrupa, ABD&#x27;nin İran&#x27;a saldırısının zeminini hazırlamada kilit rol oynadı</title>
-    <link>https://farscadan.com/haber/2026-11-01-ulyanov-rusya-avrupa-iran-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-ulyanov-rusya-avrupa-iran-saldirisi/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Rusya&#x27;nın Viyana temsilcisi Ulyanov, Almanya Şansölyesi&#x27;nin açıklamasına yanıt olarak Avrupa&#x27;yı ABD&#x27;nin İran&#x27;a saldırısının zeminini hazırlamakla suçladı. (Kaynak: ISNA)</description>
-  </item>
-  <item>
-    <title>FBI, Binance&#x27;den çalınan 6 milyar dolarlık kripto varlığı resmen Kuzey Kore&#x27;ye bağladı</title>
-    <link>https://farscadan.com/haber/2026-11-01-binance-hack-kuzey-kore-fbi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-01-binance-hack-kuzey-kore-fbi/</guid>
-    <pubDate>Sun, 01 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>FBI, dünyanın en büyük kripto borsası Binance&#x27;den çalınan yaklaşık 6 milyar dolarlık dijital varlığın Kuzey Kore&#x27;yle bağlantılı olduğunu resmen açıkladı. (Kaynak: ISNA)</description>
   </item>
 </channel>
 </rss>

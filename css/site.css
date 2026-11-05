@@ -9,6 +9,11 @@
   --accent: #0f5f5c;          /* koyu turkuaz — 7:1 üzeri kontrast */
   --accent-ink: #ffffff;
   --accent-soft: #e3f0ee;
+  --brief-bg: #0f5f5c;        /* Günün Özeti paneli — X kartlarıyla aynı turkuaz */
+  --brief-ink: #ffffff;
+  --brief-muted: #cfe5e2;
+  --brief-line: rgba(255,255,255,.16);
+  --gold: #f1d39b;
   --label-bg: #f4ead7;
   --label-ink: #6b4a10;
   --focus: #c2410c;
@@ -29,6 +34,10 @@
     --accent: #5cc8bf;
     --accent-ink: #0b1716;
     --accent-soft: #17302e;
+    --brief-bg: #14302d;
+    --brief-ink: #ececef;
+    --brief-muted: #a9c6c2;
+    --brief-line: rgba(255,255,255,.10);
     --label-bg: #3a2e18;
     --label-ink: #f1d39b;
     --focus: #fb923c;
@@ -254,3 +263,28 @@ button:hover { filter: brightness(1.08); }
 .nl-row input[type=email] { flex: 1 1 220px; min-width: 0; padding: 10px 12px; font: inherit; font-size: 16px; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; }
 .nl-row button { flex: 0 0 auto; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Ana sayfa üst bölüm + Günün Özeti (05.11) */
+.top { display: grid; gap: 24px; margin-bottom: 36px; padding-bottom: 32px; border-bottom: 1px solid var(--border); }
+.top .hero { margin: 0; padding: 0; border: 0; }
+@media (min-width: 960px) {
+  .top { grid-template-columns: minmax(0, 1.55fr) minmax(0, 1fr); align-items: start; gap: 32px; }
+  .top .hero { grid-template-columns: 1fr; gap: 16px; }
+}
+.brief { background: var(--brief-bg); color: var(--brief-ink); border-radius: var(--radius); padding: 22px 22px 18px; }
+.brief-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  padding-bottom: 12px; border-bottom: 2px solid var(--gold); }
+.brief-title { margin: 0; font: 700 13px/1.2 var(--sans); letter-spacing: .12em; text-transform: uppercase; color: var(--gold); }
+.brief-date { margin: 0; font: 400 15px/1.3 var(--serif); color: var(--brief-ink); }
+.brief-lead { margin: 12px 0 4px; font: italic 400 15px/1.4 var(--serif); color: var(--brief-muted); }
+.brief-list { list-style: none; counter-reset: brief; margin: 0; padding: 0; }
+.brief-list li { counter-increment: brief; position: relative; padding: 13px 0 13px 42px; border-bottom: 1px solid var(--brief-line); }
+.brief-list li:last-child { border-bottom: 0; padding-bottom: 2px; }
+.brief-list li::before { content: counter(brief); position: absolute; left: 0; top: 13px; width: 28px; height: 28px;
+  border: 2px solid var(--gold); border-radius: 50%; display: grid; place-items: center;
+  font: 700 14px/1 var(--serif); color: var(--gold); }
+.brief-t { display: block; font: 700 17px/1.3 var(--serif); color: var(--brief-ink); text-decoration: none; }
+.brief-t:hover, .brief-t:focus-visible { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+.brief-oz { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  margin-top: 4px; font: 400 14px/1.45 var(--sans); color: var(--brief-muted); }
+.brief-src { display: block; margin-top: 4px; font: 600 11.5px/1.2 var(--sans); letter-spacing: .04em; color: var(--gold); opacity: .9; }

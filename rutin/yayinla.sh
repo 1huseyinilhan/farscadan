@@ -12,6 +12,7 @@ git add -A content static site.json build.py check_links.py rutin ICERIK_SOZLESM
 if ! git diff --cached --quiet; then
   git -c user.name="Farsçadan Yayın" -c user.email="yayin@farscadan.com" commit -q -m "İçerik: $MSG"
 fi
+export GIT_HTTP_LOW_SPEED_LIMIT=1000 GIT_HTTP_LOW_SPEED_TIME=30  # 06.11: asılı push önlemi
 git pull -q --rebase origin kaynak || true
 git push -q origin HEAD:kaynak
 

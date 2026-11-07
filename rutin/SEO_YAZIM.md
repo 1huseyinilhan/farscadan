@@ -22,11 +22,17 @@ Bu kurallar her haber için geçerlidir. Biçim sözleşmesi `ICERIK_SOZLESMESI.
 - Dosya adı `YYYY-MM-DD-anahtar-kelimeler.md` biçimindedir: 3–6 Türkçe anahtar kelime, yalnızca ASCII (ç→c, ğ→g, ı→i, ö→o, ş→s, ü→u), bağlaç yok.
   - Örnek: `2026-10-04-dolar-tumen-merkez-bankasi-mudahale.md`
 
-## 5. Gövde (400–700 kelime)
+## 5. Gövde (550–900 kelime; Bağlam dahil)
 1. **Giriş paragrafı (40–60 kelime):** 5N1K'ya cevap verir. Anahtar kelime ilk cümlede geçer. Haberin kaynağı adıyla anılır ("ISNA'nın aktardığına göre…").
 2. **Haberin çevirisi:** Kaynak haberin sadık özet-çevirisi. Tam metin değildir, kendi cümlelerinle yazılır. Kısa doğrudan alıntılar tırnak içinde verilir. Rakam, isim ve tarihler kaynakla birebir aynı olur.
 3. **`## Farsça basında nasıl verildi`:** Aynı olayı işleyen diğer kaynakların başlıkları ve çerçeve farkı. Gerekirse tablo kullanılır (`| Kaynak (yönelim) | Başlık / çerçeve |`). Yalnızca ≥ 2 kaynak varsa yazılır.
-4. **`## Bağlam`:** Okurun haberi anlaması için gereken arka plan. Özgün metin, 80–200 kelime, görüş içermez. Varsa Türkiye bağlantısı burada açıklanır.
+4. **`## Bağlam`** (kullanıcı kararı 2026-11-07: günde 5 haber kalır, her habere daha fazla özgün Bağlam): sitenin asıl özgün katkısı ve AdSense/Google kalite değerlendirmesinde belirleyici bölüm. **250–400 kelime**, aşağıdaki kalın girişli alt bloklarla yazılır. En az 3 blok zorunlu; Türkiye bağlantısı varsa "Türkiye boyutu" da zorunlu.
+   - **Arka plan:** Olayın geçmişi, 3–5 maddelik tarihli zaman çizelgesi (`- **12 Haziran 2025:** …`). En az bir madde Farsçadan'daki önceki habere bağlantı verir (varsa).
+   - **Kim kimdir / kavram:** Haberdeki kişi, kurum ya da kavramın 1–2 cümlelik tanımı; Farsça terimin Latin harfli okunuşu ve Türkçe karşılığı (ör. *Majles-e Khobregan* — Uzmanlar Meclisi). Türkçe kaynaklarda bulunmayan bilgi tercih edilir.
+   - **Rakamlarla:** Konuyu ölçen en az 2 sayı (kur, ihracat, bütçe, nüfus, kayıp, oy vb.), her biri kaynak ve tarihle. Sayılar WebSearch ile doğrulanır, kaynak `ek_kaynaklar`'a eklenir.
+   - **Türkiye boyutu:** Ticaret, enerji, sınır, göç veya diplomasi bağlantısı; somut veriyle. Bağlantı yoksa blok yazılmaz, uydurulmaz.
+   - **Sırada ne var:** Yalnızca açıklanmış/takvimli gelişmeler (oturum, son tarih, ziyaret, oylama). Tahmin yazılmaz.
+   - **Yasaklar:** Görüş ve yorum ("örüntü", "geçiştiriyor", "mesaj veriyor" gibi niyet okumaları), haber gövdesinin tekrarı, kaynaksız sayı, genel geçer dolgu cümleleri. Her olgu bir kaynağa dayanır; en az bir doğrulama kaynağı İran dışı/uluslararasıdır (Reuters, AP, IAEA, IMF, TÜİK, resmî açıklama).
 5. **İç bağlantı:** Farsçadan'daki ilgili 1–2 habere bağlantı ver: `[metin](../YYYY-MM-DD-slug/)`. Bağlantı göreli olur, haber sayfaları `haber/<slug>/` altındadır. Konu ilk kez işleniyorsa bağlantı zorunlu değil.
 6. **Uyarılar:**
    - Döviz, petrol ve borsa haberinin sonuna `*Bu haber bilgilendirme amaçlıdır; yatırım tavsiyesi değildir.*` eklenir.

@@ -54,7 +54,7 @@ Gövde (Markdown alt kümesi)...
 ## Haber gövdesi yapısı (İran agent'ı uygular)
 1. **Haberin çevirisi:** Kaynak haberin Türkçe aktarımı. Sadık bir özet-çeviridir, tam metin değildir. Haberin toplam uzunluğu 400–700 kelimedir (`rutin/SEO_YAZIM.md`).
 2. **`## Farsça basında nasıl verildi`:** Aynı olayı işleyen diğer kaynakların başlıkları ve çerçeve farkı. Yalnızca birden fazla kaynak olayı işlediyse eklenir.
-3. **`## Bağlam`:** Okurun haberi anlaması için gereken arka plan. Özgün metindir, görüş içermez. 80–200 kelime.
+3. **`## Bağlam`:** Okurun haberi anlaması için gereken arka plan. Özgün metindir, görüş içermez. 250–400 kelime; alt bloklar (Arka plan, Kim kimdir / kavram, Rakamlarla, Türkiye boyutu, Sırada ne var) ve kurallar `rutin/SEO_YAZIM.md` §5.4'te.
 4. Kapanış satırı, şablon tarafından otomatik basılır: "Bu haber Farsça kaynaktan yapay zekâ desteğiyle çevrilmiştir. Haberin sorumluluğu ilgili yayın organına aittir."
 
 ## İngilizce sürüm (2026-10-04)

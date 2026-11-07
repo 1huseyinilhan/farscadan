@@ -39,7 +39,9 @@ Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` 
 - `tarih`: bugünün tarihi ve rutin saati, `+03:00` ile. 5 haberin saatleri 10'ar dakika arayla verilir. En önemli haber en yeni saati alır ve ana sayfada en üstte görünür.
 - Kalite barı, her haber için:
   - [ ] `seo_baslik` ≤ 60 karakter, `ozet` 120–155 karakter
-  - [ ] Gövde 400–700 kelime; "Bağlam" bölümü var; ≥ 2 kaynak varsa "Farsça basında nasıl verildi" bölümü var
+  - [ ] Gövde 550–900 kelime; ≥ 2 kaynak varsa "Farsça basında nasıl verildi" bölümü var
+  - [ ] "Bağlam" 250–400 kelime, SEO_YAZIM §5.4'teki bloklardan ≥ 3'ü (Türkiye bağlantısı varsa "Türkiye boyutu" zorunlu); "Rakamlarla"daki her sayı kaynaklı ve tarihli; en az 1 uluslararası doğrulama kaynağı `ek_kaynaklar`'da; yorum/niyet okuması yok
+  - [ ] Günde 5 haber (kullanıcı kararı 2026-11-07; azaltılmaz)
   - [ ] Her iddia atfedilmiş; çelişkiler "teyit edilmedi" ile işaretli
   - [ ] Görsel özgür lisanslı ve kredili
 

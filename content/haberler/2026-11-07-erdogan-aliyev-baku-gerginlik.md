@@ -1,0 +1,29 @@
+---
+baslik: "Al-Monitor: Erdoğan'ın Bakü ziyareti Türkiye-Azerbaycan gerginliğini örtemiyor"
+seo_baslik: "Erdoğan'ın Bakü ziyareti gerginliği örtemiyor"
+ozet: Al-Monitor'e göre Erdoğan'ın 8 Kasım Zafer Günü'nde Bakü'ye gidişi, başörtüsü krizinin ardındaki derin Türkiye-Azerbaycan gerginliğini örtemeyebilir.
+tarih: 2026-11-07T10:00:00+03:00
+kategori: Türkiye
+etiketler: Türkiye, Azerbaycan, Recep Tayyip Erdoğan, İlham Aliyev, Bakü
+kaynak_adi: Khabaronline (Al-Monitor'den aktarma)
+kaynak_yonelim: Ilımlı muhafazakâr, Laricani çevresi
+kaynak_url: https://www.khabaronline.ir/news/2298416/%D8%A7%D8%B2-%D8%AE%D8%B4%D9%85-%D8%B9%D9%84%DB%8C-%D8%A7%D9%81-%D8%AA%D8%A7-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%88-%D9%81%D8%B1%D9%88%D8%B4-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D9%85%D8%A3%D9%85%D9%88%D8%B1%DB%8C%D8%AA-%D8%AF%D8%B4%D9%88%D8%A7%D8%B1-%D8%A7%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86
+kaynak_baslik_fa: "از خشم علی‌اف تا پرونده اسرائیل و فروش پهپاد؛ مأموریت دشوار اردوغان در باکو در روز پیروزی قره‌باغ"
+ek_kaynaklar: "The National (İngilizce, birincil kaynak) | https://www.thenationalnews.com/news/mena/2026/10/17/azerbaijan-ban-on-headscarves-in-schools-opens-rift-with-ally-turkey/ ;; Al Jazeera (İngilizce, birincil kaynak) | https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next ;; Arab News (İngilizce, birincil kaynak) | https://www.arabnews.pk/world/azerbaijan-charges-turkish-journalist-over-coup-calls-3004374"
+gorsel: img/2026-11-07-erdogan-aliyev-baku-gerginlik.jpg
+gorsel_alt: Bakü şehrinin Kız Kalesi çevresindeki siluet görünümü
+gorsel_kredi: Viceskeeni2, Kamu malı (CC0), Wikimedia Commons
+gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baku_Skyline_qiz_qalasi.jpg
+yazar: AI Agent
+---
+Khabaronline'ın Al-Monitor'den aktardığına göre Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Azerbaycan'ın Ermenistan'a karşı 2020 zaferinin yıl dönümü olan 8 Kasım Zafer Günü törenlerine katılmak için pazar günü Bakü'ye yapacağı ziyaret, iki eski müttefik arasında derinleşen bir krizi örtme girişimi olarak değerlendiriliyor. Al-Monitor muhabiri Amberin Zaman'a göre Azerbaycan okullarında başörtüsü yasağı tartışması, yüzeydeki bir kıvılcımdan ibaret; asıl anlaşmazlık Bakü'nün Tel Aviv'le yakın ilişkilerinden Ankara'nın Erivan'la normalleşme çabasına kadar uzanıyor.
+
+Habere göre Erdoğan, ziyaretin amacını iki ülke arasındaki "diplomatik çerçevelerin ötesine geçen" bağ olarak tanımladı ve eşi Emine Erdoğan ile Azerbaycan Cumhurbaşkanı Yardımcısı Mehriban Aliyeva arasındaki "telefon diplomasisi"nin sürdüğünü vurguladı. Ancak gerginliğin derinliği, İlham Aliyev'in geçen hafta İstanbul'daki Türk Devletleri Teşkilatı zirvesine katılmayı reddetmesiyle açığa çıktı; bu adım, Bakü'nün isteği üzerine görevden alınan Erdoğan'ın başdanışmanı Oktay Saral'ın görevden alınmasına ve Aliyev'i eleştiren iki İslamcı aktivistin Türkiye'de geçici olarak gözaltına alınmasına rağmen değişmedi. Dışişleri Bakanı Hakan Fidan'ın ekim ortasında bir Asya zirvesi marjında Aliyev ve Bayramov'la yaptığı görüşmeler de krizi yatıştıramadı. The National'ın haberine göre anlaşmazlığın görünür fitili, Azerbaycan okullarında başörtüsü yasağıydı; Al Jazeera'nın aktardığına göre bu yasak ekimde Bakü'de protestolara yol açtı ve İçişleri Bakanlığı kamu düzenini bozmaktan 37 kişiyi gözaltına aldığını açıkladı.
+
+Al-Monitor'e göre anlaşmazlığın maddi boyutu da var: Azerbaycan'ın Türkiye'deki yatırımları 1995-2025 arasında 18,4 milyar dolara ulaştı; devlet petrol şirketi SOCAR, Bakü-Tiflis-Ceyhan boru hattının %32,97'sine ve TANAP'ın %51'ine ortak. Ankara, Bakü'nün Tel Aviv'le askerî-güvenlik ilişkilerinden rahatsızken, Azerbaycan da Türkiye'nin Erivan'la normalleşme çabasından hoşnutsuz; Bakü-Tiflis-Ceyhan hattından geçen petrolün büyük bölümünün İsrail'e gittiği bilgisi Türkiye'de bu ihracatın durdurulması çağrılarına yol açtı. Al-Monitor'e göre Aliyev geçen ay kendi partisinin toplantısında, 2020 Karabağ zaferinde Ankara'nın belirleyici rol oynadığı anlatısından açıkça rahatsızlığını dile getirdi ve ismini vermeden bazı müttefiklerin silahları piyasa fiyatının çok üzerinde sattığını ima etti.
+
+## Bağlam
+
+Azerbaycan, Türkiye'nin en yakın müttefiklerinden biri ve enerji güvenliği açısından kritik bir ortak; Bakü-Tiflis-Ceyhan ve TANAP hatları, Hazar gazının Türkiye üzerinden Avrupa'ya taşınmasının ana damarlarını oluşturuyor. Al-Monitor'e göre Erdoğan'ın küçük damadı Selçuk Bayraktar'ın savunma şirketi Baykar'ın Bakü yakınında bir İHA üretim hattı açması da ilişkilerin bozulmasından zarar görebilecek çıkarlardan biri. Habere göre Türkiye'deki büyük bir Ponzi skandalının en az 450 bin yatırımcıyı mağdur etmesi, Ankara'nın Bakü'den mali destek aramasıyla eş zamanlı yaşanıyor; BBC Azerbaycan servisi bu durumu "biz sizin kardeşinizsiniz, bankanız değil" başlığıyla aktarmış. Jeopolitik çıkarlar ve enerji hatları ilişkilerin tamamen çökmesini şimdilik önlüyor, ancak Al-Monitor'e göre bu çok katmanlı anlaşmazlıkların çözümü, Zafer Günü'ndeki törensel ziyaretlerin ötesinde bir çaba gerektiriyor.
+
+The National'ın haberine göre Erdoğan, 22 Eylül'de BM Genel Kurulu'nda okullarda başörtüsü yasaklarını "kadınların en temel haklarına saldırı" olarak nitelendirmişti; bu açıklama, Bakü'deki yasağı dolaylı olarak hedef aldığı şeklinde yorumlandı. Al Jazeera'nın haberine göre Azerbaycan'daki yasak ekim ayında ülke çapında protestolara yol açtı ve İçişleri Bakanlığı kamu düzenini bozma gerekçesiyle 37 kişiyi gözaltına aldığını duyurdu; Arab News'e göre Azerbaycan ayrıca darbe çağrısı suçlamasıyla bir Türk gazeteciye dava açtı. Bu gerginlik, iki ülke arasında onlarca yıldır süregelen "tek millet, iki devlet" söylemiyle çelişen nadir bir kamuoyu çatlağı olarak görülüyor; taraflar şimdiye kadar anlaşmazlığı büyük ölçüde diplomatik kanallar üzerinden, kamuoyuna kapalı tutmaya çalıştı.

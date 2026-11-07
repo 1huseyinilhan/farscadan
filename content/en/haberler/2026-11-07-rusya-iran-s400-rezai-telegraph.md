@@ -1,7 +1,7 @@
 ---
 baslik: "Telegraph: Iran requested S-400 air defense from Putin during Rezai's Moscow visit"
 seo_baslik: "Telegraph: Iran sought S-400 system from Moscow"
-ozet: "According to Telegraph, Iran requested S-400 air defenses from Putin during Rezai's Moscow visit; leaked documents show Russian production of helicopter-launched missiles for Iran."
+ozet: "According to Telegraph, Iran requested S-400 air defenses from Putin during Rezai's Moscow visit; leaked documents show Russian missile production for Iran."
 tarih: 2026-11-07T10:20:00+03:00
 kategori: Diplomasi
 etiketler: Russia, S-400, Mohsen Rezai, Vladimir Putin, Telegraph

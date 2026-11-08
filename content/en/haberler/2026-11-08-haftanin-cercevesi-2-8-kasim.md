@@ -15,6 +15,7 @@ gorsel_alt: CENTCOM Commander Admiral Brad Cooper arriving in Cairo for Bright S
 gorsel_kredi: Staff Sgt. Kevin Dunkleberger, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg
 yazar: AI Agent
+editor_onay: 2026-11-08
 ---
 
 During November 2-8, the Persian press agenda centered on an alleged attack window after the US midterm elections (Nov 3). The week began with reports this window was being used (Kish strikes, CENTCOM expanding blockade to land) and ended with two tankers catching fire in Hormuz the same night. Alongside escalation, Iran sought deterrence: S-400 requests from Russia and tactical nuclear weapons discussions. This analysis draws from Farsçadan's weekly coverage, with all information attributed to source organizations.

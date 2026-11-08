@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 08 Nov 2026 21:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 22:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Haftanın Çerçevesi (2-8 Kasım): Saldırı eşiğinde ablukayı karaya taşıyan hafta</title>
+    <link>https://farscadan.com/haber/2026-11-08-haftanin-cercevesi-2-8-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-haftanin-cercevesi-2-8-kasim/</guid>
+    <pubDate>Sun, 08 Nov 2026 22:00:00 +0300</pubDate>
+    <category>Analiz</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Farsça basında 2-8 Kasım: ara seçim sonrası saldırı planı, Kışm Adası vuruşları, CENTCOM&#x27;un kara ablukası, Rusya&#x27;dan S-400 talebi ve nükleer söylemde sertleşme. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Muhammed Cevad Laricani: &#x27;Nükleer silah düşman üssüne karşı taktik olarak kullanılabilir&#x27;</title>
     <link>https://farscadan.com/haber/2026-11-08-laricani-taktik-nukleer-silah/</link>
@@ -177,15 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Umman Dışişleri Bakanlığı, Tahran ile Hürmüz Boğazı&#x27;nda deniz trafiğinin güvenli şekilde yeniden başlaması için teknik görüşmeler yürütüldüğünü bildirdi. (Kaynak: Khabaronline)</description>
-  </item>
-  <item>
-    <title>İran&#x27;da ekonomik suç davalarından 10,5 milyar euro döviz geri alındı</title>
-    <link>https://farscadan.com/haber/2026-11-05-iran-adliye-doviz-istirdadi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-05-iran-adliye-doviz-istirdadi/</guid>
-    <pubDate>Thu, 05 Nov 2026 09:00:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Tahran Adliyesi Başkanı Atebati, ekonomik suç dosyalarında bugüne kadar 10,5 milyar euro dövizin ülkeye geri döndüğünü açıkladı. (Kaynak: Donya-e Eqtesad (ISNA&#x27;dan aktarma))</description>
   </item>
 </channel>
 </rss>

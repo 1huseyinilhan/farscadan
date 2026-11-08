@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 07 Nov 2026 10:30:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 21:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Muhammed Cevad Laricani: &#x27;Nükleer silah düşman üssüne karşı taktik olarak kullanılabilir&#x27;</title>
+    <link>https://farscadan.com/haber/2026-11-08-laricani-taktik-nukleer-silah/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-laricani-taktik-nukleer-silah/</guid>
+    <pubDate>Sun, 08 Nov 2026 21:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran&#x27;lı siyasetçi M. Cevad Laricani, devlet televizyonunda nükleer silahın sivillere karşı değil ama düşman askeri üssüne karşı kullanılabileceğini söyledi. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Hürmüz&#x27;de iki tanker ateş aldı: İran mayın dedi, ABD gemiye saldırdığını açıkladı</title>
+    <link>https://farscadan.com/haber/2026-11-08-hurmuz-iki-tanker-patlama-mayin/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-hurmuz-iki-tanker-patlama-mayin/</guid>
+    <pubDate>Sun, 08 Nov 2026 21:30:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Hürmüz Boğazı&#x27;nda iki tankerde patlama ve yangın çıktı; Devrim Muhafızları mayına, ABD ise ablukayı delen bir gemiye saldırdığını öne sürdü. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>CENTCOM İran ablukasını kara sınırlarına genişletiyor: &#x27;Demir Kapı&#x27; kuruldu</title>
+    <link>https://farscadan.com/haber/2026-11-08-centcom-demir-kapi-kara-sinirlari/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-centcom-demir-kapi-kara-sinirlari/</guid>
+    <pubDate>Sun, 08 Nov 2026 21:20:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Iran International&#x27;a göre CENTCOM, İran&#x27;a silah ve yaptırımlı mal akışını önlemek için kara sınırları ve Hazar&#x27;ı da kapsayan &#x27;Demir Kapı&#x27; kurdu. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>Eisenkot, Netanyahu&#x27;nun rakibi olarak İsrail&#x27;de hükümeti kurmakla görevlendirildi</title>
+    <link>https://farscadan.com/haber/2026-11-08-eisenkot-israil-birlik-hukumeti/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-eisenkot-israil-birlik-hukumeti/</guid>
+    <pubDate>Sun, 08 Nov 2026 21:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Herzog, Netanyahu&#x27;nun en sert rakibi Gadi Eisenkot&#x27;u hükümeti kurmakla görevlendirdi; Knesset&#x27;te 67 vekil onu önermişti. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Erdoğan-Trump telefon görüşmesi: ABD-İran gerginliği diplomasiyle çözülmeli</title>
+    <link>https://farscadan.com/haber/2026-11-08-erdogan-trump-iran-abd-diplomasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-08-erdogan-trump-iran-abd-diplomasi/</guid>
+    <pubDate>Sun, 08 Nov 2026 21:00:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Khabaronline&#x27;a göre Erdoğan, Trump&#x27;la telefonda ABD-İran geriliminin diplomasiyle çözülmesi gerektiğini söyledi; görüşme Ukrayna&#x27;yı da kapsadı. (Kaynak: Khabaronline (Anadolu Ajansı&#x27;ndan aktarma))</description>
+  </item>
   <item>
     <title>Times iddiası: Nükleer tesis yakınında iyot hapı dağıtımını Bakanlık yalanladı</title>
     <link>https://farscadan.com/haber/2026-11-07-iyot-hapi-tayms-saglik-bakanligi/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Tahran Adliyesi Başkanı Atebati, ekonomik suç dosyalarında bugüne kadar 10,5 milyar euro dövizin ülkeye geri döndüğünü açıkladı. (Kaynak: Donya-e Eqtesad (ISNA&#x27;dan aktarma))</description>
-  </item>
-  <item>
-    <title>NYT: ABD&#x27;nin İran&#x27;a saldırı planı hazır, harekat çarşamba başlayabilir</title>
-    <link>https://farscadan.com/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-abd-iran-saldiri-plani-carsamba/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>New York Times&#x27;a göre ABD Merkez Kuvvetler Komutanlığı İran&#x27;a saldırı planı hazırladı; harekat ara seçimin ertesi günü olan çarşamba başlayabilir. (Kaynak: Donya-ye Eghtesad)</description>
-  </item>
-  <item>
-    <title>Hürmüz Boğazı&#x27;nda bir tankerin motor dairesine iki mühimmat isabet etti</title>
-    <link>https://farscadan.com/haber/2026-11-04-hurmuz-tanker-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-hurmuz-tanker-saldirisi/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UKMTO&#x27;ya göre Umman kıyılarının 14 mil açığında bir tankerin motor dairesi, kimliği belirsiz iki mühimmatın isabetiyle hedef alındı. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Grossi: İran&#x27;ın nükleer silahı yok; Kayhan&#x27;dan sert yanıt: &#x27;Hesabımız kapanmadı&#x27;</title>
-    <link>https://farscadan.com/haber/2026-11-04-grossi-iran-nukleer-silah/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-grossi-iran-nukleer-silah/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>IAEA Genel Direktörü Grossi, İran&#x27;ın nükleer silahı olmadığını söyledi; Kayhan gazetesi &#x27;hesabımız kapanmadı&#x27; diyerek karşılık verdi. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>İran ve Türkiye, ortak sınır kapılarını 24 saat açık tutma kararı aldı</title>
-    <link>https://farscadan.com/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-iran-turkiye-sinir-kapisi-mesai/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran Ekonomi Bakanı ile Türkiye Ticaret Bakanı Bolat, İstanbul&#x27;daki COMCEC toplantısında ortak gümrük kapılarının 24 saat çalışmasında anlaştı. (Kaynak: Kayhan)</description>
-  </item>
-  <item>
-    <title>Von der Leyen: Hürmüz&#x27;ün kapalı kalması Avrupa&#x27;ya 127 milyar avroya mal oldu</title>
-    <link>https://farscadan.com/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet/</guid>
-    <pubDate>Wed, 04 Nov 2026 09:00:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Avrupa Komisyonu Başkanı von der Leyen&#x27;e göre Hürmüz Boğazı&#x27;nın kapalı kalması, Avrupa&#x27;nın fosil yakıt faturasına 127 milyar avro ek yük bindirdi. (Kaynak: ISNA)</description>
   </item>
 </channel>
 </rss>

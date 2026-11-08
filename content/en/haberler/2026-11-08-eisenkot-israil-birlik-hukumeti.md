@@ -35,6 +35,7 @@ According to Al Jazeera, this development resulted from a process begun after th
 ## Context
 
 **Background:**
+- **October 28, 2026:** Exit-poll figures in the Israeli election conflicted between channels; it was not confirmed that either the Netanyahu or Eisenkot bloc had reached a clear majority ([details](../2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/)).
 - **November 1, 2026:** In a phone call between U.S. President Trump and Netanyahu, renewed strikes on Iran were discussed ([details](../2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/)).
 - **November 4-5, 2026:** According to Al Jazeera, Herzog accepted the election results and began consultations with Knesset members on government formation; no bloc had reached the 61-seat majority.
 - **November 7, 2026:** Netanyahu issued a video call for a national unity government; hours later Eisenkot rejected the rotating-government proposal, and Herzog tasked him that same evening.

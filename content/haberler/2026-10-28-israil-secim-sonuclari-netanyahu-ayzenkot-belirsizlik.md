@@ -33,3 +33,5 @@ Kanalların anket rakamları gece boyunca değişti ve birbiriyle çelişti; İs
 
 ## Bağlam
 Seçim, İsrail'in İran'la olası yeni bir askeri çatışma ihtimalinin tartışıldığı bir dönemde yapıldı. Ayzenkot, İsrail Genelkurmay eski başkanı olarak ABD'nin 2018'de nükleer anlaşmadan çekilmesini "büyük stratejik hata" diye eleştirmişti ve İran politikasında Netanyahu'dan farklı bir çizgi izliyor. Seçim sonucu, hükümetin olası bir saldırı kararını erteleyip ertelemeyeceğini etkileyebilir; nitekim [Netanyahu ile ordu komutanı Zamir'in seçimden önce İran'a saldırı konusunda ayrıştığı](../2026-10-26-netanyahu-zamir-ihtilafi-iran-saldirisi-secim/) bildirilmişti. Koalisyon hesapları da karmaşık: Arap partilerinin rekor katılımla kazanacağı sandalye sayısı, hem Netanyahu hem Ayzenkot kampının 61 eşiğini aşmasını güçleştiriyor. Haredi (ultra-Ortodoks) partilerin bu kez rakip kampla ittifak olasılığından bahsedilmesi de alışılmadık bir gelişme olarak aktarılıyor.
+
+Sürecin sonucu 8 Kasım'da netleşti: Cumhurbaşkanı Herzog, hükümeti kurma görevini Ayzenkot'a verdi ([ayrıntılar](../2026-11-08-eisenkot-israil-birlik-hukumeti/)).

@@ -35,6 +35,7 @@ Al Jazeera'nin haberine göre bu gelişme, 1 Kasım 2026 seçimlerinin ardından
 ## Bağlam
 
 **Arka plan:**
+- **28 Ekim 2026:** İsrail seçiminde kanallar arası sandık başı anket rakamları çelişkiliydi; ne Netanyahu ne de Eisenkot ittifakı kesin bir çoğunluğa ulaştığı doğrulanmıştı ([ayrıntılar](../2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik/)).
 - **1 Kasım 2026:** ABD Başkanı Trump ile Netanyahu arasındaki bir telefon görüşmesinde İran'a yönelik saldırının yeniden başlatılması tartışılmıştı ([ayrıntılar](../2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/)).
 - **4-5 Kasım 2026:** Al Jazeera'nin haberine göre Herzog, seçim sonuçlarını kabul ederek Knesset'teki parti temsilcileriyle hükümeti kimin kuracağına ilişkin istişarelere başladı; hiçbir blok 61 sandalyelik çoğunluğa ulaşamamıştı.
 - **7 Kasım 2026:** Netanyahu görüntülü bir mesajla ulusal birlik hükümeti çağrısı yaptı; saatler sonra Eisenkot bu teklifi rotasyonlu hükümet biçiminde reddetti ve Herzog aynı akşam görevi Eisenkot'a verdi.

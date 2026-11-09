@@ -1,5 +1,5 @@
 ---
-baslik: What does closing the Strait of Hormuz gain Iran? Conflicting calculations in Tehran press
+baslik: Does closing the Strait of Hormuz benefit Iran? Conflicting calculations in Tehran press
 seo_baslik: Does closing the Strait of Hormuz benefit Iran?
 ozet: Tehran newspapers debate whether closing the Strait of Hormuz would benefit or harm Iran in the long term; oil prices rose to $103.
 tarih: 2026-10-04T08:50:00+03:00

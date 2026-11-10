@@ -44,6 +44,7 @@ State sources (IRNA, ISNA) framed the report as Trump's "admission" and directly
 - **April 2026:** According to Al Jazeera, a ceasefire between the parties was reached.
 - **November 3, 2026:** According to Reuters and AFP, Democrats gained majorities in both the House and Senate in the Congressional midterms; election results began to become clear the same day.
 - **November 8, 2026:** CENTCOM announced "Iron Gate," ground forces expanding the Iran blockade to land borders ([details](../2026-11-08-centcom-demir-kapi-kara-sinirlari/)); Trump claimed this operation was continuing "at full capacity."
+- **November 9, 2026:** Republican Representative Massie, citing the war, reintroduced an eight-count impeachment resolution against Defense Secretary Hegseth ([details](../2026-11-10-hegseth-istizah-kongre-iran-savasi/)).
 
 **Who they are:** Elizabeth Warren, Democratic senator from Massachusetts; a consumer rights lawyer by training, known for positions on Wall Street regulation and anti-war foreign policy. Warren was a Democratic primary candidate for president in 2020 and has held active roles in Senate banking and financial oversight committees.
 

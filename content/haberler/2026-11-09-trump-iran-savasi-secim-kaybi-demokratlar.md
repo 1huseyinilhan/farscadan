@@ -44,6 +44,7 @@ Devlet kaynakları (IRNA, ISNA) haberi Trump'ın "itirafı" çerçevesinde sundu
 - **Nisan 2026:** Al Jazeera'nın haberine göre taraflar arasında ateşkes sağlandı.
 - **3 Kasım 2026:** Reuters ve AFP'nin aktardığına göre Demokratlar, ABD Kongre ara seçiminde Temsilciler Meclisi ve Senato'da çoğunluğu ele geçirdi; seçim sonuçları aynı gün netleşmeye başladı.
 - **8 Kasım 2026:** CENTCOM'un İran ablukasını kara sınırlarına genişleten "Demir Kapı" kara gücü duyuruldu ([ayrıntılar](../2026-11-08-centcom-demir-kapi-kara-sinirlari/)); Trump bu operasyonun "tam kapasiteyle" sürdüğünü iddia etti.
+- **9 Kasım 2026:** Cumhuriyetçi vekil Massie, savaşı gerekçe göstererek Savaş Bakanı Hegseth'e karşı 8 maddelik istizah önergesini yeniden Kongre'ye sundu ([ayrıntılar](../2026-11-10-hegseth-istizah-kongre-iran-savasi/)).
 
 **Kim kimdir:** Elizabeth Warren, ABD'nin Massachusetts eyaletinden Demokrat Partili senatör; tüketici hakları hukukçusu kökenli, Wall Street düzenlemeleri ve savaş karşıtı dış politika tutumuyla tanınan isimlerden biri. Warren, 2020 başkanlık ön seçimlerinde Demokrat Parti içinde aday olmuş, Senato'da bankacılık ve finansal düzenleme komisyonlarında aktif rol üstlenmiş bir isim.
 

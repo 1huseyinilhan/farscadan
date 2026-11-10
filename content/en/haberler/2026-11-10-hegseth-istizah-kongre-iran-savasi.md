@@ -34,7 +34,7 @@ Hegseth said Monday evening, when asked about Republican support in Congress, "W
 **Background:** Timeline of impeachment efforts against Hegseth:
 - **September 15, 2026:** Massie filed his initial impeachment resolution against Hegseth; House Speaker Mike Johnson moved to adjourn early to delay the vote until after the midterms.
 - **September 2026:** Massie pledged to reintroduce the resolution when Congress returned after the midterms.
-- **November 3, 2026:** Republicans suffered a historic loss in the midterms; this result increased the number of GOP representatives blaming Hegseth.
+- **November 3, 2026:** Republicans suffered a historic loss in the midterms; this result increased the number of GOP representatives blaming Hegseth ([details](../2026-11-09-trump-iran-savasi-secim-kaybi-demokratlar/)).
 - **November 9, 2026:** Massie reintroduced an eight-count resolution.
 
 **Who and what:** Thomas Massie is a Republican Representative from Kentucky known more for rule-following than party loyalty; he will not be returning to Congress next term after losing a primary to a Trump-backed opponent. "Impeachment" is the constitutional process by which the House of Representatives votes on charges against a federal official, with final judgment resting with the Senate by a two-thirds majority vote.

@@ -33,7 +33,7 @@ Hegseth, Pazartesi akşamı bir gazetecinin soru üzerine Kongre'deki Cumhuriyet
 **Arka plan:** Hegseth'e yönelik istizah girişiminin zaman çizelgesi:
 - **15 Eylül 2026:** Massie, Hegseth'e karşı ilk istizah önergesini Kongre'ye sunmuştu; Meclis Başkanı Mike Johnson, oylamayı ara seçimden sonraya ertelemek için haftayı erken tatil etmişti.
 - **Eylül 2026:** Massie, "ara seçimden sonra Kongre'ye döndüğümüzde önergeyi yeniden sunacağım" sözü vermişti.
-- **3 Kasım 2026:** Cumhuriyetçi Parti ara seçimde ağır bir yenilgi aldı; bu sonuç Hegseth'i suçlayan Cumhuriyetçi vekillerin sayısını artırdı.
+- **3 Kasım 2026:** Cumhuriyetçi Parti ara seçimde ağır bir yenilgi aldı; bu sonuç Hegseth'i suçlayan Cumhuriyetçi vekillerin sayısını artırdı ([ayrıntılar](../2026-11-09-trump-iran-savasi-secim-kaybi-demokratlar/)).
 - **9 Kasım 2026:** Massie, 8 maddelik önergeyi yeniden Kongre'ye sundu.
 
 **Kim kimdir / kavram:** Thomas Massie, Kentucky'yi temsil eden, parti içi onaydan çok kuralcı tutumuyla tanınan bir Cumhuriyetçi Temsilciler Meclisi üyesidir; Trump'ın desteklediği bir rakibe ön seçimde kaybettiği için yeni dönemde Kongre'de yer almayacaktır. "İstizah" (*impeachment*), ABD'de bir kamu görevlisinin görevden alınması için Temsilciler Meclisi'nin suçlama maddelerini oyladığı, kesin kararın ise Senato'da üçte iki çoğunlukla verildiği anayasal süreçtir.

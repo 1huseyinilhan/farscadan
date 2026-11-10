@@ -36,6 +36,7 @@ Olayı hem muhalif hem devlet/yarı resmî çizgideki kaynaklar işledi, ancak �
 - **2 Haziran 2026:** Rubio, ABD Senatosu'nda İran'la müzakerenin ön şartı olarak Hürmüz Boğazı'nın yeniden açılmasını öne sürmüştü.
 - **6 Kasım 2026:** ABD'nin İran'a olası yeni saldırı kararına ilişkin haberlerde Katar'ın arabuluculuk çabaları öne çıkmıştı ([ayrıntılar](../2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk/)).
 - **3 Kasım 2026:** JD Vance, ABD ara seçimi öncesinde İran müzakerelerinde "ilerleme" olduğunu iddia etmişti ([ayrıntılar](../2026-11-03-vance-iran-muzakere-iddiasi-ara-secim/)).
+- **9 Kasım 2026:** Türk istihbarat şefi Kalın, Vance ile Rezai'nin Katar'da buluşacağını açıkladı; Tahran bu iddiayı yalanladı ([ayrıntılar](../2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi/)).
 
 **Kim kimdir / kavram:** Marco Rubio, ABD Dışişleri Bakanı; İran politikasında Trump yönetiminin sert çizgisini temsil ediyor. Katar, bölgede ABD ile İran arasında tekrar eden bir arabulucu/ev sahibi rolü üstleniyor; Doha aynı zamanda Hamas-İsrail ateşkes müzakerelerine de sahne olmuştu.
 

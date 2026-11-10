@@ -36,6 +36,7 @@ Both opposition and state/semi-official sources covered the event, but the frame
 - **June 2, 2026:** Rubio proposed the reopening of the Strait of Hormuz as a precondition for negotiations with Iran in a Senate statement.
 - **November 6, 2026:** Reports on possible new US strikes on Iran highlighted Qatar's mediation efforts ([details](../2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk/)).
 - **November 3, 2026:** JD Vance claimed there was "progress" in Iran negotiations before the US midterm elections ([details](../2026-11-03-vance-iran-muzakere-iddiasi-ara-secim/)).
+- **November 9, 2026:** Turkey's intelligence chief Kalın said Vance and Rezai would meet in Qatar; Tehran denied the claim ([details](../2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi/)).
 
 **Who they are / concept:** Marco Rubio, US Secretary of State; represents the Trump administration's hardline on Iran policy. Qatar plays a recurring role in the region as a mediator/host between the US and Iran; Doha also hosted Hamas-Israel ceasefire negotiations.
 

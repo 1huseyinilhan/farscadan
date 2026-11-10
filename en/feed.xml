@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 09 Nov 2026 14:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Explosion at HABAS steel mill in Izmir: death toll rises to 17</title>
+    <link>https://farscadan.com/en/haber/2026-11-10-izmir-aliaga-habas-demir-celik-patlama/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-10-izmir-aliaga-habas-demir-celik-patlama/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>An explosion at the HABAS steel plant in Aliağa, Izmir killed 17 people; Turkish and Persian sources describe the cause differently. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>Eight-count impeachment resolution against Hegseth introduced in Congress</title>
+    <link>https://farscadan.com/en/haber/2026-11-10-hegseth-istizah-kongre-iran-savasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-10-hegseth-istizah-kongre-iran-savasi/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Republican congressman Massie filed an eight-count impeachment resolution against Defense Secretary Hegseth over Iran war crimes; vote set for Wednesday. (Source: Khabaronline (AP and CNN))</description>
+  </item>
+  <item>
+    <title>France blames IRGC for cyberattack on supermarket refrigerators</title>
+    <link>https://farscadan.com/en/haber/2026-11-10-fransa-devrim-muhafizlari-siber-saldiri-soguducu/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-10-fransa-devrim-muhafizlari-siber-saldiri-soguducu/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>France attributed a cyberattack that disabled supermarket cooling systems to the IRGC; Iran&#x27;s ambassador was summoned to Paris. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Turkish intelligence chief: Vance, Rezaei to meet in Qatar next week; Tehran denies</title>
+    <link>https://farscadan.com/en/haber/2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Turkey&#x27;s intelligence chief says VP Vance and Iran&#x27;s security council secretary will meet in Qatar; IRGC-affiliated agency denies the claim. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Iran&#x27;s parliament: 35% salary increase inadequate against 88% inflation</title>
+    <link>https://farscadan.com/en/haber/2026-11-10-iran-meclis-maas-artisi-enflasyon/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-10-iran-meclis-maas-artisi-enflasyon/</guid>
+    <pubDate>Tue, 10 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Member of Iran&#x27;s parliamentary Budget Committee says a proposed 35% public sector wage increase falls short against official 88% inflation. (Source: Khabaronline)</description>
+  </item>
   <item>
     <title>Rubio: Iran&#x27;s demands unacceptable; Trump hosts Qatar PM today on Iran tensions</title>
     <link>https://farscadan.com/en/haber/2026-11-09-rubio-iran-muzakere-katar-basbakani-trump/</link>
@@ -141,51 +186,6 @@
     <category>Turkey</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Al-Monitor reports that Erdoğan&#x27;s visit to Baku for November 8 Victory Day may not overcome deeper Turkey-Azerbaijan tensions rooted in headscarf crisis. (Source: Khabaronline (via Al-Monitor))</description>
-  </item>
-  <item>
-    <title>New tension on Qeshm Island: military claims U.S. MQ-9 downed, CENTCOM silent</title>
-    <link>https://farscadan.com/en/haber/2026-11-07-kism-adasi-mq9-pehpad-centcom/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-07-kism-adasi-mq9-pehpad-centcom/</guid>
-    <pubDate>Sat, 07 Nov 2026 09:50:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Iran&#x27;s military announced it downed a U.S. MQ-9 drone over Qeshm Island; reports of explosions and fighter jets merged, CENTCOM declined to comment. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Shooting spree in Afyonkarahisar: eight killed across three villages</title>
-    <link>https://farscadan.com/en/haber/2026-11-06-afyonkarahisar-silahli-saldiri-sekiz-olu/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-06-afyonkarahisar-silahli-saldiri-sekiz-olu/</guid>
-    <pubDate>Fri, 06 Nov 2026 12:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Armed attacks across three villages in western Turkey&#x27;s Afyonkarahisar province left eight dead; suspect arrested in Eskişehir. (Source: ISNA)</description>
-  </item>
-  <item>
-    <title>Axios: Trump to decide on new Iran strike soon</title>
-    <link>https://farscadan.com/en/haber/2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk/</guid>
-    <pubDate>Fri, 06 Nov 2026 12:30:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Per Axios, Trump will soon choose between a new strike on Iran, continued economic pressure, or a diplomatic deal; Qatar offers to open Hormuz. (Source: Hamshahri (via Axios))</description>
-  </item>
-  <item>
-    <title>Rezaei&#x27;s undisclosed Moscow visit: Supreme Leader&#x27;s message to Putin</title>
-    <link>https://farscadan.com/en/haber/2026-11-06-rezai-moskova-putin-hamaney-mesaji/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-06-rezai-moskova-putin-hamaney-mesaji/</guid>
-    <pubDate>Fri, 06 Nov 2026 12:20:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Supreme National Security Council Secretary Rezaei met Putin in undisclosed Moscow visit, delivering Supreme Leader Khamenei&#x27;s message. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Brent crude rebounds from post-election dip, crosses $100 per barrel again</title>
-    <link>https://farscadan.com/en/haber/2026-11-06-brent-petrol-100-dolar/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-06-brent-petrol-100-dolar/</guid>
-    <pubDate>Fri, 06 Nov 2026 12:10:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Per Reuters via IRNA, Brent crude futures on Friday surged more than $2 per barrel to cross $100. (Source: IRNA)</description>
   </item>
 </channel>
 </rss>

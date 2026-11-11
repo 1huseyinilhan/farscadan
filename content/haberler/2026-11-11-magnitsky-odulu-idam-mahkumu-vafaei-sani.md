@@ -37,6 +37,7 @@ Vafayi Sani, tutuklanmadan önce Meşhed'de amatör boks şampiyonluğu unvanlar
 - Vafayi Sani hakkında üç farklı idam kararı verildi; bunlardan ikisi Yargıtay tarafından bozuldu, üçüncüsü Ekim 2025'te onandı (HRANA, RFE/RL).
 - Magnitsky İnsan Hakları Ödülü, kuruluşundan bu yana (2015) yıllık olarak veriliyor (Iran International, 10 Kasım 2026).
 - Amnesty International'ın Temmuz 2026 raporuna göre İran, yalnızca Ocak 2026 protestolarıyla bağlantılı suçlamalardan en az 26 kişiyi idam etti; aynı raporda İsfahan'daki bir cezaevinde bu protestolarla ilgili 70'ten fazla kişinin idama mahkûm edildiği belirtiliyor.
+- İran International'ın ayrı bir haberine göre, [Mehr ayında (22 Eylül–21 Ekim 2026) ülke çapında en az 79 kişi idam edildi](../2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/); bu veri, Vafayi Sani'nin davasının içinde bulunduğu baskı ortamının ölçeğini gösteriyor.
 
 
 **Sırada ne var:** Vafayi Sani'nin avukatı Babak Paknia ve insan hakları örgütleri, idamın infaz aşamasına geçip geçmediğini yakından takip ediyor. HRANA'nın önceki raporlarına göre dosya daha önce infaz birimine sevk edilmiş, ardından Yargıtay'ın yeniden inceleme kararıyla süreç geçici olarak durdurulmuştu; Magnitsky ödülünün bu aşamada verilmesi, davayı uluslararası kamuoyunun gündeminde tutma çağrısı olarak okunuyor.

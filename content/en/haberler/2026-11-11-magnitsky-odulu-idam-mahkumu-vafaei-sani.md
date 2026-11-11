@@ -38,5 +38,6 @@ Before his arrest, Vafaei Sani was an amateur boxing champion in Mashhad. His ca
 - Three separate death sentences have been issued against Vafaei Sani; two were overturned by the Supreme Court, and the third was upheld in October 2025 (HRANA, RFE/RL).
 - The Magnitsky Human Rights Award has been given annually since its establishment in 2015 (Iran International, November 10, 2026).
 - According to Amnesty International's July 2026 report, Iran executed at least 26 people on charges tied to January 2026 protests alone; the same report noted that over 70 people in an Isfahan prison were sentenced to death on charges related to those protests.
+- A separate Iran International report found that [at least 79 people were executed nationwide during the month of Mehr](../2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/) (September 22–October 21, 2026), illustrating the scale of the climate of repression in which Vafaei Sani's case is situated.
 
 **What's next:** Vafaei Sani's lawyer Babak Paknia and human rights organizations are closely monitoring whether the execution moves into implementation phase. According to HRANA's earlier reports, the case had previously been referred to the execution unit before the Supreme Court ordered a retrial; the awarding of the Magnitsky Prize at this stage is understood as a call to keep the case on the international agenda.

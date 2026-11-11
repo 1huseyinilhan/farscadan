@@ -34,6 +34,7 @@ Saldırı, 12 Ekim sabahının ilk saatlerinde gerçekleşti: saldırganlar Fran
 - **12 Ekim 2026:** Saldırganlar Fransa'da yüzlerce mağazanın soğutma sistemini ele geçirdi; sıcaklıklar altı saat boyunca 50°C'ye çıktı.
 - **15 Ekim 2026:** Fransız savcılık, saldırıya ilişkin resmî soruşturma açtığını duyurdu.
 - **9 Kasım 2026:** ANSSI saldırıyı Devrim Muhafızları'na bağlı "Şahid Kaveh" grubuna atfetti; Fransa, İran büyükelçisini Paris'e çağırdı ve AB düzeyinde yaptırım sözü verdi.
+- **31 Ekim 2026:** Kanada istihbarat servisi CSIS, [Devrim Muhafızları'na bağlı başka komploları etkisiz hale getirdiklerini](../2026-10-31-kanada-csis-iran-komplo-toronto/) açıklamıştı; Fransa'daki atıf, Sepah'a bağlı faaliyetlerin Batı'da art arda deşifre edildiği bir döneme denk geliyor.
 
 **Kim kimdir / kavram:** ANSSI (*Agence nationale de la sécurité des systèmes d'information*), Fransa'nın ulusal siber güvenlik ajansıdır ve kritik altyapıya yönelik siber tehditleri izlemekle görevlidir. "Şahid Kaveh", ANSSI'nin Devrim Muhafızları'yla bağlantılı olduğunu öne sürdüğü bir siber saldırı birimidir; Farsçada "Kaveh" adı, İran mitolojisinde zalime karşı ayaklanan demirci ustasına atıfla kullanılır. "Şahid Şustari" ise ANSSI'nin 2020 öncesinden bu yana izlediğini belirttiği, aynı çevreyle bağlantılı ikinci bir grup olarak tanımlanıyor.
 

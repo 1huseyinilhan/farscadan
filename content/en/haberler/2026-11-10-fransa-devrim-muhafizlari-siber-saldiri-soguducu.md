@@ -35,6 +35,7 @@ The attack occurred in the early hours of October 12: attackers remotely seized 
 - **October 12, 2026:** Attackers seized refrigeration systems at hundreds of stores across France; temperatures climbed to 50°C for six hours.
 - **October 15, 2026:** French prosecutors announced a formal investigation into the attack.
 - **November 9, 2026:** ANSSI attributed the attack to "Shahid Kaveh," linked to the IRGC; France summoned Iran's ambassador to Paris and pledged sanctions at the EU level.
+- **October 31, 2026:** Canada's intelligence service CSIS announced it had [disrupted other IRGC-linked plots](../2026-10-31-kanada-csis-iran-komplo-toronto/); the French attribution comes amid a string of Western disclosures of IRGC-affiliated activity.
 
 **Who and what:** ANSSI (*Agence nationale de la sécurité des systèmes d'information*) is France's national cybersecurity agency, responsible for monitoring cyber threats to critical infrastructure. "Shahid Kaveh," according to ANSSI, is a cyber unit linked to the IRGC; in Persian, "Kaveh" references a blacksmith hero in Iranian mythology who rose against tyranny. "Shahid Shustari" is described by ANSSI as a second group linked to the same circles, monitored since 2020 and earlier.
 

@@ -36,7 +36,7 @@ FBI Direktörü Kash Patel, yeni iddianameyi "İran'ın Avrupa ve ABD'de terör 
 **Arka plan:**
 - **10 Ağustos 2022:** ABD, Sepah Kudüs Gücü'ne bağlı Şahram Pursafi'yi eski Ulusal Güvenlik Danışmanı John Bolton'ı öldürme girişimiyle suçladı.
 - **28 Mayıs 2026:** ABD Adalet Bakanlığı SDNY Savcılığı, M.B.S.A. hakkındaki ilk iddianameyi kamuoyuna açıkladı.
-- **Erken Mehr (Eylül sonu) 2026:** Şebekenin RAF Fairford üssüne saldırı girişimi İngiliz güvenlik güçlerince engellendi.
+- **Erken Mehr (Eylül sonu) 2026:** Şebekenin [RAF Fairford üssüne saldırı girişimi](../2026-10-19-fairford-iran-plan-rubio-ingiltere/) İngiliz güvenlik güçlerince engellendi.
 - **10 Kasım 2026:** Savcılık, M.M. ve M.A.H.'ı da kapsayan değiştirilmiş iddianameyi açıkladı.
 
 **Kim kimdir / kavram:** *Kataib Hizbullah*, Irak merkezli, Sepah destekli bir Şii milis grubudur ve ABD tarafından yabancı terör örgütü (FTO) listesinde tutulmaktadır; M.M. savcılığa göre bu örgütün operasyonlarını Sepah ile koordine ediyordu.

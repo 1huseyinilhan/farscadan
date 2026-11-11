@@ -31,7 +31,7 @@ This child-targeted support is a separate and additional application from the ge
 - **June 2023:** The current Kalabarg electronic system was established as the "National Credit Network" and began operations under the Labor Ministry.
 - **Throughout 1405 (2026):** Child nutrition support is reloaded monthly; the November 2026 application is the year's eighth round.
 
-**Key figures / concepts:** *Kalabarg* is Iran's government-administered electronic credit system for household purchases of basic food items; fuller details are available in [Farsçadan's glossary entry](../../sozluk/kalabarg/). Under the system, coverage is determined by household income rank, classified into income brackets ("dahak") from one to nine.
+**Key figures / concepts:** *Kalabarg* is Iran's government-administered electronic credit system for household purchases of basic food items; fuller details are available in [Farsçadan's glossary entry](../../glossary/kalabarg/). Under the system, coverage is determined by household income rank, classified into income brackets ("dahak") from one to nine.
 
 **By the numbers:**
 - Total 347,647 children are benefiting: 286,714 receiving 20 million rials and 60,933 receiving 12 million rials in credit (Labor Ministry statement, Khabaronline, November 10, 2026).

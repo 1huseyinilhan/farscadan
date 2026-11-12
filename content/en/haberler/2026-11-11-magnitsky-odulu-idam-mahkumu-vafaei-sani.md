@@ -41,3 +41,5 @@ Before his arrest, Vafaei Sani was an amateur boxing champion in Mashhad. His ca
 - A separate Iran International report found that [at least 79 people were executed nationwide during the month of Mehr](../2026-10-24-mehr-ayi-idam-istatistigi-insan-haklari/) (September 22–October 21, 2026), illustrating the scale of the climate of repression in which Vafaei Sani's case is situated.
 
 **What's next:** Vafaei Sani's lawyer Babak Paknia and human rights organizations are closely monitoring whether the execution moves into implementation phase. According to HRANA's earlier reports, the case had previously been referred to the execution unit before the Supreme Court ordered a retrial; the awarding of the Magnitsky Prize at this stage is understood as a call to keep the case on the international agenda.
+
+For a similar case, see our report on [poet Peyman Farahavar's death-penalty file being referred to the execution unit](../2026-11-12-peyman-farahavar-idam-sair/).

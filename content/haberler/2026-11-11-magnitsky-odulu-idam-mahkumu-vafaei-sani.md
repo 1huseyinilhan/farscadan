@@ -41,3 +41,5 @@ Vafayi Sani, tutuklanmadan önce Meşhed'de amatör boks şampiyonluğu unvanlar
 
 
 **Sırada ne var:** Vafayi Sani'nin avukatı Babak Paknia ve insan hakları örgütleri, idamın infaz aşamasına geçip geçmediğini yakından takip ediyor. HRANA'nın önceki raporlarına göre dosya daha önce infaz birimine sevk edilmiş, ardından Yargıtay'ın yeniden inceleme kararıyla süreç geçici olarak durdurulmuştu; Magnitsky ödülünün bu aşamada verilmesi, davayı uluslararası kamuoyunun gündeminde tutma çağrısı olarak okunuyor.
+
+Benzer bir örnek için [şair Peyman Farahavar'ın idam dosyasının infaz birimine gönderilmesi](../2026-11-12-peyman-farahavar-idam-sair/) haberimize bakabilirsiniz.

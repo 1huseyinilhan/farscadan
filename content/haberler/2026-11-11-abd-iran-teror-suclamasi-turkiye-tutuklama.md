@@ -38,6 +38,7 @@ FBI Direktörü Kash Patel, yeni iddianameyi "İran'ın Avrupa ve ABD'de terör 
 - **28 Mayıs 2026:** ABD Adalet Bakanlığı SDNY Savcılığı, M.B.S.A. hakkındaki ilk iddianameyi kamuoyuna açıkladı.
 - **Erken Mehr (Eylül sonu) 2026:** Şebekenin [RAF Fairford üssüne saldırı girişimi](../2026-10-19-fairford-iran-plan-rubio-ingiltere/) İngiliz güvenlik güçlerince engellendi.
 - **10 Kasım 2026:** Savcılık, M.M. ve M.A.H.'ı da kapsayan değiştirilmiş iddianameyi açıkladı.
+- **18-19 Kasım 2026 (Paris):** G7 dışişleri bakanları ortak bildiride [Fairford'daki saldırı girişimini İran'a atfetti](../2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/) ve üye ülkelerin bu konuda birlik içinde olduğunu vurguladı.
 
 **Kim kimdir / kavram:** *Kataib Hizbullah*, Irak merkezli, Sepah destekli bir Şii milis grubudur ve ABD tarafından yabancı terör örgütü (FTO) listesinde tutulmaktadır; M.M. savcılığa göre bu örgütün operasyonlarını Sepah ile koordine ediyordu.
 

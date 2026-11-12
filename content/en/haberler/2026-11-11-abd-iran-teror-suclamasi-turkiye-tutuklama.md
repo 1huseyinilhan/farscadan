@@ -40,6 +40,7 @@ FBI Director Kash Patel characterized the new indictment as evidence of "Iran's 
 - **May 28, 2026:** The U.S. Department of Justice SDNY office unsealed the initial indictment against M.B.S.A.
 - **Late September 2026:** The network's [RAF Fairford base attack](../2026-10-19-fairford-iran-plan-rubio-ingiltere/) was thwarted by British security forces.
 - **November 10, 2026:** The prosecutor's office unsealed the revised indictment, now naming M.M. and M.A.H. as well.
+- **November 18-19, 2026 (Paris):** G7 foreign ministers' joint statement [attributed the Fairford attack attempt to Iran](../2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/) and stressed unity among member states on the matter.
 
 **Key figures / concepts:** *Kataib Hezbollah*, an Iraq-based militia backed by the IRGC, is listed by the U.S. as a foreign terrorist organization; according to prosecutors, M.M. coordinated this organization's operations in liaison with the IRGC.
 

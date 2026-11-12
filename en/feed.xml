@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 11 Nov 2026 18:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 09:50:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>G7 Paris statement: Blamed Iran in Hormuz, highlighted Fairford threat</title>
+    <link>https://farscadan.com/en/haber/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/</guid>
+    <pubDate>Thu, 12 Nov 2026 09:50:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>G7 foreign ministers called in Paris statement for Iran to guarantee Hormuz ship passage and return to IAEA cooperation. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>NYT: U.S. effort to convince Turkey, Iraq, Pakistan to close Iran land border failed</title>
+    <link>https://farscadan.com/en/haber/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/</guid>
+    <pubDate>Thu, 12 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>New York Times reported that U.S. effort to convince Turkey, Iraq, and Pakistan to close land borders with Iran failed. (Source: Khabaronline)</description>
+  </item>
+  <item>
+    <title>COP31 opens in Antalya: Pezeshkian details environmental damage of Iran war with figures</title>
+    <link>https://farscadan.com/en/haber/2026-11-12-cop31-antalya-iran-savasi-iklim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-cop31-antalya-iran-savasi-iklim/</guid>
+    <pubDate>Thu, 12 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UN climate summit COP31 opens in Antalya; Pezeshkian says U.S.-Israel attacks caused greenhouse gas emissions. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Poet Peyman Farahavar&#x27;s execution file sent to enforcement division</title>
+    <link>https://farscadan.com/en/haber/2026-11-12-peyman-farahavar-idam-sair/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-peyman-farahavar-idam-sair/</guid>
+    <pubDate>Thu, 12 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Society</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Human rights site HRANA reported that death row poet Peyman Farahavar&#x27;s case file was referred to the enforcement division. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Reuters: Iraq denied Iranian national football team&#x27;s plane landing in Basra over U.S. sanctions</title>
+    <link>https://farscadan.com/en/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</guid>
+    <pubDate>Thu, 12 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Reuters, Basra Airport officials refused to allow the Iranian national football team&#x27;s plane to land due to U.S. sanctions. (Source: Iran International)</description>
+  </item>
   <item>
     <title>In U.S. terror charges linked to IRGC, a Turkey connection: suspect was arrested in Istanbul</title>
     <link>https://farscadan.com/en/haber/2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama/</link>
@@ -141,51 +186,6 @@
     <category>Domestic Politics</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Iran International published leaked document alleging oil sales directed to former official&#x27;s son&#x27;s shipping network; claim unverified, single source. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Week&#x27;s Frame (Nov 2-8): The blockade reaches land amid threats of attack</title>
-    <link>https://farscadan.com/en/haber/2026-11-08-haftanin-cercevesi-2-8-kasim/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-08-haftanin-cercevesi-2-8-kasim/</guid>
-    <pubDate>Sun, 08 Nov 2026 22:00:00 +0300</pubDate>
-    <category>Analysis</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Persian press Nov 2-8: post-election attack window, Kish strikes, CENTCOM land blockade, S-400 requests, hardening nuclear rhetoric. (Source: Farsçadan)</description>
-  </item>
-  <item>
-    <title>Larijani: &#x27;Nuclear weapons can be used tactically against enemy military base&#x27;</title>
-    <link>https://farscadan.com/en/haber/2026-11-08-laricani-taktik-nukleer-silah/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-08-laricani-taktik-nukleer-silah/</guid>
-    <pubDate>Sun, 08 Nov 2026 21:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Larijani said nuclear weapons shouldn&#x27;t target civilians but can be used tactically against enemy military bases. (Source: Khabaronline)</description>
-  </item>
-  <item>
-    <title>Two tankers caught fire in Hormuz: Iran said mine, U.S. claimed strike on blockade-breaking ship</title>
-    <link>https://farscadan.com/en/haber/2026-11-08-hurmuz-iki-tanker-patlama-mayin/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-08-hurmuz-iki-tanker-patlama-mayin/</guid>
-    <pubDate>Sun, 08 Nov 2026 21:30:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Two tankers exploded and caught fire in Strait of Hormuz; Islamic Revolutionary Guard Corps claimed a mine, U.S. said it struck a blockade-busting vessel. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>CENTCOM extends Iran blockade to land borders: &#x27;Iron Gate&#x27; established</title>
-    <link>https://farscadan.com/en/haber/2026-11-08-centcom-demir-kapi-kara-sinirlari/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-08-centcom-demir-kapi-kara-sinirlari/</guid>
-    <pubDate>Sun, 08 Nov 2026 21:20:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>According to Iran International, CENTCOM established &#x27;Iron Gate&#x27; to block shipments of weapons and sanctioned goods to Iran via land borders and Caspian Sea. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Eisenkot, Netanyahu&#x27;s rival, tasked with forming government in Israel</title>
-    <link>https://farscadan.com/en/haber/2026-11-08-eisenkot-israil-birlik-hukumeti/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-08-eisenkot-israil-birlik-hukumeti/</guid>
-    <pubDate>Sun, 08 Nov 2026 21:10:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Herzog tasked Netanyahu&#x27;s fiercest rival, Gadi Eisenkot, with forming a new government; 67 Knesset members had nominated him. (Source: IRNA)</description>
   </item>
 </channel>
 </rss>

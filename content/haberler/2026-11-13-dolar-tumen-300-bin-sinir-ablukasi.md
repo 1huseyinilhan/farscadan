@@ -34,6 +34,8 @@ Zamani ayrıca küresel altın ons fiyatının savaş haberleri, petrol fiyatı 
 - **Şubat 2026:** ABD liderliğindeki deniz ablukası uygulanmaya başladı; bu dönemden sonra İran'ın deniz ve hava yoluyla dış ticareti ciddi şekilde kısıtlandı.
 - **Ekim 2026:** ABD Hazine Bakanı Scott Bessent, Washington'ın İran'ı "tam izolasyon" kapsamında Pakistan ve Türkiye ile birlikte kara ticaret yollarından da kısıtlamayı hedeflediğini söyledi (Eghtesadonline, Ekim 2026).
 - **21 Ekim 2026:** Irak, kaçakçılık gerekçesiyle İran sınırındaki Şib geçişini kapattı; aynı hafta sonu Pakistan, güvenlik gerekçesiyle Gabd ve Taftan geçişlerinde İran'dan gelen kamyonları durdurdu (Newsweek, Ekim 2026).
+- **8 Kasım 2026:** CENTCOM, kara ablukasını denetlemek için "Demir Kapı" adlı bir görev gücü kurduğunu açıkladı ([ayrıntılar](../2026-11-08-centcom-demir-kapi-kara-sinirlari/)).
+- **12 Kasım 2026:** New York Times, ABD'nin Türkiye, Irak ve Pakistan'ı kara sınırlarını kapatmaya ikna çabasının sonuçsuz kaldığını yazdı ([ayrıntılar](../2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/)).
 
 **Kim kimdir / kavram:** Tecarat-news, İran'daki ekonomi haberlerine odaklanan bir finans/ekonomi haber sitesidir; Ettela'at bu analizi oradan aktardı. "Kara ablukası" tabiri, deniz ve hava yaptırımlarına ek olarak Pakistan ve Irak gibi kara sınırı komşularının da İran ticaretini kısıtlamaya başlamasını tanımlamak için kullanılıyor.
 

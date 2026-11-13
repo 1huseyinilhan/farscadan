@@ -34,6 +34,8 @@ Zamani also said that global gold-per-ounce prices are affected by war news, oil
 - **February 2026:** U.S.-led naval blockade began; from that point on, Iran's sea and air trade was severely restricted.
 - **October 2026:** U.S. Treasury Secretary Scott Bessent said Washington aims to restrict Iran also via land trade routes with Pakistan and Turkey as part of "complete isolation" (Eghtesadonline, October 2026).
 - **October 21, 2026:** Iraq closed the Shib border crossing citing smuggling; the same weekend Pakistan halted trucks from Iran at Gabd and Taftan crossings citing security (Newsweek, October 2026).
+- **November 8, 2026:** CENTCOM announced it had set up a task force called "Iron Gate" to oversee the land blockade ([details](../2026-11-08-centcom-demir-kapi-kara-sinirlari/)).
+- **November 12, 2026:** The New York Times reported that U.S. efforts to persuade Turkey, Iraq and Pakistan to close land borders with Iran had failed ([details](../2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/)).
 
 **Who / concepts:** Tecarat-news is a finance and economics news site focused on Iran economic reporting; Ettela'at sourced this analysis from them. "Land blockade" refers to restrictions by land-border neighbors like Pakistan and Iraq on Iran trade, in addition to sea and air sanctions.
 

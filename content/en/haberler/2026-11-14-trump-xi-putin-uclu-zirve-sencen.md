@@ -42,6 +42,7 @@ While state and semi-official sources framed the meeting largely around nuclear 
 - **September 2026:** Trump hosted Xi Jinping at the White House.
 - **November 4, 2026:** China's Foreign Ministry confirmed that discussions on a possible three-way meeting with Washington and Moscow were underway (Korea Times, November 7, 2026).
 - **November 9, 2026:** Trump indicated he expected to meet with Putin and Xi in China, suggesting the talks were likely.
+- **November 13, 2026:** Trump continued his rhetoric on possible military action against Iran despite his party's midterm defeat ([details](../2026-11-13-trump-iran-tehdit-katar-kongre/)).
 
 **Key terms:** APEC (Asia-Pacific Economic Cooperation), a regional economic forum comprising 21 Pacific economies established in 1989; members include the United States, China, Russia, and Japan, among others.
 

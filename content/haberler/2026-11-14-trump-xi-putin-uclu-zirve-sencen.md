@@ -42,6 +42,7 @@ Devlet ve yarı resmî kaynaklar görüşmeyi büyük ölçüde nükleer silah k
 - **Eylül 2026:** Trump, Şi Cinping'i Beyaz Saray'da ağırladı.
 - **4 Kasım 2026:** Çin Dışişleri Bakanlığı, Washington ve Moskova ile üçlü bir görüşme ihtimaline dair görüşmelerin sürdüğünü doğruladı (Korea Times, 7 Kasım 2026).
 - **9 Kasım 2026:** Trump, Putin ve Şi ile Çin'de görüşmeyi muhtemel gördüğünü söyledi.
+- **13 Kasım 2026:** Trump, Kongre ara seçimlerindeki yenilgiye karşın İran'a yönelik olası askerî harekat söylemini sürdürmüştü ([ayrıntılar](../2026-11-13-trump-iran-tehdit-katar-kongre/)).
 
 **Kim kimdir / kavram:** APEC (Asia-Pacific Economic Cooperation / Asya-Pasifik Ekonomik İşbirliği), 21 Pasifik ekonomisini kapsayan ve 1989'da kurulan bölgesel ekonomik forum; üyeleri arasında ABD, Çin, Rusya ve Japonya gibi ülkeler bulunur.
 

@@ -39,6 +39,7 @@ Devlet ve yarı resmî kaynaklar olayı büyük ölçüde teknik bir arıza çer
 **Arka plan:**
 - **11 Eylül 2001:** ABD'de tüm uçuşların durdurulduğu ilk ülke çapında olay yaşandı.
 - **11 Ocak 2023:** FAA, pilotları bilgilendirme sistemi NOTAM'daki arıza nedeniyle iç hat uçuşlarını yaklaşık iki saat durdurdu; bu, ülke çapındaki ikinci durdurma olarak kayda geçti.
+- **6 Kasım 2026:** Avrupa'da en az 14 uçuş bomba tehdidiyle hedef alınmış, bazı uçuşlara savaş uçakları eskortluk etmişti ([ayrıntılar](../2026-11-06-avrupa-ucuslarina-bomba-tehditi/)).
 - **14 Kasım 2026:** Hava trafik kontrol merkezlerindeki iletişim arızası, 2001'den sonraki üçüncü ülke çapında uçuş durdurmasına yol açtı.
 
 **Kim kimdir / kavram:** FAA (Federal Aviation Administration/Federal Havacılık İdaresi), ABD'nin sivil havacılık düzenleyici kurumu; ülke genelindeki hava trafik kontrol merkezlerini yönetir. NOTAM (Notice to Air Missions), pilotlara ve havalimanlarına anlık tehlike ve kısıtlamaları bildiren elektronik uyarı sistemidir.

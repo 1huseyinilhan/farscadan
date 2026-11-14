@@ -39,6 +39,7 @@ State and semi-official sources largely framed the outage as a technical glitch,
 **Background:**
 - **September 11, 2001:** The first nationwide grounding of all U.S. flights occurred.
 - **January 11, 2023:** The FAA halted domestic flights for approximately two hours due to a failure in its pilot notification system (NOTAM), marking the second nationwide halt on record.
+- **November 6, 2026:** At least 14 European flights were targeted with bomb threats, with fighter jets escorting some aircraft ([details](../2026-11-06-avrupa-ucuslarina-bomba-tehditi/)).
 - **November 14, 2026:** Communications failure at air traffic control centers triggers the third nationwide flight halt since 2001.
 
 **Key terms:** FAA (Federal Aviation Administration), the U.S. civil aviation regulator managing air traffic control centers nationwide. NOTAM (Notice to Air Missions), an electronic alert system providing pilots and airports with real-time hazard and restriction notifications.

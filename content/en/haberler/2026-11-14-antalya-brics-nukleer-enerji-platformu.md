@@ -29,6 +29,7 @@ The BRICS Nuclear Energy Platform was established as a mechanism to promote civi
 **Background:**
 - **January 2024:** Iran joined BRICS as a full member alongside the UAE, Egypt, and Ethiopia.
 - **September 26, 2025:** BRICS Nuclear Energy Platform's first annual conference was held in Moscow during World Atomic Week; participants approved the platform's first strategic document.
+- **October 28, 2026:** Rosatom's CEO announced plans to increase Russian personnel at the Bushehr Nuclear Plant to 700 ([details](../2026-10-28-bushehr-nukleer-santral-rus-personel-artisi/)).
 - **November 12-13, 2026:** The platform's second annual conference took place in Antalya, Turkey, as part of World Atomic Days.
 
 **Key terms:** BRICS Nuclear Energy Platform, a coordination mechanism led by Russia that brings together member states' nuclear agencies (Iran's Atomic Energy Organization, Russia's Rosatom, and others) to promote cooperation in reactor construction, fuel cycles, and human resources training; not a binding treaty.

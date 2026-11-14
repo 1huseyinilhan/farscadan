@@ -29,6 +29,7 @@ BRICS Nükleer Enerji Platformu, üye ülkeler arasında sivil nükleer teknoloj
 **Arka plan:**
 - **Ocak 2024:** İran, Birleşik Arap Emirlikleri, Mısır ve Etiyopya ile birlikte BRICS'e tam üye olarak katıldı.
 - **26 Eylül 2025:** BRICS Nükleer Enerji Platformu'nun ilk yıllık konferansı, Dünya Atom Haftası kapsamında Moskova'da düzenlendi; katılımcılar platformun ilk stratejik belgesini onayladı.
+- **28 Ekim 2026:** Rosatom CEO'su, Buşehr Nükleer Santrali'ndeki Rus personel sayısının 700'e çıkarılacağını açıklamıştı ([ayrıntılar](../2026-10-28-bushehr-nukleer-santral-rus-personel-artisi/)).
 - **12-13 Kasım 2026:** Platformun ikinci yıllık konferansı, Dünya Atom Günleri etkinliği çerçevesinde Türkiye'nin Antalya kentinde yapıldı.
 
 **Kim kimdir / kavram:** BRICS Nükleer Enerji Platformu, Rusya'nın öncülüğünde kurulan ve üye ülkelerin devlet nükleer kurumlarını (İran'da Atom Enerjisi Örgütü, Rusya'da Rosatom gibi) bir araya getiren, reaktör inşası, yakıt çevrimi ve insan kaynağı eğitiminde iş birliğini teşvik eden bir koordinasyon mekanizmasıdır; bağlayıcı bir antlaşma değildir.

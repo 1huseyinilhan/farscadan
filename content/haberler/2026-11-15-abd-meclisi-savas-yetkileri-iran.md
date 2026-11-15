@@ -36,7 +36,7 @@ Massie'nin sözlerinden, girişimin bu kez de iki partili bir destek arayışın
 
 Konunun yalnızca Temsilciler Meclisi'yle sınırlı olmadığı da hatırlatılmalı: derlenen İngilizce kaynaklara göre Senato'da da benzer bir karar tasarısı gündeme gelmiş, ancak üç Cumhuriyetçi senatörün Demokratlara katılmasına karşın tasarı 50-49 oyla ilerletilememişti. Bu, Meclis'te kabul edilecek bir kararın bile Senato'dan geçmesinin garanti olmadığını gösteriyor; hiçbir Farsça kaynak bugünkü haberde Senato tarafındaki durumdan söz etmedi.
 
-Massie'nin "cankurtaran botu" benzetmesi de dikkat çekici bir ayrıntı: bu ifade, Cumhuriyetçi Parti içinde Trump'ın İran politikasına sessizce itiraz eden ama bunu açıkça dile getirmekten çekinen bir kesimin var olduğuna işaret ediyor. Hamshahri'nin haberinde bu kesimin büyüklüğüne veya kimliğine dair bir rakam verilmedi; bu bilgi teyit edilmedi.
+Massie'nin "cankurtaran botu" benzetmesi de dikkat çekici bir ayrıntı: bu ifade, Cumhuriyetçi Parti içinde Trump'ın İran politikasına sessizce itiraz eden ama bunu açıkça dile getirmekten çekinen bir kesimin var olduğuna işaret ediyor. Hamshahri'nin haberinde bu kesimin büyüklüğüne veya kimliğine dair bir rakam verilmedi; bu bilgi teyit edilmedi. Massie, aynı İran savaşı gerekçesiyle geçtiğimiz hafta Savaş Bakanı Hegseth'in istizahı için de bir önerge sunmuştu ([ayrıntılar](../2026-11-10-hegseth-istizah-kongre-iran-savasi/)).
 
 ## Bağlam
 

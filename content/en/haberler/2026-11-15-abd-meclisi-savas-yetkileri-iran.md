@@ -36,7 +36,7 @@ All three sources confirmed the resolution's existence but none provided the vot
 
 The issue is also not limited to the House. According to compiled English-language sources, the Senate has considered similar resolutions; despite support from three Republican senators alongside Democrats, the measure failed to advance 50-49. This shows that even if accepted by the House, Senate passage is not guaranteed; no Persian-language source mentioned the Senate situation in today's report.
 
-Massie's "life raft" metaphor is also noteworthy: it suggests that within the Republican Party there is a faction that privately objects to Trump's Iran policy but hesitates to state this openly. Hamshahri's report provided no figures on the size of this faction or the identities involved; this information remains unconfirmed.
+Massie's "life raft" metaphor is also noteworthy: it suggests that within the Republican Party there is a faction that privately objects to Trump's Iran policy but hesitates to state this openly. Hamshahri's report provided no figures on the size of this faction or the identities involved; this information remains unconfirmed. Massie also cited the Iran war last week when he filed impeachment articles against Defense Secretary Hegseth ([details](../2026-11-10-hegseth-istizah-kongre-iran-savasi/)).
 
 ## Context
 

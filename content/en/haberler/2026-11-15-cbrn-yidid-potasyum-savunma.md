@@ -32,6 +32,7 @@ Jannat noted that the purpose of procuring these items is not only to protect or
 - **Before June 2025:** According to Iran International reporting, health authorities prioritized settlements closest to the Bushehr Nuclear Power Plant and distributed approximately 180,000 potassium iodide tablets; this distribution was reported to have begun before the 12-day conflict.
 - **November 7, 2026:** According to Turkey Today and other international media, Iran again distributed iodine tablets in settlements near the facility known as "Pickaxe Mountain"; Iranian officials characterized this as part of an ongoing civil defense program, not a response to anticipated U.S. strikes.
 - **Same period:** The World Health Organization announced it was distributing emergency supplies to the Middle East in preparation for possible nuclear or chemical attacks (Yahoo News/DPA).
+- **November 7, 2026:** Iran's Health Ministry had denied a Times report claiming iodine tablets were distributed near a nuclear facility ([details](../2026-11-07-iyot-hapi-tayms-saglik-bakanligi/)).
 
 **Key concepts:** Potassium iodide (potassium iodide) is a pharmaceutical that protects the thyroid against radioactive iodine only; it provides no protection against other forms of radiation. Prussian blue (*Prussian blue*) is an antidote used to accelerate the body's elimination of certain radioactive materials like cesium-137. CBRN is the English acronym for Chemical, Biological, Radiological, and Nuclear threats.
 

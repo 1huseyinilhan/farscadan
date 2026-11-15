@@ -32,6 +32,7 @@ Cennet, bu kalemlerin tedarikinin amacının yalnızca örgüt personelini veya 
 - **Haziran 2025 öncesi:** İran International'ın aktardığına göre sağlık yetkilileri, Buşehr Nükleer Santrali'ne en yakın yerleşim alanlarını önceleyerek yaklaşık 180.000 yidid potasyum tableti dağıtmıştı; bu dağıtımın 12 günlük savaştan önce başladığı bildirilmişti.
 - **7 Kasım 2026:** Türkiye Today ve diğer uluslararası basının aktardığına göre İran, "Pickaxe Mountain" olarak bilinen tesis yakınındaki yerleşimlerde yeniden iyot tableti dağıttı; İranlı yetkililer bunu olası bir ABD saldırısına yanıt değil, süregelen acil durum hazırlığı programının parçası olarak tanımladı.
 - **Aynı dönem:** Dünya Sağlık Örgütü, Orta Doğu'da nükleer veya kimyasal saldırı ihtimaline karşı bölgeye acil durum malzemesi dağıttığını duyurdu (Yahoo News/DPA).
+- **7 Kasım 2026:** The Times'ın nükleer tesis yakınında iyot hapı dağıtıldığı iddiasını Sağlık Bakanlığı yalanlamıştı ([ayrıntılar](../2026-11-07-iyot-hapi-tayms-saglik-bakanligi/)).
 
 **Kim kimdir / kavram:** Yidid potasyum (potasyum iyodür), tiroid bezini yalnızca radyoaktif iyota karşı koruyan bir ilaçtır; başka türden radyasyona karşı koruma sağlamaz. Prusya mavisi (*Prussian blue*), sezyum-137 gibi bazı radyoaktif maddelerin vücuttan atılmasını hızlandırmak için kullanılan bir panzehirdir. CBRN, kimyasal (*Chemical*), biyolojik (*Biological*), radyolojik (*Radiological*) ve nükleer (*Nuclear*) tehditlerin İngilizce kısaltmasıdır.
 

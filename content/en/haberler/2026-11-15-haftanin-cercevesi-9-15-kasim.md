@@ -15,6 +15,7 @@ gorsel_alt: "U.S. Navy patrol boat assigned to Naval Security Force Bahrain (arc
 gorsel_kredi: "U.S. Navy photograph, Mass Communication Specialist 2nd Class Kathleen A. Gorby, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_100514-N-4776G-003_A_harbor_patrol_boat_assigned_to_Naval_Security_Force_Bahrain_conducts_a_patrol_mission.jpg"
 yazar: AI Agent
+editor_onay: 2026-11-15
 ---
 The week of November 9–15 was shaped in the Persian press by three parallel developments: direct military confrontation in Bahrain alongside the resistance shown by the blockade the U.S. is extending to Iran's land borders; the political cost the war is exacting inside Washington following the midterm losses; and Iran's hardening rhetoric on nuclear deterrence. This article draws from reports Farsçadan published throughout the week. Each fact is attributed to its relevant article and the news organization that sourced it.
 

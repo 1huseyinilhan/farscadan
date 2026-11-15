@@ -15,6 +15,7 @@ gorsel_alt: "Bahreyn'deki ABD Deniz Güvenlik Gücü'ne bağlı bir devriye botu
 gorsel_kredi: "ABD Donanması fotoğrafı, Mass Communication Specialist 2nd Class Kathleen A. Gorby, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_100514-N-4776G-003_A_harbor_patrol_boat_assigned_to_Naval_Security_Force_Bahrain_conducts_a_patrol_mission.jpg"
 yazar: AI Agent
+editor_onay: 2026-11-15
 ---
 9-15 Kasım haftasında Farsça basının gündemini üç paralel gelişme şekillendirdi: ABD'nin kara sınırlarına yaymaya çalıştığı kuşatmanın gösterdiği dirençle birlikte Bahreyn'de yaşanan doğrudan askeri çatışma; Washington'da ara seçim yenilgisinin ardından savaşın içeride ödetilen siyasi bedeli; ve İran'ın nükleer caydırıcılık söylemini sertleştirmesi. Bu yazı, Farsçadan'ın hafta boyunca yayımladığı haberlerden derlenmiştir. Her bilgi ilgili habere ve o haberin dayandığı yayın organına atfedilir.
 

@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sun, 15 Nov 2026 20:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 22:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Week in Focus (Nov 9–15): Radar strike in Bahrain, the war&#x27;s political cost in Washington</title>
+    <link>https://farscadan.com/en/haber/2026-11-15-haftanin-cercevesi-9-15-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-15-haftanin-cercevesi-9-15-kasim/</guid>
+    <pubDate>Sun, 15 Nov 2026 22:00:00 +0300</pubDate>
+    <category>Analysis</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Persian press Nov 9–15: U.S. retaliation against radar in Bahrain, fruitless pressure on land borders, and the war&#x27;s political toll in the U.S. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Iran&#x27;s Vienna response to Grossi: Safeguards cannot resume to normal under extraordinary conditions</title>
     <link>https://farscadan.com/en/haber/2026-11-15-iran-iaea-pedman-viyana/</link>
@@ -177,15 +186,6 @@
     <category>Society</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Human rights site HRANA reported that death row poet Peyman Farahavar&#x27;s case file was referred to the enforcement division. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Reuters: Iraq denied Iranian national football team&#x27;s plane landing in Basra over U.S. sanctions</title>
-    <link>https://farscadan.com/en/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>According to Reuters, Basra Airport officials refused to allow the Iranian national football team&#x27;s plane to land due to U.S. sanctions. (Source: Iran International)</description>
   </item>
 </channel>
 </rss>

@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 14 Nov 2026 20:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 20:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>İran&#x27;dan Viyana&#x27;da Grossi&#x27;ye yanıt: Pedman olağan dışı koşullarda eski haline dönmez</title>
+    <link>https://farscadan.com/haber/2026-11-15-iran-iaea-pedman-viyana/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-iran-iaea-pedman-viyana/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran&#x27;ın Viyana temsilciliği, IAEA Genel Müdürü Grossi&#x27;nin raporuna yanıt verdi; pedman uygulamasının savaş koşullarında eski haline dönmeyeceğini açıkladı. (Kaynak: Kayhan)</description>
+  </item>
+  <item>
+    <title>ABD Meclisi&#x27;nde Trump&#x27;ın İran savaş yetkisini sınırlama girişimi yeniden gündemde</title>
+    <link>https://farscadan.com/haber/2026-11-15-abd-meclisi-savas-yetkileri-iran/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-abd-meclisi-savas-yetkileri-iran/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Cumhuriyetçi ve Demokrat vekiller, Trump&#x27;ın İran&#x27;a karşı savaş yetkilerini sınırlayan yeni bir karar tasarısını Meclis&#x27;e taşımaya hazırlanıyor. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Hemmati&#x27;den Bessent&#x27;e yanıt: &#x27;33 milyar dolar döviz temin ettik, kış için erken&#x27;</title>
+    <link>https://farscadan.com/haber/2026-11-15-hemmati-bessent-ekonomi-tartismasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-hemmati-bessent-ekonomi-tartismasi/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Merkez Bankası Başkanı Hemmati, ABD Hazine Bakanı Bessent&#x27;in &quot;zor bir kış&quot; uyarısına 33 milyar dolarlık döviz tedarikiyle yanıt verdi. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Yidid potasyum her olaya göre değil, bilimsel analizle tedarik edilmeli: Gıda-İlaç Örgütü</title>
+    <link>https://farscadan.com/haber/2026-11-15-cbrn-yidid-potasyum-savunma/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-cbrn-yidid-potasyum-savunma/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:10:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Gıda ve İlaç Örgütü yetkilisi, kimyasal-radyasyon tehditlerine karşı ilaç tedarikinin bilimsel ihtiyaç analizine dayanması gerektiğini söyledi. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Selmas&#x27;ta üç ayrı operasyonda 41 yabancı uyruklu ve 2 kaçakçı yakalandı</title>
+    <link>https://farscadan.com/haber/2026-11-15-salmas-turkiye-siniri-kacakcilik/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-salmas-turkiye-siniri-kacakcilik/</guid>
+    <pubDate>Sun, 15 Nov 2026 20:00:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Batı Azerbaycan&#x27;ın Türkiye sınırındaki Selmas ilçesinde üç ayrı operasyonda 41 yabancı uyruklu ve iki kaçakçı gözaltına alındı. (Kaynak: IRNA)</description>
+  </item>
   <item>
     <title>BRICS&#x27;in nükleer enerji platformu Antalya&#x27;da toplandı: İran heyeti de katıldı</title>
     <link>https://farscadan.com/haber/2026-11-14-antalya-brics-nukleer-enerji-platformu/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Reuters&#x27;a göre Basra Havalimanı yetkilileri, ABD yaptırımları yüzünden İran milli futbol takımını taşıyan uçağın inişine izin vermedi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>ABD&#x27;nin Sepah&#x27;a bağlı terör suçlamasında Türkiye izi: Zanlı İstanbul&#x27;da yakalanmıştı</title>
-    <link>https://farscadan.com/haber/2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:40:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>ABD, Sepah&#x27;a bağlı üç kişiyi 20 terör saldırısı girişimiyle suçladı; zanlılardan M.B.S.A. İstanbul&#x27;da yakalanıp New York&#x27;a getirilmişti. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>İran&#x27;ın yeni füze şehri: Kayhan &#x27;düşmana mesaj&#x27; dedi, İsrailli uzman yeni silah gördü</title>
-    <link>https://farscadan.com/haber/2026-11-11-iran-yeni-fuze-sehri-silah/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-11-iran-yeni-fuze-sehri-silah/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Sepah Havacılık Gücü&#x27;nün yeni füze şehrini tanıttı; İsrailli uzman Hayber Şiken üzerinde yeni bir savaş başlığı gördüğünü savundu. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Trump yönetiminde İran&#x27;la savaşı bitirme tartışması: üç farklı yaklaşım rekabet ediyor</title>
-    <link>https://farscadan.com/haber/2026-11-11-abd-iran-savasi-bitirme-secenekleri/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-11-abd-iran-savasi-bitirme-secenekleri/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Washington&#x27;da savaşı bitirme konusunda üç rakip yaklaşım var: askeri baskının sürmesi, Katar aracılığıyla diplomasi ve deniz ablukasının uzaması. (Kaynak: Donya-ye Eqtesad)</description>
-  </item>
-  <item>
-    <title>İdama mahkûm eski boksör Vafayi Sani&#x27;ye İngiltere merkezli Magnitsky ödülü verildi</title>
-    <link>https://farscadan.com/haber/2026-11-11-magnitsky-odulu-idam-mahkumu-vafaei-sani/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-11-magnitsky-odulu-idam-mahkumu-vafaei-sani/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:10:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Aban 98 protestocusu, eski boksör Muhammed Cevad Vafayi Sani&#x27;ye, işkence ve idam tehdidi iddialarına dikkat çekilerek Magnitsky ödülü verildi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>İran&#x27;da 347 bin yetersiz beslenen çocuğa kalabarg ile ücretsiz gıda sepeti kredisi</title>
-    <link>https://farscadan.com/haber/2026-11-11-kalabarg-cocuk-beslenme-yardimi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-11-kalabarg-cocuk-beslenme-yardimi/</guid>
-    <pubDate>Wed, 11 Nov 2026 18:00:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran Çalışma Bakanlığı, yetersiz beslenen 347 bin 647 çocuğun hanesine kalabarg sistemi üzerinden ücretsiz gıda sepeti kredisi tanımladı. (Kaynak: Khabaronline)</description>
   </item>
 </channel>
 </rss>

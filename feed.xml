@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 15 Nov 2026 20:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 22:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Haftanın Çerçevesi (9-15 Kasım): Bahreyn&#x27;de radar vuruşu, Washington&#x27;da savaşın faturası</title>
+    <link>https://farscadan.com/haber/2026-11-15-haftanin-cercevesi-9-15-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-15-haftanin-cercevesi-9-15-kasim/</guid>
+    <pubDate>Sun, 15 Nov 2026 22:00:00 +0300</pubDate>
+    <category>Analiz</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Farsça basında 9-15 Kasım: Bahreyn&#x27;deki ABD radarına misilleme, kara ablukasında sonuçsuz ikna çabası ve ABD&#x27;de savaşın siyasi faturası. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>İran&#x27;dan Viyana&#x27;da Grossi&#x27;ye yanıt: Pedman olağan dışı koşullarda eski haline dönmez</title>
     <link>https://farscadan.com/haber/2026-11-15-iran-iaea-pedman-viyana/</link>
@@ -177,15 +186,6 @@
     <category>Toplum</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İnsan hakları sitesi HRANA, idama mahkûm şair Peyman Farahavar&#x27;ın dosyasının infaz birimine havale edildiğini bildirdi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Reuters: Irak, ABD yaptırımları nedeniyle İran futbol takımının uçağını Basra&#x27;da indirmedi</title>
-    <link>https://farscadan.com/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-12-basra-havalimani-iran-futbol-yaptirim/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Reuters&#x27;a göre Basra Havalimanı yetkilileri, ABD yaptırımları yüzünden İran milli futbol takımını taşıyan uçağın inişine izin vermedi. (Kaynak: Iran International)</description>
   </item>
 </channel>
 </rss>

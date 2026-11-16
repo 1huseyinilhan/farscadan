@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 15 Nov 2026 22:00:00 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:20:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Plan ve Bütçe Örgütü Başkanı: kalabargda eşit ödeme doğru yöntem değil</title>
+    <link>https://farscadan.com/haber/2026-11-16-kalabarg-hedefli-yardim-tartisma/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-kalabarg-hedefli-yardim-tartisma/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:20:00 +0300</pubDate>
+    <category>İç Politika</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>İran&#x27;da Plan ve Bütçe Örgütü Başkanı, herkese eşit kalabarg ödemesinin doğru olmadığını söyledi; kullanıcılar hükümetin sözünden döndüğünü savunuyor. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Ensarullah&#x27;tan Bin Selman&#x27;a uyarı: hedefler Al Suud&#x27;un devrilmesine uzayabilir</title>
+    <link>https://farscadan.com/haber/2026-11-16-ensarullah-bin-selman-al-suud/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-ensarullah-bin-selman-al-suud/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:10:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Yemen Ensarullah hareketi, Bab-ül Mendeb zaferinin ardından Suudi Veliaht Prensi&#x27;ni savaşın hedeflerinin genişleyebileceği konusunda uyardı. (Kaynak: ISNA)</description>
+  </item>
+  <item>
+    <title>Katar Başbakanı: Körfez&#x27;deki üslere saldırı, ev sahibi ülkelerin egemenliğine saldırıdır</title>
+    <link>https://farscadan.com/haber/2026-11-16-katar-basbakani-korfez-hurmuz/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-katar-basbakani-korfez-hurmuz/</guid>
+    <pubDate>Mon, 16 Nov 2026 23:00:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Katar Başbakanı, Körfez ülkelerindeki yabancı askeri üslere saldırıyı egemenliğe tecavüz saydı; Hürmüz&#x27;ün ikame edilemez olduğunu söyledi. (Kaynak: Donya-ye Eqtesad)</description>
+  </item>
+  <item>
+    <title>Hükümeti kurmakla görevli Eisenkot: Netanyahu bir dakika daha iktidarda kalmamalı</title>
+    <link>https://farscadan.com/haber/2026-11-16-eisenkot-netanyahu-israil-kriz/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-eisenkot-netanyahu-israil-kriz/</guid>
+    <pubDate>Mon, 16 Nov 2026 22:50:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Hükümeti kurmakla görevlendirilen Gadi Eisenkot, Netanyahu&#x27;nun İsrail demokrasisi için acil bir tehdit olduğunu söyledi; koalisyon krizi büyüyor. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Pekin, Trump-Putin-Şi üçlü zirvesinin 19 Kasım&#x27;da Şincan&#x27;da yapılacağını doğruladı</title>
+    <link>https://farscadan.com/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</guid>
+    <pubDate>Mon, 16 Nov 2026 22:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Çin Dışişleri Bakanlığı, ABD, Rusya ve Çin liderlerinin Perşembe günü Şincan&#x27;da üçlü görüşme yapacağını açıkladı; gündemde silah kontrolü var. (Kaynak: ISNA)</description>
+  </item>
   <item>
     <title>Haftanın Çerçevesi (9-15 Kasım): Bahreyn&#x27;de radar vuruşu, Washington&#x27;da savaşın faturası</title>
     <link>https://farscadan.com/haber/2026-11-15-haftanin-cercevesi-9-15-kasim/</link>
@@ -141,51 +186,6 @@
     <category>Ekonomi</category>
     <dc:creator>AI Agent</dc:creator>
     <description>İranlı analist, Pakistan ve Irak sınırlarındaki yeni kısıtlamaların dolar kurunu baskıladığını söyledi; kur 300 bin tümene yaklaşabilir. (Kaynak: Ettela&#x27;at)</description>
-  </item>
-  <item>
-    <title>Uzmanlar Meclisi: NPT&#x27;den çıkış ve savunma doktrininin gözden geçirilmesi &#x27;kaçınılmaz&#x27;</title>
-    <link>https://farscadan.com/haber/2026-11-13-meclis-hobregan-npt-savunma-doktrini/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-13-meclis-hobregan-npt-savunma-doktrini/</guid>
-    <pubDate>Fri, 13 Nov 2026 18:20:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İran Uzmanlar Meclisi, NPT&#x27;den çıkışın &#x27;ulusal talep&#x27; haline geldiğini açıkladı; yeni saldırıya sınırsız yanıt uyarısı yaptı. (Kaynak: Ettela&#x27;at)</description>
-  </item>
-  <item>
-    <title>G7 Paris bildirisi: Hürmüz&#x27;de İran&#x27;ı suçladı, Fairford&#x27;daki tehdide dikkat çekti</title>
-    <link>https://farscadan.com/haber/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:50:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>G7 dışişleri bakanları Paris&#x27;teki bildiride İran&#x27;dan Hürmüz&#x27;de gemi geçişini garanti etmesini ve IAEA işbirliğine dönmesini istedi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>NYT: ABD&#x27;nin Türkiye, Irak, Pakistan&#x27;ı İran sınırını kapatmaya ikna çabası sonuçsuz kaldı</title>
-    <link>https://farscadan.com/haber/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>New York Times, ABD&#x27;nin Türkiye, Irak ve Pakistan&#x27;ı İran ile kara sınırlarını kapatmaya ikna girişiminin başarısız olduğunu yazdı. (Kaynak: Khabaronline)</description>
-  </item>
-  <item>
-    <title>COP31 Antalya&#x27;da açıldı: Pezeşkiyan İran savaşının çevresel zararını rakamlarla anlattı</title>
-    <link>https://farscadan.com/haber/2026-11-12-cop31-antalya-iran-savasi-iklim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-12-cop31-antalya-iran-savasi-iklim/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Türkiye</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>BM iklim zirvesi COP31 Antalya&#x27;da açıldı; Pezeşkiyan, ABD-İsrail saldırılarının sera gazı emisyonuna yol açtığını söyledi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Şair Peyman Farahavar&#x27;ın idam dosyası infaz birimine gönderildi</title>
-    <link>https://farscadan.com/haber/2026-11-12-peyman-farahavar-idam-sair/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-12-peyman-farahavar-idam-sair/</guid>
-    <pubDate>Thu, 12 Nov 2026 09:20:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>İnsan hakları sitesi HRANA, idama mahkûm şair Peyman Farahavar&#x27;ın dosyasının infaz birimine havale edildiğini bildirdi. (Kaynak: Iran International)</description>
   </item>
 </channel>
 </rss>

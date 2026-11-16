@@ -39,6 +39,7 @@ Al Jazeera'nin haberine göre bu gelişme, 1 Kasım 2026 seçimlerinin ardından
 - **1 Kasım 2026:** ABD Başkanı Trump ile Netanyahu arasındaki bir telefon görüşmesinde İran'a yönelik saldırının yeniden başlatılması tartışılmıştı ([ayrıntılar](../2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon/)).
 - **4-5 Kasım 2026:** Al Jazeera'nin haberine göre Herzog, seçim sonuçlarını kabul ederek Knesset'teki parti temsilcileriyle hükümeti kimin kuracağına ilişkin istişarelere başladı; hiçbir blok 61 sandalyelik çoğunluğa ulaşamamıştı.
 - **7 Kasım 2026:** Netanyahu görüntülü bir mesajla ulusal birlik hükümeti çağrısı yaptı; saatler sonra Eisenkot bu teklifi rotasyonlu hükümet biçiminde reddetti ve Herzog aynı akşam görevi Eisenkot'a verdi.
+- **16 Kasım 2026:** Koalisyon görüşmeleri sürerken Eisenkot, Netanyahu'nun "bir dakika daha" iktidarda kalmaması gerektiğini söyledi ([ayrıntılar](../2026-11-16-eisenkot-netanyahu-israil-kriz/)).
 
 **Kim kimdir:** Gadi Eisenkot, İsrail Savunma Kuvvetleri'nin eski Genelkurmay Başkanı'dır; 2026 seçimlerinde kurduğu Yaşar Partisi ile Netanyahu'nun Likud'una karşı en güçlü rakip olarak öne çıktı. Koalisyon görüşmelerinde adı geçen Avigdor Liberman'ın İsrail Evimiz Partisi, kendini seküler-milliyetçi olarak tanımlayan bir harekettir.
 

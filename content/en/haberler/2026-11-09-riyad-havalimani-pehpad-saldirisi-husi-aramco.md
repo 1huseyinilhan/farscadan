@@ -36,6 +36,7 @@ ISNA and Ettelaat reported the event based on statements from Saudi Arabia's Min
 - **October 2026:** An attack on Aramco's headquarters in Zahran killed 13 and wounded over 300, according to Iran International citing Reuters.
 - **November 7, 2026 (16 Aban):** Saudi Arabia conducted an air strike on the El-Sharia area of Sanaa; according to Yemen's Health Ministry, at least 33 people were killed and 39 wounded; this strike was cited as justification for the Houthis' Sunday operation.
 - **Early 2026:** The US-Israel war against Iran weakened UN mediation that had largely frozen the Saudi-Houthi conflict; this is part of the same regional tension spiral as the [CENTCOM operation expanding the Iran blockade to land borders](../2026-11-08-centcom-demir-kapi-kara-sinirlari/).
+- **November 16, 2026:** After claiming a "victory" at Bab-el-Mandeb, Houthi officials expanded their warning to the Saudi crown prince to the scope of "toppling the Al Saud government" ([details](../2026-11-16-ensarullah-bin-selman-al-suud/)).
 
 **Who they are / concept:** Ansarullah (Houthis) — a Zaidi Shia armed movement controlling northern Yemen, including the capital Sanaa, since 2014; Iran International describes it as "Iran-backed." The movement has been at war with a Saudi-led coalition since 2015. Aramco — a Saudi state-owned company and one of the world's largest oil producers; its facilities in Riyadh and Zahran have been struck multiple times by Houthi attacks over the past year.
 

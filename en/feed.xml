@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 16 Nov 2026 23:20:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 10:20:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>CNN reports Iran planning &quot;dirty bomb&quot; attacks on Trump administration officials</title>
+    <link>https://farscadan.com/en/haber/2026-11-17-cnn-iran-washington-kimyasal-silah/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-17-cnn-iran-washington-kimyasal-silah/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:20:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Based on seven U.S. officials, CNN reports Iran is planning attacks on senior Trump administration members; U.S. officials disagree on Iran&#x27;s capability. (Source: Iran International)</description>
+  </item>
+  <item>
+    <title>Bahrain&#x27;s Sheikh Isa Qassim sentenced to life: news timeline conflicts with court schedule</title>
+    <link>https://farscadan.com/en/haber/2026-11-17-bahreyn-isa-kasim-muebbet-hapis/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-17-bahreyn-isa-kasim-muebbet-hapis/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:10:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>Kayhan reported Sheikh Isa Qassim and 48 scholars sentenced to life imprisonment, but other sources say the verdict was postponed to Nov. 22. (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Flights halted at Riyadh airport; drone attack from Yemen reported</title>
+    <link>https://farscadan.com/en/haber/2026-11-17-riyad-havalimani-pehpad-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-17-riyad-havalimani-pehpad-saldirisi/</guid>
+    <pubDate>Tue, 17 Nov 2026 10:00:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to Hamshahri, flight operations at Riyadh&#x27;s King Khalid Airport were suspended following a reported drone attack from Yemen. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>New tanker incident at Hormuz; UKMTO reports security event, Persian press frames differ</title>
+    <link>https://farscadan.com/en/haber/2026-11-17-hurmuz-tanker-yangin-ukmto/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-17-hurmuz-tanker-yangin-ukmto/</guid>
+    <pubDate>Tue, 17 Nov 2026 09:50:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>UKMTO reported a security event involving a tanker in the Strait of Hormuz; Iranian press attributes the cause differently by source. (Source: IRNA)</description>
+  </item>
+  <item>
+    <title>Turkish media reports new details in Mossad spy case targeting Palestinians</title>
+    <link>https://farscadan.com/en/haber/2026-11-17-turkiye-mossad-casusluk-sorusturmasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-17-turkiye-mossad-casusluk-sorusturmasi/</guid>
+    <pubDate>Tue, 17 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>AI Agent</dc:creator>
+    <description>According to ISNA, Turkish media reported new details in an intelligence investigation of a Mossad network targeting Palestinians living in Turkey. (Source: ISNA)</description>
+  </item>
   <item>
     <title>Head of Planning and Budget: equal kalabarg payments are not the right method</title>
     <link>https://farscadan.com/en/haber/2026-11-16-kalabarg-hedefli-yardim-tartisma/</link>
@@ -141,51 +186,6 @@
     <category>Security</category>
     <dc:creator>AI Agent</dc:creator>
     <description>Suspicious unmanned aerial vehicle activity confirmed over Lakenheath air base in Britain; U.S. Air Force security deployed. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>UN Security Council debates Iran war—Russia and China call for immediate ceasefire</title>
-    <link>https://farscadan.com/en/haber/2026-11-14-bm-guvenlik-konseyi-iran-savasi-oturumu/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-14-bm-guvenlik-konseyi-iran-savasi-oturumu/</guid>
-    <pubDate>Sat, 14 Nov 2026 20:00:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>UN Security Council&#x27;s Middle East session called for ending war with Iran; Iran warned of immediate retaliation to new attacks. (Source: Donya-ye Eqtesad)</description>
-  </item>
-  <item>
-    <title>Revolutionary Guards: We struck U.S. early-warning radar in Bahrain in response to Sirik attack</title>
-    <link>https://farscadan.com/en/haber/2026-11-13-sepah-bahreyn-radar-sirik-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-13-sepah-bahreyn-radar-sirik-saldirisi/</guid>
-    <pubDate>Fri, 13 Nov 2026 19:00:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Revolutionary Guards said they struck a U.S. early-warning radar in Bahrain in response to an attack on Sirik in Hormozgan Province. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Trump reiterated Iran threats despite midterm losses; Congress pushback intensifies</title>
-    <link>https://farscadan.com/en/haber/2026-11-13-trump-iran-tehdit-katar-kongre/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-13-trump-iran-tehdit-katar-kongre/</guid>
-    <pubDate>Fri, 13 Nov 2026 18:50:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Trump continued rhetoric on possible military action against Iran despite party&#x27;s midterm defeat; four Democratic senators oppose war funding. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Pakistan general: Turkey was also at the Tehran four-way talks; dialogue to continue</title>
-    <link>https://farscadan.com/en/haber/2026-11-13-tehran-dortlu-zirve-pakistan-turkiye-suudi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-13-tehran-dortlu-zirve-pakistan-turkiye-suudi/</guid>
-    <pubDate>Fri, 13 Nov 2026 18:40:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Pakistan military spokesman confirmed Turkey&#x27;s participation in Tehran security talks; all four sides agreed to continue dialogue. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Dollar again approaching 300,000 toman threshold: land-border blockade pressure mounting</title>
-    <link>https://farscadan.com/en/haber/2026-11-13-dolar-tumen-300-bin-sinir-ablukasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-13-dolar-tumen-300-bin-sinir-ablukasi/</guid>
-    <pubDate>Fri, 13 Nov 2026 18:30:00 +0300</pubDate>
-    <category>Economy</category>
-    <dc:creator>AI Agent</dc:creator>
-    <description>Iranian analyst says new restrictions at Pakistan and Iraq borders are pressuring dollar exchange rate; rate may near 300,000 tomans. (Source: Ettela&#x27;at)</description>
   </item>
 </channel>
 </rss>

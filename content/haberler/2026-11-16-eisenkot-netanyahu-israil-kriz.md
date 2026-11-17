@@ -36,7 +36,7 @@ Khabaronline'ın haberine göre Eisenkot'un açıklaması, koalisyon görüşmel
 ## Bağlam
 **Arka plan:**
 - **27 Ekim 2026:** İsrail'de genel seçimler yapıldı; sonuç, tek bir bloğun hükümet kurmasına yetecek çoğunluğu vermedi.
-- **Kasım 2026 (seçimden kısa süre sonra):** Cumhurbaşkanı Isaac Herzog, partilerle istişare ettikten sonra hükümeti kurma görevini Eisenkot'a verdi.
+- **8 Kasım 2026:** Cumhurbaşkanı Isaac Herzog, partilerle istişare ettikten sonra hükümeti kurma görevini Eisenkot'a verdi; Knesset'te 67 vekil onu önermişti ([Farsçadan](../2026-11-08-eisenkot-israil-birlik-hukumeti/)).
 - **8 Kasım 2026:** Al Jazeera'nın haberine göre muhalefet liderleri, Netanyahu'yu devirmek amacıyla Eisenkot'u desteklediklerini açıkladı.
 
 **Kim kimdir / kavram:** *Gadi Eisenkot*, İsrail Savunma Kuvvetleri'nin eski Genelkurmay Başkanı (2015-2019) ve merkez çizgideki Yeş Atid (İngilizce kaynaklarda "National Unity" bloğunun bir kanadı) partisinin liderlerinden biridir; oğlu ve yeğeni Gazze'deki çatışmalarda hayatını kaybetmiştir. *Yedioth Ahronoth*, İsrail'in en çok okunan günlük gazetelerinden biridir ve siyasi kulis haberlerinde sık kaynak gösterilir. *Yeş Atid* (İbranicede "Gelecek Var" anlamına gelir), İsrail siyasetinde merkez çizgide konumlanan ve Netanyahu karşıtı bloklarla sık ittifak kuran bir partidir.

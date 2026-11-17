@@ -25,6 +25,7 @@ One of CNN's sources said U.S. intelligence services have intercepted communicat
 ## Context
 
 **Background:**
+- **October 26, 2026:** A leaked CIA document allegedly claimed Israel had asked the Trump administration to kill Parliament Speaker Ghalibaf ([Farsçadan](../2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil/)), an earlier instance of mutual assassination/attack claims that echoes in today's report.
 - **November 3, 2026:** New York Times reported that Israeli intelligence had conveyed a warning to the U.S. that Iran is evaluating chemical attacks against adversaries; there was disagreement among U.S. officials on the matter.
 - **Late October 2026 (1 Aban):** Axios reported, based on a DNI memo, that Iran's plans to target Americans in the Middle East and certain other countries have reached "advanced stages."
 - **November 15, 2026:** DHS announced preparedness against possible Iran threats to Trump and cabinet members.

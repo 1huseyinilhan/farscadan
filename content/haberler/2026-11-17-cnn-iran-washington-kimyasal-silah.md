@@ -25,6 +25,7 @@ CNN'in kaynaklarından biri, ABD istihbarat servislerinin İranlı operatörler 
 ## Bağlam
 
 **Arka plan:**
+- **26 Ekim 2026:** Sızdırılan CIA belgelerine ilişkin bir iddiaya göre İsrail, Trump yönetiminden Meclis Başkanı Kalibaf'ı öldürmesini istemişti ([Farsçadan](../2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil/)); bu, karşılıklı suikast/saldırı iddialarının bugünkü habere de yansıyan önceki bir örneğiydi.
 - **3 Kasım 2026:** New York Times, İsrail istihbaratının İran'ın rakiplerine karşı kimyasal saldırıyı değerlendirdiğine ilişkin bir uyarıyı ABD'ye ilettiğini, ABD yetkilileri arasında bu konuda görüş ayrılığı olduğunu bildirdi.
 - **Ekim sonu 2026 (1 Aban):** Axios, ABD Ulusal İstihbarat Direktörlüğü'nün bir muhtırasına dayanarak İran'ın Orta Doğu ve bazı diğer ülkelerdeki Amerikalıları hedefleyen planlarının "ileri aşamalara" ulaştığını bildirdi.
 - **15 Kasım 2026:** ABD İç Güvenlik Bakanlığı, Trump ve kabine üyelerine yönelik olası İran tehditlerine karşı hazırlıklı olduğunu açıkladı.

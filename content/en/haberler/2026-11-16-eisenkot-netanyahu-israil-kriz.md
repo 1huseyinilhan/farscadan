@@ -39,7 +39,7 @@ Three sources reported Eisenkot's remarks, but with different emphases:
 
 **Background:**
 - **Oct. 27, 2026:** General elections held in Israel; the result did not provide any single bloc with enough seats to form a government.
-- **November 2026 (shortly after elections):** After consulting with parties, President Isaac Herzog tasked Eisenkot with forming a government.
+- **Nov. 8, 2026:** After consulting with parties, President Isaac Herzog tasked Eisenkot with forming a government; 67 Knesset members had recommended him ([Farsçadan](../2026-11-08-eisenkot-israil-birlik-hukumeti/)).
 - **Nov. 8, 2026:** According to Al Jazeera's report, opposition leaders announced they were backing Eisenkot in an effort to remove Netanyahu.
 
 **Who is who / concept:** *Gadi Eisenkot*, former chief of staff of the Israeli Defense Forces (2015–2019) and one of the leaders of the centrist Yesh Atid party (in English-language sources referred to as part of the "National Unity" bloc); his son and nephew lost their lives in fighting in Gaza. *Yedioth Ahronoth* is one of Israel's most widely read daily newspapers and is frequently cited for political insider reporting. *Yesh Atid* (meaning "There Is a Future" in Hebrew) is positioned as centrist in Israeli politics and frequently forms alliances with anti-Netanyahu blocs.

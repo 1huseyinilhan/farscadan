@@ -47,6 +47,6 @@ Katar'ın temel ihracat kalemi olan sıvılaştırılmış doğal gaz (LNG) nede
 
 **Türkiye boyutu:** Hürmüz Boğazı'ndaki gerginlik ve Körfez'deki üs güvenliği tartışmaları, bölgeden geçen enerji taşımacılığını ve dolayısıyla Türkiye'nin de parçası olduğu bölgesel enerji ticaretini doğrudan ilgilendiriyor; ancak Katar Başbakanı'nın bugünkü açıklamasında Türkiye'ye doğrudan bir atıf yapılmadı.
 
-**Sırada ne var:** Katar'ın İran ile "ortak güvenlik düzenlemesi" çağrısının somut bir müzakere sürecine dönüşüp dönüşmeyeceği şimdilik belirsiz; resmi bir takvim ya da teklif açıklanmadı. Katar'ın bölgesel arabuluculuk çabalarını sürdürüp sürdürmeyeceği, diğer Körfez ülkelerinin bu çağrıya nasıl karşılık vereceğine bağlı olacak.
+**Sırada ne var:** Katar'ın İran ile "ortak güvenlik düzenlemesi" çağrısının somut bir müzakere sürecine dönüşüp dönüşmeyeceği şimdilik belirsiz; resmi bir takvim ya da teklif açıklanmadı. Katar'ın bölgesel arabuluculuk çabalarını sürdürüp sürdürmeyeceği, diğer Körfez ülkelerinin bu çağrıya nasıl karşılık vereceğine bağlı olacak. Nitekim ertesi gün, 17 Kasım'da, UKMTO Hürmüz Boğazı'nda yeni bir tanker güvenlik vakası bildirdi; Başbakan'ın "ana can damarı" vurgusu bu olayla yeniden güncellik kazandı ([Farsçadan](../2026-11-17-hurmuz-tanker-yangin-ukmto/)).
 
 **Yasaklar gözetildi:** Katar Başbakanı'nın saldırılara ilişkin değerlendirmeleri doğrudan kendisine atfedildi; ABD üslerinin hukuki statüsüne dair iddialar "Katar Başbakanı'nın ifadesiyle" sınırlı tutuldu, kesin hüküm olarak sunulmadı.

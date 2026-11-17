@@ -46,6 +46,6 @@ Bukhaiti ayrıca Kur'an'dan bir ifadeye atıfla Suudi Arabistan'ı "Araplar aras
 
 **Türkiye boyutu:** Bab-ül Mendeb ve Hürmüz çevresindeki gerginlik, Türkiye'nin de kullandığı Kızıldeniz-Süveyş deniz ticaret hattını dolaylı olarak etkileyebilir; ancak bugünkü Husi açıklamalarında Türkiye'ye doğrudan bir atıf yapılmadı.
 
-**Sırada ne var:** Husi yetkilileri tarafından dile getirilen "rejim değişikliği" söyleminin somut bir askeri adıma dönüşüp dönüşmeyeceği belirsiz; Suudi Arabistan'dan bugünkü açıklamalara resmi bir yanıt henüz gelmedi.
+**Sırada ne var:** Husi yetkilileri tarafından dile getirilen "rejim değişikliği" söyleminin somut bir askeri adıma dönüşüp dönüşmeyeceği belirsiz; Suudi Arabistan'dan bugünkü açıklamalara resmi bir yanıt henüz gelmedi. Nitekim ertesi gün, 17 Kasım'da, Riyad'ın Kral Halid Havalimanı'nda Yemen kaynaklı yeni bir pehpad saldırısı bildirildi; bu da bölgedeki gerginliğin sürdüğüne işaret ediyor ([Farsçadan](../2026-11-17-riyad-havalimani-pehpad-saldirisi/)).
 
 **Yasaklar gözetildi:** Ele geçirilen teçhizat ve "Al Suud'un devrilmesi" iddiaları doğrudan Husi sözcülerine atfedildi; bu iddialar bağımsız kaynaklarca doğrulanmadığından "teyit edilmedi" olarak işaretlendi ve gerçek olarak sunulmadı.

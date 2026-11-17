@@ -50,6 +50,6 @@ Two sources conveyed the statements largely the same way, but Donya-ye Eqtesad a
 
 **Turkey dimension:** Tensions at the Strait of Hormuz and base security discussions in the Gulf directly concern energy transportation and thus affect the regional energy trade in which Turkey participates; however, the Qatar Prime Minister's statement today made no direct reference to Turkey.
 
-**What's next:** Whether Qatar's call for a "joint security arrangement" with Iran translates into concrete negotiations remains unclear; no official schedule or proposal has been announced. Whether Qatar continues its regional mediation efforts will depend on how other Gulf nations respond to this call.
+**What's next:** Whether Qatar's call for a "joint security arrangement" with Iran translates into concrete negotiations remains unclear; no official schedule or proposal has been announced. Whether Qatar continues its regional mediation efforts will depend on how other Gulf nations respond to this call. Indeed, the very next day, November 17, UKMTO reported a new tanker security incident in the Strait of Hormuz, giving fresh relevance to the Prime Minister's "main lifeline" framing ([Farsçadan](../2026-11-17-hurmuz-tanker-yangin-ukmto/)).
 
 **Fairness note:** The Prime Minister's assessments regarding attacks were directly attributed to him; claims about the legal status of U.S. bases were limited to "according to Qatar's Prime Minister" and were not presented as definitive rulings.

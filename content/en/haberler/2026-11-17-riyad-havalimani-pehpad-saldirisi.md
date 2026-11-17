@@ -34,6 +34,7 @@ Hamshahri's report also stated that following retreats suffered by the Arab coal
 - **October 6–7, 2026:** Saudi Civil Aviation Authority (GACA) reported that facilities at Abha and King Khalid airports were targeted; a Sudanese national was killed (Al Jazeera report).
 - **October 10, 2026:** Attack on King Khalid Airport: GACA reported 12 killed, 309 injured; this was the week's deadliest strike (Al Jazeera, ITV News).
 - **October 11, 2026:** A subsequent attack the next day killed 1 person and wounded 11 (Khaleej Times).
+- **November 9, 2026:** Houthis struck Riyadh and eastern Saudi Arabia with missiles and drones; an Aramco building was damaged, no deaths reported ([Farsçadan](../2026-11-09-riyad-havalimani-pehpad-saldirisi-husi-aramco/)).
 - **November 17, 2026 (today):** Hamshahri and ISNA reported that flight operations at the same airport were again suspended following a new drone attack; this is the most recent such attack reported in the past two months.
 
 **Who's who / concepts:** *King Khalid International Airport* is the main airport serving Saudi Arabia's capital, Riyadh, and is among the country's highest-traffic air transit points. *GACA* (General Authority of Civil Aviation) is Saudi Arabia's civil aviation regulator and issues official casualty reports from airport attacks. *The Houthis* (Ansarullah) are the Zaydi-Shiite armed movement controlling northern Yemen and close to Iran; they have claimed responsibility for drone and missile attacks on Riyadh in previous instances.

@@ -49,6 +49,6 @@ Two sources reported Houthi statements; Hamshahri expanded the coverage that sam
 
 **Turkey dimension:** Tensions around Bab-el-Mandeb and the Strait of Hormuz could indirectly affect the Red Sea–Suez maritime trade route used by Turkey; however, today's Houthi statements made no direct reference to Turkey.
 
-**What's next:** Whether the "regime change" rhetoric articulated by Houthi officials translates into concrete military action remains unclear; Saudi Arabia has not yet issued an official response to today's statements.
+**What's next:** Whether the "regime change" rhetoric articulated by Houthi officials translates into concrete military action remains unclear; Saudi Arabia has not yet issued an official response to today's statements. Indeed, the very next day, November 17, a new drone attack from Yemen was reported at Riyadh's King Khalid Airport, suggesting the regional tension is continuing ([Farsçadan](../2026-11-17-riyad-havalimani-pehpad-saldirisi/)).
 
 **Fairness note:** Claims about seized equipment and "overthrow of Al Saud rule" were directly attributed to Houthi spokespersons; since these claims have not been verified by independent sources, they were noted as unconfirmed and were not presented as fact.

@@ -34,6 +34,7 @@ Hamshahri'nin haberinde ayrıca, Yemen'deki Arap koalisyonunun uğradığı geri
 - **6-7 Ekim 2026:** Suudi Sivil Havacılık Genel Otoritesi (GACA), Abha ve Kral Halid havalimanlarındaki tesislerin hedef alındığını, bir Sudanlının öldüğünü bildirdi (Al Jazeera aktarımı).
 - **10 Ekim 2026:** Kral Halid Havalimanı'na yönelik saldırıda GACA'ya göre 12 kişi öldü, 309 kişi yaralandı; bu, haftanın en ölümcül saldırısı oldu (Al Jazeera, ITV News).
 - **11 Ekim 2026:** Ertesi gün yaşanan yeni bir saldırıda 1 kişi öldü, 11 kişi yaralandı (Khaleej Times).
+- **9 Kasım 2026:** Husiler, Riyad ve Suudi Arabistan'ın doğusunu füze ve pehpadla vurdu; bir Aramco binası hasar gördü, can kaybı bildirilmedi ([Farsçadan](../2026-11-09-riyad-havalimani-pehpad-saldirisi-husi-aramco/)).
 - **17 Kasım 2026 (bugün):** Hamshahri ve ISNA, aynı havalimanına yönelik yeni bir pehpad saldırısı sonrası uçuşların yeniden askıya alındığını bildirdi; bu, son iki ayda bildirilen saldırıların en yenisi oldu.
 
 **Kim kimdir / kavram:** *Kral Halid Uluslararası Havalimanı*, Suudi Arabistan'ın başkenti Riyad'a hizmet veren ana havalimanıdır ve ülkenin en yoğun hava trafiğine sahip noktalarından biridir. *GACA* (General Authority of Civil Aviation), Suudi Arabistan'ın sivil havacılık düzenleyici kurumudur ve havalimanı saldırılarına ilişkin resmî bilanço açıklamalarını bu kurum yapmaktadır. *Husiler* (Ensarullah), Yemen'in kuzeyini kontrol eden, İran'a yakın Zeydi-Şii silahlı harekettir ve Riyad'a yönelik pehpad/füze saldırılarının sorumluluğunu önceki örneklerde üstlenmiştir.

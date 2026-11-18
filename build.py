@@ -46,12 +46,14 @@ CATEGORIES = [
     ("Toplum", "toplum"),
     ("Türkiye", "turkiye"),
     ("Analiz", "analiz"),
+    ("Rehber", "rehber"),
 ]
 CAT_SLUG = dict(CATEGORIES)
 CAT_EN = {"Güvenlik": "Security", "Ekonomi": "Economy", "Diplomasi": "Diplomacy",
           "İç Politika": "Domestic Politics", "Toplum": "Society", "Türkiye": "Turkey",
-          "Analiz": "Analysis"}
+          "Analiz": "Analysis", "Rehber": "Guides"}
 ANALYSIS_CAT = "Analiz"   # özgün haftalık analiz (çeviri değil)
+GUIDE_CAT = "Rehber"      # özgün, kalıcı açıklayıcı rehber (18.11; çeviri değil)
 TOPIC_MIN = 3             # bundan az haberli konu sayfaları noindex + sitemap dışı
 GLOSS_MAX_RELATED = 12    # sözlük sayfasında "İlgili haberler" üst sınırı
 GLOSS_MAX_BOX = 5         # haberde "Kavramlar" kutusu üst sınırı
@@ -98,7 +100,7 @@ T = {
         "brief_lead1": "İran'ın Farsça basınından 1 başlık", "brief_more": "Tüm haberler",
         "cat_lead": "%s kategorisindeki çeviri haberler.",
         "cat_desc": "%s: İran Farsça basınından %s haberlerinin Türkçe çevirileri.",
-        "by": "Yazan:", "oversight": "Editoryal denetim:", "editors": "Farsçadan Editörlüğü",
+        "by": "Yazan:", "oversight": "Editoryal denetim:", "ai_assist": "Yapay zekâ destekli çeviri", "original": "Özgün içerik", "editors": "Farsçadan Editörlüğü",
         "source_lbl": "Kaynak:", "source_h": "Kaynak", "image": "Görsel:", "image_src": "Kaynak",
         "read_orig": "Özgün haberi oku (Farsça) →",
         "extra_sources": "Olayı işleyen diğer kaynaklar",
@@ -113,6 +115,10 @@ T = {
         "topics_desc": "%s konu dizini: İran Farsça basınından çevrilen haberlerin etiketleri.",
         "src_note": "Kaynak",
         # Analiz
+        "gd_label": "REHBER", "gd_src": "%s özgün rehberi", "gd_week": "Başvurulan kaynaklar",
+        "gd_lead": "Farsçadan'ın özgün rehberleri: İran'ın kurumları, basını ve sık geçen konuları kalıcı, kaynaklı ve görüş içermeyen açıklamalarla.",
+        "gd_desc": "%s rehberleri: İran'ın siyasi kurumları, basın yapısı ve gündemine dair özgün, kaynaklı açıklayıcı yazılar.",
+        "gd_note_pre": ("Bu rehber, Farsçadan Editörlüğü tarafından açık kaynaklara dayanılarak hazırlanmış özgün bir açıklayıcı yazıdır; görüş içermez. Hata bildirimi için "),
         "an_label": "ANALİZ", "an_src": "%s özgün analizi", "an_week": "Bu haftanın kaynakları",
         "an_lead": "Farsçadan'ın özgün haftalık analizleri: Farsça basın haftayı nasıl gördü, kamplar olayları nasıl farklı çerçeveledi.",
         "an_desc": "%s analiz: İran Farsça basınının haftalık gündemine ilişkin özgün, kaynaklı ve görüş içermeyen değerlendirmeler.",
@@ -144,7 +150,7 @@ T = {
         "brief_lead1": "1 story from Iran's Persian-language press", "brief_more": "All stories",
         "cat_lead": "Translated stories in %s.",
         "cat_desc": "%s: English translations of %s stories from Iran's Persian-language press.",
-        "by": "By", "oversight": "Editorial oversight:", "editors": "Farsçadan Editors",
+        "by": "By", "oversight": "Editorial oversight:", "ai_assist": "AI-assisted translation", "original": "Original content", "editors": "Farsçadan Editors",
         "source_lbl": "Source:", "source_h": "Source", "image": "Image:", "image_src": "Source",
         "read_orig": "Read the original (Persian) →",
         "extra_sources": "Other outlets covering this story",
@@ -160,6 +166,10 @@ T = {
         "topics_desc": "%s topic index: tags for stories translated from Iran's Persian-language press.",
         "src_note": "Source",
         # Analysis
+        "gd_label": "GUIDE", "gd_src": "%s original guide", "gd_week": "Sources consulted",
+        "gd_lead": "Farsçadan's original guides: Iran's institutions, press and recurring issues explained in lasting, sourced and opinion-free pieces.",
+        "gd_desc": "%s guides: original, sourced explainers on Iran's political institutions, press landscape and agenda.",
+        "gd_note_pre": ("This guide is an original explainer prepared by Farsçadan Editors from open sources; it contains no opinion. To report an error, please use our "),
         "an_label": "ANALYSIS", "an_src": "%s original analysis", "an_week": "Sources this week",
         "an_lead": "Farsçadan's original weekly analyses: how Iran's Persian-language press saw the week and how rival camps framed the same events.",
         "an_desc": "%s analysis: original, sourced and opinion-free reviews of the week in Iran's Persian-language press.",
@@ -906,14 +916,16 @@ def render(cfg, page, title, desc, canonical_rel, body, active="", switch_rel=No
 # ---------------------------------------------------------------- components
 
 def is_analysis(a):
-    return a["cat"] == ANALYSIS_CAT
+    """Özgün içerik (analiz veya rehber): kaynak kutusu ve dipnot çeviri haberinden farklıdır."""
+    return a["cat"] in (ANALYSIS_CAT, GUIDE_CAT)
 
 
 def kicker_cat(a, page):
     """Kicker'daki kategori bağlantısı; Analiz yazılarında ayırt edici "ANALİZ"/"ANALYSIS" etiketi."""
     href = page.l("kategori/%s/" % a["cat_slug"])
     if is_analysis(a):
-        return '<a class="type-label" href="%s">%s</a>' % (href, esc(T[page.lang]["an_label"]))
+        lab = T[page.lang]["gd_label"] if a["cat"] == GUIDE_CAT else T[page.lang]["an_label"]
+        return '<a class="type-label" href="%s">%s</a>' % (href, esc(lab))
     return '<a href="%s">%s</a>' % (href, esc(cat_name(a["cat"], page.lang)))
 
 
@@ -1073,7 +1085,8 @@ def build_category(cfg, arts, name, slug, lang):
     items = [a for a in arts if a["cat_slug"] == slug]
     disp = cat_name(name, lang)
     analysis = name == ANALYSIS_CAT
-    lead = t["an_lead"] if analysis else t["cat_lead"] % disp
+    guide = name == GUIDE_CAT
+    lead = t["gd_lead"] if guide else t["an_lead"] if analysis else t["cat_lead"] % disp
     body = ['<div class="wrap wide">', chips(page, slug),
             '<header class="page-head"><h1>%s</h1><p class="lead">%s</p></header>'
             % (esc(disp), esc(lead))]
@@ -1082,7 +1095,8 @@ def build_category(cfg, arts, name, slug, lang):
     else:
         body.append(empty_state(lang))
     body.append("</div>")
-    desc = t["an_desc"] % cfg["site_name"] if analysis else t["cat_desc"] % (cfg["site_name"], disp)
+    desc = (t["gd_desc"] if guide else t["an_desc"] if analysis else t["cat_desc"]) % (
+        (cfg["site_name"],) if (guide or analysis) else (cfg["site_name"], disp))
     alts = {lg: PFX[lg] + "kategori/%s/" % slug for lg in LANGS}
     other = "en" if lang == "tr" else "tr"
     # Boş kategori sayfası (ör. ilk analizden önce Analiz) ince sayfadır: noindex + sitemap dışı
@@ -1190,12 +1204,13 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
         # Özgün analiz: "özgün haberi oku" yok; ek_kaynaklar "Bu haftanın kaynakları" olur
         week = ""
         if a["ek"]:
-            week = '<h3>%s</h3><ul class="week-sources">%s</ul>' % (esc(t["an_week"]), ek_items())
+            week = '<h3>%s</h3><ul class="week-sources">%s</ul>' % (
+                esc(t["gd_week"] if a["cat"] == GUIDE_CAT else t["an_week"]), ek_items())
         kaynak = """<aside class="source-box" aria-labelledby="kaynak-baslik">
   <h2 id="kaynak-baslik">{h}</h2>
   <p class="source-name"><strong>{ad}</strong>{yon}</p>
   {week}
-</aside>""".format(h=esc(t["source_h"]), ad=esc(t["an_src"] % cfg["site_name"]),
+</aside>""".format(h=esc(t["source_h"]), ad=esc((t["gd_src"] if a["cat"] == GUIDE_CAT else t["an_src"]) % cfg["site_name"]),
                    yon=(' <span class="label">%s</span>' % esc(yon)) if yon else "", week=week)
     elif a["ek"]:
         ek = ('<section class="extra-sources"><h2>%s</h2><ul>%s</ul></section>'
@@ -1241,7 +1256,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
         "articleSection": disp_cat,
         "keywords": ", ".join(a["tags"]),
         "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_abs},
-        "author": {"@type": "Organization", "name": m.get("yazar") or "AI Agent"},
+        "author": {"@type": "Organization", "name": t["editors"], "url": abs_url(cfg, ROUTES["editor"][lang])},
         "editor": {"@type": "Organization", "name": t["editors"], "url": abs_url(cfg, ROUTES["editor"][lang])},
         "publisher": {"@type": "Organization", "name": cfg["site_name"],
                       "sameAs": ["https://x.com/%s" % cfg["x_hesap"]] if cfg.get("x_hesap") else [],
@@ -1281,7 +1296,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
     <p class="kicker">{kc}</p>
     <h1 class="article-title">{t}</h1>
     <p class="dek">{oz}</p>
-    <p class="byline">{by} <span class="author">{author}</span> · {ov} <a href="{ed}">{eds}</a> · <time datetime="{iso}">{d}</time> · {sl} {src}</p>
+    <p class="byline">{by} <a class="author" href="{ed}">{eds}</a> · {ov} · <time datetime="{iso}">{d}</time> · {sl} {src}</p>
   </header>
   {share}
   {fig}
@@ -1302,12 +1317,12 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
 </div>
 <div class="wrap wide">{related}</div>
 {copy}""".format(cu=page.l("kategori/%s/" % a["cat_slug"]), cat=esc(disp_cat), t=esc(m["baslik"]),
-                 oz=esc(m["ozet"]), author=esc(m.get("yazar") or "AI Agent"), iso=a["date"].isoformat(),
-                 by=esc(t["by"]), ov=esc(t["oversight"]), eds=esc(t["editors"]), sl=esc(t["source_lbl"]),
+                 oz=esc(m["ozet"]), iso=a["date"].isoformat(),
+                 by=esc(t["by"]), ov=esc(t["original"] if analysis else t["ai_assist"]), eds=esc(t["editors"]), sl=esc(t["source_lbl"]),
                  d=fmt_date(a["date"], lang), src=esc(m["kaynak_adi"]), fig=fig, ed=page.r("editor"),
                  body=body_html, kaynak=kaynak, ek=ek, tags=tags, share=share,
                  kc=kicker_cat(a, page), key_terms=key_terms,
-                 note_pre=esc(t["an_note_pre"] if analysis else t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
+                 note_pre=esc(t["gd_note_pre"] if a["cat"] == GUIDE_CAT else t["an_note_pre"] if analysis else t["note_pre"]), il=page.r("contact"), nl=esc(t["note_link"]),
                  note_post=esc(t["note_post"]), related=related, copy=COPY_SCRIPT,
                  rev=reviewed_line(m, t, lang, page),
                  nlbox=newsletter_form(cfg, page, lang, compact=True) if newsletter_user(cfg) else "")
@@ -1603,7 +1618,7 @@ def build_static_pages_tr(cfg):
 <h2>Görüş yayımlamıyoruz</h2>
 <p>{sn} köşe yazısı ya da yorum yayımlamaz. Haberlerde aktarılan iddia ve değerlendirmeler ilgili yayın organına aittir. Arka plan bilgisi verdiğimiz “Bağlam” bölümleri olgulara dayanır ve görüş içermez.</p>
 <h2>Çeviriyi kim yapıyor?</h2>
-<p>Çeviriler yapay zekâ ile yapılır; bu nedenle haberlerde imza olarak <strong>“AI Agent”</strong> yer alır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır. Ayrıntılar: <a href="{ed}">Editörlük</a>.</p>
+<p>Çeviriler yapay zekâ desteğiyle yapılır ve her haberde “Yapay zekâ destekli çeviri” notu yer alır; haberler <strong>Farsçadan Editörlüğü</strong> imzasıyla yayımlanır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır. Ayrıntılar: <a href="{ed}">Editörlük</a>.</p>
 <h2>Düzeltme politikası</h2>
 <p>Çeviri ya da bilgi hatalarını ciddiye alıyoruz. Bir hata fark ederseniz <a href="{co}">İletişim</a> sayfasındaki formdan “Hata bildirimi” konusunu seçerek bize yazın. Doğrulanan hatalar en kısa sürede düzeltilir; anlamı değiştiren düzeltmeler haberin sonunda not olarak belirtilir.</p>
 <p>Ayrıntılı ilkelerimiz için <a href="{st}">Yayın İlkeleri</a> sayfasına bakabilirsiniz.</p>
@@ -1622,7 +1637,7 @@ def build_static_pages_tr(cfg):
 <h2>4. Özet-çeviri</h2>
 <p>Kaynak metnin tamamını yeniden yayımlamayız. Haberin özünü sadık bir özet-çeviriyle aktarır, her zaman özgün habere bağlantı veririz. Haberin sorumluluğu ilgili yayın organına aittir.</p>
 <h2>5. Yapay zekâ ve insan denetimi</h2>
-<p>Çeviriler yapay zekâ ile üretilir ve “AI Agent” imzasıyla yayımlanır. Kaynak seçimi, ilkeler ve düzeltmeler insan editoryal denetimi altındadır.</p>
+<p>Çeviriler yapay zekâ desteğiyle üretilir, “Yapay zekâ destekli çeviri” notuyla ve Farsçadan Editörlüğü imzasıyla yayımlanır. Kaynak seçimi, ilkeler ve düzeltmeler insan editoryal denetimi altındadır.</p>
 <h2>6. Görseller</h2>
 <p>Yalnızca özgür lisanslı görseller kullanılır (kamu malı, CC0, CC BY, CC BY-SA). Her görselin altında yazar, lisans ve kaynak bağlantısı bulunur. İran basınına ait fotoğraflar kullanılmaz.</p>
 <h2>7. Düzeltmeler</h2>
@@ -1716,7 +1731,7 @@ def build_static_pages_en(cfg):
 <h2>We do not publish opinion</h2>
 <p>{sn} does not publish columns or commentary. Claims and assessments reported in our stories belong to the original outlet. The “Context” sections, where we provide background, are based on facts and contain no opinion.</p>
 <h2>Who does the translation?</h2>
-<p>Translations are produced with AI, which is why our stories carry the byline <strong>“AI Agent.”</strong> The process runs under human editorial oversight: source selection, editorial standards and corrections are the editor's responsibility. Details: <a href="{ed}">Editorial Oversight</a>.</p>
+<p>Translations are produced with AI assistance; every story is labelled “AI-assisted translation” and published under the byline <strong>Farsçadan Editors</strong>. The process runs under human editorial oversight: source selection, editorial standards and corrections are the editor's responsibility. Details: <a href="{ed}">Editorial Oversight</a>.</p>
 <h2>Corrections policy</h2>
 <p>We take translation and factual errors seriously. If you notice an error, write to us using the form on our <a href="{co}">Contact</a> page and choose “Error report” as the subject. Verified errors are corrected as quickly as possible; corrections that change the meaning of a story are noted at the end of the story.</p>
 <p>For our detailed principles, see our <a href="{st}">Editorial Standards</a>.</p>
@@ -1735,7 +1750,7 @@ def build_static_pages_en(cfg):
 <h2>4. Summary translation</h2>
 <p>We do not republish the full source text. We convey the substance of each story in a faithful summary translation and always link to the original. Responsibility for the reporting lies with the original outlet.</p>
 <h2>5. AI and human oversight</h2>
-<p>Translations are produced with AI and published under the byline “AI Agent.” Source selection, standards and corrections are subject to human editorial oversight.</p>
+<p>Translations are produced with AI assistance and published under the byline Farsçadan Editors, labelled “AI-assisted translation.” Source selection, standards and corrections are subject to human editorial oversight.</p>
 <h2>6. Images</h2>
 <p>We use only freely licensed images (public domain, CC0, CC BY, CC BY-SA). Every image carries a credit with the author, license and a link to the source. We do not use photographs from the Iranian press.</p>
 <h2>7. Corrections</h2>
@@ -1903,7 +1918,7 @@ def build_feeds(cfg, arts_by_lang, topics_by_lang, gloss_by_lang=None):
     <dc:creator>{au}</dc:creator>
     <description>{o}</description>
   </item>""".format(t=xml_esc(m["baslik"]), l=xml_esc(link), d=email.utils.format_datetime(a["date"]),
-                    c=xml_esc(cat_name(a["cat"], lg)), au=xml_esc(m.get("yazar") or "AI Agent"),
+                    c=xml_esc(cat_name(a["cat"], lg)), au=xml_esc(T[lg]["editors"]),
                     o=xml_esc("%s (%s: %s)" % (m["ozet"], T[lg]["src_note"], m["kaynak_adi"]))))
         feed = """<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
@@ -1945,7 +1960,8 @@ def main():
 
     arts_by_lang = {lg: load_articles(include_samples, lg) for lg in LANGS}
     slugs = {lg: {a["slug"] for a in arts_by_lang[lg]} for lg in LANGS}
-    topics_by_lang = {lg: collect_topics(arts_by_lang[lg]) for lg in LANGS}
+    topics_by_lang = {lg: {s: tp for s, tp in collect_topics(arts_by_lang[lg]).items()
+                         if len(tp["arts"]) >= TOPIC_MIN} for lg in LANGS}  # 18.11: ince konu sayfası üretilmez
     gloss_by_lang = {lg: load_glossary(include_samples, lg) for lg in LANGS}
     for lg in LANGS:
         match_glossary(arts_by_lang[lg], gloss_by_lang[lg], lg)

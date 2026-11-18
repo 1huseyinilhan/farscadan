@@ -110,6 +110,25 @@ Gövde (Markdown alt kümesi)...
   5. `## Önümüzdeki hafta neye bakmalı`: Takvimdeki olaylar. Tahmin değil, izlenecek başlıklar.
 - **Görüş yasağı sürer:** Analiz betimleyicidir ve her olgu atfedilir. "Bize göre…" türü yorum yazılmaz.
 
+### Rehber: kalıcı açıklayıcı yazı (18.11.2026)
+- **Amaç:** AdSense'in "düşük değerli içerik" reddine karşı sitenin özgün, kalıcı (evergreen) değerini artırmak. Çeviri değildir.
+- **Dosya:** `content/haberler/YYYY-MM-DD-rehber-<konu-slug>.md` (TR). EN sürümünü betiğin Haiku adımı aynı adla `content/en/haberler/` altına çevirir.
+- **Kategori:** `kategori: Rehber` (EN görünen ad "Guides").
+- **Front matter:** Haberle aynı alanlar.
+  - `kaynak_adi: Farsçadan`, `kaynak_yonelim: Rehber` (EN: `Guide`).
+  - `kaynak_url`: Yazının dayandığı en temel birincil/ansiklopedik kaynak (ör. resmî kurum sayfası, Encyclopædia Iranica, UAEA raporu).
+  - `ek_kaynaklar`: Başvurulan diğer kaynaklar (`Ad, kısa not | URL`), en az 4; ayrıca ilgili Farsçadan haberleri.
+  - `yazar: Farsçadan Editörlüğü`.
+- **Gövde (1.200–1.800 kelime, ÖZGÜN):**
+  1. Giriş: konu nedir, okur neden bilmeli (2–3 paragraf).
+  2. 3–5 `##` alt başlık: yapı, tarihçe/kronoloji, temel aktörler, rakamlar. En az bir tablo.
+  3. `## Farsça basında nasıl geçer`: Konunun Farsça basında hangi terimlerle anıldığı (Farsça terim + okunuş + Türkçe karşılık), ilgili sözlük maddelerine bağlantı.
+  4. `## Türkiye açısından`: Olgusal Türkiye boyutu.
+  5. `## Farsçadan'da ilgili haberler`: 3–6 iç bağlantı (`../<slug>/`).
+  6. Son satır: `*Son güncelleme: YYYY-MM-DD.*`
+- **Kurallar:** Her olgu ve rakam kaynağa atfedilir; doğrulanamayan bilgi yazılmaz. Görüş, tahmin, değerlendirme sıfatı yok. Kaynak metinlerden cümle kopyalanmaz (özgün anlatım). Görsel yalnız özgür lisanslı (Commons), haberlerle aynı kurallar.
+- Rehberler editör listesinde "ÖZGÜN REHBER — editör onayı şart" olarak işaretlenir.
+
 ### Sözlük: "X nedir?"
 - **Dosya:** `content/sozluk/<slug>.md` (TR) ve `content/en/sozluk/<slug>.md` (EN, aynı slug). Slug ASCII olur, ör. `kalabarg`, `devrim-muhafizlari`, `tetik-mekanizmasi`.
 - **Front matter:**

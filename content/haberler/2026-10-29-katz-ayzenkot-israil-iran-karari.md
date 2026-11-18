@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-katz-ayzenkot-israil-iran-karari.jpg
 gorsel_alt: Kudüs'teki Knesset binasının ön cephesi
 gorsel_kredi: Clema12, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İsrail'de Knesset seçiminin kesin sonuçları netleşmeden, Savunma Bakanı Yisrael Katz ile emekli Orgeneral Gadi Ayzenkot arasında İran'a yönelik olası bir askeri kararı kimin vereceği üzerinden sert bir tartışma çıktı. Iran International'ın aktardığına göre Katz çarşamba günü X'te Ayzenkot'un sözlerini "demokratik olmayan ve gerçeklikten kopuk" diye nitelendirerek, "İsrail ordusu İran'a karşı büyük başarılarda tam katılım gösterdi, şimdi de bütün tartışma ve değerlendirmelere katılıyor ve gerekli her kararı uygulayacaktır" dedi.
 

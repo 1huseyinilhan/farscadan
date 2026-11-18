@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-abd-kanada-sarrafi-iran-yaptirim.jpg
 gorsel_alt: ABD Hazine Bakanlığı binasının dış görünümü
 gorsel_kredi: MeanieHyaena, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre ABD Hazine Bakanlığı Yabancı Varlıklar Kontrol Ofisi (OFAC), Kanada merkezli sekiz para transfer şirketi ve sarrafı, İran rejimiyle ve ona bağlı yaptırımlı kuruluşlarla iş birliği yaptığı gerekçesiyle yaptırım listesine aldı. Adım, Hazine'nin ağustosta başlattığı "Ekonomik Dışlanma Operasyonu" (Operation Economic Outcast) kampanyasının bir devamı.
 

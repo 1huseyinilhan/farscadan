@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi.jpg
 gorsel_alt: Hürmüz Boğazı'nın uzaydan çekilmiş uydu fotoğrafı
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 editor_onay: 2026-10-31
 ---
 12-18 Ekim haftasında Farsça basının gündemini tek bir soru belirledi: Hürmüz Boğazı'nda gemilere ne oluyor? Sepah'ın her yeni "mayın" açıklaması, ABD'nin, Hindistan'ın, Singapur'un ya da uluslararası denizcilik kuruluşlarının farklı bir anlatısıyla karşılaştı. Aynı günlerde Tahran ile Washington arasında arabulucular üzerinden yazışma sürdü, yaptırım listeleri uzadı ve Yemen'den Suudi Arabistan'a yönelik saldırılar havacılık ile enerji tesislerini hedef aldı. Bu yazı, Farsçadan'ın hafta boyunca yayımladığı haberlerden derlenmiştir. Her bilgi ilgili habere ve o haberin dayandığı yayın organına atfedilir.

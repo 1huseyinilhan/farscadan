@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-atlantik-trump-iran-saldirisi-secim-sonrasi.jpg
 gorsel_alt: Donald Trump'ın resmi başkanlık portresi
 gorsel_kredi: Daniel Torok, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Atlantic dergisi, görüşmelere yakın kaynaklara dayanarak ABD yönetiminin İran'a günlerce sürecek yeni bir askeri saldırıyı değerlendirdiğini yazdı. İran International'ın aktardığına göre bu değerlendirme, Washington'ın Tahran'ı müzakere masasına döndürmedeki ekonomik baskı stratejisinden istediği sonucu alamaması ve yüksek enerji fiyatlarının Cumhuriyetçiler için seçim öncesi siyasi sorun yaratmasıyla aynı döneme denk geliyor.
 

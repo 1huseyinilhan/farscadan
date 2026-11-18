@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-riyad-havalimani-pehpad-saldirisi.jpg
 gorsel_alt: Exterior view of Riyadh's King Khalid International Airport
 gorsel_kredi: U.S. Air Mobility Command, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri's "breaking" report published the morning of November 17, flight operations at King Khalid International Airport in Riyadh were suspended following a drone attack from Yemen. According to Hamshahri's account, media outlets reported hearing explosion sounds in Saudi Arabia's eastern region. ISNA also confirmed the same attack in a brief report and stated that flight operations at the airport had been suspended.
 

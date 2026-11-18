@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-yemen-aramco-saldirisi.jpg
 gorsel_alt: Suudi Arabistan'daki Aramco şirketine ait bir tesis alanı
 gorsel_kredi: Eagleamn, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:AramcoCoreArea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Suudi Arabistan savaş uçakları, hafta sonu Yemen'in başkenti Sana'a'yı bombaladı. Aynı gün Yemen Sağlık Bakanlığı, Suudi İHA'larının Taiz eyaletine düzenlediği bir saldırıda dört kişinin öldüğünü veya yaralandığını açıkladı. Husi hareketi (Ensarullah) ise buna karşılık Suudi devlet petrol şirketi Aramco'nun Riyad'daki tesislerini vurduğunu bildirdi.
 

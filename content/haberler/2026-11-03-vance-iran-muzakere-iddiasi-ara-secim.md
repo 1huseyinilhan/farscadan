@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-vance-iran-muzakere-iddiasi-ara-secim.jpg
 gorsel_alt: "ABD Başkan Yardımcısı JD Vance'in resmî portresi"
 gorsel_kredi: "Emily J. Higgins, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Yarı resmî ISNA'nın aktardığına göre ABD Başkan Yardımcısı JD Vance, Salı günü (3 Kasım, 12 Aban) yapılan ABD Kongresi ara seçimleri arifesinde İran'la müzakerelerde "ilerleme" kaydedildiğini söyledi. Devlet ajansı IRNA'nın verdiği habere göre Vance'in sözleri şöyle aktarıldı: "Biz ilerlemeler kaydettik." Tahran Belediyesi'ne yakın Hamshahri'nin yayımladığı ayrı bir haberde Vance'in daha geniş bir açıklaması yer aldı; buna göre Vance "Hem ben hem Trump, müzakere yoluyla bir anlaşmaya ulaşma ihtimaline karşı iyimseriz" dedi ve "İran'la ilgili müzakerelerde ilerlemeler kaydettik" sözünü tekrarladı. Hamshahri'nin aktardığına göre Vance, ABD'nin daha fazla ilerleme sağlayıp sağlayamayacağını henüz belirlemeleri gerektiğini de ekledi. Hamshahri'nin haberinde açıklamanın hangi koşullara bağlı olduğuna veya bir zaman çizelgesine dair ayrıntı yer almıyor.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-samhani-petrol-ticareti-iddiasi-hamaney.jpg
 gorsel_alt: Büyük bir ham petrol tankeri (VLCC) limanda boşaltma yaparken (temsili görsel)
 gorsel_kredi: Hervé Cozanet, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tanker_unloading_crude_oil.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın yayımladığı sızan bir belgeye göre, Yüksek Milli Güvenlik Konseyi'nin eski sekreteri A.Ş.'nin Devrim Rehberi'ne yazdığı çok gizli bir mektup, petrol satışının oğlu H.Ş.'nin gemi ağına nasıl yönlendirildiğini ortaya koyuyor; belgeye göre bu düzenleme, Çin'deki iskele ve depolama tankları üzerinden ABD yaptırımlarının yeni bir yöntemle dolanılmasına da hizmet ediyor. İddia tek kaynaklı ve şimdilik doğrulanmamış durumda.
 

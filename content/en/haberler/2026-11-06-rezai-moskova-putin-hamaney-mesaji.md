@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-rezai-moskova-putin-hamaney-mesaji.jpg
 gorsel_alt: Official portrait of Russian President Vladimir Putin
 gorsel_kredi: Russian Presidential Press Service, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=199734669
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Per Iran International's report, Supreme National Security Council Secretary Mohsin Rezaei met with Russian President Vladimir Putin in an undisclosed Moscow visit and delivered a message from Islamic Revolution Supreme Leader Ayatollah Seyyed Muctaba Khamenei. The meeting coincided with press coverage of new arms supplies from Russia to Iran.

@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-necef-ucuslari.jpg
 gorsel_alt: The Imam Ali Shrine in Najaf
 gorsel_kredi: Goudarz.memar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Shrine_of_Imam_Ali_Najaf_August_2023.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Iraqi government said it has obtained an exemption allowing Iranian airlines to operate **40 flights a day** to Najaf International Airport. According to Ettelaat, citing Al Jazeera, the permit covers Iranian carriers **other than Mahan Air**. The Iraqi government said the exemption was granted to facilitate passengers' entry into and exit from Iraq and to support humanitarian and medical needs.
 

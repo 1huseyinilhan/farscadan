@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-erdogan-aliyev-baku-gerginlik.jpg
 gorsel_alt: "Skyline view of Baku around the Maiden Tower"
 gorsel_kredi: "Viceskeeni2, Public domain (CC0), Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baku_Skyline_qiz_qalasi.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline's report from Al-Monitor, President Recep Tayyip Erdoğan's visit to Baku on Sunday for ceremonies commemorating Azerbaijan's 2020 victory over Armenia on November 8 is being viewed as an attempt to obscure a deepening crisis between the two longtime allies. Al-Monitor correspondent Amberin Zaman argues that Azerbaijan's school headscarf ban is merely the surface; the real dispute extends from Baku's close ties to Tel Aviv through Ankara's normalization efforts with Yerevan.
 

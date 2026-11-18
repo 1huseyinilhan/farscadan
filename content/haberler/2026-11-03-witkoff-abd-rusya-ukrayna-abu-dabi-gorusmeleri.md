@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri.jpg
 gorsel_alt: "Abu Dabi'nin Corniche semtinden şehir silüeti"
 gorsel_kredi: "AdnanDekedek, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Corniche_skyline.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ekonomi gazetesi Donya-ye Eghtesad'ın Mehr haber ajansına dayanarak aktardığına göre, ABD Başkanı'nın özel temsilcisi Steve Witkoff, Washington'ın Ukrayna ve Rusya ile üçlü görüşmeler düzenlemeyi planladığını açıkladı. Habere göre görüşmelere üç ülkenin de temsilcileri katılacak; toplantı 19-20 Aban (10-11 Kasım) tarihlerinde Abu Dabi'de yapılacak. Yarı resmî ISNA'nın aynı konuyu işleyen haberinde de görüşmenin yeri ve zamanı aynı şekilde doğrulanıyor. Donya-ye Eghtesad'ın haberinde Witkoff'a ait doğrudan bir alıntı yer almıyor; açıklama dolaylı olarak, "Rusya El-Yevm" kaynaklı bir bildirim ve bunu teyit eden bir ABD yetkilisine atfen Reuters'in aktarımı üzerinden veriliyor.
 

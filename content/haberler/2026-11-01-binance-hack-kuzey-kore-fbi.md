@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-binance-hack-kuzey-kore-fbi.jpg
 gorsel_alt: "Dizüstü bilgisayar ekranında kripto para ve siber güvenlik temalı görsel"
 gorsel_kredi: "Edwin.images, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Bitcoin_Cryptocurrency_Security.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre ABD Federal Soruşturma Bürosu (FBI) pazar günü yaptığı açıklamada, dünyanın en büyük kripto para borsası Binance'ten yaklaşık 6 milyar dolarlık dijital varlığın çalınmasıyla Kuzey Kore arasında bağlantı bulunduğunu duyurdu. ISNA'ya göre FBI yetkilileri, saldırının Kuzey Kore devletiyle ilişkili bir grup tarafından gerçekleştirildiğini söyledi.
 

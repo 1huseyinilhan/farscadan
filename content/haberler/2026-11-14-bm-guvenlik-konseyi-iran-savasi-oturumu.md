@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-bm-guvenlik-konseyi-iran-savasi-oturumu.jpg
 gorsel_alt: "Birleşmiş Milletler Güvenlik Konseyi'nin New York'taki toplantı salonu"
 gorsel_kredi: "Wikimedia Commons katkıcısı, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:UN_Security_Council_-_2018_(31078373778).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 BM Güvenlik Konseyi'nin "Ortadoğu'daki durum" başlıklı oturumunda Rusya ve Çin temsilcileri, Cuma günü (13 Kasım) ABD ve İsrail'in İran'a yönelik askerî harekâtının derhal sona ermesini istedi. Donya-ye Eqtesad'ın aktardığına göre İran'ın BM Daimi Temsilcisi ve Maslahatgüzarı Gholamhossein Darzi de aynı oturumda, Washington'ın yeni bir saldırıya girişmesi halinde "derhal ve kararlı" bir karşılıkla yanıt verileceği uyarısında bulundu.
 

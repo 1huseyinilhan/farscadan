@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-meclis-hobregan-npt-savunma-doktrini.jpg
 gorsel_alt: "Tahran'daki Milad Kulesi'nin gece görünümü"
 gorsel_kredi: "Bahador, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Milad_Tower_Night_View_in_2006.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Uzmanlar Meclisi (Meclis-i Hobregan-ı Rehberi), Perşembe günü yayımladığı bildiride ülkenin savunma doktrininin gözden geçirilmesini "kaçınılmaz bir zorunluluk" olarak tanımladı. Ettela'at'ın yayımladığı tam metne göre kurum, sekiz aylık "direniş sürecinde" halkın meydanlardaki varlığına teşekkür ederek kültürel meseleler (özellikle "iffet ve hicap"), ekonomi ve geçim sıkıntısı, NPT'den çıkış talebi ve savunma doktrininin yeniden değerlendirilmesi ile direniş ve "onurlu diplomasi"nin sürdürülmesi gerektiğini vurguladı; bölge ülkelerindeki din adamlarına yönelik mahkeme kararlarını da kınadı.
 

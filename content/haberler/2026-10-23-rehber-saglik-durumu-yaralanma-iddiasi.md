@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-rehber-saglik-durumu-yaralanma-iddiasi.jpg
 gorsel_alt: Kutsal şehir Kum'un genel görünümü
 gorsel_kredi: Amir Pashaei, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Qom_panorama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Uzmanlar Meclisi üyesi Ayetullah Seyyid Mücteba Hüseyni, İran'ın en yüksek dini-siyasi makamı olan Rehber Ali Hamaney'in görüntülü konuşma yapmamasının nedenini açıkladı. Ettelaat'ın Habaronline'dan aktardığına göre Hüseyni, "Kendileri artık tam bir sağlığa sahip; geçirdikleri tüm yaralar tedavi edildi. Tamamen güçlü ve sağlıklıdırlar" dedi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-pezeskiyan-putin-turkmenistan-zirve.jpg
 gorsel_alt: Rusya Devlet Başkanı Putin ile İran Cumhurbaşkanı Pezeşkiyan'ın bir görüşmesi
 gorsel_kredi: Rusya Cumhurbaşkanlığı, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Putin_meeting_President_of_Iran_Masoud_Pezeshkian_(2025)_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın aktardığına göre Cumhurbaşkanı Mesud Pezeşkiyan, Perşembe akşamı Türkmenistan'da Bağımsız Devletler Topluluğu (BDT) devlet başkanları zirvesi ve Hazar Denizi çevre zirvesi kapsamında Rusya Devlet Başkanı Vladimir Putin'le ikili görüştü. Habere göre Pezeşkiyan görüşmede iki ülke arasındaki ticari, ekonomik ve insani ilişkilerin geliştiğini, Tahran'ın tek yanlılığa karşı çıktığını ve müzakere masasından çekilmeyeceğini söyledi; ABD ile müzakere kanalları aracılığıyla değişim yaşanan önerilerin, kendi tarafından yapılan düzeltmelerin ardından nihai hale getirilmesinin planlandığını belirtti.
 

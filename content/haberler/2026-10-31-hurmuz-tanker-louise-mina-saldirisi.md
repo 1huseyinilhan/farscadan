@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-hurmuz-tanker-louise-mina-saldirisi.jpg
 gorsel_alt: Açık denizde seyreden büyük bir petrol tankeri
 gorsel_kredi: ImagePerson, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Oil_Tanker_in_North_Sea_3928.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: IranIntl, Financial Times aktarımıyla (Muhalif, yurt dışı) | https://www.iranintl.com/202610303557 ;; ISNA (Yarı resmî) | https://www.isna.ir/news/1405080805151/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%DB%8C%DA%A9-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%BA%DB%8C%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D9%85%DB%8C%D9%86 ;; Hamshahri (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1081530 ;; Kayhan (Sertlik yanlısı) | https://kayhan.ir/fa/news/341073
 ---
 Hürmüz Boğazı'nın güneyindeki izinsiz bir rotada seyreden bir süpertanker perşembe akşamı alev aldı; İRNA'nın aktardığına göre Devrim Muhafızları (Sepah) Deniz Kuvvetleri, geminin uyarılara uymadan yasak bölgeden geçmeye çalışırken bir mayına çarptığını ve şiddetli bir patlama yaşadığını açıkladı. Sepah'ın açıklamasına göre bu, benzer şekilde "ihlalci" ilan edilen dördüncü tankerdi. ISNA, Hamshahri, Kayhan, Donya-ye Eqtesad, Ettelaat ve Khabaronline de aynı Sepah açıklamasını haber olarak geçti.

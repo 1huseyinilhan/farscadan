@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu.jpg
 gorsel_alt: İran İslam Cumhuriyeti'nin 10.000 riyallik banknotu
 gorsel_kredi: Parsa 2au, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:10000_Rials_banknote_of_the_Islamic_Republic_of_Iran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: The Hill (İngilizce, birincil kaynak) | https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact/ ;; Yahoo News, Axios aktarımıyla (İngilizce, birincil kaynak) | https://www.yahoo.com/news/politics/articles/treasury-department-says-iran-economy-215320765.html
 ---
 ABD Hazine Bakanlığı'nın 30 Ekim'de yayımladığı ve Axios'un ele geçirdiği bir rapora göre İran'da yıllık enflasyon eylül ayında yaklaşık %90'a ulaştı; bu oran 2025 başındaki %35 seviyesinin iki katından fazla. IranIntl'in aktardığına göre Hazine, "Operation Economic Outcast" adını verdiği yaptırım kampanyasının başladığı ağustostan bu yana riyalin serbest piyasada yaklaşık %25 değer kaybettiğini ve bu dönemde İran'dan hiçbir tankere petrol yüklenmediğini de raporuna ekledi. The Hill ve Yahoo News'in Axios'a dayanan haberleri, raporun serbest piyasa kurunun ekimde dolar başına 2,687 milyon riyale ulaştığını, kampanya başladığında bu rakamın 2,02 milyon olduğunu belirttiğini doğruladı.

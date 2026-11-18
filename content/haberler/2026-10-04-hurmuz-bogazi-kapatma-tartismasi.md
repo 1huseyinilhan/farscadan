@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-hurmuz-bogazi-kapatma-tartismasi.jpg
 gorsel_alt: Hürmüz Boğazı'nın uzaydan çekilmiş uydu görüntüsü
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hürmüz Boğazı'nın tam olarak açık mı kapalı mı olduğu, aylardır İran basınında tartışılan bir soru. Ilımlı muhafazakâr Khabaronline'ın yayımladığı bir değerlendirmeye göre boğazın durumu "ne tamamen açık ne tamamen kapalı"; trafiğin büyük bölümü sekteye uğramış ve enerji geçişi pahalılaşmış durumda. Gazete, bunu İran'ın elindeki önemli bir kaldıraç olarak tanımlıyor.
 

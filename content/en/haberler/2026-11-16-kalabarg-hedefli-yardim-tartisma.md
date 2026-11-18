@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-kalabarg-hedefli-yardim-tartisma.jpg
 gorsel_alt: "Interior of the Grand Bazaar in Tehran"
 gorsel_kredi: "Telluride, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Hamid Pourmmuhammadi, head of Iran's Planning and Budget Organization, reignited the targeted-assistance debate over kalabarg by saying that universal, equal payments to all support beneficiaries is "not the right method." According to Khabaronline's account, Pourmmuhammadi emphasized that the government should adjust its support based on households' needs and vulnerability levels, directing scarce resources first to the most vulnerable and neediest groups, then only after their needs are met should the government consider expanding support to other households.

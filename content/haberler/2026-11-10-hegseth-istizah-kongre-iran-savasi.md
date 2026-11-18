@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-hegseth-istizah-kongre-iran-savasi.jpg
 gorsel_alt: ABD Savaş Bakanı Pete Hegseth'in resmî portresi
 gorsel_kredi: Chad J. McNeeley/ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:29th_United_States_Secretary_of_Defense_Pete_Hegseth_Official_Portrait_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Cumhuriyetçi Kentucky Temsilcisi Thomas Massie, ABD Savaş Bakanı Pete Hegseth'in görevden alınması için 8 maddelik istizah önergesini Kongre'ye sundu. Khabaronline'ın AP ve CNN'den aktardığına göre önergenin ilk maddesi, Hegseth'i İran, Yemen ve Venezuela'ya karşı yasadışı savaş ya da askerî eylem yürütmekle suçluyor; oylamanın çarşamba gününe kadar yapılması bekleniyor.
 

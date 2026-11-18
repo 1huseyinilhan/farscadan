@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-hurmuz-iki-tanker-patlama-mayin.jpg
 gorsel_alt: Hürmüz Boğazı'nın NASA uzay mekiğinden çekilmiş uydu görüntüsü
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Devrim Muhafızları Donanması, 7 Kasım Cumartesi akşamı Hürmüz Boğazı'nda ikisi de "ihlalci" diye tanımlanan iki tankerin mayına çarparak alev aldığını açıkladı; IRNA'nın aktardığına göre tankerlerden biri boğazın doğu kesiminde, diğeri boğazın içinde seyrediyordu. Aynı gece ABD Merkez Komutanlığı (CENTCOM), Umman Denizi'nde abluka ihlali gerekçesiyle ayrı bir ticari gemiyi hareketsiz bıraktığını duyurdu; iki açıklama arasındaki ilişki teyit edilmedi.
 

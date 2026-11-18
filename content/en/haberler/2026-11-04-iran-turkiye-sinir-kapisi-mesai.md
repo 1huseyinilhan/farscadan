@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-iran-turkiye-sinir-kapisi-mesai.jpg
 gorsel_alt: "General view of the Iran-Turkey border at the Gurbulak crossing point"
 gorsel_kredi: "Adam Jones, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Waiting_Out_a_Rainstorm_-_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_(5804191283).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to hardline Kayhan, citing Tasnim, Iran's Economy and Finance Minister Seyyed Ali Madanizade and Turkey's Trade Minister Ömer Bolat met on the sidelines of the Organization of Islamic Cooperation's 42nd Standing Committee for Economic and Commercial Cooperation (COMCEC) in Istanbul and emphasized the need for shared border gates between the two countries to operate continuously 24 hours.
 

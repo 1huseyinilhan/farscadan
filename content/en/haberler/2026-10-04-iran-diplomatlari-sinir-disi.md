@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-iran-diplomatlari-sinir-disi.jpg
 gorsel_alt: The United Nations General Assembly building in New York
 gorsel_kredi: Superbass, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_building,_East_river_in_New_York_City_-_2024-11-18-Headquarters_of_the_United_Nations-0605_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Two diplomats from Iran's UN General Assembly delegation were "removed" from the United States on Saturday, according to a Donya-e-Eqtesad report citing Axios. An unnamed US official said the two had failed to comply with a request that they leave New York together with the rest of the delegation. Axios published the story directly; Iran International also confirmed the same claim, attributing it to Axios.
 

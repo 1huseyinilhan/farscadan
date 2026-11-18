@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-hurmuz-ucuncu-nefkes-mayin.jpg
 gorsel_alt: Hürmüz Boğazı'nın uydudan görünümü
 gorsel_kredi: Bilinmeyen, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_hormuz_full.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hürmüz Boğazı'nın güneyinde cumartesi gününden bu yana üçüncü süpertanker bir deniz mayınına çarparak alev aldı. Ettelaat'ın aktardığına göre İran Devrim Muhafızları Deniz Kuvvetleri (Sepah), ham petrol yüklü ve seyrüsefer sistemlerini kapatarak yasaklı bir rotadan geçmeye çalışan geminin pazar günü öğleden sonra bir deniz mayınına çarptığını, makine dairesinde patlama ve şiddetli yangın çıktığını açıkladı.
 

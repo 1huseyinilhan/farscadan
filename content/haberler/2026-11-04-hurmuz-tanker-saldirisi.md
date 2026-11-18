@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-hurmuz-tanker-saldirisi.jpg
 gorsel_alt: "Hürmüz Boğazı'nda bir savaş gemisinin yanından geçen petrol tankeri"
 gorsel_kredi: "ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre İngiltere Deniz Ticareti Operasyonları Dairesi (UKMTO), Umman kıyılarının yaklaşık 14 deniz mili açığında, Hürmüz Boğazı'nda seyreden bir tankerin motor dairesinin kimliği belirsiz iki mühimmatın isabetiyle hedef alındığını bildirdi. UKMTO'nun açıklamasında saldırının kim tarafından veya nereden yapıldığına dair bilgi verilmedi.
 

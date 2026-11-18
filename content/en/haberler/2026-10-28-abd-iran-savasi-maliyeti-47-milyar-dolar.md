@@ -14,7 +14,7 @@ gorsel: img/2026-10-28-abd-iran-savasi-maliyeti-47-milyar-dolar.jpg
 gorsel_alt: The Pentagon building, headquarters of the US Department of Defense
 gorsel_kredi: Touch Of Light, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon,_Headquarters_of_the_US_Department_of_Defense_(cropped2).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Hill, a US politics news site, reported that according to the Central Command (CENTCOM) latest estimate, Washington's military expenditures against Iran have risen by more than $3 billion since early September, reaching approximately $47 billion. According to IRNA, the report presented this figure as the current cost of the US military campaign.
 

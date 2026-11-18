@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-pentagon-kayip-sayisi-guncelleme.jpg
 gorsel_alt: Washington'daki Pentagon binasının havadan görünümü
 gorsel_kredi: Master Sgt. Ken Hammond / ABD Hava Kuvvetleri, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre ABD Savunma Bakanlığı (Pentagon), İran'a karşı yürüttüğü savaşta kendi askerlerine ait resmî kayıp istatistiklerini hiçbir açıklama yapmadan ve medyaya haber vermeden güncelledi; yeni rakamlar önceki açıklanan sayılara kıyasla artış gösteriyor.
 

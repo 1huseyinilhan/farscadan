@@ -13,7 +13,7 @@ gorsel: img/2026-10-24-tahran-okul-mulk-satisi.jpg
 gorsel_alt: Tahran'ın Vanak Meydanı'ndan bir görünüm
 gorsel_kredi: Orijentolog, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Vanak_Square_(Tehran).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran Eğitim Müdürü, kentteki devlet okullarına ait eğitim alanları için geçen yıl 355 tapu senedi alındığını belirterek, bu mülklerden 10'unun satışa (mülk dönüştürme/"mولدسازی") hazırlandığını açıkladı. ISNA'nın aktardığına göre yetkili, bu satışların "okul inşa seferberliği"nin gelişimi için gerekli kaynağı sağlayabileceğini söyledi; Vanak Meydanı çevresindeki bir eğitim mülkünün satışının tek başına 60 ile 70 arasında yeni okul inşasını finanse edebileceği tahmin ediliyor.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim.jpg
 gorsel_alt: Aerial view of the Pentagon building
 gorsel_kredi: Air Force Staff Sergeant Brittany A. Chase, U.S. Department of Defense, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Aerial_Closeup_of_the_Pentagon,_May_11,_2021.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri's report citing Atlantic magazine, two U.S. government officials told the magazine's reporters that the White House requested the Pentagon prepare Iran strike options that could be implemented before the November 3 midterm election. The report states that no final decision has yet been made on this matter.
 

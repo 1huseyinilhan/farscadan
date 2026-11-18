@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-kalabarg-cocuk-beslenme-yardimi.jpg
 gorsel_alt: Iranian 100 rial banknote
 gorsel_kredi: Bank Markazi Jomhouri Eslami Iran, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's Ministry of Labor, Cooperatives, and Social Welfare announced that as of Aban 18 (November 9, 2026), free food basket credits would be allocated via the Kalabarg system to families of 347,647 malnourished children. According to the ministry's Deputy Secretary for Welfare and Economic Affairs, Yakub Andayesh, this represents the government's commitment to combating poverty. According to Khabaronline (citing Mehr news agency), this marks the eighth implementation round in 1405 (2026) of support targeting children aged 5 months to 59 months with malnutrition.
 

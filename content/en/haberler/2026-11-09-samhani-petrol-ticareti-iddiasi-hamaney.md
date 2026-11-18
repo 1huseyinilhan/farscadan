@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-samhani-petrol-ticareti-iddiasi-hamaney.jpg
 gorsel_alt: Large crude oil tanker (VLCC) unloading at port (stock photo)
 gorsel_kredi: Hervé Cozanet, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tanker_unloading_crude_oil.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to a leaked document published by Iran International, a highly classified letter written by a former secretary of the Supreme National Security Council to Iran's Supreme Leader reveals how oil sales were directed to his son's shipping network; according to the document, this arrangement also served to circumvent US sanctions through new methods using Chinese ports and storage tanks. The claim is single-sourced and currently unverified.
 

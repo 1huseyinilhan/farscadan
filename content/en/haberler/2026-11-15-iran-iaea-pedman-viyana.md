@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-iran-iaea-pedman-viyana.jpg
 gorsel_alt: "United Nations Office in Vienna (UNO City) building, home to the IAEA at the Vienna International Center"
 gorsel_kredi: "Dimitry Anikin, CC0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:UNO_City_Wien_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's mission to international organizations in Vienna responded to International Atomic Energy Agency (IAEA) Director General Rafael Grossi's "one-sided report" on Iran's peaceful nuclear program. According to Kayhan's reporting from Tasnim, the mission stated that safeguards implementation cannot be returned to normal under extraordinary conditions.
 

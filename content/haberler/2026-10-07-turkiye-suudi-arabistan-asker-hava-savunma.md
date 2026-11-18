@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma.jpg
 gorsel_alt: Tatbikatta ateş destek egzersizi yapan Türk Kara Kuvvetleri askerleri
 gorsel_kredi: OR-6 Brett Dodge (NATO), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Soldiers_from_the_Turkish_Army_SPH_Battalion_conduct_a_live_fire_exercise_with_the_AK40-GL_Bombaatar_during_Exercise_Steadfast_Defender_2021.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat gazetesinin Tasnim Haber Ajansı'ndan aktardığına göre Türkiye, Suudi Arabistan'a yönelik Husi saldırılarının yoğunlaştığı günlerde bu ülkeye ek askeri personel ve hava savunma sistemi göndermeye hazırlanıyor. Habere göre adımın temel amacı, Suudi Arabistan'ın kritik enerji altyapısını, özellikle Doğu-Batı Petrol Boru Hattı'nı korumak. İngilizce haber sitesi Middle East Eye, bu planı bağımsız kaynaklara dayanarak doğruladı.
 

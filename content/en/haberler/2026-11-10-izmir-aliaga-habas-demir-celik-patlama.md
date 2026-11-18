@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-izmir-aliaga-habas-demir-celik-patlama.jpg
 gorsel_alt: Satellite view of Izmir from the International Space Station
 gorsel_kredi: ISS Expedition 27 crew (NASA), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:%C4%B0zmir,_Turkey.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 An explosion at the HABAS Steel mill in Aliağa, a district of Izmir, on Monday, November 9, has killed 17 people. According to IRNA's report citing Turkey's Health Minister Kemal Memişoğlu's statement, the death toll reached 17 in the latest update; many workers were also injured. The explosion occurred at midday at a facility in the Aliağa Heavy Industry Zone on the Aegean coast, triggering a large-scale rescue operation.
 

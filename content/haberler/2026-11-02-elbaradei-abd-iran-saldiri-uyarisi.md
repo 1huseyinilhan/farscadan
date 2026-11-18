@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-elbaradei-abd-iran-saldiri-uyarisi.jpg
 gorsel_alt: "Eski IAEA Genel Direktörü Muhammed ElBaradei'nin resmî bir etkinlikteki fotoğrafı"
 gorsel_kredi: "IAEA, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Mohamed_ElBaradei.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Donya-ye Eghtesad (Ekonomi gazetesi, teknokrat) | https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305712-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%AF%D8%B9%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%AD%D9%85%D9%84%D9%87-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%DB%8C%D9%88%D8%A7%D9%86%DA%AF%DB%8C-%D9%85%D8%AD%D8%B6-%D8%A7%D8%B3%D8%AA"
 ---
 ISNA'nın aktardığına göre, Uluslararası Atom Enerjisi Ajansı'nın (IAEA) eski Genel Direktörü ve Nobel Barış Ödülü sahibi Muhammed ElBaradei, ABD'nin İran'a karşı yeni bir askerî saldırı olasılığına dair uyarıda bulunarak bunu "tam bir çılgınlık" (Farsça aslı: "divânegi-ye mahz") olarak nitelendirdi. ISNA'ya göre ElBaradei, ABD'nin İran'a yönelik yeni bir "askerî saldırganlık" girişiminin bölgesel ve küresel sonuçları ağır olacak bir hata olacağını söyledi.

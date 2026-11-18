@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-hurmuz-donanma-cekilme-iddiasi.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz from space
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, General Ali Fadavi, head of the advisory council of the Revolutionary Guards command, announced that for the "first time," no American naval vessel exists in the Persian Gulf, the Strait of Hormuz, the Gulf of Oman, or even in the northern Indian Ocean. Fadavi presented this as proof that Americans "fled" and that Iran achieved military superiority. That same evening, it was reported that a tanker in Iranian waters near Oman was fired upon, with explosions heard on Qeshm and Siri islands.
 

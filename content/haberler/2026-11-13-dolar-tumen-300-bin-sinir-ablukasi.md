@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-dolar-tumen-300-bin-sinir-ablukasi.jpg
 gorsel_alt: "İran İslam Cumhuriyeti'nin 10.000 riyallik banknotu"
 gorsel_kredi: "Parsa 2au, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:10000_Rials_banknote_of_the_Islamic_Republic_of_Iran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettela'at'ın tecarat-news'ten aktardığına göre, piyasa analisti Milad Zamani, güncel ekonomik koşullar göz önüne alındığında dolar kurunun 300 bin tümene çıkmasının "beklenmedik olmayacağını" söyledi. Habere göre dolar kuru son günlerde tek bir belirli ekonomik etkenden çok, ülkenin siyasi ve askerî görünümünün netleşmesini bekleyen piyasanın tutumundan etkileniyor: bir yanda yaptırım ve ticari kısıtlamalar azalmak yerine kara ve sınır yollarına da yayılıyor, diğer yanda olası bir anlaşmaya ilişkin haber ve spekülasyonlar bazı yatırımcıları kur düzeltmesi beklentisine itiyor.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-abd-hazine-golge-filosu-yaptirim.jpg
 gorsel_alt: Washington'da ABD Hazine Bakanlığı binasının dış cephesi
 gorsel_kredi: Erich Robert Joli Weber, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Building_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın aktardığına göre ABD Hazine Bakanlığı çarşamba günü, İran'ın petrol kaçakçılığına ve yaptırım kaçakçılığına yardımcı olduğu belirtilen 5 kişi, 4 şirket ve bunlara bağlı 9 gemiyi yaptırım listesine ekledi. ABD Hazine Bakanlığı'nın resmi "Güncel İşlemler" sayfasında da 21 Ekim 2026 tarihli "İran'a İlişkin Belirlemeler" başlıklı bir duyuru yer alıyor; bu, haberin tarihiyle örtüşüyor.
 

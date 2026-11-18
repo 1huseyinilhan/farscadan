@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-abd-iran-golge-filo-yaptirim.jpg
 gorsel_alt: Bir monobuoy'a bağlanmış ham petrol tankeri, havadan görünüm
 gorsel_kredi: Simon Tomson, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_%22Strymon%22_on_Tetney_Monobuoy,_aerial_2024_(1)_-_geograph.org.uk_-_7839122.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın ABD Hazine Bakanlığı'nın resmî listesine dayandırdığı haberine göre, Hazine Bakanlığı'nın Yabancı Varlıkları Kontrol Dairesi (OFAC) 8 Ekim Perşembe günü yayımladığı listede 6 kişi, 27 şirket ve 22 gemiyi İran'la bağlantıları nedeniyle yaptırıma tabi tuttu. OFAC'ın kendi 20261008 tarihli resmî açıklaması bu rakamları ve Yürütme Emri 13846 ile 13902 kapsamındaki ayrımı doğruluyor: listedeki 6 kişi, 10 şirket ve 5 gemi 13846 sayılı emir kapsamında, 17 şirket ve 17 gemi ise 13902 sayılı emir kapsamında yaptırıma tabi tutuldu.
 

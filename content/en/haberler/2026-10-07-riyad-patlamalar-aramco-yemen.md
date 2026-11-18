@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-riyad-patlamalar-aramco-yemen.jpg
 gorsel_alt: Exterior view of Riyadh King Khalid International Airport
 gorsel_kredi: Air Mobility Command (U.S. Air Force), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, Yemeni forces launched a missile attack on Aden International Airport, where Saudi-backed 22nd Brigade is stationed, on Wednesday morning, October 7. Regional security sources reported that several missiles were fired at the airport followed by heavy explosions. Details about the scale of the attack and possible casualties have not yet been disclosed.
 

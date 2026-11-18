@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-trump-iran-saldiri-yok-ara-secim.jpg
 gorsel_alt: ABD Başkanı Donald Trump'ın resmi portresi
 gorsel_kredi: Daniel Torok, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre ABD Başkanı Donald Trump, Truth Social'daki mesajında ABD ordusunun 3 Kasım'daki ara seçimden önce İran'a askeri saldırı düzenlemeyeceğini yazdı. Trump mesajında İran'la "yapıcı görüşmeler" yürütüldüğünü, ancak "kuşatmanın" tam güçle süreceğini ve İran'ın nükleer silaha ulaşamayacağını savundu.
 

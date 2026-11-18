@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-dolar-270-bin-tumen.jpg
 gorsel_alt: Eski bir İran riyali banknotu (arşiv görseli)
 gorsel_kredi: Bilinmeyen, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:50_rial_1974-1979.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre İran'da serbest piyasada dolar cumartesi günü ilk kez 269 bin tümeni, euro ise 302 bin tümeni geçti. 18 ayarlık altının gramı 26 milyon tümenin üzerine çıktı. Bu, [dün 260 bin tümen eşiğine dayanan dolar kurunun](../2026-10-03-dolar-260-bin-tumen/) bir hafta içindeki yeni bir sıçraması.
 

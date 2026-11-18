@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-turkiye-iran-sinirinda-asker-olumu.jpg
 gorsel_alt: A view of the mountainous border region of Hakkari province
 gorsel_kredi: VOA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Hakkari.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, Turkey's Defense Ministry announced that a soldier died from gunfire assessed to have come from the Iranian side while responding to illegal border crossing in Hakkari's Yüksekova district. The ministry said investigations are being conducted in coordination with Iranian authorities to clarify all aspects of the incident.
 

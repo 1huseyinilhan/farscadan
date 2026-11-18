@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-salmas-turkiye-siniri-kacakcilik.jpg
 gorsel_alt: Batı Azerbaycan eyaletindeki Selmas kentinin genel görünümü
 gorsel_kredi: Pedram.shahri, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Salmas_-city.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Batı Azerbaycan eyaletinin Türkiye sınırındaki Selmas ilçesinde, sınır muhafız alayı üç ayrı operasyonda 41 yabancı uyruklu kişiyi ve bunların yasa dışı yollarla sınırdan çıkışını sağlayan 2 kaçakçıyı gözaltına aldı. IRNA'nın aktardığına göre Selmas Sınır Muhafız Alayı Komutanı, operasyonların alayın sorumluluk bölgesinde gerçekleştirildiğini açıkladı.
 

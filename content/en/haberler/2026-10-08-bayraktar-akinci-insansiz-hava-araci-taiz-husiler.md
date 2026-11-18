@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler.jpg
 gorsel_alt: Bayraktar Akinci unmanned aerial vehicle on the ground
 gorsel_kredi: emirhandr, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baykar_Akinci.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, Yemen's Houthi armed forces spokesman Brigadier General Yahya Sari announced that a Turkish-made armed reconnaissance UAV belonging to Saudi Arabia—the "Bayraktar Akinci"—was shot down over Taiz province. Sari claimed the UAV was struck while conducting "hostile activities," but did not provide details of the downing method.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-rusya-iran-s400-rezai-telegraph.jpg
 gorsel_alt: Moskova'da bir askerî geçit töreni provasında S-400 hava savunma fırlatma sistemleri
 gorsel_kredi: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Moscow_2012_Victory_Day_Parade_Rehearsal,_S-400,_Russia.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın Telegraph'tan aktardığına göre Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rezai'nin Kremlin'i ziyareti ve Putin'le görüşmesi, Trump'ın "Rusya Tahran'a hiç yardım etmiyor" iddiasını zayıflatıyor. Telegraph'a göre İran ve Rusya, Tahran'a gelişmiş hava savunma sistemleri gönderilmesine ilişkin bir anlaşma üzerinde müzakere ediyor.
 

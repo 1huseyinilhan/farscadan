@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-iyot-hapi-tayms-saglik-bakanligi.jpg
 gorsel_alt: IOSAT marka potasyum iyodür haplarının ambalajları
 gorsel_kredi: ABD Hava Kuvvetleri/Üstçavuş Michael J. Veloz, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:110404-F-AM028-036_packs_of_IOSAT_potassium_iodide_tablets.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın Mehr'den aktardığına göre Sağlık Bakanlığı Halkla İlişkiler Müdürü Hüseyin Kermanpur, İngiliz gazetesi The Times'ın hassas nükleer tesislere yakın bölgelerde halka iyot hapı dağıtıldığı yönündeki iddiasını yalanladı. Kermanpur, bakanlıktan hiçbir yetkilinin Times'la röportaj yapmadığını söyledi.
 

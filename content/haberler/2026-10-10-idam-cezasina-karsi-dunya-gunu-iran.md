@@ -13,7 +13,7 @@ gorsel: img/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran.jpg
 gorsel_alt: Tahran'daki Evin Cezaevi'nin dış görünümü
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre İran'daki İnsan Hakları Aktivistleri Haber Ajansı HRANA tarafından 10 Ekim Dünya İdam Cezasına Karşı Mücadele Günü'ne özel yayımlanan raporda, son bir yılda İran'da 2.003 kişinin idam edildiği, bunlardan en az 69'unun siyasi ve güvenlik suçlamasıyla karşı karşıya kaldığı belirtildi. Kuruluş, idamların acilen durdurulmasını istedi.
 

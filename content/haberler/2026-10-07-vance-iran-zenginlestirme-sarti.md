@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-vance-iran-zenginlestirme-sarti.jpg
 gorsel_alt: ABD Başkan Yardımcısı JD Vance'in resmi portresi
 gorsel_kredi: Emily J. Higgins, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin Reuters'a dayandırdığı haberine göre ABD Başkan Yardımcısı JD Vance, çarşamba sabahı savaşın sona ermesi için İran'ın uranyum zenginleştirme kapasitesini "somut biçimde" azaltması gerektiğini yineledi. Vance bu kez zenginleştirmeyi "durdurma" değil kapasiteyi "azaltma" ifadesini kullandı ve İran'ın bu kararı nasıl alacağının belirsiz olduğunu söyledi.
 

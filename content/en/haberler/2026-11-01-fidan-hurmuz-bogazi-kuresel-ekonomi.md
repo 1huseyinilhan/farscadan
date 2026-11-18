@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-fidan-hurmuz-bogazi-kuresel-ekonomi.jpg
 gorsel_alt: "Portrait of Turkish Foreign Minister Hakan Fidan during an official visit"
 gorsel_kredi: "U.S. Department of State (Chuck Kennedy), Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Hurriyet Daily News (English, Turkish source) | https://www.hurriyetdailynews.com/amp/strait-of-hormuz-should-not-be-used-as-a-weapon-fidan-222070 ;; UNCTAD via CNBCE (English, economics) | https://www.cnbce.com/haberler/unctad-hurmuz-bogazindaki-aksamalarin-kuresel-ekonomik-etkilerine-karsi-uyardi-h27695"
 ---
 According to ISNA, Turkey's Foreign Minister Hakan Fidan warned Saturday that the months-long closure of the Strait of Hormuz, especially when combined with the war in Ukraine, is imposing a heavy burden on the global economy. ISNA quoted Fidan as saying that the bottleneck in the strait is driving up energy and shipping costs, and that the situation has become a worldwide problem rather than merely a regional one. The ISNA report did not provide detailed context for when Fidan made the statement; the agency's text confined itself to directly relaying his words.

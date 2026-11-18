@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-avrupa-parlamentosu-iran-karari.jpg
 gorsel_alt: Hemicycle of the European Parliament in Strasbourg
 gorsel_kredi: Diliff, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline, the European Parliament passed three separate resolutions on Thursday regarding alleged "human rights violations" in Iran, Georgia, and Azerbaijan. The report states that parliament members accused Iran of violence against civilians, called for the abolition of capital punishment, and condemned Iran for alleged "oppression of religious and ethnic minorities" and "transnational repression." According to the European Parliament's official press statement, the Iran resolution passed with 541 yes, 11 no, and 25 abstain—figures that exactly match Khabaronline's account.
 

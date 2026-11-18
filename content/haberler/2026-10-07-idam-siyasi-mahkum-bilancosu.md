@@ -13,7 +13,7 @@ gorsel: img/2026-10-07-idam-siyasi-mahkum-bilancosu.jpg
 gorsel_alt: Tahran'daki Evin Cezaevi'nin dış cephesi
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın insan hakları örgütlerinin verilerine dayandırdığı haberine göre İran, Dey ayı protestolarının başladığı 17 Dey 1404'ten (Ocak 2026) bu yana en az 70 siyasi mahkumu idam etti; bu kişilerin yaklaşık yarısı doğrudan protestolarla bağlantılı davalardan hüküm giymişti. Habere göre 194 kişi daha, 113'ü Dey ayı protestoları tutukluları arasında olmak üzere, şu anda idam kararı altında bulunuyor.
 

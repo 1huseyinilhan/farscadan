@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-avrupa-dizel-stoklari.jpg
 gorsel_alt: Bir akaryakıt istasyonunda yakıt pompaları
 gorsel_kredi: The Bushranger, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Pump_at_RaceTrac,_Bradford_County,_Florida.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Başkanı Donald Trump, cuma günü Truth Social hesabından Avrupa'nın **"bol miktardaki dizel stoklarından çok büyük bir hacmi serbest bırakmayı kabul ettiğini"** ve sürecin hemen başlayacağını duyurdu. Iran International'ın aktardığına göre açıklama, AB üyelerinin görüşmelerinden saatler sonra geldi. Reuters'a konuşan üç kaynak, Avrupa ülkelerinin Fransa'nın bir önerisini değerlendirdiğini söyledi. Öneriye göre Avrupa stoklarından 50 milyon varil dizel, Uluslararası Enerji Ajansı (UEA) üyelerinden de 50 milyon varil ham petrol serbest bırakılacak.
 

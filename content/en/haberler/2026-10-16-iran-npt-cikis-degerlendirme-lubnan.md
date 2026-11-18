@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-iran-npt-cikis-degerlendirme-lubnan.jpg
 gorsel_alt: Vienna International Centre (UNO City) headquarters of the International Atomic Energy Agency
 gorsel_kredi: Dimitry Anikin, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:UNO_City_Wien_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 A senior Iranian diplomat said Tehran is seriously evaluating withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons (NPT). According to Hamshahri, the diplomat, speaking to Lebanese news agency Yuniuz, said internal debates on nuclear doctrine are ongoing and emphasized that the Lebanon file must be an integral part of any permanent peace settlement.
 

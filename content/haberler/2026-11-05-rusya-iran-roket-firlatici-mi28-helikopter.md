@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-rusya-iran-roket-firlatici-mi28-helikopter.jpg
 gorsel_alt: "Rusya'nın Mi-28N taarruz helikopteri bir askeri fuarda sergileniyor"
 gorsel_kredi: "Boevaya mashina, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mil_Mi-28N_with_GEOS-451_at_ARMY-2022.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın Financial Times'tan aktardığına göre Rusya, Ukrayna savaşında yoğun biçimde kullandığı helikopterden atılan güdümlü roket fırlatıcılarının 90 adedini İran'a tedarik etmeyi kabul etti. Gazete, bu siparişin Moskova'nın Tahran'a askeri yardımının daha önce bilinmeyen bir boyutunu ortaya çıkardığını yazdı.
 

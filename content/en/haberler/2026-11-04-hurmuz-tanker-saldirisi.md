@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-hurmuz-tanker-saldirisi.jpg
 gorsel_alt: "A tanker passing an escort warship in the Strait of Hormuz"
 gorsel_kredi: "U.S. Department of Defense, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, the United Kingdom Maritime Trade Operations (UKMTO) reported that a tanker's engine room approximately 14 nautical miles off Oman's coast was targeted by two munitions of unknown type in the Strait of Hormuz. UKMTO's statement did not identify who carried out the attack or from where.
 

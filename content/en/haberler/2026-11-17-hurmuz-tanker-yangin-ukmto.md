@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-hurmuz-tanker-yangin-ukmto.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz from space
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, the United Kingdom Maritime Trade Operations (UKMTO) reported on the morning of November 17 that it had received a report of a security incident involving a tanker in the Strait of Hormuz. According to IRNA's report, UKMTO logged the incident approximately seven nautical miles (≈13 km) north of Hasab port in Oman. According to UKMTO's statement as reported by Donya-ye Eqtesad (via Fars), the vessel came under attack during transit, a fire broke out in the engine room, and the ship became immobilized; the crew was reported safe, and no environmental damage was identified at present. UKMTO also called on other vessels in the area to exercise caution and report any incidents.
 

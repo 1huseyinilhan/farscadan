@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-magnitsky-odulu-idam-mahkumu-vafaei-sani.jpg
 gorsel_alt: Londra'daki Westminster Sarayı'nın dış görünümü
 gorsel_kredi: Dietmar Rabich, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İngiltere merkezli Uluslararası Magnitsky İnsan Hakları Ödülü, bu yıl Meşhed'li eski boks şampiyonu ve idama mahkûm siyasi mahkum Muhammed Cevad Vafayi Sani'ye verildi. Iran International'ın aktardığına göre ödülü düzenleyenler, Vafayi Sani'nin dosyasını; ağır fiziksel ve psikolojik işkence, uzun süreli tecrit hapsi ve tekrarlanan idam tehditleri iddialarına atıfla İran'da muhaliflere yönelik baskının, ifade özgürlüğü ihlallerinin ve adil yargılanma hakkından mahrumiyetin bir simgesi olarak tanımladı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-sepah-bahreyn-radar-sirik-saldirisi.jpg
 gorsel_alt: "Bahreyn'deki ABD Deniz Güvenlik Gücü'ne bağlı bir devriye botu (arşiv görüntüsü)"
 gorsel_kredi: "ABD Donanması fotoğrafı, Mass Communication Specialist 2nd Class Kathleen A. Gorby, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_100514-N-4776G-003_A_harbor_patrol_boat_assigned_to_Naval_Security_Force_Bahrain_conducts_a_patrol_mission.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Devrim Muhafızları Ordusu (Sepah), Cuma sabahı saatlerinde yayımladığı "22 numaralı bildiri" ile Hürmüzgan eyaletinin Sirik kasabasındaki bir telekomünikasyon direğine yönelik "düşman hava saldırısına" karşılık, Bahreyn adasındaki "saldırgan Amerika'nın" erken uyarı radarını hedef alıp imha ettiğini açıkladı. IRNA'nın aktardığına göre bildiri, Sepah Havacılık-Uzay Kuvveti'nin bu vuruşu "saatler önce" gerçekleştirdiğini belirtiyor; ISNA da aynı açıklamayı IRNA ile eşzamanlı yayımladı.
 

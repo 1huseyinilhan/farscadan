@@ -13,7 +13,7 @@ gorsel: img/2026-10-13-iran-yaslanan-nufus-dogurganlik.jpg
 gorsel_alt: Elderly woman sitting in a park in Tabriz
 gorsel_kredi: Adam Jones, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Elderly_Woman_in_Lona_Park_-_Tabriz_-_Iranian_Azerbaijan_-_Iran_(7421562232).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamid Berekati, deputy head of Iran's National Population Center, warned Monday of the country's falling fertility rate, saying Iran will face 25-30 million seniors by 2046 (Farsi calendar 1425) and lacks adequate care, health, and social services capacity. According to Kayhan, citing Tasnim, Berekati spoke at the National Children's Week conference.
 

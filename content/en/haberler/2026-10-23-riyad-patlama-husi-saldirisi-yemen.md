@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-riyad-patlama-husi-saldirisi-yemen.jpg
 gorsel_alt: Night skyline of Riyadh city
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Saudi Arabia's capital Riyadh was shaken by loud explosions Friday morning. According to Hamshahri's reporting, Saudi Civil Defense issued a "danger" alert in the city; whether the explosions were connected to Houthi strikes or caused by something else remained unclear.
 

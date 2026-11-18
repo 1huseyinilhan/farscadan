@@ -13,7 +13,7 @@ gorsel: img/2026-11-11-abd-iran-savasi-bitirme-secenekleri.jpg
 gorsel_alt: Aerial view of the U.S. Department of Defense (the Pentagon)
 gorsel_kredi: mariordo59, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Pentagon,_Arlington,_VA_(38285035892).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Within the Trump administration, divisions over how to end the war with Iran have entered a new phase. According to Donya-ye Eqtesad (citing Ilna), while the White House officially states that the main phase of military operations has concluded, the administration has not yet reached consensus on what final form the conflict will take or under what conditions it will end; three rival approaches are competing to shape the process.
 

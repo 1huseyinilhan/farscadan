@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti.jpg
 gorsel_alt: "CENTCOM Commander Admiral Brad Cooper descending from an aircraft"
 gorsel_kredi: "Staff Sgt. Kevin Dunkleberger, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, CENTCOM Commander Admiral Brad Cooper will travel to Saudi Arabia this week with more than 36 military advisors. According to Hamshahri's report citing Middle East Eye, the purpose of the visit is to assess Saudi Arabia's air defense posture and examine options to strengthen the country's defensive capacity against air threats.
 

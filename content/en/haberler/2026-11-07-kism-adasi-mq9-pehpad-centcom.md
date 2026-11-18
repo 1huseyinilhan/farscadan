@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-kism-adasi-mq9-pehpad-centcom.jpg
 gorsel_alt: "U.S. Air Force MQ-9 Reaper unmanned aerial vehicle in flight"
 gorsel_kredi: "U.S. Air Force/Senior Master Sergeant Leslie Pratt, Public domain, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, Iran's military announced it downed a U.S. MQ-9 unmanned aerial vehicle over Qeshm Island. The announcement came shortly after local reports of fighter jet sounds and explosion alerts on the island; U.S. Central Command (CENTCOM) offered no comment on the incident.
 

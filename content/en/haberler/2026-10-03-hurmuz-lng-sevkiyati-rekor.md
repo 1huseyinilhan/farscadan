@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-hurmuz-lng-sevkiyati-rekor.jpg
 gorsel_alt: An LNG carrier underway at sea
 gorsel_kredi: 青空白帆, CC BY 2.1 jp, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Shahamah_LNG_carrier.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Liquefied natural gas (LNG) shipments through the Strait of Hormuz in September reached their highest monthly level since the US-Israel-Iran war began in February 2026, according to Reuters. According to the report, which the London-based Iran International relayed in Persian, gas shipping showed a marked recovery despite security concerns and navigational uncertainty in the region.
 

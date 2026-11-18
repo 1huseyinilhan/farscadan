@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil.jpg
 gorsel_alt: Portrait of Iranian Parliament Speaker Mohammad Baqir Ghalibaf
 gorsel_kredi: Tabarez, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohammad-Bagher_Ghalibaf_cropped.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat's reporting from Reuters, a 42-year-old CIA contractor, identified as I.B., was arrested on allegations of accessing and disclosing highly classified documents outside his purview to journalist Aida Chavez, with whom he was in a personal relationship. Chavez is the founder of the independent news outlet Capital and Empire. According to the FBI investigation, I.B. called Chavez multiple times on the days he accessed the documents, and her stories were published shortly after. The presumption of innocence applies.
 

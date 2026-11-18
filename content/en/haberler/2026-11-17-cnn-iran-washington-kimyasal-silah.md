@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-cnn-iran-washington-kimyasal-silah.jpg
 gorsel_alt: "The dome of the U.S. Capitol building, Washington, D.C."
 gorsel_kredi: "Diliff, CC BY 2.5, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to the opposition-aligned Iran International reporting from CNN, new information drawn from seven U.S. officials indicates that Iran has devised attack plans targeting senior members of the Trump administration; however, U.S. officials disagree on Iran's capacity and intent to carry out such plans. According to CNN's two sources, these plans include concrete details of potential targets and methods, spurring U.S. officials to urgently evaluate possible scenarios and countermeasures. However, sources close to the matter said the planning appears to be largely aimed at "keeping options on the table" for now, not an imminent attack. White House spokesman stated that the U.S. is "monitoring all potential threats but sees no credible threat to U.S. soil at this time."
 

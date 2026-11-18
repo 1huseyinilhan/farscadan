@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-suudi-borsasi-yemen-saldirilari-ekonomik-etki.jpg
 gorsel_alt: Riyad'daki Kingdom Centre Kulesi ve finans bölgesi
 gorsel_kredi: Hamza A. Durrani, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Kingdom_Centre_Riyadh_2024.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Bloomberg'in ekim ayı değerlendirmesine göre Yemen merkezli Husi saldırılarının sürmesi, Suudi Arabistan borsasını 2021'den bu yana en düşük seviyelerine yaklaştırdı. ISNA'nın aktardığına göre haber ajansı, saldırıların ülkenin ekonomik çeşitlendirme hedeflerini de zora soktuğunu yazdı.
 

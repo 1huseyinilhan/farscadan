@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-iran-liderlik-soylentileri-kalibaf-mohseni-ejei.jpg
 gorsel_alt: Baharestan Square and the Iranian Parliament building in Tehran
 gorsel_kredi: Nasser-sadeghi, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baharestan-majles.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tehran-based Hamshahri newspaper, citing a report by Farhikhtegan newspaper, conveyed details of recent high-level meetings between Parliament Speaker Mohammad Baqer Kalibaf and Judiciary Chief Gholam-Hossein Mohseni-Ejei to send a message that "there is no vacuum in government management." Notably, while the headline names Supreme Leader Ali Khamenei's son Ayatollah Seyyed Mujtaba Khamenei as the interlocutor in these meetings, the news text itself consistently refers to the meetings using only the phrase "Supreme Leader"; this ambiguity makes it unclear exactly who the text is discussing.
 

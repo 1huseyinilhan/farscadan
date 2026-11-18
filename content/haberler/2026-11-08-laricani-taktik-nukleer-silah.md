@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-laricani-taktik-nukleer-silah.jpg
 gorsel_alt: İran'ın Natanz nükleer tesisinin 2022 yılında çekilmiş bir fotoğrafı
 gorsel_kredi: Parsa 2au, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Atomanlage_Natanz_(2022).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın aktardığına göre İranlı siyasetçi ve akademisyen Muhammed Cevad Laricani, devlet televizyonu Sedavesima'daki bir programda nükleer silahın sivillere karşı kullanılamayacağını ama düşman bir askeri üsse karşı "taktik olarak" kullanılabileceğini söyledi. Laricani, haberde "Temel Bilimler Araştırma Enstitüsü (IPM) Başkanı" unvanıyla anılıyor; kendisi eski bir diplomat ve muhafazakâr siyasetçidir. Laricani'nin cuma günü (6 Kasım) yayınlanan programdaki sözleri, İran'ın nükleer silah kullanımına ilişkin kamuoyunda nadiren bu kadar açık dillendirilen bir söylem örneği oldu.
 

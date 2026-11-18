@@ -14,7 +14,7 @@ gorsel: img/2026-10-26-netanyahu-zamir-ihtilafi-iran-saldirisi-secim.jpg
 gorsel_alt: Official portrait of Israeli military Chief of Staff Eyal Zamir
 gorsel_kredi: Israeli Ministry of Defense, Public domain (CC0), Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Eyal_Zamir_(MoD_IL).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA's report citing Israeli Channel 12, an "unprecedented level" of disagreement has surfaced between Prime Minister Benjamin Netanyahu and military Chief of Staff Eyal Zamir over the timing and necessity of a possible strike on Iran before Knesset elections. The elections are scheduled for Tuesday, October 27, and the Iran file has become a major point of contention between Netanyahu and opposition figures in the campaign's final days.
 

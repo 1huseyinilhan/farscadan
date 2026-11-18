@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-fidan-hurmuz-bogazi-kuresel-ekonomi.jpg
 gorsel_alt: "Türkiye Dışişleri Bakanı Hakan Fidan'ın resmî bir ziyaret sırasında çekilmiş portresi"
 gorsel_kredi: "ABD Dışişleri Bakanlığı (Chuck Kennedy), Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Hürriyet Daily News (İngilizce, Türkiye kaynağı) | https://www.hurriyetdailynews.com/amp/strait-of-hormuz-should-not-be-used-as-a-weapon-fidan-222070 ;; UNCTAD aktarımıyla CNBC-e (İngilizce, ekonomi) | https://www.cnbce.com/haberler/unctad-hurmuz-bogazindaki-aksamalarin-kuresel-ekonomik-etkilerine-karsi-uyardi-h27695"
 ---
 ISNA'nın aktardığına göre Türkiye Dışişleri Bakanı Hakan Fidan, cumartesi günü yaptığı açıklamada Hürmüz Boğazı'nın aylardır kapalı kalmasının, özellikle Ukrayna'daki savaşla birleştiğinde, küresel ekonomiye ağır bir yük bindirdiği uyarısında bulundu. ISNA'ya göre Fidan, boğazdaki tıkanıklığın enerji ve taşımacılık maliyetlerini yukarı çektiğini ve bu durumun artık sadece bölgesel değil, dünya çapında bir soruna dönüştüğünü söyledi. Haberde Fidan'ın açıklamayı hangi vesileyle yaptığı ayrıntılı verilmedi; ISNA metni, bakanın sözlerini doğrudan aktarmakla sınırlı kaldı.

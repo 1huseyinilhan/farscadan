@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-hurmuz-ucuncu-nefkes-mayin.jpg
 gorsel_alt: Strait of Hormuz from satellite
 gorsel_kredi: Unknown, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_hormuz_full.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 The third supertanker has caught fire after hitting a sea mine south of the Strait of Hormuz since Saturday. According to Ettelaat's report, Iran's Islamic Revolutionary Guard Corps (IRGC) Navy said a crude oil-laden vessel that had shut down its navigation and identification systems in an attempt to transit an unauthorized route struck a sea mine on Sunday afternoon, causing an explosion and severe fire in the engine room.

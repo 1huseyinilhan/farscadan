@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-idam-dey-kalkismasi-af-orgutu-cagri.jpg
 gorsel_alt: Exterior walls and entrance gate of Evin Prison
 gorsel_kredi: Ehsan Iran (Flickr), CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Amnesty International announced that five people were executed between 8–13 Mehr (September 30–October 5) in cases connected to the Dey uprising following "grossly unfair and torture-tainted trials." According to Iran International, the organization said in a statement issued Tuesday that the Islamic Republic has executed at least 34 people so far in connection with the Dey uprising, with dozens more, including government opponents and protesters, facing ongoing execution risk tied to political motivation.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-abd-faiz-artisi-iran-savasi-enflasyon.jpg
 gorsel_alt: The Federal Reserve (Eccles) Building in Washington
 gorsel_kredi: Federal Reserve, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The U.S. Federal Reserve raised its policy rate for the first time since 2023, citing inflation pressures fueled by the Iran war. According to Kayhan, the Fed raised the benchmark rate by 25 basis points to 3.75–4 percent at its latest meeting—a move directly at odds with President Donald Trump's calls for rate cuts.
 

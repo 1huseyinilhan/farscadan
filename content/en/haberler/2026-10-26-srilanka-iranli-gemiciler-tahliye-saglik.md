@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-srilanka-iranli-gemiciler-tahliye-saglik.jpg
 gorsel_alt: General view of Galle port in Sri Lanka
 gorsel_kredi: Chamal N, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Galle_Harbour.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat's reporting from Sri Lanka's Daily Mirror, Sri Lanka evacuated and returned 40 Iranian sailors to their home country after coordinating necessary assistance and providing medical care and services. Sri Lanka's Foreign Minister Vijitha Herath confirmed to the Daily Mirror that the sailors were placed under medical supervision before being sent to Iran Saturday morning: "We rescued 40 sailors, provided them medical treatment, and sent them home this morning," he said.
 

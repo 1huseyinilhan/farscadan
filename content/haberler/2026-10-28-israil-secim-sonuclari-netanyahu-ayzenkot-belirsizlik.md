@@ -14,7 +14,7 @@ gorsel: img/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik.jpg
 gorsel_alt: Kudüs'teki İsrail Knesset binasının dış görünümü
 gorsel_kredi: Dror Feitelson (PikiWiki Israel), CC BY 2.5, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:146268_the_knesset_PikiWiki_Israel.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İsrail'de salı akşamı kapanan sandıkların ardından açıklanan ilk anket sonuçları, 120 sandalyeli Knesset'te ne Başbakan Binyamin Netanyahu'nun ittifakının ne de ana rakibi, emekli orgeneral Gadi Ayzenkot'un liderliğindeki muhalefet kampının hükümet kurmaya yeten 61 sandalyeye ulaştığını gösterdi. Hamshahri'nin aktardığına göre, farklı İsrail televizyon kanallarının sandık başı anketleri de birbiriyle örtüşmüyor.
 

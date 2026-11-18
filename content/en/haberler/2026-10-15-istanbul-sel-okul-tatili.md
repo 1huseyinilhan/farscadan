@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-istanbul-sel-okul-tatili.jpg
 gorsel_alt: Space photograph of Istanbul and the Bosporus
 gorsel_kredi: NASA (ISS008-E-21752), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Istanbul_and_Bosporus_big.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Heavy rain that struck Istanbul on Wednesday brought flooding to the city, prompting the governorate to close schools, grant administrative leave to some public workers, and call on residents to stay indoors. According to ISNA, Wednesday's intense rainfall caused flash flooding in different parts of Istanbul.
 

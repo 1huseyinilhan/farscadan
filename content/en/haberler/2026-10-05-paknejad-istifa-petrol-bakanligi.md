@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-paknejad-istifa-petrol-bakanligi.jpg
 gorsel_alt: A natural gas refinery facility in Iran
 gorsel_kredi: National Iranian Oil Company (NIOC), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bidboland_gas_refinery.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, the Deputy Head of the Presidency's Communication and Information Bureau announced that Oil Minister Mohsen Paknejad had submitted a resignation request "for personal reasons," that this request was not previously accepted by the President, but that Mesud Pezeshkian approved the resignation following Paknejad's insistence. On the same day, Pezeshkian appointed Hamid Bord, former General Director of the National Iranian Oil Company, as acting minister under Article 135 of the Constitution.
 

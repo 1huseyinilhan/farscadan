@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-pakistanli-trump-suikast-plani-hapis.jpg
 gorsel_alt: "Brooklyn federal mahkeme binasının dış görünümü"
 gorsel_kredi: "Beyond My Ken, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Federal_Courthouse_Brooklyn.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre ABD Adalet Bakanlığı, 17 Kasım Salı günü Donald Trump'a suikast düzenleme planı kurmakla suçlanan bir Pakistan vatandaşının 27 yıldan fazla hapis cezasına mahkûm edildiğini açıkladı. Iran International'ın aktardığına göre mahkûm edilen kişinin adı Asif Merchant'tır ve ABD makamları onu Sepah (Devrim Muhafızları) bağlantılı bir "eleman" olarak tanımlamaktadır; Hamshahri'nin haberine göre verilen ceza 330 ay (27,5 yıl) hapis olarak açıklandı.
 

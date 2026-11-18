@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-bahreyn-isa-kasim-muebbet-hapis.jpg
 gorsel_alt: "Bahreyn'in başkenti Manama'nın siluet görünümü"
 gorsel_kredi: "Jacobs - Creative Bees, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Manama_skyline.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Kayhan'ın 16 Kasım akşamı yayınladığı haberin özetine göre, Bahreyn'deki Al Halife yönetimi, Şiilere yönelik "köklü bastırma politikası"nın bir devamı olarak Ayetullah Şeyh İsa Kasım ve ülkenin 48 önde gelen Şii alimini müebbet hapse mahkûm etti. Kayhan'ın sayfasına ulaşıldığında gövde metni alınamadığından, haberin içeriği sitenin meta açıklamasından (og:description) aktarılmıştır. Aynı gün ISNA, Şeyh İsa Kasım'ın kendisinin "Bahreyn halkının 'kölelik, boyun eğdirme ve dışlama' politikalarına karşı direnişten vazgeçmeyeceğini" söylediğini bildirdi; Khabaronline ise Irak merkezli Asaib Ehl el-Hak hareketinin genel sekreteri Kays el-Hazali'nin, Bahreyn'deki Şii din adamlarına karşı mahkeme kararlarıyla ilgili dünya çapındaki insan hakları örgütlerini, dini ve siyasi liderleri "sorumlu tutum almaya" çağırdığını aktardı.
 

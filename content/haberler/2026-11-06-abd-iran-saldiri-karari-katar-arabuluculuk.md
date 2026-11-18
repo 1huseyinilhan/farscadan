@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk.jpg
 gorsel_alt: Beyaz Saray Durum Odası'nda ulusal güvenlik toplantısı
 gorsel_kredi: The White House, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=168367844
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin Axios'tan aktardığına göre ABD Başkanı Donald Trump, ulusal güvenlik ekibiyle yaptığı acil bir toplantının ardından İran'a yönelik olası yeni bir askerî harekât hakkındaki kararını kısa süre içinde verecek. Aynı gün New York Times, Tahran'ın nükleer programının geleceğine ilişkin "somut teklifleri" değerlendirdiğini yazdı.
 

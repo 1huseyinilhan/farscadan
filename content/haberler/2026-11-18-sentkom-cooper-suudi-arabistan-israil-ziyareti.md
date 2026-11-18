@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti.jpg
 gorsel_alt: "CENTCOM Komutanı Oramiral Brad Cooper bir uçaktan inerken"
 gorsel_kredi: "Staff Sgt. Kevin Dunkleberger, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre ABD CENTCOM Komutanı Oramiral Brad Cooper, bu hafta 36'dan fazla askeri danışmanla Suudi Arabistan'a gidecek. Hamshahri'nin Middle East Eye'a atfen verdiği habere göre ziyaretin amacı Suudi Arabistan'ın hava savunma durumunu değerlendirmek ve ülkenin hava tehditlerine karşı savunma kapasitesini güçlendirecek seçenekleri incelemektir.
 

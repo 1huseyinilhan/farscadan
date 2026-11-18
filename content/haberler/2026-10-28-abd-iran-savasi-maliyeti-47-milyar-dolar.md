@@ -14,7 +14,7 @@ gorsel: img/2026-10-28-abd-iran-savasi-maliyeti-47-milyar-dolar.jpg
 gorsel_alt: ABD Savunma Bakanlığı binası Pentagon'un dış görünümü
 gorsel_kredi: Touch Of Light, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon,_Headquarters_of_the_US_Department_of_Defense_(cropped2).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD merkezli siyaset haber sitesi The Hill, Orta Kuvvetler Komutanlığı'nın (CENTCOM) yeni tahminine göre Washington'ın İran'a karşı sürdürdüğü askeri harcamaların eylül başından bu yana 3 milyar dolardan fazla artarak yaklaşık 47 milyar dolara ulaştığını yazdı. IRNA'nın aktardığına göre haber, bu rakamı ABD'nin sürdürdüğü askeri kampanyanın güncel maliyeti olarak aktardı.
 

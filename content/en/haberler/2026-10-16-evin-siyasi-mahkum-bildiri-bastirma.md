@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-evin-siyasi-mahkum-bildiri-bastirma.jpg
 gorsel_alt: Exterior view of Evin Prison in Tehran
 gorsel_kredi: Ehsan Iran (Flickr), CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Fourteen political prisoners held at Evin Prison in Tehran issued a joint statement warning that the Iranian government has intensified repression in anticipation of possible public protests, and that even minor expressions of opinion are met with severe penalties. According to Iran International, the prisoners pointed to the case of political prisoner E.M. as an example of this approach.
 

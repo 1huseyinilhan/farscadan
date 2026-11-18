@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-avrupa-ucuslarina-bomba-tehditi.jpg
 gorsel_alt: Air traffic control tower at Vienna International Airport
 gorsel_kredi: Stanislav Doronenko, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=78081294
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Per Iran International's report, at least 14 passenger flights across Europe faced bomb threats on Friday; the threats led to route changes for some flights and the scrambling of fighter jets.

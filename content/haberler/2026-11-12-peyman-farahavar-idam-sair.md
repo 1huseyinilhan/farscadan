@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-peyman-farahavar-idam-sair.jpg
 gorsel_alt: Peyman Farahavar'ın idamla yargılandığı Reşt kentinin genel görünümü
 gorsel_kredi: Mostafa Yekrangi, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Panorama_of_Rasht_municipality_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İnsan hakları haber sitesi HRANA, Çarşamba günü (20 Aban) ailesine yakın bir kaynağa atfen, Laken Hapishanesi'nde (Reşt) idama mahkûm şair ve siyasi tutuklu Peyman (Emin) Farahavar'ın dosyasının infaz birimine (şube-i icra-i ahkam) havale edildiğini bildirdi. Iran International'ın aktardığına göre Farahavar, 18 Aban'da ailesiyle yaptığı telefon görüşmesinde dosyasının infaz birimine gönderildiğine dair tebligat aldığını söyledi; bu gelişme onu idam cezasının uygulanması riskiyle karşı karşıya bıraktı.
 

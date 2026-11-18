@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-idam-dey-kalkismasi-af-orgutu-cagri.jpg
 gorsel_alt: Evin Cezaevi'nin dış duvarı ve giriş kapısı
 gorsel_kredi: Ehsan Iran (Flickr), CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Uluslararası Af Örgütü, 8-13 Mehr (30 Eylül-5 Ekim) tarihleri arasında Dey ayaklanmasıyla ilişkili davalarda beş kişinin "ağır biçimde adil olmayan ve işkence içeren yargılamalar" sonucunda idam edildiğini açıkladı. İran International'ın aktardığına göre örgüt, salı günü yayınladığı bildiride İslam Cumhuriyeti'nin Dey ayaklanmasıyla bağlantılı olarak şimdiye kadar en az 34 kişiyi idam ettiğini, aralarında hükümet muhalifleri ve protestocuların bulunduğu onlarca kişinin ise hâlâ siyasi motivasyonlu idam riskiyle karşı karşıya olduğunu belirtti.
 

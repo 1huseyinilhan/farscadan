@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-rehber-saglik-durumu-yaralanma-iddiasi.jpg
 gorsel_alt: General view of the holy city of Qom
 gorsel_kredi: Amir Pashaei, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Qom_panorama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ayatollah Seyyid Mostafa Hosseini, a member of the Assembly of Experts, Iran's highest religious-political body, explained why Supreme Leader Ali Khamenei has not made video addresses. According to Ettelaat citing Khabaronline, Hosseini said: "He now has complete good health; all the wounds he suffered have been treated. He is completely strong and healthy."
 

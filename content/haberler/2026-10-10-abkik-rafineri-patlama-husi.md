@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-abkik-rafineri-patlama-husi.jpg
 gorsel_alt: Suudi Arabistan'daki Abkayk petrol rafinerisinin eski bir hava fotoğrafı
 gorsel_kredi: Arabian American Oil Co. (Aramco), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Abqaiq_refinary.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre Suudi Arabistan'ın doğusundaki Abkayk petrol tesislerinde cumartesi sabahı saatlerinde bir olay bildirildi; dünyanın en büyük ham petrol işleme merkezlerinden biri ve bu ülkenin petrol sanayisinin ana damarlarından sayılan tesiste 24 saatten uzun süre meşalelerin yandığı ve bir yabancı işçinin tesisin pehpad ve füze saldırısına uğradığını ileri sürdüğü aktarıldı; faaliyetlerin askıya alındığı belirtildi.
 

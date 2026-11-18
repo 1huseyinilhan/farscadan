@@ -1296,7 +1296,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
     <p class="kicker">{kc}</p>
     <h1 class="article-title">{t}</h1>
     <p class="dek">{oz}</p>
-    <p class="byline">{by} <a class="author" href="{ed}">{eds}</a> · {ov} · <time datetime="{iso}">{d}</time> · {sl} {src}</p>
+    <p class="byline">{by} <a class="author" href="{ed}">{eds}</a></p>  <!-- 18.11 kullanıcı: imzada yalnız editörlük -->
   </header>
   {share}
   {fig}
@@ -1318,7 +1318,7 @@ def build_article(cfg, a, arts, counterpart, topics_slug, other_slugs, by_lang=N
 <div class="wrap wide">{related}</div>
 {copy}""".format(cu=page.l("kategori/%s/" % a["cat_slug"]), cat=esc(disp_cat), t=esc(m["baslik"]),
                  oz=esc(m["ozet"]), iso=a["date"].isoformat(),
-                 by=esc(t["by"]), ov=esc(t["original"] if analysis else t["ai_assist"]), eds=esc(t["editors"]), sl=esc(t["source_lbl"]),
+                 by=esc(t["by"]), eds=esc(t["editors"]), sl=esc(t["source_lbl"]),
                  d=fmt_date(a["date"], lang), src=esc(m["kaynak_adi"]), fig=fig, ed=page.r("editor"),
                  body=body_html, kaynak=kaynak, ek=ek, tags=tags, share=share,
                  kc=kicker_cat(a, page), key_terms=key_terms,
@@ -1618,7 +1618,7 @@ def build_static_pages_tr(cfg):
 <h2>Görüş yayımlamıyoruz</h2>
 <p>{sn} köşe yazısı ya da yorum yayımlamaz. Haberlerde aktarılan iddia ve değerlendirmeler ilgili yayın organına aittir. Arka plan bilgisi verdiğimiz “Bağlam” bölümleri olgulara dayanır ve görüş içermez.</p>
 <h2>Çeviriyi kim yapıyor?</h2>
-<p>Çeviriler yapay zekâ desteğiyle yapılır ve her haberde “Yapay zekâ destekli çeviri” notu yer alır; haberler <strong>Farsçadan Editörlüğü</strong> imzasıyla yayımlanır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır. Ayrıntılar: <a href="{ed}">Editörlük</a>.</p>
+<p>Çeviriler yapay zekâ desteğiyle yapılır ve her haberin sonunda bu belirtilir; haberler <strong>Farsçadan Editörlüğü</strong> imzasıyla yayımlanır. Süreç insan editoryal denetimi altında yürütülür: kaynak seçimi, yayın ilkeleri ve düzeltmeler editörün sorumluluğundadır. Ayrıntılar: <a href="{ed}">Editörlük</a>.</p>
 <h2>Düzeltme politikası</h2>
 <p>Çeviri ya da bilgi hatalarını ciddiye alıyoruz. Bir hata fark ederseniz <a href="{co}">İletişim</a> sayfasındaki formdan “Hata bildirimi” konusunu seçerek bize yazın. Doğrulanan hatalar en kısa sürede düzeltilir; anlamı değiştiren düzeltmeler haberin sonunda not olarak belirtilir.</p>
 <p>Ayrıntılı ilkelerimiz için <a href="{st}">Yayın İlkeleri</a> sayfasına bakabilirsiniz.</p>
@@ -1637,7 +1637,7 @@ def build_static_pages_tr(cfg):
 <h2>4. Özet-çeviri</h2>
 <p>Kaynak metnin tamamını yeniden yayımlamayız. Haberin özünü sadık bir özet-çeviriyle aktarır, her zaman özgün habere bağlantı veririz. Haberin sorumluluğu ilgili yayın organına aittir.</p>
 <h2>5. Yapay zekâ ve insan denetimi</h2>
-<p>Çeviriler yapay zekâ desteğiyle üretilir, “Yapay zekâ destekli çeviri” notuyla ve Farsçadan Editörlüğü imzasıyla yayımlanır. Kaynak seçimi, ilkeler ve düzeltmeler insan editoryal denetimi altındadır.</p>
+<p>Çeviriler yapay zekâ desteğiyle üretilir ve Farsçadan Editörlüğü imzasıyla yayımlanır; her haberin sonunda bu belirtilir. Kaynak seçimi, ilkeler ve düzeltmeler insan editoryal denetimi altındadır.</p>
 <h2>6. Görseller</h2>
 <p>Yalnızca özgür lisanslı görseller kullanılır (kamu malı, CC0, CC BY, CC BY-SA). Her görselin altında yazar, lisans ve kaynak bağlantısı bulunur. İran basınına ait fotoğraflar kullanılmaz.</p>
 <h2>7. Düzeltmeler</h2>
@@ -1731,7 +1731,7 @@ def build_static_pages_en(cfg):
 <h2>We do not publish opinion</h2>
 <p>{sn} does not publish columns or commentary. Claims and assessments reported in our stories belong to the original outlet. The “Context” sections, where we provide background, are based on facts and contain no opinion.</p>
 <h2>Who does the translation?</h2>
-<p>Translations are produced with AI assistance; every story is labelled “AI-assisted translation” and published under the byline <strong>Farsçadan Editors</strong>. The process runs under human editorial oversight: source selection, editorial standards and corrections are the editor's responsibility. Details: <a href="{ed}">Editorial Oversight</a>.</p>
+<p>Translations are produced with AI assistance; this is stated at the end of every story, which is published under the byline <strong>Farsçadan Editors</strong>. The process runs under human editorial oversight: source selection, editorial standards and corrections are the editor's responsibility. Details: <a href="{ed}">Editorial Oversight</a>.</p>
 <h2>Corrections policy</h2>
 <p>We take translation and factual errors seriously. If you notice an error, write to us using the form on our <a href="{co}">Contact</a> page and choose “Error report” as the subject. Verified errors are corrected as quickly as possible; corrections that change the meaning of a story are noted at the end of the story.</p>
 <p>For our detailed principles, see our <a href="{st}">Editorial Standards</a>.</p>
@@ -1750,7 +1750,7 @@ def build_static_pages_en(cfg):
 <h2>4. Summary translation</h2>
 <p>We do not republish the full source text. We convey the substance of each story in a faithful summary translation and always link to the original. Responsibility for the reporting lies with the original outlet.</p>
 <h2>5. AI and human oversight</h2>
-<p>Translations are produced with AI assistance and published under the byline Farsçadan Editors, labelled “AI-assisted translation.” Source selection, standards and corrections are subject to human editorial oversight.</p>
+<p>Translations are produced with AI assistance and published under the byline Farsçadan Editors; this is stated at the end of every story. Source selection, standards and corrections are subject to human editorial oversight.</p>
 <h2>6. Images</h2>
 <p>We use only freely licensed images (public domain, CC0, CC BY, CC BY-SA). Every image carries a credit with the author, license and a link to the source. We do not use photographs from the Iranian press.</p>
 <h2>7. Corrections</h2>

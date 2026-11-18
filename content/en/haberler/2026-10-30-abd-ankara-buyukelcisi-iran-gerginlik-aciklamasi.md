@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi.jpg
 gorsel_alt: Official portrait of U.S. Ambassador to Turkey Thomas Barrack
 gorsel_kredi: U.S. Department of State, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 U.S. Ambassador to Turkey and Special Envoy for Syria-Iraq Tom Barrack signaled hope that tensions in the Middle East could ease within the coming two weeks, even as reports of potential renewed war with Iran persist. According to IRNA, Barrack said the U.S. is approaching an agreement that would reduce tensions with Iran.
 

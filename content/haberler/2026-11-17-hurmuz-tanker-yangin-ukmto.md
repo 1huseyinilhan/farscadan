@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-hurmuz-tanker-yangin-ukmto.jpg
 gorsel_alt: "Hürmüz Boğazı'nın uzaydan çekilmiş uydu görüntüsü"
 gorsel_kredi: "NASA, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre İngiliz Deniz Ticareti Operasyonları Örgütü (UKMTO) 17 Kasım sabahı, Hürmüz Boğazı'nda bir tankere yönelik bir güvenlik vakasına ilişkin rapor aldığını bildirdi. IRNA'nın haberine göre UKMTO, olayı Umman'ın Hasab limanının kuzeyinde, yaklaşık 7 deniz mili (≈13 km) uzaklıkta bildirdi. Donya-ye Eqtesad'ın (Fars ajansından aktarımla) yayınladığı UKMTO açıklamasına göre gemi geçiş sırasında saldırıya uğradı, makine dairesinde yangın çıktı ve gemi hareketsiz kaldı; mürettebatın sağlam olduğu, çevresel bir hasarın şimdilik belirlenmediği bildirildi. UKMTO ayrıca bölgedeki diğer gemilere dikkatli hareket etmeleri ve her türlü olayı bildirmeleri çağrısında bulundu.
 

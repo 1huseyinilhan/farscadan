@@ -14,7 +14,7 @@ gorsel: img/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin.jpg
 gorsel_alt: Tahran'daki Sadabad Sarayı kompleksinden bir görünüm
 gorsel_kredi: Sayedpooya safavi hemami1980, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Sadabad_palace.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye Millî İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Suudi Arabistan Savunma Bakanı Halid bin Selman ve Pakistan Kara Kuvvetleri Komutanı Asım Münir, pazartesi günü Tahran'da İran Yüksek Millî Güvenlik Konseyi Sekreteri Muhsin Rızaî ile dörtlü bir güvenlik toplantısında buluştu. İran ekonomi gazetesi Donya-ye Eghtesad'ın aktardığına göre görüşme, İran-ABD krizinin sürdüğü, deniz güvenliği risklerinin arttığı ve Yemen'deki gerginliğin derinleştiği bir dönemde gerçekleşti.
 

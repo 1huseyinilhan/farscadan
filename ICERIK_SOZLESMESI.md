@@ -24,7 +24,7 @@ gorsel: img/2026-10-03-hurmuz-tanker.jpg
 gorsel_alt: Hürmüz Boğazı'nın uydu görüntüsü
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:...
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Gövde (Markdown alt kümesi)...
 ```
@@ -84,7 +84,7 @@ Gövde (Markdown alt kümesi)...
   - `ek_kaynaklar`: Aynı yapıda; yalnızca parantez içindeki yönelim etiketleri İngilizce.
   - `gorsel_alt`: İngilizce.
   - `gorsel_kredi`: İngilizce ("Kamu malı" → "Public domain").
-  - `yazar`: `AI Agent`.
+  - `yazar`: `Farsçadan Editörlüğü`.
 - **Gövde başlıkları:** `## How the Persian press covered it` ve `## Context`.
 - **Tablolar:** Sütun başlıkları `| Source (orientation) | Headline / framing |`.
 - **Uyarı satırları:** "*For information only; not investment advice.*" ve "The presumption of innocence applies."

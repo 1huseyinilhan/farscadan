@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-hurmuz-nefkes-sepah-centcom.jpg
 gorsel_alt: A U.S. warship passing near a tanker in the Strait of Hormuz
 gorsel_kredi: U.S. Department of Defense, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 U.S. Central Command (CENTCOM) announced that on October 10, it disabled a Panama-flagged commercial vessel with a warplane as it attempted to breach the U.S. naval blockade of Iran near the Strait of Hormuz. The Iranian Revolutionary Guards' Navy (IRGC-N), meanwhile, characterized the tanker fire the same day as a supertanker on an unauthorized route striking a sea mine.
 

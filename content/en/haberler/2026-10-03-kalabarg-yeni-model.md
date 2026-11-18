@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-kalabarg-yeni-model.jpg
 gorsel_alt: The entrance to Tajrish Bazaar in Tehran
 gorsel_kredi: Arian Ar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tajrish_Bazaar_entrance.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's Minister of Labor and Social Welfare, Ahmad Meydari, announced that the method for determining who is eligible for the electronic food voucher *kalabarg* has changed. According to Khabar Online, under the new model households will be divided into three income groups, **low, middle and high**, based on income and asset indicators. The previous "decile" (dahak) classification is being abandoned.
 

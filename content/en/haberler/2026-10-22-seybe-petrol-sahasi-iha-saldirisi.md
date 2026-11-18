@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-seybe-petrol-sahasi-iha-saldirisi.jpg
 gorsel_alt: Satellite image of an Aramco oil facility in Saudi Arabia
 gorsel_kredi: Planet Labs, Inc., CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Khurais_Oil_Processing_Facility,_Saudi_Arabia_by_Planet_Labs.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to a statement by a Saudi Arabia Energy Ministry official released through the official news agency SPA, a drone on Wednesday morning targeted a facility at the Aramco-operated Safaniyah oil field. According to Hamshahri's report, the attack killed two workers and wounded two others.
 

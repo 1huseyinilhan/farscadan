@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama.jpg
 gorsel_alt: İstanbul'un gece siluet görüntüsü, zanlının yakalandığı şehir
 gorsel_kredi: Giorgio Galeotti, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Skyline_-_Istanbul,_Turkey_-_October_11,_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Adalet Bakanlığı, Salı günü (19 Aban) gizliliği kaldırılan değiştirilmiş bir iddianameyle, Devrim Muhafızları (Sepah) ve Irak merkezli Kataib Hizbullah'a bağlı bir şebeke üzerinden Avrupa ve ABD'de yaklaşık 20 terör saldırısı girişimini yönettikleri iddiasıyla üç kişiyi suçladı. Iran International'ın aktardığına göre zanlılardan biri, bu yılın başında Türkiye'de yakalanıp ABD'ye teslim edilmişti.
 

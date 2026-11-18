@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-kism-adasi-abd-saldirisi-wsj.jpg
 gorsel_alt: "General view of Bandar Abbas on the Strait of Hormuz coast"
 gorsel_kredi: "Hasanbardal, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:BandarAbbas-Landscape.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, close to the Tehran municipality, anonymous U.S. officials speaking to the Wall Street Journal confirmed that the U.S. military conducted a strike on Qeshm Island. Hamshahri reports that according to Axios journalist reporting from a U.S. official, a U.S. fighter jet hit and destroyed a missile launch pad on the island. The article also notes that according to NewsNation citing an anonymous U.S. official, the strike was in response to Iran's use of surface-to-air missiles against U.S. forces. According to Iran International's reporting based on the same WSJ article, the strike occurred Monday, one day before the U.S. midterm elections; some U.S. officials characterized the strikes as "defensive" and said the aim was to prevent Iran from freely attacking commercial ships in the Strait of Hormuz. The same reporting notes that Washington did not publicly announce these strikes, in contrast to earlier operations, to avoid the impression of reverting to broad military operations. The Pentagon deflected questions to U.S. Central Command (CENTCOM), and CENTCOM had not responded at the time the report was published.
 

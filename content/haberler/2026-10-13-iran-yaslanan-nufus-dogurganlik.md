@@ -13,7 +13,7 @@ gorsel: img/2026-10-13-iran-yaslanan-nufus-dogurganlik.jpg
 gorsel_alt: Tebriz'de bir parkta oturan yaşlı bir kadın
 gorsel_kredi: Adam Jones, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Elderly_Woman_in_Lona_Park_-_Tabriz_-_Iranian_Azerbaijan_-_Iran_(7421562232).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Nüfus Ulusal Merkezi Başkan Yardımcısı Hamid Berekati, ülkedeki düşen doğurganlık oranına dikkat çekerek 2046'da (1425 İran takvimi) 25-30 milyon yaşlı nüfusla karşı karşıya kalınacağını, ülkenin bakım, sağlık ve sosyal hizmetler açısından buna yeterince hazır olmadığını açıkladı. Kayhan'ın Tasnim'e dayandırdığı habere göre Berekati, Ulusal Çocuk Haftası toplantısında konuştu.
 

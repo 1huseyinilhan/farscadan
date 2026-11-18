@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-zahedan-rask-catisma-iddialari.jpg
 gorsel_alt: Zahedan'daki Mekki Camii'nin gece görünümü
 gorsel_kredi: Safa.daneshvar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:010231-MakkiMosque-Zahedan-IMG_0934-2.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Sistan-Beluçistan eyaletinde Zahedan ve Rask kentleri yakınında 1-2 Ekim'de yaşanan çatışmalarda ölü sayısı, aktaran kaynağa göre değişiyor. Sertlik yanlısı Kayhan gazetesinin aktardığına göre Devrim Muhafızları (IRGC) Kara Kuvvetleri Kudüs Karargâhı, bölgede "bir terörist takımı" etkisiz hale getirdiğini ve altı kişinin öldüğünü duyurdu.
 

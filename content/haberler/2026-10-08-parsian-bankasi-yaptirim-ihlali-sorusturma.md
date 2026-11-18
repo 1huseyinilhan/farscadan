@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma.jpg
 gorsel_alt: Tahran'da bir banka binasının kulesi
 gorsel_kredi: GTVM92, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bank_Mellat_Tower_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın sızdırılan Parsiyan Bankası belgelerine dayanan araştırmasına göre banka, ABD yaptırımlarına rağmen kendi sarraf kuruluşu "Parsiyan Sarrafı" üzerinden yurt dışına milyonlarca dolar transfer etti. Araştırma, Kasım 2022-Haziran 2023 (Aban 1401-Hordad 1402) dönemine ait belgelere dayanıyor ve İran Merkez Bankası ile başka mali kuruluşların da ödemeleri kolaylaştırmak için Parsiyan Sarrafı'nı kullandığını gösteriyor.
 

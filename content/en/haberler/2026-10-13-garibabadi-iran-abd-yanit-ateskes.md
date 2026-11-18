@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-garibabadi-iran-abd-yanit-ateskes.jpg
 gorsel_alt: Grand entrance and Iran flag at Iran's Ministry of Foreign Affairs building in Tehran
 gorsel_kredi: xiquinhosilva, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Affairs_Ministry_of_Iran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's Deputy Foreign Minister Kazem Garib-Abadi told Al Arabiya television Monday that Tehran is still evaluating the U.S. seven-day ceasefire proposal and is finalizing its response. According to Ettelaat, citing ISNA, Garib-Abadi stated that Iran continues to support the diplomatic path but emphasized that negotiating demands must be realistic.
 

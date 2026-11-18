@@ -13,7 +13,7 @@ gorsel: img/2026-10-24-tahran-okul-mulk-satisi.jpg
 gorsel_alt: View of Tehran's Vanak Square
 gorsel_kredi: Orijentolog, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Vanak_Square_(Tehran).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tehran's education director announced that 355 property deeds were acquired last year for state school educational areas, and that 10 of these properties are being prepared for sale (asset monetization). According to ISNA, the official said these sales could provide needed resources for an "accelerated school construction push"; it is estimated that the sale of an education property in the Vanak Square area alone could finance construction of between 60 and 70 new schools.
 

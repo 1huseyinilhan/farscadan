@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-kalabarg-yarane-destek-genisleme.jpg
 gorsel_alt: Tahran Büyük Çarşısı'nda kalabalık bir sokak sahnesi
 gorsel_kredi: Telluride, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Bütçe ve Planlama Örgütü Başkanı Seyyid Hamid Purmuhammedi, Tesnim'e verdiği ve Kayhan'ın aktardığı demeçte, kalabarg (gıda kartı) desteğinin artırılması talebinde bulunan diğer başvuru sahiplerinin durumunun da değerlendirmeye alınacağını söyledi. Purmuhammedi, hedef kitledeki 44 milyon kişinin bilgilerinin tespit ve doğrulama sürecinin başladığını, ardından destek talep eden diğer kişilerin durumunun incelenip sınırlı kaynakların gerçek ihtiyaç sahiplerine yönlendirileceğini belirtti; desteklerin ancak doğrulanabilir bilgiyle ve koşulların sağlanmasıyla onaylanacağını ekledi.
 

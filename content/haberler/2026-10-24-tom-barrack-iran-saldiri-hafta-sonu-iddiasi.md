@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-tom-barrack-iran-saldiri-iddiasi.jpg
 gorsel_alt: ABD'nin Ankara Büyükelçisi Thomas Barrack'ın resmi portresi
 gorsel_kredi: US State Department, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD'nin Ankara Büyükelçisi ve Suriye-Irak özel temsilcisi Tom Barrack, İran'a bu hafta sonu bir saldırı düzenlenip düzenlenmeyeceği sorusuna "kesinlikle" yanıtını verdi. Khabaronline'ın aktardığına göre Barrack, "Başkan Trump tamamen açık sözlü oldu; o bir anlaşmaya ulaşmak için hazır ve erişilebilir durumda. Biz de aylardır müzakere masasındayız. Yakın bir nükleer tehdidin ortadan kalktığı konusunda artık herkes hemfikir" dedi.
 

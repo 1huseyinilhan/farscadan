@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-abd-hazine-golge-filosu-yaptirim.jpg
 gorsel_alt: Exterior facade of the US Treasury Department building in Washington
 gorsel_kredi: Erich Robert Joli Weber, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Building_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, the US Treasury Department on Wednesday added 5 individuals, 4 companies, and 9 vessels they identified as facilitating Iran's oil smuggling and sanctions evasion to the sanctions list. The US Treasury Department's official "Recent Actions" page also contains a notice dated October 21, 2026, titled "Determinations Regarding Iran," which aligns with the timing of the report.
 

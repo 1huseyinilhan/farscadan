@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-centcom-demir-kapi-kara-sinirlari.jpg
 gorsel_alt: Admiral Brad Cooper, CENTCOM Commander, arrives at Cairo for the Bright Star 25 exercise
 gorsel_kredi: Staff Sgt. Kevin Dunkleberger, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, a opposition outlet based abroad, U.S. Central Command (CENTCOM) announced on Saturday that it has established a task force called "Iron Gate" to extend its existing naval blockade of Iran to land borders and the Caspian Sea. The step aims to cut off Iran's receipt of advanced weapons systems, dual-use technologies, and sanctioned goods.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-araghchi-netanyahu-karsilikli-aciklamalar.jpg
 gorsel_alt: Dışişleri Bakanı Abbas Araqchi'nin bir toplantıda çekilmiş fotoğrafı
 gorsel_kredi: IAEA Imagebank, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Meeting_Dr._Seyed_Abbas_Araghchi_(01911589)_(51160900217).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Dışişleri Bakanı Abbas Araqchi, X (Twitter) hesabından İngilizce yaptığı bir paylaşımla İsrail Başbakanı Netanyahu'nun son açıklamalarına yanıt verdi. ISNA'nın haberine göre Araqchi, ABD ve İsrail'e hitaben "son kez 'işi bitirmek' istediğinizde İran daha güçlü çıktı; şansınızı bir daha denemek mi istiyorsunuz? Buyurun, ama dikkatli olun; bizim de bitmemiş işimiz var" dedi.
 

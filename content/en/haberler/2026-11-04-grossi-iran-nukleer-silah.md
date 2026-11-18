@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-grossi-iran-nukleer-silah.jpg
 gorsel_alt: "IAEA Director General Rafael Grossi speaking at a press conference"
 gorsel_kredi: "IAEA Imagebank, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:IAEA_Director_General_Rafael_Mariano_Grossi_4.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, close to Tehran's municipality, IAEA Director General Rafael Grossi told Colombia's Caracol Radio that Iran does not possess nuclear weapons. When responding to a question about the consequences of U.S. and Israeli military strikes on Iran's IAEA-monitored nuclear facilities, Grossi said that as a diplomat and the head of an agency working to prevent nuclear weapons proliferation, he always seeks political and diplomatic solutions.
 

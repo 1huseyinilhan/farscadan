@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-iran-yeni-fuze-sehri-silah.jpg
 gorsel_alt: Sepah Havacılık Gücü'nün bir füze ve uzay teknolojileri sergisinden görüntü
 gorsel_kredi: Mohammadreza Jabbari, CC BY 4.0, Wikimedia Commons (Tasnim News Agency)
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(26).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Devrim Muhafızları (Sepah) Havacılık Gücü, Pazartesi günü (9 Aban, yani geçen hafta) yeni bir "füze şehri"ni tanıttı; tören görüntüleri Salı günü (19 Aban) yayımlanınca İsrail medyasında geniş yankı buldu. Hamshahri'nin Vatan-ı İmruz'dan aktardığına göre törene Silahlı Kuvvetler Genelkurmay Başkanı Tuğgeneral Ali Abdullahi ile Sepah Havacılık Gücü Komutanı Tümgeneral Seyyid Mecid Musevi katıldı; sunumda farklı nesillerden balistik ve seyir füzeleri, yeraltı fırlatma altyapısına işaret eden ipuçları ve "bulanıklaştırılmış" görünümlü yeni bir silah sergilendi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-tehran-dortlu-zirve-pakistan-turkiye-suudi.jpg
 gorsel_alt: "Tahran'daki Azadi Kulesi'nin gündüz görünümü"
 gorsel_kredi: "Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Pakistan ordusu sözcüsü Tümgeneral Ahmed Şerif Çoudri, bir Arap yayın kuruluşuna verdiği röportajda geçen ay Tahran'da düzenlenen dörtlü güvenlik görüşmesine Türkiye, Suudi Arabistan ve Pakistan heyetlerinin katıldığını ve dört ülkenin diyaloğu sürdürme konusunda anlaştığını doğruladı. Hamshahri'nin aktardığına göre Çoudri, tüm tarafların "itidal, gerginliğin düşürülmesi ve diplomatik etkileşim" çağrısında bulundu ve tansiyonun daha da tırmanmasının "taraflardan hiçbirinin yararına olmayacağını" söyledi.
 

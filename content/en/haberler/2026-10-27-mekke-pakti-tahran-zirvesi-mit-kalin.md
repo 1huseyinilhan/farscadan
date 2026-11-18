@@ -14,7 +14,7 @@ gorsel: img/2026-10-27-mekke-pakti-tahran-zirvesi-mit-kalin.jpg
 gorsel_alt: View of Sadabad Palace complex in Tehran
 gorsel_kredi: Sayedpooya safavi hemami1980, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Sadabad_palace.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Turkish National Intelligence Organization (MIT) chief Ibrahim Kalin, Saudi Defense Minister Khaled bin Selman, and Pakistan Army Chief Asim Munir met with Iran's Supreme National Security Council Secretary Mohsin Rezaei in Tehran on Monday for a four-way security meeting. According to Iran's economic newspaper Donya-ye Eghtesad, the talks took place while the Iran-U.S. crisis continues, maritime security risks increase, and tensions in Yemen deepen.
 

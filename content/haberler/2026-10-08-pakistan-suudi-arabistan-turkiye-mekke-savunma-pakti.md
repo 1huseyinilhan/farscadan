@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti.jpg
 gorsel_alt: Mekke'deki Mescid-i Haram ve Kâbe'nin kuş bakışı görünümü
 gorsel_kredi: Wurzelgnohm, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Masjidul-HaramAerealView.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın aktardığına göre Pakistan ordusu sözcüsü Tuğgeneral Ahmed Şerif Çevdri, CNN'e verdiği ve çarşamba günü yayınlanan demeçte Pakistan askerlerinin Suudi Arabistan'da uzun süreli biçimde konuşlandığını resmen doğruladı. Çevdri, bu varlığın ağustosta imzalanan "Mekke Ortak Savunma Anlaşması" çerçevesinde sürdüğünü ve Pakistan birliklerinin Suudi topraklarında "çeşitli kapasite ve operasyon alanlarında" görev yaptığını söyledi.
 

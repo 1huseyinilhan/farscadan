@@ -13,7 +13,7 @@ gorsel: img/2026-10-17-peyman-kadiri-dey-protestosu-olum.jpg
 gorsel_alt: Map showing the location of Qarchak district within Tehran Province
 gorsel_kredi: Parsa 2au, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Qarchak_County_Locator_Map_(2022).svg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 According to information Iran International received from a source, Peyman Kadiri, a 45-year-old Dey uprising protester, died following injuries sustained nearly nine months earlier when he was shot in the head and fell into a coma. The source stated that on the 19th of Dey in the year 1404 (early January 2026), security forces entered Kadiri's home in Qarchak district, on the outskirts of Tehran, and shot him at close range in the head, causing severe injury.

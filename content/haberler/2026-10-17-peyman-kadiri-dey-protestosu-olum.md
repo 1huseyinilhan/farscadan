@@ -13,7 +13,7 @@ gorsel: img/2026-10-17-peyman-kadiri-dey-protestosu-olum.jpg
 gorsel_alt: Karçek ilçesinin Tahran eyaleti içindeki konumunu gösteren harita
 gorsel_kredi: Parsa 2au, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Qarchak_County_Locator_Map_(2022).svg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın bir bilgi kaynağına dayandırdığı habere göre, Dey ayaklanması protestocularından 45 yaşındaki Peyman Kadiri, yaklaşık 9 ay önce başından vurularak komaya girdiği yaralanmanın ardından hayatını kaybetti. Kaynağa göre güvenlik güçleri, 1404 yılı Dey ayının 19'unda (Ocak 2026 başı) akşam saatlerinde Tahran'a bağlı Karçek ilçesindeki evine girerek yakın mesafeden başına ateş açtı ve Kadiri'yi ağır şekilde yaraladı.
 

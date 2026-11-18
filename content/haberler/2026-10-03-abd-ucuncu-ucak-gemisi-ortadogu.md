@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu.jpg
 gorsel_alt: Açık denizde seyreden USS Theodore Roosevelt uçak gemisi
 gorsel_kredi: ABD Donanması/Michael D. Cole, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:USS_Theodore_Roosevelt_at_sea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD donanmasına bağlı nükleer güçlü uçak gemisi USS Theodore Roosevelt, Pazar günü San Diego'dan ayrılarak İran'la gerginliğin sürdüğü Orta Doğu'ya hareket etti. Ettelaat'ın ABD'li yetkililere dayandırdığı haberine göre bu sevkiyatla bölgedeki toplam potansiyel ABD askeri varlığı 60 bini aşabilir; bu rakam 2003'teki Irak harekâtından bu yana görülen en büyük yığınak olarak nitelendiriliyor.
 

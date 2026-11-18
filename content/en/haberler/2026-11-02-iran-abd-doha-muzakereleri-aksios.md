@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-iran-abd-doha-muzakereleri-aksios.jpg
 gorsel_alt: "Doha West Bay skyline with skyscrapers in Qatar's capital"
 gorsel_kredi: "Thameur Belghith, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Hamshahri (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1082228/ ;; Ettelaat (Established daily, moderate-traditionalist) | https://www.ettelaat.com/news/176048/ ;; IRNA (State news agency) | https://www.irna.ir/news/86309622/"
 ---
 According to the economic newspaper Donya-ye Eghtesad, Axios correspondent Barak Ravid wrote that a diplomat involved in the Iran-U.S. negotiations told him the Iranian delegation left Doha Sunday morning (November 1). According to Donya-ye Eghtesad, the diplomat said "the previous day's talks went positively and mediators are trying to bridge the differences in views and remaining concerns from the previous day's meetings between the two sides." Hamshahri published an identical text based on the same Axios report.

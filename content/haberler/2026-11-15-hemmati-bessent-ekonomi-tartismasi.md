@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-hemmati-bessent-ekonomi-tartismasi.jpg
 gorsel_alt: Tahran Menkul Kıymetler Borsası'nın yeni bina cephesi
 gorsel_kredi: GTVM92, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tehran_Stock_Exchange_new_building_8279.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Merkez Bankası Başkanı Abdolnasır Hemmati, bir televizyon röportajında ABD Hazine Bakanı Scott Bessent'in İran ekonomisine yönelik yeni açıklamalarına yanıt verdi. Khabaronline'ın Sima haber kaynağından aktardığına göre Hemmati, "Hazine Bakanı hâlâ söylediğim o tavuğu saymalı; önce onu saysın, sonra kış hakkında konuşsun; henüz erken" dedi.
 

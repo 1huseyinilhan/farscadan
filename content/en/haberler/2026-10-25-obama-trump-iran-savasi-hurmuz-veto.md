@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-obama-trump-iran-savasi-hurmuz-veto.jpg
 gorsel_alt: Official White House portrait of former U.S. President Barack Obama
 gorsel_kredi: Pete Souza, White House, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Former U.S. President Barack Obama, on Saturday evening at a midterm campaign rally in Ohio, heavily criticized President Donald Trump's war against Iran and his economic policies. According to Ettelaat's report citing CNN, Obama said, "Sometimes factors beyond a president's control can undermine the best-laid plans; but that's not the case here. This government's actions are directly responsible for rising costs."
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-avrupa-parlamentosu-iran-karari.jpg
 gorsel_alt: Avrupa Parlamentosu'nun Strazburg'daki genel kurul salonu
 gorsel_kredi: Diliff, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın aktardığına göre Avrupa Parlamentosu Perşembe günü İran, Gürcistan ve Azerbaycan'daki "insan hakları ihlalleri" iddiasıyla üç ayrı karar kabul etti. Habere göre parlamento üyeleri İran'ı sivillere yönelik "şiddet" ile suçladı, idam cezasının kaldırılmasını istedi ve İran'ı "dini ve etnik azınlıklara yönelik baskı" ile "sınır ötesi bastırma" iddialarıyla kınadı. Avrupa Parlamentosu'nun resmî basın açıklamasına göre İran kararı 541 kabul, 11 ret ve 25 çekimser oyla geçti; bu rakam Khabaronline'ın verdiği oy sayısıyla birebir örtüşüyor.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-ahlagi-savunma-bakani-meclis-oyu.jpg
 gorsel_alt: Interior view of the Iranian Islamic Parliament
 gorsel_kredi: Mahdi Sigari, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Iranian_Majlis.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Iranian Parliament approved Mehrdad Ahlaki Kitabchi, who has 42 years of experience in defense industry, as defense and armed forces logistics minister with 237 votes in favor, 15 against, and abstentions absent. According to Kayhan, in the qualification session before taking office, Ahlaki told the 277 attending parliamentarians that Iran is on alert for a possible conflict with Israel and is prepared for what he calls the "4th war" scenario.
 

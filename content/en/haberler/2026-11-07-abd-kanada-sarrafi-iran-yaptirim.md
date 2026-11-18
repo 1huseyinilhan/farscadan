@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-abd-kanada-sarrafi-iran-yaptirim.jpg
 gorsel_alt: "Exterior view of the U.S. Treasury Department building"
 gorsel_kredi: "MeanieHyaena, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA's report, the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has sanctioned eight money transfer firms and exchangers based in Canada for facilitating transactions with Iran's regime and affiliated sanctioned entities. The action continues the Treasury's "Operation Economic Outcast" campaign, launched in August.
 

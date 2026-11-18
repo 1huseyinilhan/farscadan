@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-iran-npt-cikis-degerlendirme-lubnan.jpg
 gorsel_alt: Uluslararası Atom Enerjisi Kurumu'nun merkezinin bulunduğu Viyana Uluslararası Merkezi (UNO City) binası
 gorsel_kredi: Dimitry Anikin, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:UNO_City_Wien_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Kıdemli bir İran diplomatı, Tahran'ın Nükleer Silahların Yayılmasının Önlenmesi Antlaşması'ndan (NPT) çıkmayı ciddi bir seçenek olarak değerlendirdiğini söyledi. Hamşehri'nin aktardığına göre diplomat, Lübnanlı haber ajansı Yuniuz'a verdiği demeçte nükleer doktrin konusundaki iç tartışmaların sürdüğünü belirtti ve Lübnan dosyasının her türlü kalıcı barış anlaşmasının ayrılmaz bir parçası olması gerektiğini vurguladı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-dolar-270-bin-tumen.jpg
 gorsel_alt: An old Iranian rial banknote (archive image)
 gorsel_kredi: Unknown, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:50_rial_1974-1979.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The dollar passed 269,000 tomans and the euro 302,000 tomans for the first time on Iran's open market on Saturday, according to Iran International. A gram of 18-karat gold rose above 26 million tomans. This marks a new jump within a week for the dollar, which [approached the 260,000-toman threshold yesterday](../2026-10-03-dolar-260-bin-tumen/).
 

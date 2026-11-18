@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik.jpg
 gorsel_alt: Slovakya'da gün doğumunda bir Patriot hava savunma füze fırlatıcısı
 gorsel_kredi: ABD Ordusu, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Sun_rises_over_Patriot_missile_launcher_in_Slovakia_(7337597).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin Wall Street Journal'a dayandırdığı habere göre, ABD'nin bölgedeki askeri hareketliliğinin yoğunlaştığı bir sırada, Merkez Kuvvetler Komutanlığı (CENTCOM) Komutanı Orgeneral Brad Cooper, Beyaz Saray'da Başkan Donald Trump'la yaptığı bir görüşmede İran'a yönelik olası askeri harekât seçeneklerini sundu. Habere göre toplantıya Savunma Bakanı Pete Hegseth ve Genelkurmay Başkanı Orgeneral Dan Caine de katıldı; görüşmenin tam tarihi, sunulan seçeneklerin sayısı ve içeriği açıklanmadı.
 

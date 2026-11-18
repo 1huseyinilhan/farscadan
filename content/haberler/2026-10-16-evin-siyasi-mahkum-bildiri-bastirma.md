@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-evin-siyasi-mahkum-bildiri-bastirma.jpg
 gorsel_alt: Evin Cezaevi'nin Tahran'daki dış görünümü
 gorsel_kredi: Ehsan Iran (Flickr), CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran'daki Evin Cezaevi'nde tutulan 14 siyasi mahkûm, ortak bir bildiriyle İran hükümetinin olası halk protestolarını öngörerek baskıyı artırdığı ve en küçük fikir beyanının bile ağır cezalarla karşılandığı uyarısında bulundu. İran International'ın aktardığına göre mahkûmlar, bu yaklaşımın bir örneği olarak siyasi mahkûm E.M.'nin dosyasını gösterdi.
 

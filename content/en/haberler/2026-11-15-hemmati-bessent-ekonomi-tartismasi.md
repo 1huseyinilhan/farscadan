@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-hemmati-bessent-ekonomi-tartismasi.jpg
 gorsel_alt: "Facade of the Tehran Stock Exchange's new building"
 gorsel_kredi: "GTVM92, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tehran_Stock_Exchange_new_building_8279.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Central Bank Governor Abdolnassar Hemmati responded during a television interview to recent statements from U.S. Treasury Secretary Scott Bessent about Iran's economy. According to Khabaronline's reporting from the Sima news outlet, Hemmati said: "The Treasury Secretary still hasn't counted the chicken I mentioned; let him count it first, then speak about winter; it's too early."
 

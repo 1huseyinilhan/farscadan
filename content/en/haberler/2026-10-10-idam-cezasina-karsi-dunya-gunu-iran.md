@@ -13,7 +13,7 @@ gorsel: img/2026-10-10-idam-cezasina-karsi-dunya-gunu-iran.jpg
 gorsel_alt: Exterior of Evin Prison in Tehran
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, the Human Rights Activists News Agency (HRANA) released a report on October 10, World Day Against Death Penalty, stating that 2,003 people were executed in Iran over the past year, with at least 69 facing political and security charges. The organization called for immediate cessation of executions.
 

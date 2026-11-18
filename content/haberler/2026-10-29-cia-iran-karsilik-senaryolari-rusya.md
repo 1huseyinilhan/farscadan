@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-cia-iran-karsilik-senaryolari-rusya.jpg
 gorsel_alt: Hürmüz Boğazı'nın uzaydan gece görünümü
 gorsel_kredi: NASA/Tim Kopra, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Merkezi Haber Alma Teşkilatı (CIA), gizli bir değerlendirmede İran'ın olası yeni ABD saldırılarına üç biçimde karşılık verebileceği sonucuna ulaştı. Hamshahri'nin Washington Post'a dayandırdığı habere göre bu senaryolar sırasıyla Hürmüz Boğazı'ndan geçen gemilere yönelik kısıtlamaların artırılması, dünyanın farklı noktalarındaki Amerikan hedeflerine saldırı düzenlenmesi ve ABD toprağındaki hedeflere siber saldırı yapılmasıdır. Habere göre bu gizli değerlendirmenin içeriğini gazeteye, adının açıklanmasını istemeyen bir ABD yetkilisi aktardı.
 

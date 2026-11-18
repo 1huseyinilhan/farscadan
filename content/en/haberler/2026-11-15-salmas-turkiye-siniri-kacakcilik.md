@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-salmas-turkiye-siniri-kacakcilik.jpg
 gorsel_alt: "General view of Salmas city in West Azerbaijan province"
 gorsel_kredi: "Pedram.shahri, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Salmas_-city.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 In Salmas, a town on Iran's border with Turkey in West Azerbaijan province, border guard forces conducted three separate operations in which they arrested 41 foreign nationals and 2 human smugglers who facilitated illegal border crossings. According to IRNA reporting, the Commander of the Salmas Border Guard Unit announced that the operations were conducted within the unit's area of responsibility.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-basra-havalimani-iran-futbol-yaptirim.jpg
 gorsel_alt: Terminal building of Basra International Airport
 gorsel_kredi: Looper5920, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Basrah_Intl_Airport_terminal_building_april_1_2008.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Reuters' account from Basra Airport officials, Iraq refused to allow a plane carrying the Iranian national football team to land at Basra International Airport on Tuesday, November 11. Iran International reported that the Iranian national team had traveled to Iraq to participate in the Basra Four-Nation Tournament, which also included teams from Iraq, Lebanon, and Palestine.
 

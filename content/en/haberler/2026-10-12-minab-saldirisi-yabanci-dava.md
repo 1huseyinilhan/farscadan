@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-minab-saldirisi-yabanci-dava.jpg
 gorsel_alt: View of Bandar Abbas, the capital of Hormozgan province
 gorsel_kredi: Hasanbardal, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:BandarAbbas-Landscape.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Iran's Deputy Legal Advisor at the Foreign Ministry, Kazem Garibabadi, said some foreign countries have filed suits over an alleged attack on a girls' school in the city of Minab in Hormozgan province on February 28, 2026, which Iran attributes to the United States and Israel. According to Kayhan, Garibabadi visited the Shajarah-ye Tayyibah School where the attack occurred and conveyed the President's special attention to the legal process and condolences to the families of the martyrs.

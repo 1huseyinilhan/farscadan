@@ -10,7 +10,7 @@ kaynak_yonelim: Tehran municipality, principlist
 kaynak_url: https://www.hamshahrionline.ir/news/1080538/فوری-افشاگری-درباره-آمریکا-و-جلوگیری-از-پایان-جنگ-سخنان-مهم-وزیر-خارجه-عمان
 kaynak_baslik_fa: فوری؛ افشاگری درباره آمریکا و جلوگیری از پایان جنگ | سخنان مهم وزیر خارجهٔ عمان
 ek_kaynaklar: Oman Observer | https://www.omanobserver.om/article/1194970/oman/community/sayyid-badr-to-visit-tehran-on-tuesday-iran ;; Times of Oman | https://timesofoman.com/article/174370-sayyid-badr-urges-overhaul-of-gulf-security-architecture
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-27-umman-disisleri-bakani-korfez-guvenligi.jpg
 gorsel_alt: Minaret of Sultan Qaboos Grand Mosque in Muscat, Oman
 gorsel_kredi: Sherenk1, CC BY-SA 4.0, Wikimedia Commons

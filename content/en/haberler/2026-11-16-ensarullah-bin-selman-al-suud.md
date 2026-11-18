@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-ensarullah-bin-selman-al-suud.jpg
 gorsel_alt: "NASA satellite image of the Bab-el-Mandeb Strait"
 gorsel_kredi: "NASA/METI/AIST/Japan Space Systems and U.S./Japan ASTER Science Team, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Bab-el-Mandeb_Strait,_Africa-Arabia_(ASTER).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Muhammad al-Bukhaiti, a member of Yemen's Ansarullah political bureau, warned Saudi Crown Prince Muhammad bin Salman on the El-Ahd channel after a "major" victory in fighting at Bab-el-Mandeb. According to ISNA's account, al-Bukhaiti stated that the United States, United Kingdom, France, and Israel sided with Saudi Arabia against Yemeni forces in this confrontation. According to Hamshahri's report, al-Bukhaiti recalled words attributed to the founder of the Saudi Kingdom, Abdulaziz bin Saud, spoken to his children before his death—"These are because of Yemen"—and issued this warning to bin Salman: the war's objectives could shift from a defensive to an offensive position and could ultimately lead to the overthrow of Al Saud rule and "breaking the devil's horn."

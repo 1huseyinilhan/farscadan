@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-cia-sizintisi-qalibaf-suikast-talebi-israil.jpg
 gorsel_alt: İran Meclis Başkanı Muhammed Bakır Kalibaf'ın portresi
 gorsel_kredi: Tabarez, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohammad-Bagher_Ghalibaf_cropped.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın Reuters'tan aktardığına göre, ABD Merkezi Haberalma Teşkilatı'nda (CIA) 42 yaşında bir yüklenici olan İ.B., görev kapsamı dışındaki çok gizli belgelere eriştiği ve bunları duygusal ilişki içinde olduğu gazeteci Ayda Çavez'e aktardığı iddiasıyla tutuklandı. Çavez, bağımsız yayın organı Capital and Empire'ın kurucusu; FBI soruşturmasına göre İ.B., belgeye eriştiği günlerde Çavez'i birden fazla kez aradı ve Çavez'in haberleri bu erişimden kısa süre sonra yayımlandı. Masumiyet karinesi geçerlidir.
 

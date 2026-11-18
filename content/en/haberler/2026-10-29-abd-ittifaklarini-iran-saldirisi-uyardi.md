@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi.jpg
 gorsel_alt: USS Theodore Roosevelt aircraft carrier transiting the Pacific Ocean
 gorsel_kredi: U.S. Navy, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:200125-N-LH674-1073_USS_Theodore_Roosevelt_(CVN-71).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 After the November 3 Congressional midterm elections, the U.S. warned regional allies of possible new military action against Iran and Tahran's potential retaliation. According to Iran International, citing AP sources, two unnamed diplomats said U.S. diplomatic and defense officials conveyed this warning to several Middle Eastern countries; the White House and U.S. officials declined to comment.

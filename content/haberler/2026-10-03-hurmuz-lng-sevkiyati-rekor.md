@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-hurmuz-lng-sevkiyati-rekor.jpg
 gorsel_alt: LNG taşıyıcı bir geminin açık denizde seyri
 gorsel_kredi: 青空白帆, CC BY 2.1 jp, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Shahamah_LNG_carrier.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Reuters'ın haberine göre Hürmüz Boğazı'ndan eylül ayında geçen sıvılaştırılmış doğal gaz (LNG) sevkiyatları, şubat 2026'da başlayan ABD-İsrail-İran savaşından bu yana kaydedilen en yüksek aylık seviyeye ulaştı. Londra merkezli Iran International'ın Farsça aktardığı habere göre, bölgedeki güvenlik endişelerine ve seyrüsefer belirsizliğine rağmen gaz taşımacılığında belirgin bir toparlanma görüldü.
 

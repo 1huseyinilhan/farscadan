@@ -13,7 +13,7 @@ gorsel: img/2026-11-05-iran-adliye-doviz-istirdadi.jpg
 gorsel_alt: A 100-rial Iranian banknote issued by Iran's central bank
 gorsel_kredi: Bank Markazi Jomhouri Eslami Iran, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, Tehran Judiciary Chief Nasir Atebati announced at a meeting with special courts handling economic crimes that 10.5 billion euros in foreign currency have been returned to the country as a result of prosecutions in currency cases. The announcement came during a session discussing the rapid rise in the number of economic crime files.
 

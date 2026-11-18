@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-iran-abd-yedi-sart-rezayi.jpg
 gorsel_alt: Mohsen Rezayi'nin resmi portresi
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohsen_Rezaee_in_2020.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Yüksek Ulusal Güvenlik Konseyi Sekreteri Tümgeneral Mohsen Rezayi, ABD'nin Tahran'ın Eylül ayında Katar aracılığıyla ilettiği yedi şarttan bazılarını kabul ettiğini, ancak gelen yanıtı yetersiz bulduklarını açıkladı. Hamshahri'nin aktardığına göre Rezayi, X (eski Twitter) hesabından yaptığı paylaşımda "İran diplomasisinin artık eskiye dönmeyeceğini" vurguladı.
 

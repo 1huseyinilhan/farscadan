@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-bayraktar-akinci-insansiz-hava-araci-taiz-husiler.jpg
 gorsel_alt: Bayraktar Akıncı insansız hava aracının yerde duran bir örneği
 gorsel_kredi: emirhandr, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baykar_Akinci.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre Yemen'deki Husi silahlı kuvvetleri sözcüsü Tuğgeneral Yahya Sari, Suudi Arabistan'a ait Türk yapımı silahlı keşif İHA'sı "Bayraktar Akıncı"nın Taiz vilayeti semalarında düşürüldüğünü açıkladı. Sari, İHA'nın "düşmanca faaliyetler" yürütürken vurulduğunu öne sürdü, ancak düşürme yönteminin ayrıntısını paylaşmadı.
 

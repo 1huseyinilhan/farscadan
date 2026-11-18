@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-otomotiv-yaptirimlari.jpg
 gorsel_alt: İran Hodro otomobil fabrikasında üretim hattı
 gorsel_kredi: Hamed Malekpour/Tasnim News Agency, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Iran_Khodro_factory.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Hazine Bakanlığı'nın son yaptırım paketi, İran'ın otomotiv sanayisinin neredeyse tamamını hedef alıyor. Donya-ye Eghtesad'ın aktardığına göre listeye yedi İranlı şirket eklendi:
 

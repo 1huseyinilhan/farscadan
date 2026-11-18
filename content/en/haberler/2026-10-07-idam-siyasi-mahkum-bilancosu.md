@@ -13,7 +13,7 @@ gorsel: img/2026-10-07-idam-siyasi-mahkum-bilancosu.jpg
 gorsel_alt: Exterior of Evin Prison in Tehran
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseOfDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, drawing on data from human rights organizations, Iran has executed at least 70 political prisoners since the start of Dey month protests on December 17, 2025 (January 2026); approximately half of these individuals were convicted in cases directly connected to the protests. The report states that 194 additional people—113 of them among Dey month protest detainees—currently face execution orders.
 

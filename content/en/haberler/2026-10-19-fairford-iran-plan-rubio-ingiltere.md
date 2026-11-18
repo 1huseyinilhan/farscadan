@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-fairford-iran-plan-rubio-ingiltere.jpg
 gorsel_alt: U.S. servicemembers maintaining a B-1 Lancer bomber at RAF Fairford
 gorsel_kredi: Senior Airman Ryan Hayman, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford,_England_November_1_2023.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 U.S. Secretary of State Marco Rubio said that Washington agrees with Britain's assessment of Iran's role in an alleged attack plan against RAF Fairford. According to a report from the London-based opposition outlet Iran International, Rubio's statement shows that the U.S.-British assessment on the incident at the base where U.S. bombers are used in operations against Iran are now aligned.
 

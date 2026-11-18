@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-abd-buyukelcilik-tahliye-korfez.jpg
 gorsel_alt: ABD'nin Riyad'daki büyükelçilik binası
 gorsel_kredi: ABD Riyad Büyükelçiliği, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:US_Embassy_Riyadh_lit_green_for_2022_Foundation_Day_of_Saudi_Arabia_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin, AFP'ye dayandırdığı haberine göre ABD, Suudi Arabistan'daki büyükelçilik personeline ve ailelerine bu ülkeyi terk etme emri verdi. Haber, bir diplomatik kaynağa atfediliyor ve emrin ne zaman verildiğine ilişkin kesin bir tarih içermiyor. IRNA da aynı AFP haberini, kaynağı "diplomatik bir kaynak" olarak nitelendirerek aktardı.
 

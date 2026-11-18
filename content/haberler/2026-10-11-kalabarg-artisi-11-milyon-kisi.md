@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-kalabarg-artisi.jpg
 gorsel_alt: İran Merkez Bankası'nın bastığı 100 riyal değerindeki banknot
 gorsel_kredi: İran Merkez Bankası, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran'da yoksullukla mücadele amacıyla dağıtılan "kalabarg" (gıda kuponu) sisteminde, Emdad Komitesi ve Refah Örgütü kapsamındaki yaklaşık 11 milyon kişinin hesabına 500 bin tümenlik ek kredi yatırıldı. ISNA'nın haberine göre Kooperatifler, Çalışma ve Sosyal Refah Bakan Yardımcısı, bu ek desteğin yalnızca belirli hak sahibi gruplarına yönelik olduğunu açıkladı.
 

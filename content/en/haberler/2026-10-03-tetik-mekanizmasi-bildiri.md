@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-tetik-mekanizmasi-bildiri.jpg
 gorsel_alt: The UN Security Council chamber in New York
 gorsel_kredi: Jdforrester, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_Nations_Headquarters_-_Security_Council_chamber,_straight-on_view.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The US State Department issued a joint statement on the first anniversary of the reimposition of UN Security Council sanctions on Iran (the "trigger mechanism," or *snapback*). The statement was signed by 55 countries and governments.
 

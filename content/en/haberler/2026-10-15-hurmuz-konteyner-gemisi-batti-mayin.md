@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-hurmuz-konteyner-gemisi-batti-mayin.jpg
 gorsel_alt: NASA satellite view of the Strait of Hormuz
 gorsel_kredi: MODIS Rapid Response Team, NASA GSFC, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 A container vessel carrying more than 2,500 boxes sank Wednesday morning in southern Hormuz waters after striking a sea mine. According to Hamshahri, Iran's Islamic Revolutionary Guard Corps Navy (IRGC) said the ship hit a mine after attempting to traverse a route deemed unauthorized and risky, causing a severe fire that led to its sinking.
 

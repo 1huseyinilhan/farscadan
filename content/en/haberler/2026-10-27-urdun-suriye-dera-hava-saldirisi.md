@@ -10,7 +10,7 @@ kaynak_yonelim: Tehran municipality, principlist
 kaynak_url: https://www.hamshahrionline.ir/news/1080523/آغاز-یک-درگیری-تازه-در-منطقه-تلفات-حمله-هوایی-اردن-به-جنوب-سوریه-به-8-نفر-رسید
 kaynak_baslik_fa: آغاز یک درگیری-تازه-در-منطقه؛ تلفات-حمله-هوایی-اردن-به-جنوب-سوریه-به-۸-نفر-رسید
 ek_kaynaklar: IRNA | https://www.irna.ir/news/86304355/ ;; ISNA | https://www.isna.ir/news/1405080502718/
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-27-urdun-suriye-dera-hava-saldirisi.png
 gorsel_alt: Map showing Syria's Dera province
 gorsel_kredi: KureCewlik81, Public domain, Wikimedia Commons

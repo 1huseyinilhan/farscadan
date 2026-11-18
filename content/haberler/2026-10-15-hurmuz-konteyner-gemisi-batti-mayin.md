@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-hurmuz-konteyner-gemisi-batti-mayin.jpg
 gorsel_alt: Hürmüz Boğazı'nın NASA uydusundan çekilmiş görüntüsü
 gorsel_kredi: MODIS Kara Hızlı Müdahale Ekibi, NASA GSFC, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hürmüz Boğazı'nın güney sularında çarşamba sabahı 2.500'den fazla konteyner taşıyan bir gemi, bir deniz mayınına çarparak battı. Hamshahri'nin aktardığına göre İran Devrim Muhafızları Deniz Kuvvetleri (Sepah), "kurallara aykırı ve riskli bir rotadan" geçmeye çalışan geminin mayına çarpıp şiddetli yangın çıkardığını ve battığını açıkladı.
 

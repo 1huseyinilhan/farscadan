@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-meclis-hobregan-npt-savunma-doktrini.jpg
 gorsel_alt: "Night view of the Milad Tower in Tehran"
 gorsel_kredi: "Bahador, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Milad_Tower_Night_View_in_2006.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Assembly of Experts, in a statement released Thursday, described a review of the country's defense doctrine as an "inevitable necessity." According to the full text published by Ettela'at, the body thanked the public for its presence in the streets during an eight-month "resistance period," and stressed the need for cultural matters (especially "modesty and Islamic dress"), economic and livelihood concerns, NPT withdrawal demands, and a re-evaluation of defense doctrine, alongside the continuation of resistance and "honorable diplomacy"; it also condemned court decisions against clergy in regional countries.
 

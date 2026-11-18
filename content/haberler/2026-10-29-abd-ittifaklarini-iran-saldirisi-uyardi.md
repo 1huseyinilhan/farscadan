@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-abd-ittifaklarini-iran-saldirisi-uyardi.jpg
 gorsel_alt: USS Theodore Roosevelt uçak gemisi Pasifik Okyanusu'nda seyir hâlinde
 gorsel_kredi: ABD Donanması, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:200125-N-LH674-1073_USS_Theodore_Roosevelt_(CVN-71).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD, 3 Kasım'daki Kongre ara seçimlerinin ardından İran'a yönelik olası yeni askeri harekâta ve Tahran'ın muhtemel karşılığına karşı bölgesel müttefiklerini uyardı. Iran International'ın AP'den aktardığına göre, isimleri açıklanmayan iki diplomat, ABD'li diplomatik ve savunma yetkililerinin bu uyarıyı Orta Doğu'daki birkaç ülkeye ilettiğini söyledi; Beyaz Saray ve ABD'li yetkililer konuyla ilgili yorum yapmadı.
 

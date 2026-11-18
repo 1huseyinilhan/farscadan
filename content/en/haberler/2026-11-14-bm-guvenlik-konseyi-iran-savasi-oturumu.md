@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-bm-guvenlik-konseyi-iran-savasi-oturumu.jpg
 gorsel_alt: UN Security Council meeting room in New York
 gorsel_kredi: Wikimedia Commons contributor, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:UN_Security_Council_-_2018_(31078373778).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 During the UN Security Council's "Situation in the Middle East" session, Russian and Chinese representatives called Friday (November 13) for an immediate end to U.S. and Israeli military operations against Iran. According to Donya-ye Eqtesad, Iran's UN Permanent Representative and Minister Counselor Gholamhossein Darzi warned in the same session that any new U.S. attack would be met with "immediate and decisive" retaliation.
 

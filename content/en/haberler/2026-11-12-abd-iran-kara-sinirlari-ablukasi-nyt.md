@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt.jpg
 gorsel_alt: Gürbulak land border gate on the Turkey-Iran frontier
 gorsel_kredi: Adam Jones, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Panorama_from_Turkish-Iranian_Frontier_at_Gurbulak_Crossing_-_Turkey_(5804744702).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The New York Times reported that the U.S. spent weeks in intensive diplomacy trying to convince Turkey, Iraq, and Pakistan to shut down land border crossings with Iran, but the effort failed. According to Khabaronline's account of the Times reporting, officials from all three countries told Washington that closing the borders would damage their own economies; communities in border regions depend on trade and cross-border transit.
 

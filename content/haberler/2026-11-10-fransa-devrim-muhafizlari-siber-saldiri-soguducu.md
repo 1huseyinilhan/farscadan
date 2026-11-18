@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-fransa-devrim-muhafizlari-siber-saldiri-soguducu.jpg
 gorsel_alt: Fransa Dışişleri Bakanlığı'nın Quai d'Orsay'daki binası
 gorsel_kredi: Jebulon, Kamu malı (CC0), Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_fran%C3%A7ais_des_Affaires_Etrang%C3%A8res_et_Europ%C3%A9ennes_Quai_d%27Orsay_Paris.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Fransa, bir ay önce yüzlerce süpermarket ve bakkalın soğutma sistemlerini devre dışı bırakan siber saldırıyı Devrim Muhafızları Ordusu'na (Sepah) bağladı. Iran International'ın aktardığına göre Fransız yetkililer, Pazartesi günü İran'ın Paris büyükelçisini çağırarak protesto etti ve Tahran'a bu adımın "sonuçları olacağı" uyarısında bulundu.
 

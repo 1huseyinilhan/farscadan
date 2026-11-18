@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-abd-iran-kara-sinirlari-ablukasi-nyt.jpg
 gorsel_alt: Türkiye-İran sınırındaki Gürbulak kara hudut kapısı
 gorsel_kredi: Adam Jones, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Panorama_from_Turkish-Iranian_Frontier_at_Gurbulak_Crossing_-_Turkey_(5804744702).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 New York Times, ABD'nin Türkiye, Irak ve Pakistan'ı İran ile kara sınır geçişlerini kapatmaya ikna etmek için haftalarca sürdürdüğü diplomatik çabanın sonuçsuz kaldığını yazdı. Khabaronline'ın gazeteye atfen aktardığına göre üç ülkenin yetkilileri Washington'a, sınır geçişlerinin kapatılmasının kendi ekonomilerine zarar vereceğini bildirdi; sınır bölgesindeki toplulukların iki taraf arasındaki ticarete ve geçişe bağımlı olduğu belirtildi.
 

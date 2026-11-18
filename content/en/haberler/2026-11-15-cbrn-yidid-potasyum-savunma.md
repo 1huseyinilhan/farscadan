@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-cbrn-yidid-potasyum-savunma.jpg
 gorsel_alt: "IOSAT brand potassium iodide tablets in packaged boxes"
 gorsel_kredi: "U.S. Air Force photo by Michael J. Veloz, Public domain, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:110404-F-AM028-036_packs_of_IOSAT_potassium_iodide_tablets.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Behruz Jannat, Secretary of Passive Defense at Iran's Food and Drug Organization, emphasized the necessity of preparedness against chemical, biological, radiological, and nuclear (CBRN) threats, and stated that pharmaceutical and antidote procurement to counter these threats must be grounded in scientific need analysis, precise determination of the threat type, and clear institutional responsibility. According to reporting from Khabaronline, which also cited IRNA, Jannat stressed that purchases made without technical review and exposure scenario assessment are not an appropriate method for emergency preparedness.
 

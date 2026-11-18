@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-abd-hazine-yatirim-kisitlama-iran-cin-rusya.jpg
 gorsel_alt: Rear view of the U.S. Treasury Department building, Washington
 gorsel_kredi: AgnosticPreachersKid, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Department_rear_view.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The U.S. Treasury Department announced on October 22 that Iran would be included, alongside China, Russia, North Korea, and Cuba, in a proposed new investment restriction framework. According to Iran International, citing Reuters and Treasury statements, the goal is to prevent capital flows and associated advantages from reaching technological activities that would strengthen these countries' military, intelligence, surveillance, or cyber capabilities.
 

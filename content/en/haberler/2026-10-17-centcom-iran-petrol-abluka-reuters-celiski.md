@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski.jpg
 gorsel_alt: Large crude oil tanker (VLCC) undergoing maintenance in dry dock
 gorsel_kredi: Eric Gao, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Vlcc_In_Dry_Dock_(142176503).jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 On October 16, CENTCOM Commander Admiral Brad Cooper released a video message stating that following the U.S. "Operation Epic Fury," the region deployed over 50,000 American forces, resulting in Iran being unable to export or import anything by sea, with the strait becoming completely "impenetrable" except for humanitarian aid. According to Iran International's account, Cooper claimed this blockade has prevented at least $25 billion in crude oil exports and aided the freezing of approximately $350 million in cryptocurrency assets with help from other U.S. agencies. Cooper added that this pressure has forced Iran's government, including the Revolutionary Guards and other institutions, to fall behind on salary payments to security forces.

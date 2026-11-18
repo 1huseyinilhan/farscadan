@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-antalya-brics-nukleer-enerji-platformu.jpg
 gorsel_alt: "Rusya'nın Türkiye'de inşa ettiği Akkuyu Nükleer Güç Santrali"
 gorsel_kredi: "Rosatom Dijital Basın Ofisi, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Akkuyu_Nuclear_Power_Plant.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 BRICS üyesi ülkelerin Nükleer Enerji Platformu'nun yıllık toplantısı Cuma günü Türkiye'nin Antalya kentinde yapıldı. IRNA'nın aktardığına göre toplantıya İran heyeti de katıldı; haber ajansı görüşmelerin BRICS ülkeleri arasındaki nükleer etkileşimlerin geliştirilmesine odaklandığını bildirdi.
 

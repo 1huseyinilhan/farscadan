@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-erdogan-aliyev-baku-gerginlik.jpg
 gorsel_alt: Bakü şehrinin Kız Kalesi çevresindeki siluet görünümü
 gorsel_kredi: Viceskeeni2, Kamu malı (CC0), Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baku_Skyline_qiz_qalasi.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın Al-Monitor'den aktardığına göre Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Azerbaycan'ın Ermenistan'a karşı 2020 zaferinin yıl dönümü olan 8 Kasım Zafer Günü törenlerine katılmak için pazar günü Bakü'ye yapacağı ziyaret, iki eski müttefik arasında derinleşen bir krizi örtme girişimi olarak değerlendiriliyor. Al-Monitor muhabiri Amberin Zaman'a göre Azerbaycan okullarında başörtüsü yasağı tartışması, yüzeydeki bir kıvılcımdan ibaret; asıl anlaşmazlık Bakü'nün Tel Aviv'le yakın ilişkilerinden Ankara'nın Erivan'la normalleşme çabasına kadar uzanıyor.
 

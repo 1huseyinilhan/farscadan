@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-iyot-hapi-tayms-saglik-bakanligi.jpg
 gorsel_alt: "IOSAT brand potassium iodide tablet packages"
 gorsel_kredi: "U.S. Air Force/Staff Sergeant Michael J. Veloz, Public domain, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:110404-F-AM028-036_packs_of_IOSAT_potassium_iodide_tablets.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline's report from Mehr, Iran's Health Ministry Public Relations Director Hossein Kermanpur denied the British newspaper The Times's claim that potassium iodide tablets were distributed to residents near sensitive nuclear facilities. Kermanpur stated that no Health Ministry official granted an interview to The Times.
 

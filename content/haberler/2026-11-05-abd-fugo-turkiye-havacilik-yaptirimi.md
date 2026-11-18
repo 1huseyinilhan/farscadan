@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-abd-fugo-turkiye-havacilik-yaptirimi.jpg
 gorsel_alt: "Washington'daki ABD Hazine Bakanlığı binasının dış görünümü"
 gorsel_kredi: "颐园居, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:America_Treasury_Department_Building_20240601.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın aktardığına göre ABD Hazine Bakanlığı, "Ekonomik Tecrit" operasyonu kapsamında Çarşamba günü İstanbul merkezli Fugo Ground Services şirketini, yaptırımlı İran hava yollarına verdiği yer hizmetleri nedeniyle yaptırım listesine ekledi. Aynı gün açıklanan ayrı bir eylemde, sahte bayrak kaydı sağlayan bir Hint şebekesi de tahrim edildi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-kalabarg-hedefli-yardim-tartisma.jpg
 gorsel_alt: "Tahran Büyük Bazarı'nın içi"
 gorsel_kredi: "Telluride, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Plan ve Bütçe Örgütü Başkanı Hamid Purmuhammedi'nin, destek kaynaklarının herkese eşit biçimde ödenmesinin "doğru bir yöntem olmadığını" söylemesi, kalabarg (elektronik gıda kredisi) sisteminde hedefli yardım tartışmasını yeniden alevlendirdi. Khabaronline'ın aktardığına göre Purmuhammedi, hükümetin desteklerini hanelerin ihtiyaç ve kırılganlık düzeyine göre ayarlaması gerektiğini, kısıtlı kaynakların önce en kırılgan ve ihtiyaç sahibi kesimlere yönlendirilmesi, bu grupların ihtiyaçları karşılandıktan sonra desteğin diğer hanelere genişletilmesinin değerlendirilmesi gerektiğini vurguladı.
 

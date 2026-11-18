@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-macron-korfez-hurmuz-ziyareti.jpg
 gorsel_alt: Portrait of French President Emmanuel Macron
 gorsel_kredi: European Commission, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_-_June_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 French President Emmanuel Macron will travel to the Gulf region next week to discuss recent developments in the Strait of Hormuz and the global energy crisis. According to IRNA, citing Reuters, the Élysée Palace announced Wednesday evening that Macron will visit Kuwait, the United Arab Emirates, Bahrain, and Qatar on October 19–21 (the 27–29th of Mehr).
 

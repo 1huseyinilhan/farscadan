@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-mehr-ayi-idam-istatistik.jpg
 gorsel_alt: Exterior view of Evin Prison in Tehran
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's judiciary executed at least 79 people during Mehr month (September 23–October 23), including two women, on various charges in prisons across the country. According to Iran International, this figure is based not on an official announcement but on a compilation derived from monitoring executions; Iranian authorities do not publish monthly execution statistics.
 

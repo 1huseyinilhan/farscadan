@@ -13,7 +13,7 @@ gorsel: img/2026-11-03-abdullah-ocalan-imrali-pkk-silah-birakma.jpg
 gorsel_alt: "İmralı Adası'ndaki cezaevi binasının dış görünümü"
 gorsel_kredi: "Amerikanın Sesi (VOA), Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Imrali_prison.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Reformcu çizgideki Khabaronline'ın yayımladığı uzun portre yazısına göre Abdullah Öcalan, 4 Nisan 1949'da Şanlıurfa'nın Halfeti ilçesine bağlı Ömerli köyünde doğdu. Haberde, Öcalan'ın 1960'ların sonunda Ankara'da bir meslek okuluna gittiği, Diyarbakır'da tapu dairesinde çalıştığı ve 1971'de Ankara Üniversitesi Siyasal Bilgiler Fakültesi'ne girdiği; o dönemin fakültede sol ve öğrenci hareketlerinin yoğunlaştığı bir ortam olarak tarif edildiği anlatılıyor. Khabaronline'a göre Öcalan ve arkadaşları 1973'te "Kürdistan Devrimcileri" adlı gayri resmî bir grup kurdu; bu grup Kürdistan'ı bir "sömürge" olarak görüp silahlı Marksist-Leninist bir öncü yapı çağrısı yaptı. 27 Kasım 1978'de Diyarbakır yakınlarındaki Fis köyünde gizli bir kongrede Kürdistan İşçi Partisi (PKK) resmen kuruldu ve Öcalan genel sekreter seçildi.
 

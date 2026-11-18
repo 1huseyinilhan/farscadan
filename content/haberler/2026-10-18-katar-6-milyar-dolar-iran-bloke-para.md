@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-katar-6-milyar-dolar-iran-bloke-para.jpg
 gorsel_alt: Doha şehrinin gökdelenleriyle günbatımı silüeti
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Katar Dışişleri Bakanlığı Sözcüsü Macid el-Ansari, Donya-ye Eghtesad'ın aktardığına göre, 2023 tarihli insani kanal anlaşması çerçevesinde Katar'da tutulan yaklaşık 6 milyar dolarlık İran kaynağının, taraflar arasında müzakere sürecinde "kilit teşvik araçlarından biri" ve karşılıklı güven inşa etmenin bir yolu olarak değerlendirildiğini söyledi. El-Ansari'nin açıklaması, bölgedeki askeri hareketlilik ve güvenlik endişelerine ilişkin spekülasyonlara yanıt olarak geldi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-eisenkot-israil-birlik-hukumeti.jpg
 gorsel_alt: Portrait of Gadi Eisenkot
 gorsel_kredi: Ronen Horesh, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_(R_H_3639).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, Israeli President Isaac Herzog tasked Gadi Eisenkot, widely regarded as Benjamin Netanyahu's fiercest rival, with forming a new government on Saturday evening; the task will be formally conveyed to Eisenkot on Sunday at an official ceremony. According to reports based on Hebrew media, 67 of 120 Knesset members nominated Eisenkot, while 46 nominated Netanyahu.
 

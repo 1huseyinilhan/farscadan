@@ -10,7 +10,7 @@ kaynak_yonelim: Devlet ajansı (hükümet)
 kaynak_url: https://www.irna.ir/news/86304370/
 kaynak_baslik_fa: انفجارها شرق عربستان را لرزاند / توقف پروازها در فرودگاه ملک فهد دمام
 ek_kaynaklar: Aerocorner | https://aerocorner.com/news/dammam-airport-attack-death-toll-two-flights-resume/ ;; Airways Magazine | https://airwaysmag.com/new-post/dammam-airport-resumes-flights-attack-two-killed
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-27-dammam-havalimani-patlama-ucuslar.jpg
 gorsel_alt: Dammam'daki Kral Fahd Uluslararası Havalimanı'nda bir hangar
 gorsel_kredi: ABD Hava Kuvvetleri, Kamu malı, Wikimedia Commons

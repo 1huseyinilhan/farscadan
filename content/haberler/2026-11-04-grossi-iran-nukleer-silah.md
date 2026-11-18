@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-grossi-iran-nukleer-silah.jpg
 gorsel_alt: "IAEA Genel Direktörü Rafael Grossi bir basın toplantısında konuşuyor"
 gorsel_kredi: "IAEA Imagebank, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:IAEA_Director_General_Rafael_Mariano_Grossi_4.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran Belediyesi'ne yakın Hamshahri'nin aktardığına göre Uluslararası Atom Enerjisi Ajansı (IAEA) Genel Direktörü Rafael Grossi, Kolombiya'nın Karakol Radyosu'na verdiği röportajda İran'ın elinde nükleer silah bulunmadığını söyledi. Grossi, ABD ve İsrail'in İran'ın IAEA denetimindeki nükleer tesislerine yönelik askeri saldırılarının sonuçlarına ilişkin bir soruya yanıt verirken, bir diplomat ve nükleer silahların yayılmasını önlemeye çalışan bir kurumun yöneticisi olarak her zaman siyasi ve diplomatik çözümler aradığını belirtti.
 

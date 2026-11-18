@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-trump-ensarallah-binselman.jpg
 gorsel_alt: Official portrait of U.S. President Donald Trump
 gorsel_kredi: Daniel Torok, White House, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 President Donald Trump said the U.S. is in contact with Yemen's Houthi movement Ansarallah following the missile strike on Riyadh and will speak with Saudi Crown Prince Mohammed bin Salman. According to IRNA, Trump characterized what happened in Saudi Arabia as "unacceptable" while leaving ambiguous whether the U.S. would directly enter the conflict.
 

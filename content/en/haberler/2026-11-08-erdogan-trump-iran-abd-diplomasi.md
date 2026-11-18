@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-erdogan-trump-iran-abd-diplomasi.jpg
 gorsel_alt: President Erdoğan and President Trump at a multilateral meeting at United Nations Headquarters
 gorsel_kredi: White House, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Donald_Trump_participates_in_a_multilateral_meeting_with_Turkish_President_Tayyip_Erdogan,_and_others_at_the_United_Nations_Headquarters_(54823840079).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline, citing the Anadolu Agency, President Recep Tayyip Erdoğan told U.S. President Donald Trump in a phone call on Saturday evening that tensions between Washington and Tehran must be resolved through diplomacy. According to Khabaronline's account based on a statement from Turkey's Presidential Communications Directorate, the Anadolu Agency reported that the call covered bilateral relations and regional and global developments. Khabaronline also noted that Iran's state news agency IRNA carried the same information; in other words, the existence of the call was confirmed both through Turkey's official channel and Iranian state media, though the full text or duration of the call was not disclosed.
 

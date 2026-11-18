@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-ev-okulu-egitim-bakanligi-uyari.jpg
 gorsel_alt: Tahran'da İran Eğitim Bakanlığı'nın modern beton cephe bina görünümü
 gorsel_kredi: GTVM92, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Ministry_of_Education_of_Iran_6982.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran Eğitim Bakanlığı İl Müdürü Mecid Parsa, ISNA'ya verdiği ve Kayhan'ın aktardığı demeçte, başkentte faaliyet gösteren "ev okulu" adlı bazı özel eğitim merkezlerinin faaliyetini yasa dışı okulculuk olarak nitelendirdiğini, bu mekânların okul unvanını taşımaya hakkı olmadığını söyledi. Parsa, tespit edilen merkezlerin "mekân dairesi" dahil ilgili makamlara bildirileceğini, bazı durumlarda bu mekânların zaten mühürlendiğini açıkladı.
 

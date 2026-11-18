@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-kamp-david-gizli-toplanti-iran-yemen.jpg
 gorsel_alt: A view of Camp David, the US presidential retreat
 gorsel_kredi: White House Photo Office, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_George_W._Bush_at_Camp_David.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Senior members of US President Donald Trump's national security team discussed the next steps in the Iran war and a possible Saudi operation against the Houthis in Yemen at an unannounced meeting at Camp David on Friday. According to Khabaronline, citing Axios, the meeting was chaired by Vice President J.D. Vance.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-riyad-havalimani-pehpad-saldirisi-husi-aramco.jpg
 gorsel_alt: Riyad'daki Kral Abdullah Finans Bölgesi (KAFD) ve Kingdom Kulesi'nin silüeti
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre, Yemen'deki Husiler (Ensarullah) pazar günü başkent Riyad ve Suudi Arabistan'ın doğu bölgelerine füze ve pehpadlarla saldırı düzenledi; saldırı sonrasında Riyad'ın uluslararası havalimanının faaliyetinde kesinti yaşandı ve petrol şirketi Aramco'ya bağlı bir idari bina hasar gördü. Suudi makamları can kaybı bildirmedi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-abd-fugo-turkiye-havacilik-yaptirimi.jpg
 gorsel_alt: Exterior view of the U.S. Treasury Department building in Washington
 gorsel_kredi: 颐园居, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:America_Treasury_Department_Building_20240601.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, the U.S. Treasury Department on Wednesday added Istanbul-based Fugo Ground Services to its sanctions list as part of an "Economic Enforcement" operation, citing the company's provision of ground services to blacklisted Iranian airlines. In a separate action announced the same day, an Indian network facilitating false flag registration was also sanctioned.
 

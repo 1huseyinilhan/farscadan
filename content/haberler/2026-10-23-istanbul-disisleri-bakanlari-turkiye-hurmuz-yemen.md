@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-istanbul-disisleri-bakanlari-turkiye-hurmuz-yemen.jpg
 gorsel_alt: İstanbul'daki Dolmabahçe Sarayı'nın cephesi
 gorsel_kredi: Julian Lupyan, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Entrance_to_Dolmabah%C3%A7e_Palace,_Architectural_Panorama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye Dışişleri Bakanı Hakan Fidan, cuma günü İstanbul'da yedi ülkenin dışişleri bakanını ağırladı. İran International'ın aktardığına göre toplantının gündeminde İran-ABD savaşı, Hürmüz ve Babülmendep boğazlarının güvenliği, Yemen'deki gelişmeler ve Filistin meselesi vardı; buluşma Reuters'ın da doğruladığı üzere bu formatta ilk kez düzenlendi.
 

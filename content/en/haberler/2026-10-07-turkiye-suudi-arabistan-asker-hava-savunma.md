@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-turkiye-suudi-arabistan-asker-hava-savunma.jpg
 gorsel_alt: Turkish Army soldiers conducting live fire support exercise
 gorsel_kredi: OR-6 Brett Dodge (NATO), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Soldiers_from_the_Turkish_Army_SPH_Battalion_conduct_a_live_fire_exercise_with_the_AK40-GL_Bombaatar_during_Exercise_Steadfast_Defender_2021.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat newspaper, reporting via the Tasnim News Agency, Turkey is preparing to send additional military personnel and air defense systems to Saudi Arabia as Houthi attacks against the kingdom intensify. The report states that the primary purpose of the move is to protect Saudi Arabia's critical energy infrastructure, specifically the East-West Pipeline. The English news site Middle East Eye independently verified this plan based on multiple sources.
 

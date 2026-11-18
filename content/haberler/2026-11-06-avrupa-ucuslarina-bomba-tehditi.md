@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-avrupa-ucuslarina-bomba-tehditi.jpg
 gorsel_alt: Viyana Uluslararası Havalimanı'nın hava trafik kontrol kulesinden görünümü
 gorsel_kredi: Stanislav Doronenko, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=78081294
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre Avrupa'da cuma günü en az 14 yolcu uçuşu bomba tehdidiyle hedef alındı; tehditler bazı uçuşların rotasının değiştirilmesine ve savaş uçaklarının havalanmasına yol açtı.
 

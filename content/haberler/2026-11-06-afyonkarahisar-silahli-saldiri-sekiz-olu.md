@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-afyonkarahisar-silahli-saldiri-sekiz-olu.jpg
 gorsel_alt: Afyonkarahisar Kalesi'nin havadan görünümü
 gorsel_kredi: Nabbegat, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=139752437
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre Türkiye'nin batısındaki Afyonkarahisar ilinde perşembe günü üç köyde art arda yaşanan silahlı saldırılarda sekiz kişi öldü, bir kişi de ağır yaralandı. Saldırgan olay yerinden kaçtı ve kısa süren bir operasyonla komşu Eskişehir ilinde yakalandı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-cop31-antalya-iran-savasi-iklim.jpg
 gorsel_alt: Street view from Antalya's historic Kaleici neighborhood
 gorsel_kredi: REHBER0770, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The United Nations' 31st Climate Change Conference (COP31) opened Wednesday in Antalya, Turkey; world leaders attending the summit warned of the Iran war's impact on the global economy while calling for reduced dependence on fossil fuels. According to Iran International's account citing Reuters, rising energy and food prices, wars, and trade disputes have distracted governments from the climate crisis, and UN officials and some world leaders are now framing global warming not only as an environmental imperative but also as a tool for controlling inflation and strengthening economic security.
 

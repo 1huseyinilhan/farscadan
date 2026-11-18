@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-iran-diplomatlari-sinir-disi.jpg
 gorsel_alt: New York'ta Birleşmiş Milletler Genel Kurul binası
 gorsel_kredi: Superbass, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_building,_East_river_in_New_York_City_-_2024-11-18-Headquarters_of_the_United_Nations-0605_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Donya-ye Eghtesad'ın Axios'a dayandırdığı habere göre, İran'ın BM Genel Kurulu heyetinden iki diplomat cumartesi günü ABD'den "çıkarıldı". Adı açıklanmayan bir ABD'li yetkili, bu iki kişinin New York'u tüm heyetle birlikte terk etmeleri yönündeki talebe uymadığını söyledi. Haberi Axios doğrudan yayımladı; Iran International de aynı iddiayı Axios'a atfen teyit etti.
 

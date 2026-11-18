@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki.jpg
 gorsel_alt: İran İslami Şura Meclisi'nin oturum salonu
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Majlis.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Donya-e Eqtesad'ın haberine göre İran İslam Cumhuriyeti'nin devrim sonrası kurumu olan "Savunma ve Silahlı Kuvvetler Destek Bakanlığı", 1979 Devrimi'nden Haziran 1984'e kadar "Milli Savunma Bakanlığı" adıyla, 1984-1989 arasında ise kısaca "Savunma Bakanlığı" adıyla faaliyet gösterdi. 1989'da dönemin Savunma Bakanlığı ile Devrim Muhafızları Bakanlığı'nın birleşmesiyle bugünkü yapı oluştu. Habere göre kuruluşundan bugüne 14 hükümette toplam 15 asker kökenli isim bu bakanlığın başında görev yaptı; bunlardan Mustafa Çamran, Tümgeneral Cevad Fekuri, Tümgeneral Musa Namcu ve Amir Aziz Nasirzade olmak üzere dört bakan görevdeyken şehit oldu.
 

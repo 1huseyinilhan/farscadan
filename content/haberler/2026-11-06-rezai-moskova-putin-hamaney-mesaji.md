@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-rezai-moskova-putin-hamaney-mesaji.jpg
 gorsel_alt: Rusya Devlet Başkanı Vladimir Putin'in resmî portresi
 gorsel_kredi: Rusya Devlet Başkanlığı Basın Servisi, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=199734669
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre Yüksek Ulusal Güvenlik Konseyi Sekreteri Muhsin Rezai, önceden açıklanmamış bir Moskova ziyaretinde Rusya Devlet Başkanı Vladimir Putin'le görüştü ve İslam Devrimi Rehberi Ayetullah Seyyid Mücteba Hamaney'in mesajını kendisine iletti. Görüşme, Rusya'nın İran'a tedarik ettiği silahlara ilişkin yeni bir habere basında yer verilmesiyle aynı güne denk geldi.
 

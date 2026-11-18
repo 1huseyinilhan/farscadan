@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-pezeskiyan-savas-ekonomisi.jpg
 gorsel_alt: Official portrait of President Masoud Pezeshkian
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_2024_portrait.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 President Masoud Pezeshkian announced in a post on X that the government has "adopted a new arrangement to manage special conditions," according to Hamshahri. Pezeshkian wrote that "the enemy's plan in recent months has been to cut the country's vital arteries in order to put pressure on the Iranian people."
 

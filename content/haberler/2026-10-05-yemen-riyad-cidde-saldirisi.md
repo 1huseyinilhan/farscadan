@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-yemen-riyad-cidde-saldirisi.jpg
 gorsel_alt: Riyad şehrinin gökdelenlerle çevrili silueti
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Yemen silahlı kuvvetleri, Suudi Arabistan'ın başkenti Riyad'da ve batıdaki liman kenti Cidde'de hedeflere füze ve İHA saldırısı düzenlediğini bildirdi. ISNA'nın haberine göre saldırı iddialarının ardından Riyad havalimanında uçuş trafiği durduruldu. Suudi öncülüğündeki koalisyon ise Husilerin iddiasını "yanıltıcı" olarak nitelendirip yalanladı.
 

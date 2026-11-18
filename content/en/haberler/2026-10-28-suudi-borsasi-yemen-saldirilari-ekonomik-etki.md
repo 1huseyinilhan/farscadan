@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-suudi-borsasi-yemen-saldirilari-ekonomik-etki.jpg
 gorsel_alt: Kingdom Centre Tower and the financial district in Riyadh
 gorsel_kredi: Hamza A. Durrani, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Kingdom_Centre_Riyadh_2024.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Bloomberg's October assessment, the continuing Houthi attacks originating from Yemen have driven the Saudi Arabian stock exchange to its lowest levels since 2021. According to ISNA's report, the news service wrote that the attacks are also straining the country's economic diversification goals.
 

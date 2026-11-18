@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-kalabarg-artisi.jpg
 gorsel_alt: A 100-rial banknote issued by Iran's central bank
 gorsel_kredi: Central Bank of Iran, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 In Iran's "food allowance" (caloric voucher) system designed to combat poverty, approximately 11 million people under the Emdad Committee and Social Welfare Organization have had 500,000 tomans in additional credit deposited in their accounts. According to ISNA's report, a deputy minister of Cooperatives, Labor and Social Welfare said the supplementary benefit targets only certain eligible groups.
 

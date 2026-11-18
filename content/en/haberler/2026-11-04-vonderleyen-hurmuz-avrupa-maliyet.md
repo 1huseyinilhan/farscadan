@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet.jpg
 gorsel_alt: "European Commission President Ursula von der Leyen speaking at a meeting"
 gorsel_kredi: "European Commission Audiovisual Service / Christophe Licoppe, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mark_Carney_meets_Ursula_von_der_Leyen_2026-09_(4).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, European Commission President Ursula von der Leyen, speaking at a "Win-Win Brussels" meeting held in Brussels, said that the closure of the Strait of Hormuz has imposed a heavy bill on Europe. According to von der Leyen, fossil fuel imports have imposed an additional 127 billion euro cost on Europe since the strait closed; meanwhile, the continent, by her own account, has gained "not a single molecule" of additional energy.
 

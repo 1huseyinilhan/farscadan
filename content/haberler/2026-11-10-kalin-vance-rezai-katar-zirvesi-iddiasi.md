@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi.jpg
 gorsel_alt: Türkiye Millî İstihbarat Teşkilatı Başkanı İbrahim Kalın'ın portresi
 gorsel_kredi: Tahirselim2016, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Portrait_of_%C4%B0brahim_Kal%C4%B1n.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye Millî İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, ABD Başkan Yardımcısı JD Vance ile İran Yüksek Millî Güvenlik Konseyi Sekreteri Muhsin Rezai'nin gelecek hafta Katar'da buluşacağını açıkladı. Iran International'ın aktardığına göre, Devrim Muhafızlarına yakın Tasnim ajansı ise Tahran'daki kıdemli bir güvenlik yetkilisine dayanarak böyle bir görüşmenin planlanmadığını duyurdu.
 

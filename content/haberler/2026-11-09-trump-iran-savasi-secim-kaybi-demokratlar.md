@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-trump-iran-savasi-secim-kaybi-demokratlar.jpg
 gorsel_alt: ABD Başkanı Donald Trump'ın resmî portresi
 gorsel_kredi: Daniel Torok, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre ABD Başkanı Donald Trump, Kongre ara seçimindeki parti yenilgisinin ardından verdiği ilk röportajda, Cumhuriyetçilerin kaybını İran'la savaşa ve yükselen benzin fiyatlarına bağladı; aynı zamanda savaşı tırmandırma niyeti olmadığını söyledi. Aynı gün Demokrat Senatör Elizabeth Warren, savaşı bitirme yönündeki halk baskısının arttığını açıkladı.
 

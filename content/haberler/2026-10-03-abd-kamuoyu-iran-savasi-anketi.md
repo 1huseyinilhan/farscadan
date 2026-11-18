@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-abd-kamuoyu-iran-savasi-anketi.jpg
 gorsel_alt: Gün doğumunda ABD Kongre binası (Capitol)
 gorsel_kredi: ABD Temsilciler Meclisi, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:2023_United_States_Capitol_118th_Congress,_sunrise.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD'de yapılan yeni bir ulusal ankete göre yetişkinlerin yaklaşık %70'i, ABD ve İsrail'in İran'a karşı sürdürdüğü savaşın "değmediğini" düşünüyor. Ettelaat'ın Al Jazeera'dan aktardığına göre Perşembe günü yayımlanan AP-NORC anketi, bu oranın Temmuz ayından bu yana 5 puan arttığını gösteriyor.
 

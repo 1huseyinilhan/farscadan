@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-azerbaycan-hicap-yasagi-turkiye-geri-adim.jpg
 gorsel_alt: Türkiye Dışişleri Bakanı Hakan Fidan'ın resmî portresi
 gorsel_kredi: ABD Dışişleri Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Azerbaycan okullarında başörtülü öğrenci ve öğretmenlerin sınıfa alınmamasına karşı Türkiye'ye sıçrayan protestolarda yeni bir perde açıldı. Kayhan'ın Tasnim'e dayandırdığı habere göre, geçen hafta yasağı eleştiren Türk yetkililer ve basını, bu hafta tutumunu yumuşattı; Kayhan bunu Ankara'nın "ekonomik ve siyasi çıkarlar karşısında geri çekilmesi" olarak yorumladı ve haberin başlığında bunu "Azerbaycan'ın iç işlerine karışanların Türkiye'de cezalandırılacağı tehdidi" olarak sundu.
 

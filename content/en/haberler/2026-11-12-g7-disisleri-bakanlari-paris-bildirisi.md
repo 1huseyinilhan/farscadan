@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi.jpg
 gorsel_alt: French Foreign Ministry building in Paris, Quai d'Orsay
 gorsel_kredi: Jebulon, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_fran%C3%A7ais_des_Affaires_Etrang%C3%A9res_et_Europ%C3%A9ennes_Quai_d%27Orsay_Paris.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 G7 foreign ministers released a joint statement Wednesday following their November 18–19 meeting in Paris, expressing concern about Iran's "violent plots." According to Iran International, the U.S., UK, France, Germany, Italy, Canada, and Japan foreign ministers, along with the EU's high representative, emphasized that Iran must never be allowed to acquire nuclear weapons and that if diplomacy fails, economic and political pressure will continue.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-aramco-zehran-misil-saldirisi-tahliye.jpg
 gorsel_alt: Aramco'nun Zehran'daki idare binaları ve cami
 gorsel_kredi: Eagleamn, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:AramcoCoreArea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan Enerji Bakanlığı, devlet petrol şirketi Aramco'nun Doğu Eyaleti'ndeki Zehran kentinde bulunan idare binasının salı akşamı hedef alındığını doğruladı; bakanlık can kaybı bildirilmediğini belirtti. İRNA'nın haberine göre saldırı, Yemen'deki silahlı güçlerin Riyad, Zehran ve Dammam'a yönelik art arda gerçekleştirdiği füze saldırılarının bir parçasıydı.
 

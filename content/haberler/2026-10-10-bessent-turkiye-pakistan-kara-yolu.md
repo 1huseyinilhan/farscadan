@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-bessent-turkiye-pakistan-kara-yolu.jpg
 gorsel_alt: ABD Hazine Bakanı Scott Bessent'in resmi portresi
 gorsel_kredi: ABD Hazine Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Scott_Bessent,_official_portrait_(2025).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre ABD Hazine Bakanı Scott Bessent, Newsmax televizyonuna verdiği demeçte Birleşik Arap Emirlikleri ve Umman'ın Washington'ın İran'a yönelik "tam izolasyon" kampanyasına destek verdiğini, ABD hükûmetinin de Pakistan ve Türkiye ile İran'a kara yoluyla giriş-çıkışı kapatmak için görüştüğünü açıkladı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-turkiye-azerbaycan-hicap-yasagi-okullar.jpg
 gorsel_alt: Bakü'de bir caminin dış cephesi
 gorsel_kredi: Bernard Gagnon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Martyrs%27_Mosque_in_Baku_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Azerbaycan'da devlet okullarında başörtülü öğrenci ve öğretmenlerin sınıflara alınmaması üzerine başlayan protestolar bu hafta İstanbul'a sıçradı ve Ankara-Bakü ilişkilerinde gerginliğe dönüştü. İRNA'nın bir Arap medya kuruluşuna dayandırdığı habere göre Bakü yönetimi, laiklik ilkesine dayandırdığı yeni üniforma kurallarını savunarak komşusu Türkiye'den "iç işlerine karışmamasını" istedi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi.jpg
 gorsel_alt: Hürmüz Boğazı'nın uzaydan çekilmiş uydu fotoğrafı
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Rus haber ajansı TASS'ın bir raporuna dayanan İRNA'nın haberine göre, Ekim ayının ilk 13 gününde Hürmüz Boğazı'nda 22 gemi saldırıya uğradı. Aynı dönemi farklı bir pencereden izleyen İngiltere'nin Deniz Ticareti Operasyonları Merkezi (UKMTO) ise 10-16 Ekim haftasında boğaz ve çevresinde 12 saldırı kaydettiğini açıkladı; iki rakam da resmî sayılsa bile birbirini doğrulamıyor.
 

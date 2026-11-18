@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-vance-iran-muzakere-iddiasi-ara-secim.jpg
 gorsel_alt: "Official portrait of U.S. Vice President JD Vance"
 gorsel_kredi: "Emily J. Higgins, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to the semi-official ISNA, U.S. Vice President JD Vance said on Tuesday (November 3, 12 Aban) that progress has been made in talks with Iran ahead of U.S. midterm elections held that day. The state news agency IRNA quoted Vance saying: "We have made progress." Hamshahri, close to the Tehran municipality, published a separate report with a fuller statement from Vance; according to that version, Vance said "Both I and Trump are optimistic about the possibility of reaching an agreement through negotiation," and repeated: "We have made progress in negotiations with Iran." Hamshahri also quotes Vance saying the U.S. must determine whether it can achieve further progress. Hamshahri's report provides no detail on what conditions the progress depends on or a timeline.
 

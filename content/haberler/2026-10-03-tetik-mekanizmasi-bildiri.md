@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-tetik-mekanizmasi-bildiri.jpg
 gorsel_alt: New York'taki BM Güvenlik Konseyi salonu
 gorsel_kredi: Jdforrester, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_Nations_Headquarters_-_Security_Council_chamber,_straight-on_view.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Dışişleri Bakanlığı, BM Güvenlik Konseyi yaptırımlarının İran'a yeniden uygulanmaya başlamasının ("tetik mekanizması" ya da *snapback*) birinci yıl dönümünde ortak bir bildiri yayımladı. Bildiriye 55 ülke ve hükümet imza attı.
 

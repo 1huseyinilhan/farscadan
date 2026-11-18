@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-ev-okulu-egitim-bakanligi-uyari.jpg
 gorsel_alt: Modern concrete facade of Iran's Ministry of Education building in Tehran
 gorsel_kredi: GTVM92, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Ministry_of_Education_of_Iran_6982.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Macid Parsa, head of education for Tehran province, told ISNA—as reported by Kayhan—that certain "homeschool" private education centers operating in the capital are conducting illegal schooling and have no right to use the school designation. Parsa said the identified centers would be reported to relevant authorities including the "Space Bureau," and that some had already been sealed.
 

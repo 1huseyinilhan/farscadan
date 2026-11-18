@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-iran-meclis-maas-artisi-enflasyon.jpg
 gorsel_alt: Entrance to the Iranian Islamic Consultative Assembly building
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Majlis.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ahmed Fatemi, a member of Iran's parliament's Budget Reconciliation Commission, has said that the government's proposed 35 percent salary increase for civil servants in the 1406 (2027-28) budget has "no justification" against official 88 percent inflation. According to Khabaronline, Fatemi warned that if the government submits the budget with that wage level, both the commission and the full parliament will oppose the bill's overall framework.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-11-05-umman-iran-hurmuz-denizcilik-gorusmesi.jpg
 gorsel_alt: Map showing the Strait of Hormuz and surrounding coastline
 gorsel_kredi: Almajidy, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_ARZ.png
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline, Oman's Foreign Ministry said practical, political, and technical arrangements are being evaluated for safe, unimpeded resumption of maritime traffic in the Strait of Hormuz. The announcement came following a phone conversation between Omani Foreign Minister Badr al-Busaidi and Iranian Foreign Minister Seyed Abbas Araghchi.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-iran-meclis-npt-cikis-talepleri.jpg
 gorsel_alt: "Facade of the Iranian Islamic Consultative Assembly (parliament)"
 gorsel_kredi: "Mahdi Sigari, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Iranian_Majlis.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Arms Control Association (English, primary source) | https://www.armscontrol.org/node/15299 ;; Arab News (English, primary source) | https://www.arabnews.com/node/2604656/middle-east"
 ---
 According to Kayhan's report, citing the Fars News Agency, numerous lawmakers in the Iranian Islamic Consultative Assembly took the floor during a plenary session on Sunday (October 22 / November 1) to emphasize the necessity of Iran's withdrawal from the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) and to demand that bills on this matter be placed on Parliament's agenda. According to Kayhan, the focus of the demands is on finally bringing the withdrawal bills that have been pending before Parliament for months up for debate.

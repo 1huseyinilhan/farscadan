@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia.jpg
 gorsel_alt: Hürmüz Boğazı ve çevresinin uzaydan çekilmiş görüntüsü
 gorsel_kredi: NASA Johnson Uzay Merkezi, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS047-E-139569_-_View_of_Earth_-_Strait_of_Hormuz_-_Musandam_Peninsula_-_Qeschm_-_Hara_Mangrove_tidal_structures_in_Khuran_Strait_-_Persian_Gulf_-_Zagros_Mountains_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hürmüz Boğazı'nda 16 Ekim akşamı 2 milyon varilden fazla ham petrol yüklü bir süper tanker hasar aldı. İRNA'nın aktardığına göre Devrim Muhafızları (Sepah) Deniz Kuvvetleri, "izinsiz güzergahtan geçmeye çalışan kurallara aykırı bir süper tankerin" bir deniz mayınına çarparak patlama ve yangına yol açtığını açıkladı. Hamshahri, Sepah'ın olayın görüntülerini yayınladığını bildirdi. Aynı saatlerde Hindistan Denizcilik Bakanı, boğazda 15 Hint denizci taşıyan bir tankerin "bir mermiyle" hedef alındığını iddia etti ve mürettebattan hiçbirinin yaralanmadığını söyledi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-eisenkot-netanyahu-israil-kriz.jpg
 gorsel_alt: "Portrait photograph of Gadi Eisenkot"
 gorsel_kredi: "U.S. State Department, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_(cropped).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Gadi Eisenkot, leader of the Yesh Atid party and tasked by Israel's president with forming a government, said Benjamin Netanyahu should not remain in power "one more minute." According to Hamshahri's account, Eisenkot described Netanyahu as "a threat to Israeli democracy." According to Khabaronline's report from Anadolu Agency, the former chief of staff made these remarks on a Sunday evening during coalition negotiations, saying: "The attitude of Netanyahu and his inner circle constitutes a tangible, direct, and urgent threat to Israeli democracy. Under no circumstances should Netanyahu remain in power one more minute."

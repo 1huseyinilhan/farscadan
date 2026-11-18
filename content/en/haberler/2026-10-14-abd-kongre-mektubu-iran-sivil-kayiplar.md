@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-abd-kongre-mektubu-iran-sivil-kayiplar.jpg
 gorsel_alt: Dome of the U.S. Capitol building
 gorsel_kredi: Noclip, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Seventy-seven U.S. lawmakers sent a letter to the Pentagon and the administration demanding official disclosure about attacks on civilians and resulting deaths in the ongoing war with Iran. According to IRNA, the signatories called for transparency about these strikes and civilian casualties to be made public.
 

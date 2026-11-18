@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-suudi-yemen-babulmendep.jpg
 gorsel_alt: Babülmendep Boğazı'nın uzaydan görünümü
 gorsel_kredi: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bab-el-Mandeb,_outer_space.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Reuters'ın altı bölgesel ve Batılı yetkiliye dayandırdığı habere göre Suudi Arabistan, Yemen'deki İran destekli Ensarullah'a (Husiler) karşı bir askeri harekât planlıyor. Ettelaat ve Iran International'ın aktardığı habere göre harekâtın **önümüzdeki haftalarda** başlaması bekleniyor. Planda kara harekâtını Riyad'ın denetimindeki Yemenli güçler yürütecek, Suudi hava kuvvetleri de destek verecek.
 

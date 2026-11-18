@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-ulyanov-rusya-avrupa-iran-saldirisi.jpg
 gorsel_alt: "Rusya'nın Viyana'daki uluslararası örgütler nezdindeki temsilcisi Mihail Ulyanov'un portresi"
 gorsel_kredi: "IAEA Imagebank, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Mikhail_Ulyanov_(01614520).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre Rusya'nın Viyana'daki uluslararası örgütler nezdindeki özel temsilcisi Mihail Ulyanov, Almanya Şansölyesi'nin İran'la çatışmaların sona erdirilmesi gerektiğine dair yaptığı açıklamaya yanıt verdi ve bizzat Avrupalıların ABD'nin İran'a saldırısının zeminini hazırladığını söyledi. ISNA'ya göre Ulyanov, Avrupa ülkelerinin krizi yatıştırmaktan söz etmeden önce kendi paylarını sorgulaması gerektiğini ima etti.
 

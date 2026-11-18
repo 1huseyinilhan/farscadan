@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-araghchi-netanyahu-karsilikli-aciklamalar.jpg
 gorsel_alt: Foreign Minister Abbas Araghchi at a meeting
 gorsel_kredi: IAEA Imagebank, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Meeting_Dr._Seyed_Abbas_Araghchi_(01911589)_(51160900217).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Foreign Minister Abbas Araghchi replied via his X (Twitter) account in English to recent statements by Israeli Prime Minister Netanyahu. According to ISNA, Araghchi addressed the U.S. and Israel, saying, "The last time you wanted to 'finish the job,' Iran came out stronger. Do you want to try again? Go ahead, but be careful; we have unfinished business too."
 

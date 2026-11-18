@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-trump-putin-si-zirve-pekin-onayi.jpg
 gorsel_alt: "Şincan kentinin Hong Kong'dan görünen silüeti"
 gorsel_kredi: "Sparktour, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_from_Hong_Kong.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Çin Dışişleri Bakanlığı, ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin'in 19 Kasım Perşembe günü Çin'in güneyindeki Şincan kentinde Devlet Başkanı Şi Cinping ile üçlü bir görüşme yapacağını açıkladı. ISNA'nın aktardığına göre Pekin, görüşmenin Çin-ABD-Rusya devlet başkanları arasında Şincan'da düzenlenecek ilk üçlü zirve olacağını belirtti. IRNA'nın haberine göre Çin Dışişleri Bakanlığı bir bildiriyle, Şi'nin Rus ve Amerikalı mevkidaşlarıyla üçlü bir görüşme yapacağını teyit etti.
 

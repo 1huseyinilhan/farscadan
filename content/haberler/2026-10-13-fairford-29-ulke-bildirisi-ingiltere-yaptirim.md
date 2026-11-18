@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-fairford-29-ulke-bildirisi-ingiltere-yaptirim.jpg
 gorsel_alt: RAF Fairford hava üssünün tel örgülü güvenlik kapısı ve giriş yolu
 gorsel_kredi: Vieve Forward, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Gate,_RAF_Fairford_-_geograph.org.uk_-_2879144.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İngiltere Dışişleri Bakanlığı öncülüğünde ABD, Fransa, Almanya ve Kanada dahil 29 ülkenin dışişleri bakanı pazartesi günü ortak bir bildiri yayınlayarak İran'a yönelik güvenlik suçlamalarını yineledi. Ettelaat'ın İRNA'ya dayandırdığı habere göre bildiri, Londra'nın 27 Eylül'de Fairford hava üssünde yaşanan olaya ilişkin değerlendirmesini destekliyor ve İran'ın bu olaya karıştığı iddiasını tekrarlıyor.
 

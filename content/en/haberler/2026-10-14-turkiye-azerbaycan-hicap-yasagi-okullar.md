@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-turkiye-azerbaycan-hicap-yasagi-okullar.jpg
 gorsel_alt: Exterior of a mosque in Baku
 gorsel_kredi: Bernard Gagnon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Martyrs%27_Mosque_in_Baku_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Protests over a ban preventing headscarfed students and teachers from entering state schools in Azerbaijan expanded this week to Istanbul, straining Ankara-Baku relations. According to IRNA, citing an Arab media outlet, the Baku government defended its new uniform rules on grounds of secularism and asked neighboring Turkey to "stay out of its internal affairs."
 

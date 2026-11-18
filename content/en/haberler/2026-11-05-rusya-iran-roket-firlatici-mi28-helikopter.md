@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-rusya-iran-roket-firlatici-mi28-helikopter.jpg
 gorsel_alt: Russia's Mi-28N attack helicopter on display at a military air show
 gorsel_kredi: Boevaya mashina, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mil_Mi-28N_with_GEOS-451_at_ARMY-2022.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International's dispatch from the Financial Times, Russia has agreed to supply Iran with 90 guided rocket launchers for helicopters—weapons the Russian military has used heavily in the Ukraine war. The newspaper said the order reveals a previously unknown dimension of Moscow's military aid to Tehran.
 

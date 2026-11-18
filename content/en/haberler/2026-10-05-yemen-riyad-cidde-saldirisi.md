@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-yemen-riyad-cidde-saldirisi.jpg
 gorsel_alt: Riyadh skyline with towers
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, Yemen's armed forces announced that they conducted a missile and drone strike against targets in Saudi Arabia's capital Riyadh and the western port city of Jeddah. According to ISNA's report, following the strike allegations, flight traffic at Riyadh airport was halted. The Saudi-led coalition, however, characterized the Houthis' claim as "misleading" and denied it.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-eisenkot-netanyahu-israil-kriz.jpg
 gorsel_alt: "Gadi Eisenkot'un portre fotoğrafı"
 gorsel_kredi: "ABD Dışişleri Bakanlığı, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_(cropped).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İsrail Cumhurbaşkanı tarafından hükümeti kurmakla görevlendirilen Yeş Atid (Yeşar) Partisi lideri Gadi Eisenkot, Benyamin Netanyahu'nun "bir dakika daha" iktidarda kalmaması gerektiğini söyledi. Hamshahri'nin aktardığına göre Eisenkot, Netanyahu'yu "İsrail demokrasisi için bir tehdit" olarak nitelendirdi. Khabaronline'ın haberine göre eski Genelkurmay Başkanı Eisenkot, koalisyon görüşmeleri sırasında Pazar akşamı yaptığı açıklamada "Netanyahu ve yakın çevresinin tutumu, İsrail demokrasisi için elle tutulur, doğrudan ve acil bir tehdittir. Hiçbir koşulda Netanyahu bir dakika daha iktidarı elinde tutmamalı" dedi.
 

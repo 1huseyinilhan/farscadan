@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-suudi-arabistan-yemen-cidde-saldirisi-ucak.jpg
 gorsel_alt: Riyad Kral Halid Uluslararası Havalimanı'nın dış görünümü
 gorsel_kredi: ABD Hava Hareketliliği Komutanlığı (amc.af.mil), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan'ın Riyad havalimanındaki uçak sayısı, Yemen güçlerinin hava saldırıları nedeniyle çarşamba öğlene kadar 134'ten 38'e düştü. Ettelaat'ın Wall Street Journal'dan aktardığına göre Suudi havayolu şirketleri, Yemen güçlerinin operasyonlarının ardından onlarca uçağını Riyad'dan başka havalimanlarına hızla kaydırdı.
 

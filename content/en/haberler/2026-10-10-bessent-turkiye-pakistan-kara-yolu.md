@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-bessent-turkiye-pakistan-kara-yolu.jpg
 gorsel_alt: Official portrait of U.S. Treasury Secretary Scott Bessent
 gorsel_kredi: U.S. Treasury Department, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Scott_Bessent,_official_portrait_(2025).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, U.S. Treasury Secretary Scott Bessent told Newsmax that the United Arab Emirates and Oman are supporting Washington's "absolute isolation" campaign against Iran, and that the U.S. government is in talks with Pakistan and Turkey to close Iran's overland entry and exit points.
 

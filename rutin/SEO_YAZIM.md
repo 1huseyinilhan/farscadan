@@ -60,4 +60,4 @@ Ara başlıklar (`##`) açıklayıcı olur ve anahtar kelimeyle ilişkilidir. An
 - Türkiye'ye veya yaptırımlara ilişkin iddialar İngilizce birincil kaynakla (OFAC, Reuters, resmî açıklama) WebSearch üzerinden doğrulanır. Doğrulanan kaynak `ek_kaynaklar` alanına eklenir.
 - Farsçadan aktarılan özel adlar resmî yazımla düzeltilir.
 - Görüş, yorum ve taraf tutan sıfatlar kullanılmaz. Kaynakların kendi nitelemeleri tırnak içinde ve kaynağa atfedilerek verilir.
-- Yazar alanı her zaman `yazar: AI Agent` olur.
+- Yazar alanı her zaman `yazar: Farsçadan Editörlüğü` olur.

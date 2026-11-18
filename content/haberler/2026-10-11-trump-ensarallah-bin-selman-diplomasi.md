@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-trump-ensarallah-binselman.jpg
 gorsel_alt: ABD Başkanı Donald Trump'ın resmi portresi
 gorsel_kredi: Daniel Torok, Beyaz Saray, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Başkanı Donald Trump, Riyad'daki füze saldırısının ardından Yemenli Husi hareketi Ensarallah ile temas halinde olduklarını söyledi ve Suudi Veliaht Prensi Muhammed bin Selman ile görüşeceğini açıkladı. İRNA'nın aktardığına göre Trump, Suudi Arabistan'da yaşananları "kabul edilemez" olarak nitelendirirken, ABD'nin çatışmaya doğrudan girip girmeyeceğine dair soruyu belirsiz bıraktı.
 

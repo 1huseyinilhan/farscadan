@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-kalibaf-rubio-diplomatik-polemik.jpg
 gorsel_alt: Relief at Naqsh-e Rustam showing Shapur I capturing Roman Emperor Valerian
 gorsel_kredi: Carole Raddato, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_triumph_of_Shapur_I_over_the_Roman_emperors_Valerian_and_Philip_the_Arab,_Naqsh-e_Rostam,_Iran_(48098758973).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, Parliamentary Speaker Mohammad Baqir Kalibaf replied via X to U.S. Secretary of State Marco Rubio's recent remarks on Iranian civilization—which Kalibaf called "childish"—with a historical allusion: "Those who follow Alexander's legacy will suffer Valerian's fate: you will kneel."
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-paknejad-istifa-petrol-bakanligi.jpg
 gorsel_alt: İran'da bir doğalgaz rafinerisi tesisi
 gorsel_kredi: National Iranian Oil Company (NIOC), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bidboland_gas_refinery.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Cumhurbaşkanlığı İletişim ve Bilgilendirme Bürosu Başkan Yardımcısı, Petrol Bakanı Muhsin Paknejad'ın "kişisel nedenlerle" istifa talebinde bulunduğunu, bu talebin daha önce Cumhurbaşkanı tarafından kabul edilmediğini, ancak Paknejad'ın ısrarı üzerine Mesud Pezeşkiyan'ın istifayı onayladığını açıkladı. Pezeşkiyan aynı gün, Anayasa'nın 135. maddesine dayanarak İran Ulusal Petrol Şirketi eski genel müdürü Hamid Bord'u bakanlığa vekil olarak atadı.
 

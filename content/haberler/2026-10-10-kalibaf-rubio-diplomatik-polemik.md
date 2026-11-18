@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-kalibaf-rubio-diplomatik-polemik.jpg
 gorsel_alt: Naksh-i Rüstem'de Şapur I'in Roma İmparatoru Valerianus'u esir aldığını gösteren kabartma
 gorsel_kredi: Carole Raddato, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_triumph_of_Shapur_I_over_the_Roman_emperors_Valerian_and_Philip_the_Arab,_Naqsh-e_Rostam,_Iran_(48098758973).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre Meclis Başkanı Muhammed Bakır Kalibaf, ABD Dışişleri Bakanı Marco Rubio'nun İran medeniyetine dair "yaveciliği" olarak tanımladığı son sözlerine X hesabından tarihî bir göndermeyle yanıt verdi: "İskender'in mirasının ardından gidenler, Valerianus'un kaderine uğrayacaklar: diz çökeceksiniz."
 

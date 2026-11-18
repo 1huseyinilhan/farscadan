@@ -13,7 +13,7 @@ gorsel: img/2026-10-13-yarana-nakdi-mehr-1405-odeme-takvimi.jpg
 gorsel_alt: Ornate glass ceiling and shops in Tehran's Grand Bazaar
 gorsel_kredi: Antoine Taveneaux, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran_12.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran's cash assistance for the month of Mehr (the seventh month of the Iranian calendar, September 23 to October 22, 2026) will be disbursed in two phases according to a published schedule. According to Ettelaat, households in income brackets one through three will receive their payment on October 17 (25 Mehr), while households in brackets four through nine will receive theirs on October 22 (30 Mehr).
 

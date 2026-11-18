@@ -14,7 +14,7 @@ gorsel: img/2026-10-26-netanyahu-zamir-ihtilafi-iran-saldirisi-secim.jpg
 gorsel_alt: İsrail ordusu Genelkurmay Başkanı Eyal Zamir'in resmi portresi
 gorsel_kredi: İsrail Savunma Bakanlığı, Kamu malı (CC0), Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Eyal_Zamir_(MoD_IL).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın İsrail Kanal 12'den aktardığına göre, Başbakan Benjamin Netanyahu ile ordu Genelkurmay Başkanı Eyal Zamir arasında, Knesset seçimlerinden önce İran'a yönelik olası bir saldırının zamanlaması ve gerekliliği konusunda "az görülür düzeyde" bir anlaşmazlık ortaya çıktı. Seçim 27 Ekim Salı günü yapılacak ve İran dosyası, kampanyanın son günlerinde Netanyahu ile muhalefeti arasındaki başlıca tartışma konularından biri haline geldi.
 

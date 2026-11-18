@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-peyman-farahavar-idam-sair.jpg
 gorsel_alt: General view of Rasht, the city where Peyman Farahavar was tried for execution
 gorsel_kredi: Mostafa Yekrangi, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Panorama_of_Rasht_municipality_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Human rights news site HRANA reported Wednesday that poet and political prisoner Peyman (Emin) Farahavar, sentenced to death at Laken Prison (in Rasht), was notified that his file had been referred to the enforcement division (branch-i icra-i ahkam). Iran International reported that Farahavar told his family in a phone call on November 18 that he had received notification his case was sent to the enforcement division; this development puts him at immediate risk of execution.
 

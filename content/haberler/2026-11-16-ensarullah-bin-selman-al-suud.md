@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-ensarullah-bin-selman-al-suud.jpg
 gorsel_alt: "Bab-ül Mendeb Boğazı'nın NASA uydu görüntüsü"
 gorsel_kredi: "NASA/METI/AIST/Japonya Uzay Sistemleri ve ABD/Japonya ASTER Bilim Ekibi, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Bab-el-Mandeb_Strait,_Africa-Arabia_(ASTER).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Yemen Ensarullah (Husi) hareketinin siyasi büro üyesi Muhammed el-Bukhaiti, El-Ahd kanalına verdiği demeçte Bab-ül Mendeb Boğazı muharebesindeki "çok büyük" zaferin ardından, Suudi Arabistan Veliaht Prensi Muhammed bin Selman'a yönelik bir uyarıda bulundu. ISNA'nın aktardığına göre Bukhaiti, bu çatışmada ABD, İngiltere, Fransa ve İsrail'in Yemen güçlerine karşı Suudi Arabistan'ın safında yer aldığını söyledi. Hamshahri'nin haberine göre Bukhaiti, Suudi Krallığı'nın kurucusu Abdülaziz bin Suud'un ölümünden önce çocuklarına söylediği iddia edilen "Bunlar Yemen yüzünden" sözünü hatırlattı ve Bin Selman'a şu uyarıyı yaptı: savaşın hedefleri savunma konumundan saldırı konumuna kayabilir ve sonunda Al Suud yönetiminin devrilmesine ve "şeytanın boynuzunun kırılmasına" kadar gidebilir.
 

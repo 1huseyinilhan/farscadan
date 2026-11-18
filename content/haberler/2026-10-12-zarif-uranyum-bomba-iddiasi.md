@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-zarif-uranyum-bomba-iddiasi.jpg
 gorsel_alt: Muhammed Cevad Zarif'in portresi
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohammad_javad_zarif_in_2021_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran'ın 2015 nükleer anlaşmasını müzakere eden eski Dışişleri Bakanı ve kıdemli diplomat Muhammed Cevad Zarif, nükleer silahın mutlaka bir caydırıcılık unsuru olmadığını savunarak İran'ın atom bombası yapacak kadar bile zenginleştirilmiş uranyumu bulunmadığını iddia etti. Khabaronline'ın Saberin News'ten aktardığına göre Zarif bu değerlendirmesini son bir buçuk yılda İsrail'de yaşanan gelişmeler ve Sovyetler Birliği'nin çöküşü örnekleriyle temellendirdi.
 

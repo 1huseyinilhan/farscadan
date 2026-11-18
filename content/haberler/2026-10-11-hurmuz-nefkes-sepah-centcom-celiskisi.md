@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-hurmuz-nefkes-sepah-centcom.jpg
 gorsel_alt: Hürmüz Boğazı'ndan geçen bir tankerin yanından geçen ABD savaş gemisi
 gorsel_kredi: ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Hürmüz Boğazı yakınlarında 10 Ekim'de İran'a yönelik deniz ablukasını delmeye çalışan Panama bayraklı bir ticari gemiyi savaş uçağıyla hareketsiz bıraktığını açıkladı. İran Devrim Muhafızları Deniz Kuvvetleri (Sepah) ise aynı gün yaşanan tanker yangınını, yasak bir rotada seyreden bir süpertankerin deniz mayınına çarpması olarak tanımladı.
 

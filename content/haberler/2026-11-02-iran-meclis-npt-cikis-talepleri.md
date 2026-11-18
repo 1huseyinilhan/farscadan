@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-iran-meclis-npt-cikis-talepleri.jpg
 gorsel_alt: "İran İslam Şûra Meclisi'nin (parlamento) bina cephesi"
 gorsel_kredi: "Mahdi Sigari, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Iranian_Majlis.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Arms Control Association (İngilizce, birincil kaynak) | https://www.armscontrol.org/node/15299 ;; Arab News (İngilizce, birincil kaynak) | https://www.arabnews.com/node/2604656/middle-east"
 ---
 Kayhan gazetesinin Fars Haber Ajansı'na dayandırdığı haberine göre, İran İslam Şûra Meclisi'nde pazar günü (10 Aban/1 Kasım) yapılan genel kurul oturumunda birçok milletvekili ayrı ayrı söz alarak İran'ın Nükleer Silahların Yayılmasını Önleme Antlaşması'ndan (NPT) çıkmasının gerekliliğini vurguladı ve bu konudaki tasarıların Meclis gündemine alınmasını istedi. Kayhan'a göre taleplerin odağında, aylardır Meclis'e sunulmuş durumda bekleyen çıkış tasarılarının nihayet görüşülmesi yer alıyor.

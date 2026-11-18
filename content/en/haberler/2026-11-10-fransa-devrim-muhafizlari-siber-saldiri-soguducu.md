@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-fransa-devrim-muhafizlari-siber-saldiri-soguducu.jpg
 gorsel_alt: France's Ministry of Foreign Affairs building at Quai d'Orsay in Paris
 gorsel_kredi: Jebulon, Public domain (CC0), Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_fran%C3%A7ais_des_Affaires_Etrang%C3%A8res_et_Europ%C3%A9ennes_Quai_d%27Orsay_Paris.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 France has attributed a cyberattack that disabled refrigeration systems at hundreds of supermarkets and grocery stores a month ago to the Islamic Revolutionary Guard Corps (IRGC). According to Iran International, French officials summoned Iran's ambassador in Paris on Monday to lodge a protest, warning Tehran that there would be "consequences" for the action.
 

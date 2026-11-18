@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-atlantik-trump-iran-saldirisi-secim-sonrasi.jpg
 gorsel_alt: Official presidential portrait of Donald Trump
 gorsel_kredi: Daniel Torok, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Atlantic magazine reported, citing sources close to policy discussions, that the Trump administration is evaluating a new multi-day military strike on Iran. According to Iran International's reporting, this evaluation coincides with Washington's economic pressure strategy failing to return Tehran to the negotiating table and high energy prices becoming a political problem for Republicans before the election.
 

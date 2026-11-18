@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-hurmuz-tanker.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz and the Gulf of Oman
 gorsel_kredi: MODIS Land Rapid Response Team, NASA GSFC, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The UK Maritime Trade Operations center (UKMTO) said it had received a report that a tanker carrying crude oil was struck by an **"unknown projectile"** about 4 nautical miles east of the Omani coast. According to ISNA, the projectile hit the ship's port side.
 

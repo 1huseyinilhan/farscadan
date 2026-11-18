@@ -13,7 +13,7 @@ gorsel: img/2026-10-12-petropars-isci-kirbac-protesto.jpg
 gorsel_alt: Mesjed Süleyman'daki tarihi 1 Numaralı Kuyu petrol tesisi
 gorsel_kredi: Bilinmeyen, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Well_number_one_of_Iran_2.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Huzistan'ın Hüveyze kasabasında, işten çıkarmalara ve yerlerine farklı illerden işçi getirilmesine karşı protesto eden Petropars Hüveyze şirketi çalışanlarından 10'dan fazlasına kırbaç cezası uygulandı. Iran International'ın aktardığına göre İran Sözleşmeli Petrol İşçileri Şurası ve Gayri Resmi Petrol İşçileri Şurası (Erkân-ı Sâlis), 19 Mehr (11 Ekim) tarihli ortak bildiride bu uygulamayı "küstahça bir cüret" ve "vahşet" olarak nitelendirdi ve işçilere, diğer işyerlerine ve halka "birleşip hükûmeti özür dilemeye ve işten çıkarılan işçileri geri almaya zorlama" çağrısı yaptı.
 

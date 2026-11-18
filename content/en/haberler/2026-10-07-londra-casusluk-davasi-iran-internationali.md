@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-londra-casusluk-davasi-iran-internationali.jpg
 gorsel_alt: Exterior of Woolwich Crown Court
 gorsel_kredi: N Chadwick, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Woolwich_Crown_Court_-_geograph.org.uk_-_7717781.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International's report, at a hearing that began Tuesday at Woolwich Crown Court in London, prosecutors alleged that three Iranian defendants conspired to surveil and target at least two journalists associated with Iran International. The prosecution told the jury that prosecutor William Emlyn Jones characterized the defendants' actions as constituting "clearly a form of espionage."
 

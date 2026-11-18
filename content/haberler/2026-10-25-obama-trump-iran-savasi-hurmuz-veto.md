@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-obama-trump-iran-savasi-hurmuz-veto.jpg
 gorsel_alt: Eski ABD Başkanı Barack Obama'nın resmi Beyaz Saray portresi
 gorsel_kredi: Pete Souza, Beyaz Saray, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Eski ABD Başkanı Barack Obama, cumartesi akşamı Ohio eyaletinde ara seçim kampanyası mitinginde Başkan Donald Trump'ın İran'a karşı yürüttüğü savaşı ve ekonomi politikalarını ağır biçimde eleştirdi. Ettelaat'ın CNN'den aktardığına göre Obama, "bazen bir başkanın kontrolü dışındaki etkenler en iyi planları bile altüst eder; ama burada durum böyle değil, bu hükümetin uygulamaları artan maliyetlerden doğrudan sorumlu" dedi.
 

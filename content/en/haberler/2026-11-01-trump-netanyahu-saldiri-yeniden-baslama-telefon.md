@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon.jpg
 gorsel_alt: "Donald Trump and Benjamin Netanyahu together at the White House"
 gorsel_kredi: "Dan Scavino, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Donald_Trump_and_Benjamin_Netanyahu_at_White_House_2025_(4).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, the Wall Street Journal reported that U.S. President Donald Trump spoke by phone with Israeli Prime Minister Benjamin Netanyahu Saturday morning at a time when Washington was preparing to resume military action in the Middle East. IRNA's report stated that the call took place while the U.S. was conducting preparations for possible new operations in the region.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-ulyanov-rusya-avrupa-iran-saldirisi.jpg
 gorsel_alt: "Portrait of Mikhail Ulyanov, Russia's representative to international organizations in Vienna"
 gorsel_kredi: "IAEA Imagebank, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Mikhail_Ulyanov_(01614520).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, Mikhail Ulyanov, Russia's special envoy to international organizations in Vienna, responded to remarks by Germany's Chancellor about the need to end the conflict with Iran, saying that Europe itself had laid the groundwork for U.S. strikes against Iran. ISNA quoted Ulyanov as implying that European countries should examine their own role before speaking about defusing the crisis.
 

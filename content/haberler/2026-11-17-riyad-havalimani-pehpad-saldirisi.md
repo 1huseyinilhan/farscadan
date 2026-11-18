@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-riyad-havalimani-pehpad-saldirisi.jpg
 gorsel_alt: "Riyad Kral Halid Uluslararası Havalimanı dış görünümü"
 gorsel_kredi: "ABD Hava Mobilite Komutanlığı, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin 17 Kasım sabahı yayınladığı "flaş" haberine göre, Riyad'daki Kral Halid Uluslararası Havalimanı'nda uçuş operasyonları Yemen kaynaklı bir pehpad (insansız hava aracı) saldırısı sonrası askıya alındı. Hamshahri'nin aktardığına göre medya kuruluşları, Suudi Arabistan'ın doğu bölgesinde patlama sesleri duyulduğunu bildirdi. ISNA da aynı saldırıyı kısa bir haberle doğruladı ve havalimanındaki uçuş operasyonlarının askıya alındığını yazdı.
 

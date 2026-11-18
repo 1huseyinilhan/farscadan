@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-somali-korsanlari-iran-balikci-gemisi.jpg
 gorsel_alt: "An Indian Navy patrol vessel seizes arms and ammunition off the Somali coast"
 gorsel_kredi: "Indian Navy, CC BY 2.5 IN, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:INS_Sunayna_seizes_arms_and_ammunition_off_the_Somali_coast,_2018_(1).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Puntland maritime security official via Associated Press | https://www.iranintl.com/202611013737 ;; Inside Somalia news site | https://www.iranintl.com/202611013737 ;; EU Maritime Security Centre (MSCHOA/Indian Ocean) | https://www.iranintl.com/202611013737"
 ---
 According to London-based Farsi-language outlet Iran International, citing the Associated Press, Somali pirates hijacked an Iranian fishing vessel with a 23-member crew in the Indian Ocean. According to the report, the vessel "Azini" was seized on October 29 (7 Aban) in waters between the coastal towns of Bandar Beyla and Hafun, off the northeast coast of Somalia. The ship carried 21 Iranian sailors and 2 Somali security personnel.

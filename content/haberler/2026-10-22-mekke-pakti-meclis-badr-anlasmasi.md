@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-mekke-pakti-meclis-badr-anlasmasi.jpg
 gorsel_alt: Türkiye Büyük Millet Meclisi binasının dış cephesi
 gorsel_kredi: Clemens Holzmeister (Makril), CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Building_of_the_Grand_National_Assembly_of_Turkey.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye'nin Suudi Arabistan ve Pakistan'la Ağustos ayında imzaladığı "Mekke Paktı", onay için Türkiye Büyük Millet Meclisi'ne sunuldu. Reuters'ın üç parlamento kaynağına dayandırdığı ve İran International'ın aktardığına göre, aynı günlerde Ankara, Katar, Pakistan ve Endonezya ile Doha'da ayrı bir savunma sanayii iş birliği anlaşması daha imzaladı.
 

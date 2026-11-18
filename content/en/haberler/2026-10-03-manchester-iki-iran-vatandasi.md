@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-manchester-iki-iran-vatandasi.jpg
 gorsel_alt: The corner of Newton Street in Manchester's Northern Quarter
 gorsel_kredi: Mrozzymania, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Newton_Street_Corner,_Northern_Quarter(Manchester).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 British police said two Iranian nationals have been charged with preparing a terrorist attack against the Jewish community in Manchester. According to Iran International, police said the two had been in contact in connection with the plot with someone outside the UK who **"may be in Iran."**
 

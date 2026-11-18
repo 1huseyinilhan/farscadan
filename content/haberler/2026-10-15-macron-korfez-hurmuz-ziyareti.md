@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-macron-korfez-hurmuz-ziyareti.jpg
 gorsel_alt: Fransa Cumhurbaşkanı Emmanuel Macron'un portresi
 gorsel_kredi: Avrupa Komisyonu, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_-_June_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Fransa Cumhurbaşkanı Emmanuel Macron, Hürmüz Boğazı'ndaki son gelişmeleri ve küresel enerji krizini görüşmek üzere gelecek hafta Körfez bölgesine gidecek. İRNA'nın Reuters'ten aktardığına göre Elysee Sarayı çarşamba akşamı yaptığı açıklamada, Macron'un 19-21 Ekim (27-29 Mehr) tarihlerinde Kuveyt, Birleşik Arap Emirlikleri, Bahreyn ve Katar'ı ziyaret edeceğini bildirdi.
 

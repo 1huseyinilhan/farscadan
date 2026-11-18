@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-riyad-havalimani-pehpad-saldirisi-husi-aramco.jpg
 gorsel_alt: Skyline of Riyadh showing the King Abdullah Financial District (KAFD) and the Kingdom Tower
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, the Houthis (Ansarullah) in Yemen attacked the Saudi capital Riyadh and eastern regions of Saudi Arabia on Sunday with missiles and drones; following the strike, international flights from Riyadh were disrupted and an office building belonging to oil company Aramco sustained damage. Saudi authorities reported no deaths.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-bahreyn-isa-kasim-muebbet-hapis.jpg
 gorsel_alt: Skyline view of Manama, Bahrain's capital
 gorsel_kredi: "Jacobs - Creative Bees, CC BY 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Manama_skyline.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Kayhan's summary published the evening of November 16, the Al Khalifa administration in Bahrain sentenced Ayatollah Sheikh Isa Qassim and the country's 48 leading Shiite scholars to life imprisonment as part of a "comprehensive suppression policy" against Shiites. Because the article text was unavailable when the Kayhan page was accessed, the story's content was drawn from the site's metadata description (og:description). That same day, ISNA reported that Sheikh Isa Qassim himself stated that "Bahrain's people will not abandon their resistance to policies of slavery, humiliation, and exclusion"; Khabaronline reported that Qais al-Khazali, general secretary of the Iraqi-based Asaib Ahl al-Haq movement, called on international human rights organizations, religious leaders, and political leaders worldwide to hold authorities "accountable" for the court decisions against Shiite clerics in Bahrain.
 

@@ -9,7 +9,7 @@ kaynak_adi: İran International
 kaynak_yonelim: Muhalif, yurt dışı
 kaynak_url: https://www.iranintl.com/202610219982
 kaynak_baslik_fa: طی دو ماه، در ۲۸ پرونده زن‌کشی در ایران دست‌کم ۳۸ زن و کودک کشته شدند
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-22-iran-zan-kiyimi-iki-ay-istatistik.jpg
 gorsel_alt: İran'ın illeri gösteren harita
 gorsel_kredi: Faham, CC BY-SA 4.0, Wikimedia Commons

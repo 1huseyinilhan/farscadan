@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-abd-ucuncu-ucak-gemisi-ortadogu.jpg
 gorsel_alt: The aircraft carrier USS Theodore Roosevelt underway at sea
 gorsel_kredi: US Navy/Michael D. Cole, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:USS_Theodore_Roosevelt_at_sea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The US Navy's nuclear-powered aircraft carrier USS Theodore Roosevelt left San Diego on Sunday for the Middle East, where tensions with Iran persist. According to Ettelaat, citing US officials, the deployment could push the total potential US military presence in the region above 60,000, described as the largest buildup since the 2003 invasion of Iraq.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-bahreyn-kuveyt-pehpad-saldirisi-tirmanis.jpg
 gorsel_alt: "Basra Körfezi ve Hürmüz Boğazı bölgesinin uydudan görünümü"
 gorsel_kredi: "NASA, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:ISS-40_Persian_Gulf.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre 17-18 Kasım gecesi Bahreyn'de alarm sirenleri art arda çaldı, İçişleri Bakanlığı vatandaşlardan en yakın güvenli alana gitmelerini istedi. Aynı gece Kuveyt'te de çok sayıda patlama sesi duyuldu ve hava savunma sistemleri devreye girdi. IRNA'nın haberine göre olaylar, ABD ile İran arasındaki ateş teatisinin yeniden alevlendiği bir dönemde yaşandı.
 

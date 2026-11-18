@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-abd-iran-saldiri-karari-katar-arabuluculuk.jpg
 gorsel_alt: National security meeting in the White House Situation Room
 gorsel_kredi: The White House, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=168367844
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Per Hamshahri's account of Axios reporting, U.S. President Donald Trump, following an urgent meeting with his national security team, will decide in the coming days on possible new military action against Iran. On the same day, the New York Times reported that Tehran is weighing "concrete proposals" regarding the future of its nuclear program.

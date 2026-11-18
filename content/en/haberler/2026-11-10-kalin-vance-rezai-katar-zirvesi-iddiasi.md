@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-kalin-vance-rezai-katar-zirvesi-iddiasi.jpg
 gorsel_alt: Portrait of Turkey's National Intelligence Organization chief İbrahim Kalın
 gorsel_kredi: Tahirselim2016, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Portrait_of_%C4%B0brahim_Kal%C4%B1n.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İbrahim Kalın, head of Turkey's National Intelligence Organization (MIT), announced that U.S. Vice President JD Vance and Iran's Supreme National Security Council Secretary Mohsen Rezaei will meet next week in Qatar. According to Iran International, the IRGC-affiliated Tasnim news agency countered, citing a senior security official in Tehran, that no such meeting is planned.
 

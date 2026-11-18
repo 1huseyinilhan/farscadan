@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-otomotiv-yaptirimlari.jpg
 gorsel_alt: Production line at an Iran Khodro car factory
 gorsel_kredi: Hamed Malekpour/Tasnim News Agency, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Iran_Khodro_factory.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The US Treasury Department's latest sanctions package targets nearly all of Iran's automotive industry. According to Donya-e-Eqtesad, seven Iranian companies were added to the list:
 

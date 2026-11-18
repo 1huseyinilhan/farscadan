@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-turkiye-sosyal-medya-yasagi.jpg
 gorsel_alt: Türkiye Büyük Millet Meclisi'nde milletvekilleri
 gorsel_kredi: Yıldız Yazıcıoğlu (VOA), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye'de 15 yaş altı çocukların sosyal medyaya erişimini sınırlayan yasanın uygulama yönetmeliği, 10 Ekim Cumartesi günü Resmî Gazete'de yayımlandı. Kayhan gazetesinin haberine göre, Cumhurbaşkanlığı Siber Güvenlik Başkanlığı'nın çıkardığı düzenleme, sosyal medya platformlarını yaşa uygun hizmet sunmak ve kullanıcı yaşını doğrulamakla yükümlü kılıyor.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-suudi-arabistan-yemen-cidde-saldirisi-ucak.jpg
 gorsel_alt: Exterior view of Riyadh King Khalid International Airport
 gorsel_kredi: U.S. Air Mobility Command (amc.af.mil), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The number of aircraft at Saudi Arabia's Riyadh airport fell from 134 to 38 by Wednesday noon due to airstrikes by Yemeni forces. According to Ettelaat, citing the Wall Street Journal, Saudi airlines rapidly relocated dozens of aircraft from Riyadh to other airports following operations by Yemeni forces.
 

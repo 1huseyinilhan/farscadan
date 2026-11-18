@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-magnitsky-odulu-idam-mahkumu-vafaei-sani.jpg
 gorsel_alt: Exterior view of the Palace of Westminster in London
 gorsel_kredi: Dietmar Rabich, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:London,_Palace_of_Westminster_--_2016_--_4800.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The UK-based International Magnitsky Human Rights Award was given this year to Mohammad Javad Vafaei Sani, a former boxing champion from Mashhad and a death-row political prisoner. According to Iran International, the award organizers characterized Vafaei Sani's case as a symbol of state repression against dissidents in Iran, freedom-of-expression violations, and deprivation of fair trial rights—citing allegations of severe physical and psychological torture, prolonged solitary confinement, and repeated death threats.
 

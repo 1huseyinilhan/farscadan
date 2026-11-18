@@ -7,7 +7,7 @@ Bu dosya bulut rutininin (ve yerel elle çalıştırmanın) adım adım akışı
 - **Web Yayın agent'ı (sen, 6–7. adımlar):** Siteyi derler, kontrol eder ve yayınlar.
 
 ## Hedef
-Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` kurallarına uyar ve `yazar: AI Agent` olur.
+Her gün **5 yeni haber.** Hepsi `rutin/SEO_YAZIM.md` ve `ICERIK_SOZLESMESI.md` kurallarına uyar ve `yazar: Farsçadan Editörlüğü` olur.
 
 ## Adımlar
 

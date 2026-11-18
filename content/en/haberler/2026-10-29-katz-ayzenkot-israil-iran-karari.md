@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-katz-ayzenkot-israil-iran-karari.jpg
 gorsel_alt: Front facade of the Knesset building in Jerusalem
 gorsel_kredi: Clema12, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Before final Knesset election results were clear, Defense Minister Yisrael Katz and retired General Gadi Ayzenkot engaged in sharp public dispute over who decides on possible military action against Iran. According to Iran International, Katz said on Wednesday that Ayzenkot's remarks were "undemocratic and detached from reality," adding: "The Israeli military has shown great success against Iran, now participates in all discussions and assessments, and will implement every necessary decision."

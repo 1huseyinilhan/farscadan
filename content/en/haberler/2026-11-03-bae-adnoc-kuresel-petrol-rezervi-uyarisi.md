@@ -13,7 +13,7 @@ gorsel: img/2026-11-03-bae-adnoc-kuresel-petrol-rezervi-uyarisi.jpg
 gorsel_alt: "Oil tanker loading crude oil at the Persian Gulf"
 gorsel_kredi: "U.S. Navy / Photographer's Mate Eben Boothby, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_051111-N-8163B-032_An_oil_tanker_docked_to_the_Al_Basrah_Oil_Terminal_(ABOT)_takes_on_crude_oil_in_the_Persian_Gulf.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, close to the Tehran municipality, a senior executive of Abu Dhabi National Oil Company (ADNOC) stated that approximately 1 billion barrels have been withdrawn from global reserves since the war against Iran began, and the world's emergency energy stockpiles have been depleted. Hamshahri published the report as a brief item tagged with "U.S.-Israel War Against Iran," "Exclusive," and "UAE"; the report does not specify which period the figures cover, which countries contributed how much to the drawdown, or what criteria were used to calculate the consumption. The article adds no independent expert assessment or corroboration from another source; the claim is reported directly attributed to the ADNOC executive without additional analysis.
 

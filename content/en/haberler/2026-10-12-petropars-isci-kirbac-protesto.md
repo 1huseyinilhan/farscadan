@@ -13,7 +13,7 @@ gorsel: img/2026-10-12-petropars-isci-kirbac-protesto.jpg
 gorsel_alt: Historic Oil Well Number One facility in Masjed Soleiman
 gorsel_kredi: Unknown, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Well_number_one_of_Iran_2.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 More than 10 workers of Petropars Company in Khuzestan's Khafaji town who protested layoffs and the replacement of local staff with workers from other provinces have been flogged. According to Iran International, the Union of Contracted Petroleum Workers and the Informal Petroleum Workers Council issued a joint statement on October 11, 2026, condemning the practice as "audacious cruelty" and "savagery," calling on workers, other workplaces, and the public to "unite and force the government to apologize and rehire dismissed workers."

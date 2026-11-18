@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-kism-adasi-mq9-pehpad-centcom.jpg
 gorsel_alt: Bir ABD Hava Kuvvetleri MQ-9 Reaper insansız hava aracının uçuş hâlindeki görünümü
 gorsel_kredi: ABD Hava Kuvvetleri/Tğm. Leslie Pratt, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre İran Ordusu, Kışm Adası üzerinde bir ABD MQ-9 insansız hava aracını düşürdüğünü açıkladı. Açıklama, adada art arda savaş uçağı sesi ve patlama haberlerinin yayılmasından kısa süre sonra geldi; ABD Merkez Kuvvetler Komutanlığı (CENTCOM) ise olayla ilgili yorum yapmadı.
 

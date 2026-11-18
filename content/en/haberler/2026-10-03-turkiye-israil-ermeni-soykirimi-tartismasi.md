@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi.jpg
 gorsel_alt: Official portrait of President Recep Tayyip Erdogan
 gorsel_kredi: US Department of State, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_2017.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 An Israeli government proposal to recognize the Armenian genocide has resurfaced amid mutual accusations between President Recep Tayyip Erdogan and Israeli Prime Minister Benjamin Netanyahu at the UN General Assembly. According to an analysis published in Donya-e-Eqtesad, the issue could become a new lever of pressure in Turkish-Israeli tensions.
 

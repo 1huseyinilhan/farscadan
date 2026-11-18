@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-iran-liderlik-soylentileri-kalibaf-mohseni-ejei.jpg
 gorsel_alt: Tahran'daki Baharestan Meydanı ve İran Meclisi binası
 gorsel_kredi: Nasser-sadeghi, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Baharestan-majles.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran merkezli Hamşehri gazetesi, Farhikhtegan gazetesinin haberine atıfla, Meclis Başkanı Muhammed Bakır Kalibaf ve Yargı Başkanı Gulamhüseyin Mohseni-Ejei'nin son günlerde üst düzey bir yetkiliyle yaptığı görüşmelerin ayrıntılarını aktararak "ülke yönetiminde bir boşluk olmadığı" mesajını verdi. Dikkat çekici biçimde, haberin başlığında bu görüşmelerin muhatabı olarak Devrim Rehberi Ali Hamaney'in oğlu Ayetullah Seyyed Mücteba Hamaney'in adı geçerken, haber metninin kendisi görüşmeleri tutarlı biçimde yalnızca "Devrim Rehberi" ifadesiyle anıyor; bu durum, metnin tam olarak kimden bahsettiğini belirsiz kılıyor.
 

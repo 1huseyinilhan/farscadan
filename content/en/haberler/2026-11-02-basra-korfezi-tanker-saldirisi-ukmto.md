@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-basra-korfezi-tanker-saldirisi-ukmto.jpg
 gorsel_alt: "A U.S. Navy frigate passes a tanker while transiting the Strait of Hormuz"
 gorsel_kredi: "U.S. Department of Defense, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "ISNA (Semi-official) | https://www.isna.ir/news/1405081106692/ ;; Hamshahri (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1082242/ ;; Ettelaat (Established daily, moderate-traditionalist) | https://www.ettelaat.com/news/176120/"
 ---
 According to IRNA's report, citing the United Kingdom Maritime Trade Operations organization (UKMTO), a notification was received Monday of a tanker struck by two unidentified objects as it sailed 72 nautical miles east of Saudi Arabia's Ras al-Khafji coast. ISNA and Hamshahri, both citing the same UKMTO statement, reported that a tanker transiting the Persian Gulf in a southeasterly direction was struck on its port side by two unidentified objects. UKMTO announced that the entire crew was safe and the situation was under control, with no reports of environmental impact to date. The organization advised ships to proceed with caution and to report any suspicious activity.

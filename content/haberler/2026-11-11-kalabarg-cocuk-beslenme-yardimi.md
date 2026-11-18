@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-kalabarg-cocuk-beslenme-yardimi.jpg
 gorsel_alt: İran rialı 100'lük banknot
 gorsel_kredi: Bank Markazi Jomhouri Eslami Iran, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Çalışma, Kooperatifler ve Sosyal Refah Bakanlığı Refah ve Ekonomik İşler Müsteşarı Yakub Endayiş, yetersiz beslenen 347 bin 647 çocuğun ailesine 18 Aban'dan (9 Kasım 2026) itibaren ücretsiz gıda sepeti kredisi tanımlandığını açıkladı. Endayiş'in açıklaması, hükümetin yoksullukla mücadele vaatlerinin bir parçası olarak sunuldu. Khabaronline'ın (Mehr'den alıntıyla) aktardığına göre bu, 5 ay-59 ay yaş grubundaki yetersiz beslenmeli çocukları kapsayan desteğin, 1405 yılı (2026) içindeki sekizinci uygulama turu.
 

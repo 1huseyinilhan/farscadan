@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-bushehr-nukleer-santral-rus-personel-artisi.jpg
 gorsel_alt: Buşehr Nükleer Santrali'nin dış görünümü
 gorsel_kredi: Hossein Heidarpour, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bushehr_Nuclear_Plant.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Rosatom CEO'su Aleksey Lihaçov, İran'ın güneyindeki Buşehr Nükleer Santrali'nde çalışan Rus personel sayısının 700'e çıkarılacağını açıkladı. Donya-ye Eghtesad'ın IRNA üzerinden aktardığına göre haber ajansı RIA Novosti, Lihaçov'un gazetecilere yaptığı açıklamada şu anda santralin yeni ünitelerinin inşaat alanında 142, bakım biriminde ise 50 Rus personelin görev yaptığını söylediğini bildirdi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi.png
 gorsel_alt: Yemen ve güney Arabistan'ı gösteren tarihi harita
 gorsel_kredi: DaniCBP, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Map_of_Yemen_and_South_Arabia_(1914).png
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan'ın doğu bölgesinde ve Yemen sınırındaki Necran kentinde çarşamba gecesi birden fazla patlama sesi duyuldu. IRNA'nın aktardığına göre, Lübnan merkezli El-Gadir uydu kanalı Suudi medyasına dayandırdığı haberde Necran'da alarm sirenlerinin çalındığını, uçuş takip verilerine göre de Dammam'daki Kral Fahd Uluslararası Havalimanı'nda hava trafiğinin durduğunu bildirdi. Suudi kaynaklar doğu bölgesinde patlama sesi duyulduğunu doğruladı; olayların hasara veya can kaybına yol açıp açmadığına dair resmî bir açıklama henüz yapılmadı.
 

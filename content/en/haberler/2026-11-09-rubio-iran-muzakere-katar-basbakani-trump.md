@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-rubio-iran-muzakere-katar-basbakani-trump.jpg
 gorsel_alt: Official portrait of US Secretary of State Marco Rubio
 gorsel_kredi: US Department of State, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, US Secretary of State Marco Rubio said to reporters on Sunday, before departing for France, that negotiations with Iran show no progress. The same day, the White House announced that President Donald Trump will host Qatar's Prime Minister Muhammad bin Abdulrahman Al Thani today (Monday) at the White House, with discussions expected to focus on regional developments and US-Iran tensions.
 

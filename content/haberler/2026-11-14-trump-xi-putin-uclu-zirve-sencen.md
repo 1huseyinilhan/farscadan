@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-trump-xi-putin-uclu-zirve-sencen.jpg
 gorsel_alt: "Çin'in Şincan kentinin gece gökyüzü manzarası"
 gorsel_kredi: "Fumikas Sagisavas, CC0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Skyline_in_Shenzhen_(20250327).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD, Rusya ve Çin devlet başkanları, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında Perşembe günü Çin'in Şincan kentinde üçlü bir görüşme yapacak. Donya-ye Eqtesad'ın New York Post'tan aktardığına göre bir Beyaz Saray yetkilisi, görüşmenin esas olarak bir silah kontrolü anlaşmasının hazırlanmasına odaklanacağını, ayrıca İran'a karşı savaşın ve Kuzey Kore meselesinin de gündeme gelebileceğini söyledi.
 

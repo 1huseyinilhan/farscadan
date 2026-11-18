@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-iran-savunma-bakanlari-tarihi-ahlaki.jpg
 gorsel_alt: Interior of the Iranian Islamic Consultative Assembly chamber
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Assembly.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Donya-e Eqtesad, Iran's post-revolution "Ministry of Defense and Armed Forces Support" was called the "Ministry of National Defense" from the 1979 Revolution until June 1984, and briefly "Ministry of Defense" from 1984-1989. The current structure was created in 1989 when the Defense Ministry merged with the Revolutionary Guards Ministry. According to the report, from its establishment until today, a total of 15 military-background figures have headed this ministry across 14 governments; among them, Mustafa Chamran, Major General Javad Fekuri, Major General Musa Namju, and Amir Aziz Nasirzade were martyred while serving as minister.
 

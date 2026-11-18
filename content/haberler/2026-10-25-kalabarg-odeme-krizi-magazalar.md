@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-kalabarg-odeme-krizi-magazalar.jpg
 gorsel_alt: Tahran Büyük Bazarı'nda alışveriş yapan insanlar
 gorsel_kredi: Telluride, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ekonomi24'ün haberine göre İran'da hükümetin kalabarg (elektronik gıda kuponu) sistemi kapsamında mağazalara olan borcunu zamanında ödememesi, giderek daha fazla esnafın bu kartı kabul etmemesine yol açıyor. Ettelaat'ın aktardığına göre bir et ve protein ürünleri satan mağaza müdürü muhabirlerine "artık kalabargla satış yapmıyoruz, çünkü şu anda bile altı milyar tümanlık paramız havada" dedi; haberde bu cümlenin bugünkü kriz tablosunun en net özeti olduğu belirtiliyor.
 

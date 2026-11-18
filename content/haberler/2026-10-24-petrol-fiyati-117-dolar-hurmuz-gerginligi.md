@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-petrol-fiyati-117-dolar.jpg
 gorsel_alt: Bir ham petrol süper tankerinin açık denizdeki görüntüsü
 gorsel_kredi: Bilinmeyen, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Supertanker_AbQaiq.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Küresel ham petrol fiyatı, cuma günkü işlemlerde varil başına 117,30 dolara ulaştı. IRNA'nın haberine göre fiyattaki yükseliş, Donald Trump'ın İran'a yönelik tehdit içeren söylemlerinin sürdüğü günlerde gerçekleşti ve zirve fiyat seviyelerinden daha da yukarı çıktı.
 

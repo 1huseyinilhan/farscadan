@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris.jpg
 gorsel_alt: "A Visit, Board, Search and Seizure team from the U.S. Navy approaching a fishing vessel"
 gorsel_kredi: "Official U.S. Navy Page, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_VBSS_team_approaches_a_fishing_vessel._(8200229514).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, the UK Maritime Trade Operations Center (UKMTO) announced that unauthorized persons boarded a large fishing vessel in Arabian Sea waters. IRNA's report said the agency did not disclose which vessel or under which flag it was targeted.
 

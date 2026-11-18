@@ -13,7 +13,7 @@ gorsel: img/2026-10-22-iran-zan-kiyimi-iki-ay-istatistik.jpg
 gorsel_alt: Map showing the provinces of Iran
 gorsel_kredi: Faham, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Iran-Map_En.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International, drawing on statistical reporting published by reformist Shargh newspaper on Wednesday, at least 38 women and children were killed in 28 femicide cases in Iran over two months; 8 of these cases occurred in August and 20 in September (Shahrivar and Mehr in the Persian calendar). Shargh emphasized that its reported figures cover only cases that reached the media and that the actual number of victims could be higher.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-iran-iaea-pedman-viyana.jpg
 gorsel_alt: Viyana'daki Birleşmiş Milletler Ofisi (UNO City) binası, IAEA'nın da bulunduğu Viyana Uluslararası Merkezi
 gorsel_kredi: Dimitry Anikin, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:UNO_City_Wien_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran'ın Viyana'daki uluslararası kuruluşlar nezdindeki temsilciliği, Uluslararası Atom Enerjisi Ajansı (IAEA) Genel Müdürü Rafael Grossi'nin İran'ın barışçıl nükleer programına ilişkin "tek yanlı raporuna" yanıt verdi. Kayhan'ın Tasnim'den aktardığına göre temsilcilik, "pedman" (IAEA denetim/güvence sistemi) uygulamasının olağan dışı koşullarda eski haline döndürülemeyeceğini açıkladı.
 

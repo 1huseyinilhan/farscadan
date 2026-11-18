@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi.jpg
 gorsel_alt: Azerbaycan Cumhurbaşkanı İlham Aliyev'in portresi
 gorsel_kredi: Azerbaycan Cumhurbaşkanlığı Basın Servisi, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_2024_(%C4%B0lham_%C6%8Fliyevin)_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: Hamshahri, BBC Farsça aktarımıyla (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1081533 ;; Azat TV (İngilizce, Türk dünyası kaynağı) | https://azat.tv/en/ankara-dismisses-adviser-azerbaijan-ties-repair/
 ---
 Azerbaycan Cumhurbaşkanı İlham Aliyev, cuma günü Ankara'da düzenlenen Türk Devletleri Teşkilatı zirvesine katılmadı. ISNA'nın aktardığına göre bu gelişme, Cumhurbaşkanı Recep Tayyip Erdoğan'ın kişisel daveti olmasına rağmen gerçekleşti ve iki "köklü müttefik" arasında iç politika ve bölgesel konularda büyüyen gerginliğin iddialarını güçlendirdi. Hamshahri de BBC Farsça'ya atfen aynı gelişmeyi "Bakü-Ankara ilişkilerinde artan anlaşmazlık" başlığıyla verdi.

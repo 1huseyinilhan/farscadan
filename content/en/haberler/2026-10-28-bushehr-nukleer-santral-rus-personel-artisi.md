@@ -13,7 +13,7 @@ gorsel: img/2026-10-28-bushehr-nukleer-santral-rus-personel-artisi.jpg
 gorsel_alt: Exterior view of Bushehr Nuclear Plant
 gorsel_kredi: Hossein Heidarpour, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bushehr_Nuclear_Plant.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Rosatom CEO Alexey Likhachev announced that the number of Russian personnel working at Iran's Bushehr Nuclear Plant in the south will be increased to 700. According to Donya-ye Eghtesad's report via IRNA, the news agency RIA Novosti reported that Likhachev told journalists that currently 142 Russian personnel are working in the construction area of the plant's new units and 50 in the maintenance unit.
 

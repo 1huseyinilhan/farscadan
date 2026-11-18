@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-trump-iran-tehdit-katar-kongre.jpg
 gorsel_alt: "Official portrait of U.S. President Donald Trump"
 gorsel_kredi: "Shaleah Craighead, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, U.S. President Donald Trump has reiterated rhetoric about possible military "adventurism" toward Iran following his party's heavy midterm losses and some recent retreat from his threats. IRNA did not specify which platform Trump used for this statement, but the same day IRNA reported separately that the House minority leader had "acknowledged that Iran is now stronger than before the war and that the U.S. should never enter this war."
 

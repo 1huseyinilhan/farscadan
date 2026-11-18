@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-trump-putin-si-zirve-pekin-onayi.jpg
 gorsel_alt: "Skyline of Shenzhen city as seen from Hong Kong"
 gorsel_kredi: "Sparktour, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Skyline_of_Shenzhen_from_Hong_Kong.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 China's Foreign Ministry announced that U.S. President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping will hold a three-way meeting on Thursday, Nov. 19, in Shenzhen, a city in southern China. According to ISNA's account, Beijing stated that this will be the first three-way summit among Chinese, U.S., and Russian leaders held in Shenzhen. According to IRNA's report, China's Foreign Ministry confirmed in a statement that Xi will hold a three-way meeting with his Russian and American counterparts.

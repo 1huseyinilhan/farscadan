@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-afyonkarahisar-silahli-saldiri-sekiz-olu.jpg
 gorsel_alt: Aerial view of Afyonkarahisar Castle
 gorsel_kredi: Nabbegat, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=139752437
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Per ISNA's account, a series of armed attacks across three villages in Afyonkarahisar province in western Turkey on Thursday left eight dead and one severely wounded. The gunman fled the scene and was arrested in the neighboring province of Eskişehir following a brief operation.

@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-cihat-yayci-turkiye-israil-uyari.jpg
 gorsel_alt: Türk deniz kuvvetlerine ait TCG Turgutreis firkateyni denizde seyir hâlinde
 gorsel_kredi: Mass Communication Specialist 1st Class David R. Krigbaum, ABD Donanması, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Turkish_navy_frigate_TCG_Turgutreis_(F_241).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Emekli Türk amiral Cihat Yaycı, Türkiye'deki GZT isimli mecraya verdiği röportajda İsrail'e ait olduğu öne sürülen bir "güvenlik haritası"nı değerlendirdi ve bunu "geniş çaplı bir İsrail propaganda operasyonu" olarak tanımladı. ISNA'dan aktaran Ettelaat'ın haberine göre Yaycı, bu haritanın Suriye'yi İsrail'in "arka bahçesine" çevirmeyi ve Şam'daki merkezi hükümetin nüfuzunu tahkim etmesini engellemeyi hedefleyen "oyun içinde oyun" olduğunu savundu; İsrail'in bu hamlelerle Orta Doğu'daki Sünni ve Şii topluluklar arasında geniş çaplı bir mezhep çatışmasını körüklemeyi amaçladığını iddia etti.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-suudi-arabistan-patlama-yemen-saldirisi.png
 gorsel_alt: Historical map showing Yemen and South Arabia
 gorsel_kredi: DaniCBP, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Map_of_Yemen_and_South_Arabia_(1914).png
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Multiple blast sounds were heard Wednesday night in eastern Saudi Arabia and in Najran on the Yemen border. According to IRNA, the Beirut-based El-Gadir satellite channel, citing Saudi media reports, said alarm sirens sounded in Najran and that according to flight tracking data, air traffic stopped at King Fahd International Airport in Dammam. Saudi sources confirmed blast sounds in the eastern region; no official statement has yet addressed whether the incidents caused damage or casualties.

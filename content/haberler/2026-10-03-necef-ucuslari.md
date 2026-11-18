@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-necef-ucuslari.jpg
 gorsel_alt: Necef'teki İmam Ali Türbesi
 gorsel_kredi: Goudarz.memar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Shrine_of_Imam_Ali_Najaf_August_2023.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Irak hükümeti, İranlı havayolu şirketlerinin Necef Uluslararası Havalimanı'na günde **40 sefer** yapabilmesi için muafiyet elde ettiğini açıkladı. Ettelaat'ın El Cezire'ye dayanarak aktardığına göre izin, **Mahan Air dışındaki** İran şirketlerini kapsıyor. Irak hükümeti muafiyetin, yolcuların Irak'a giriş ve çıkışını kolaylaştırmak, insani ve tıbbi ihtiyaçları desteklemek amacıyla verildiğini belirtti.
 

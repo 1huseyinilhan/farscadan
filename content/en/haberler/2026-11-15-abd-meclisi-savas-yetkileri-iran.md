@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-abd-meclisi-savas-yetkileri-iran.jpg
 gorsel_alt: Exterior view of the U.S. Capitol Building in Washington
 gorsel_kredi: Noclip, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 In the U.S. House of Representatives, a bipartisan group of lawmakers is preparing a new war powers resolution to restrict President Donald Trump's ongoing military operations against Iran. According to Hamshahri's reporting, some U.S. legislators say that more Republicans could break with Trump and support this resolution.
 

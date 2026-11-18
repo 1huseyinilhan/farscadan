@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-abdanan-otobus-kazasi-protesto.jpg
 gorsel_alt: "General view of Posht-i Kale hill near Abdanan"
 gorsel_kredi: "Kurd ilam, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Posht_ghaleh_abdanan.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat, on November 14 (23rd of Aban) in Ilam Province, a bus carrying workers on the Dasht-i Abbas-Abdanan road overturned, resulting in the deaths of 13 engineers working on the Dehloran gas processing project. According to Kurdistan24's English report, some international news organizations reported the death toll as 12 with 16 injured; some of the wounded were reported in serious condition, so the death toll has changed over time. The exact death toll has **not been independently confirmed** across sources.
 

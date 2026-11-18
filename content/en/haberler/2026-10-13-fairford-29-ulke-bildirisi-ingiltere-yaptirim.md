@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-fairford-29-ulke-bildirisi-ingiltere-yaptirim.jpg
 gorsel_alt: Barbed-wire security fence and entrance road at RAF Fairford airbase
 gorsel_kredi: Vieve Forward, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Gate,_RAF_Fairford_-_geograph.org.uk_-_2879144.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Led by the UK Foreign Office, the foreign ministers of 29 countries including the U.S., France, Germany, and Canada issued a joint statement Monday reiterating security allegations against Iran. According to Ettelaat, citing IRNA, the statement backs London's September 27 assessment of an incident at Fairford airbase and reiterates the claim that Iran was involved.
 

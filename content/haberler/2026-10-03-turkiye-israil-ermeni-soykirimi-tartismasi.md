@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-turkiye-israil-ermeni-soykirimi-tartismasi.jpg
 gorsel_alt: Cumhurbaşkanı Recep Tayyip Erdoğan'ın resmi portresi
 gorsel_kredi: ABD Dışişleri Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_2017.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İsrail hükümetinin Ermeni soykırımını tanıma yönündeki teklifi, Birleşmiş Milletler Genel Kurulu'nda Cumhurbaşkanı Recep Tayyip Erdoğan ile İsrail Başbakanı Benjamin Netanyahu arasındaki karşılıklı suçlamalarla yeniden gündeme geldi. Donya-ye Eghtesad'da yayımlanan bir analize göre, konu Türkiye-İsrail geriliminde yeni bir baskı aracına dönüşebilir.
 

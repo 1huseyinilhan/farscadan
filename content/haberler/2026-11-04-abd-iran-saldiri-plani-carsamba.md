@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-abd-iran-saldiri-plani-carsamba.jpg
 gorsel_alt: "ABD Donanması'na ait USS Gerald R. Ford uçak gemisi açık denizde seyrederken"
 gorsel_kredi: "ABD Donanması / Mass Communication Specialist 2nd Class Jackson Adkins, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:USS_Gerald_R._Ford_(CVN-78)_underway_in_the_Atlantic_Ocean_on_9_October_2022_(221009-N-TL968-1248).JPG"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ekonomi gazetesi Donya-ye Eghtesad'ın New York Times'a dayandırdığı haberine göre isimsiz ABD yetkilileri, ABD Merkez Kuvvetler Komutanlığı'nın (CENTCOM) İran'a yönelik bir saldırı planını elinde bulundurduğunu ve Washington'ın bu planı çarşamba günü ya da daha erken bir tarihte uygulamaya koyabileceğini söyledi. Habere göre olası harekat, ABD'deki ara seçimlerin hemen ardından ve bölgede üç uçak gemisinin bulunduğu bir dönemde gerçekleştirilebilir.
 

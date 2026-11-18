@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-trump-iran-anlasma-savas-katar-arabuluculuk.jpg
 gorsel_alt: Skyline of Doha, Qatar's capital
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International's report, US President Donald Trump stated that a "decision point" is approaching between military action and a deal with Iran; in a separate statement he said there would be "no strike on Iran tonight." In an interview with Fox News broadcast Sunday, Trump summarized his preference this way: "Do I make a deal with them or do I finish them off?" According to CBS News's live feed, Trump did not reject this framing and continued to keep military options on the table.
 

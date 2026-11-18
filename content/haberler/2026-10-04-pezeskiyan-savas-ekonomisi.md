@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-pezeskiyan-savas-ekonomisi.jpg
 gorsel_alt: Cumhurbaşkanı Mesud Pezeşkiyan'ın resmi portresi
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_2024_portrait.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre Cumhurbaşkanı Mesud Pezeşkiyan, X hesabından yaptığı paylaşımda hükümetin "özel koşulları yönetmek için yeni bir düzenleme aldığını" duyurdu. Pezeşkiyan, "düşmanın son aylardaki planının, İran halkına baskı yapmak amacıyla ülkenin hayati damarlarını kesmek olduğunu" yazdı.
 

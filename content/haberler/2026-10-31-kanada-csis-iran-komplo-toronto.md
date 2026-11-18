@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-kanada-csis-iran-komplo-toronto.jpg
 gorsel_alt: Toronto şehrinin gökdelenlerle dolu ufuk çizgisi
 gorsel_kredi: Martin St-Amant (S23678), CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:122_-_Toronto_-_Septembre_2009.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Kanada İstihbarat ve Güvenlik Servisi (CSIS), IranIntl'in sorularına verdiği özel bir yanıtta, İran'a bağlı istihbarat servisleri ve bunların vekil unsurlarının Kanada topraklarında yürüttüğü tehdit içerikli faaliyetlerle mücadele ettiğini ve bazı somut vakalarda "potansiyel olarak ölümcül" komploları etkisiz hale getirdiğini doğruladı. CSIS, devam eden soruşturmaların kaynak ve yöntemlerini koruma gerekçesiyle ayrıntı veremediğini belirtti; ancak İran rejiminin Kanada ve müttefiklerine yönelik tehdit faaliyetlerinin yıl boyunca sürdüğünü, personelinin rejimin istihbarat servisleri ve vekilleriyle sürekli mücadele içinde olduğunu ve Tahran'ın "rejime tehdit" olarak gördüğü kişi ve aktivistleri hedef aldığını vurguladı.
 

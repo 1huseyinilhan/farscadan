@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-israil-patriot-hava-koprusu-iran-hazirlik.jpg
 gorsel_alt: Patriot air defense missile launcher at sunrise in Slovakia
 gorsel_kredi: U.S. Army, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Sun_rises_over_Patriot_missile_launcher_in_Slovakia_(7337597).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, citing the Wall Street Journal, as U.S. military activity in the region intensified, CENTCOM Commander General Brad Cooper presented possible military options against Iran to President Donald Trump in a White House meeting. The report states that Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs General Dan Caine also attended; the exact date of the meeting, number of options presented, and their content were not disclosed.
 

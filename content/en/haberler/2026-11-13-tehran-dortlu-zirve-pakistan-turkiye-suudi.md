@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-tehran-dortlu-zirve-pakistan-turkiye-suudi.jpg
 gorsel_alt: "Daytime view of the Azadi Tower in Tehran"
 gorsel_kredi: "Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Pakistan's military spokesman, Brigadier General Ahmed Sharif Chaudhri, confirmed in an interview with an Arab news outlet that four-way security talks held in Tehran last month brought together delegations from Turkey, Saudi Arabia, and Pakistan, and that all four sides had agreed to continue dialogue. According to Hamshahri, Chaudhri called for "moderation, de-escalation, and diplomatic engagement" by all parties and said that further escalation of tensions would benefit "none of the parties."
 

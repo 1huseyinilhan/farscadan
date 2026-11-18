@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-iran-meclis-maas-artisi-enflasyon.jpg
 gorsel_alt: İran İslami Şura Meclisi'nin bina girişi
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Majlis.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Meclisi Bütçe Uyum Komisyonu üyesi Ahmed Fatemi, hükûmetin 1406 (2027-28) bütçe tasarısında öngördüğü kamu çalışanları için yüzde 35'lik maaş artışının, resmî yüzde 88 enflasyon karşısında "hiçbir gerekçesi olmadığını" söyledi. Khabaronline'ın aktardığına göre Fatemi, hükûmet bu oranla bütçe tasarısını Meclis'e sunarsa, komisyonun ve Meclis genel kurulunun tasarının genel çerçevesine karşı çıkacağını belirtti.
 

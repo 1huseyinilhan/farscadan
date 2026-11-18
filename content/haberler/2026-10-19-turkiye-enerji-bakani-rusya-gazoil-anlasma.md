@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-turkiye-enerji-bakani-rusya-gazoil-anlasma.jpg
 gorsel_alt: Türkiye Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'ın portresi
 gorsel_kredi: European Communities, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Alparslan_Bayraktar_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, pazar akşamı Kanal 7'ye verdiği demeçte Rusya ile ABD Başkanı Donald Trump arasında gazoil konusunda bir anlaşmaya varıldığını ve görüşmeler sırasında Türkiye'nin de bu hacimden bir pay almasının kararlaştırıldığını söyledi. Haberi ISNA'dan aktaran Donya-ye Eqtesad'a göre Bayraktar, "Rusya-ABD gazoil anlaşması Türkiye için enerji güvenliği açısından önemli; Ankara bazı enerji ihtiyaçları için Rusya'ya, ayrıca İran, Azerbaycan ve diğer ülkelere bağımlı" dedi ve Türkiye'nin ABD ve diğer ortaklarla yaptığı anlaşmalar üzerinden tedarik kaynaklarını çeşitlendirmeye çalıştığını ekledi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-kalabarg-odeme-krizi-magazalar.jpg
 gorsel_alt: People shopping at the Tehran Grand Bazaar
 gorsel_kredi: Telluride, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Eqtesad24, Iran's failure to pay stores on time for the kalabarg (electronic food voucher) system is leading an increasing number of grocers to reject the card. According to Ettelaat's report, a manager of a meat and protein products store told reporters, "We don't sell on kalabarg anymore, because right now we still have six billion tomans in receivables"; the article notes this sentence is the clearest summary of the current crisis.
 

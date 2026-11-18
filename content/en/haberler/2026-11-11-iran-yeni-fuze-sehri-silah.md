@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-iran-yeni-fuze-sehri-silah.jpg
 gorsel_alt: Image from an IRGC Aerospace Force missile and space technology exhibition
 gorsel_kredi: Mohammadreza Jabbari, CC BY 4.0, Wikimedia Commons (Tasnim News Agency)
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_(26).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The IRGC's Aerospace Force unveiled a new "missile city" on Monday (Aban 9, last week); when footage from the ceremony was released on Tuesday (Aban 19), it generated wide coverage in Israeli media. According to Hamshahri, citing Vatan-e Emruz, the ceremony was attended by Joint Chiefs of Staff Commander Brigadier General Ali Abdollahi and IRGC Aerospace Force Commander Major General Seyed Majid Mousavi; the presentation included ballistic and cruise missiles from different generations, hints of underground launch infrastructure, and a "matte-finished" new weapon on display.
 

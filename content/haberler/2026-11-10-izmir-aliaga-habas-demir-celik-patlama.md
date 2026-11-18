@@ -14,7 +14,7 @@ gorsel: img/2026-11-10-izmir-aliaga-habas-demir-celik-patlama.jpg
 gorsel_alt: İzmir kentinin uluslararası uzay istasyonundan çekilmiş uydu görüntüsü
 gorsel_kredi: ISS Expedition 27 crew (NASA), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:%C4%B0zmir,_Turkey.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında 9 Kasım Pazartesi günü çıkan patlamada can kaybı 17'ye yükseldi. IRNA'nın aktardığına göre, Türkiye Sağlık Bakanı Kemal Memişoğlu'nun açıklamasıyla ölü sayısı son güncellemede 17'ye çıktı; çok sayıda işçi de yaralandı. Patlama, Ege kıyısındaki Aliağa Ağır Sanayi Bölgesi'nde faaliyet gösteren fabrikada öğle saatlerinde meydana geldi ve bölgeye geniş çaplı bir kurtarma operasyonu başlatıldı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-cia-iran-karsilik-senaryolari-rusya.jpg
 gorsel_alt: Nighttime view of the Strait of Hormuz from space
 gorsel_kredi: NASA/Tim Kopra, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 The U.S. Central Intelligence Agency concluded in a classified assessment that Iran could retaliate to possible new American strikes in three ways. According to Hamshahri citing the Washington Post, these scenarios are: increasing restrictions on ships passing through the Strait of Hormuz, staging attacks against American targets across the globe, and conducting cyberattacks against U.S. territory. The report's contents were conveyed to the newspaper by an unnamed U.S. official who requested anonymity.

@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-fidan-istanbul-zirvesi-turkiye.jpg
 gorsel_alt: Turkish Foreign Minister Hakan Fidan speaking at the US State Department
 gorsel_kredi: U.S. Department of State, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Turkish Foreign Minister Hakan Fidan announced after a gathering of foreign ministers in the R4 and R4+E3 formats in Istanbul that participating nations agree a new attack on Iran would widen war and conflict in the region. According to IRNA, Fidan said: "We are of the same mind that a renewed attack on Iran will expand war and conflict in the region."
 

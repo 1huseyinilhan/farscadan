@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-tom-barrack-iran-saldiri-iddiasi.jpg
 gorsel_alt: Official portrait of US Ambassador to Ankara Thomas Barrack
 gorsel_kredi: US State Department, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tom Barrack, US Ambassador to Ankara and special envoy for Syria-Iraq, responded with "absolutely" when asked whether an attack on Iran might occur this coming weekend. According to Khabaronline, Barrack said: "President Trump has been completely forthright; he is ready and available to reach a deal. We have been at the negotiating table for months. Everyone is now agreed that an imminent nuclear threat has been eliminated."
 

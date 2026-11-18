@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-dolar-260-bin-tumen.jpg
 gorsel_alt: İran Merkez Bankası tarafından basılmış bir riyal banknotu
 gorsel_kredi: Bank Markazi Jomhouri Eslami Iran, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran'da serbest piyasa döviz kurundaki sert yükseliş, Merkez Bankası'nı kamuoyuna açık bir uyarı yapmaya yöneltti. Ettelaat'ın yayımladığı açıklamada banka, döviz piyasasını sürekli izlediğini ve **"müdahalenin zamanı, hacmi ve yönteminin piyasa koşullarına, ekonominin ihtiyaçlarına ve rezerv yeterliliğine göre belirleneceğini"** bildirdi.
 

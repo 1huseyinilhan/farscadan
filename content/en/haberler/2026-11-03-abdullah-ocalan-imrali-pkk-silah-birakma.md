@@ -13,7 +13,7 @@ gorsel: img/2026-11-03-abdullah-ocalan-imrali-pkk-silah-birakma.jpg
 gorsel_alt: "Exterior view of the prison building on İmralı Island"
 gorsel_kredi: "Voice of America (VOA), Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Imrali_prison.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to a long profile published by the reformist Khabaronline, Abdullah Öcalan was born on April 4, 1949, in the village of Omerli, near the Halfeti district of Şanlıurfa. The article describes how Öcalan attended a vocational school in Ankara in the late 1960s, worked at the land registry office in Diyarbakır, and enrolled at Ankara University's Faculty of Political Sciences in 1971—a period when the faculty was a hub for leftist and student activism. According to Khabaronline, Öcalan and his associates founded an informal group called "Kurdistan Revolutionaries" in 1973; viewing Kurdistan as a "colony," the group called for an armed Marxist-Leninist vanguard structure. On November 27, 1978, at a secret congress near Fis village outside Diyarbakır, the Kurdistan Workers' Party (PKK) was formally established and Öcalan was elected general secretary.
 

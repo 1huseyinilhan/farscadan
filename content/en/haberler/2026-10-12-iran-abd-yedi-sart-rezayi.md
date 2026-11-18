@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-iran-abd-yedi-sart-rezayi.jpg
 gorsel_alt: Official portrait of Mohsen Rezaei
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohsen_Rezaee_in_2020.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Iran's Supreme National Security Council Secretary Major General Mohsen Rezaei said the United States has accepted some of the seven conditions Iran conveyed through Qatar in September, but that Tehran finds the U.S. response inadequate. According to Hamshahri's report, Rezaei posted on X (formerly Twitter) that "Iran's diplomacy will not return to the past."

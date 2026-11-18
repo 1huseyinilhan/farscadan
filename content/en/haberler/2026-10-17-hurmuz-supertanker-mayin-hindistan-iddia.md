@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-hurmuz-supertanker-mayin-hindistan-iddia.jpg
 gorsel_alt: Satellite view of the Strait of Hormuz and its surroundings
 gorsel_kredi: NASA Johnson Space Center, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS047-E-139569_-_View_of_Earth_-_Strait_of_Hormuz_-_Musandam_Peninsula_-_Qeschm_-_Hara_Mangrove_tidal_structures_in_Khuran_Strait_-_Persian_Gulf_-_Zagros_Mountains_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 On the evening of October 16, a supertanker carrying over 2 million barrels of crude oil was damaged in the Strait of Hormuz. According to IRNA, the Islamic Revolutionary Guard Corps (IRGC) Navy announced that an "illegally-routed supertanker in violation of regulations" struck a sea mine, causing an explosion and fire. Hamshahri reported that the IRGC released footage of the incident. At the same time, India's Maritime Minister claimed that a tanker carrying 15 Indian sailors was "struck by a projectile" in the strait and stated that none of the crew were injured.

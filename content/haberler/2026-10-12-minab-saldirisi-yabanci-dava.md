@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-minab-saldirisi-yabanci-dava.jpg
 gorsel_alt: Hürmüzgan eyaletinin merkezi Bender Abbas'ın manzarası
 gorsel_kredi: Hasanbardal, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:BandarAbbas-Landscape.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Dışişleri Bakanlığı Hukuk Müsteşarı Kazım Garibabadi, 28 Şubat 2026'da ABD ve İsrail'in Hürmüzgan eyaletindeki Minab kentinde bir kız okulunu vurduğu iddia edilen saldırıyla ilgili bazı yabancı ülkelerin dava açtığını açıkladı. Kayhan'ın aktardığına göre Garibabadi, saldırının yaşandığı Şecere-i Tayyibe Okulu'nu ziyaret ederek Cumhurbaşkanı'nın hukuki takibe özel önem verdiğini ve şehit ailelerine selam gönderdiğini aktardı.
 

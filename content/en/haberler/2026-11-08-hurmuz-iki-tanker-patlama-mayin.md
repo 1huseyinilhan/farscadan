@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-hurmuz-iki-tanker-patlama-mayin.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz from NASA Space Shuttle
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 On Saturday evening, November 7, Iran's Islamic Revolutionary Guard Corps Navy announced that two tankers it described as "violators" caught fire in the Strait of Hormuz after striking a mine; according to IRNA's account, one tanker was in the eastern section of the strait and the other was transiting the strait itself. That same night, U.S. Central Command (CENTCOM) announced it had immobilized a separate commercial vessel in the Sea of Oman for blockade violations; the relationship between the two announcements could not be independently verified.
 

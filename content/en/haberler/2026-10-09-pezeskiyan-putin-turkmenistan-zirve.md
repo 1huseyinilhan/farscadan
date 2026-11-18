@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-pezeskiyan-putin-turkmenistan-zirve.jpg
 gorsel_alt: Russian President Putin in a meeting with Iranian President Pezeshkian
 gorsel_kredi: Office of the President of Russia, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Putin_meeting_President_of_Iran_Masoud_Pezeshkian_(2025)_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat, President Masoud Pezeshkian met with Russian President Vladimir Putin on Thursday evening during the Commonwealth of Independent States (CIS) summit of heads of state and the Caspian Sea rim summit in Turkmenistan. The report states that Pezeshkian told Putin that relations between the two countries had developed in trade, economic, and humanitarian spheres; that Tehran opposes unilateralism and will not retreat from the negotiating table; and that proposals exchanged through diplomatic channels with the United States are planned to be finalized following revisions from his side.
 

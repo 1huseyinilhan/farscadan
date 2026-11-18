@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-suudi-yemen-babulmendep.jpg
 gorsel_alt: The Bab el-Mandeb Strait seen from space
 gorsel_kredi: Earth Science and Remote Sensing Unit, NASA Johnson Space Center, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bab-el-Mandeb,_outer_space.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Saudi Arabia is planning a military operation against Iran-backed Ansarallah (the Houthis) in Yemen, according to a Reuters report citing six regional and Western officials. According to the report, as relayed by Ettelaat and Iran International, the operation is expected to begin **in the coming weeks**. Under the plan, Yemeni forces under Riyadh's control will carry out the ground offensive, with support from the Saudi air force.
 

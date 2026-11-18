@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-iran-baraj-savas-sucu-iddiasi-cnn-nyt.jpg
 gorsel_alt: "Flag stands in front of United Nations headquarters"
 gorsel_kredi: "Damzow, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Flags_at_the_United_Nations_headquarters_1.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat, Iran's Foreign Ministry Legal and International Affairs Deputy Kazem Gharibabadi, in a post on X on November 17, characterized CNN's report on Iran planning to use chemical weapons in Washington as "shameful lies and historical reversal." Gharibabadi wrote that Iran is among the greatest victims of chemical weapons, and that today's accusers—especially the U.S.—have supported those who wielded such weapons against Iran.
 

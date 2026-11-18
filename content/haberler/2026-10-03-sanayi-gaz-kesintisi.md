@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-sanayi-gaz-kesintisi.jpg
 gorsel_alt: Güney Pars doğalgaz sahasının kara tesisleri
 gorsel_kredi: Hamed Malekpour, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:South_Pars_Onshore_Facilities_(3).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Meclisi Enerji Komisyonu sözcüsü Rıza Sepehvend, ülkenin doğalgaz arz-talep açığının **geçen yıla göre 130 milyon metreküp arttığını** açıkladı. Sepehvend, soğuk mevsimde sanayiye verilen gazın kesilebileceğini söyledi. Donya-ye Eghtesad'ın aktardığına göre sözcü, **sanayide gaz ve elektrik kesintilerinin yıl sonuna kadar süreceğini** de belirtti. İran takviminde yıl sonu, Mart 2027'ye denk geliyor.
 

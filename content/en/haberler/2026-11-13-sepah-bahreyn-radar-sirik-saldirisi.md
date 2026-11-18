@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-sepah-bahreyn-radar-sirik-saldirisi.jpg
 gorsel_alt: "U.S. Navy Security Force patrol boat assigned to Naval Security Force Bahrain (archival image)"
 gorsel_kredi: "U.S. Navy photograph by Mass Communication Specialist 2nd Class Kathleen A. Gorby, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_100514-N-4776G-003_A_harbor_patrol_boat_assigned_to_Naval_Security_Force_Bahrain_conducts_a_patrol_mission.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Revolutionary Guards Corps said Friday morning in "Statement No. 22" that in response to an "enemy air attack" on a telecommunications tower in Sirik, Hormozgan Province, it had targeted and destroyed an early-warning radar of the "aggressive Americans" on the island of Bahrain. According to IRNA's reporting, the statement says the Aerospace Force of the IRGC carried out this strike "hours before"; ISNA published the same announcement simultaneously with IRNA.
 

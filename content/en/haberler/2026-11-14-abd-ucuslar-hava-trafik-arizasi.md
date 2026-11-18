@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-abd-ucuslar-hava-trafik-arizasi.jpg
 gorsel_alt: A U.S. Navy air traffic controller watches an approaching aircraft on his radar screen
 gorsel_kredi: U.S. Navy photographer Andrew King, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:US_Navy_041019-N-7945K-002_Air_Traffic_Controller_3rd_Class_Jeff_Gessler,_center,_watches_an_approaching_aircraft_on_his_radar_screen_during_a_Federal_Aviation_Administration_(FAA)_Certification_test.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The U.S. Federal Aviation Administration (FAA) temporarily grounded all passenger flights nationwide Friday after a communications failure at air traffic control centers. According to Donya-ye Eqtesad, the FAA officially announced the closure of all airports, and approximately 7,000 flights were cancelled or delayed.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-katar-basbakani-korfez-hurmuz.jpg
 gorsel_alt: "Katar'daki El-Udeyd Hava Üssü'nün havadan görünümü"
 gorsel_kredi: "ABD Hükümeti, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Al_Udeid_Air_Base.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman bin Casim Al Sani, bölgesel ilişkiler ve Körfez güvenliği üzerine yaptığı bir konuşmada, Körfez Arap ülkelerindeki yabancı askeri üslere yönelik herhangi bir saldırının, o ülkelerin egemenliğine bir tecavüz sayılacağını söyledi. Donya-ye Eqtesad'ın aktardığına göre Katar Başbakanı, "Katar'da, Birleşik Arap Emirlikleri'nde, Suudi Arabistan'da ya da diğer Körfez İşbirliği Konseyi üyesi ülkelerde yabancı güçlere ev sahipliği yapan tesisler, aslında ev sahibi ülkelerin egemenlik tesisleridir" dedi.
 

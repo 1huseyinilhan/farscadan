@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-lubnan-iran-bankasi-ruhsat-iptal.jpg
 gorsel_alt: Beirut skyline, view westward from the harbor district
 gorsel_kredi: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Beirut_skyline,_Beirut,_Lebanon.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Lebanon's Central Bank revoked Bank Saderat Iran's operating license in the country. According to Hamshahri's report citing Bloomberg, the decision aligns with similar restrictions on Iran's financial system in some regional countries.
 

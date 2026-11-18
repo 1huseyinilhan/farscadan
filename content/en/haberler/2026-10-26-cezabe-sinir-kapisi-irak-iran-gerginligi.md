@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-cezabe-sinir-kapisi-irak-iran-gerginligi.png
 gorsel_alt: Map showing the Arvand (Shatt al-Arab) River and the Iran-Iraq border region
 gorsel_kredi: Orientologist, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Arvand-Rud_(Cro).PNG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri's report, Iraqi Prime Minister Ali Falih al-Zaydi instructed that a file be opened and an investigation be launched into Meysan Provincial Council chief Mustafa Duayir Abdulhassan, who gave the government a one-week deadline to reopen the Sheeb (called Cezabe in Iran) border crossing with Iran. The step came after the Meysan official warned al-Zaydi the previous day that if the gate was not opened within the stated timeframe, the public would resort to civil disobedience and blocking roads in the province.
 

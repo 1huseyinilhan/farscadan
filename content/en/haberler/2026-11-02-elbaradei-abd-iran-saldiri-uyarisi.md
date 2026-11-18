@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-elbaradei-abd-iran-saldiri-uyarisi.jpg
 gorsel_alt: "Former IAEA Director General Mohamed ElBaradei at an official event"
 gorsel_kredi: "IAEA, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Mohamed_ElBaradei.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Donya-ye Eghtesad (Economic daily, technocratic) | https://donya-e-eqtesad.com/%D8%A8%D8%AE%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%AE%D9%88%D8%A7%D9%86-62/4305712-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%AF%D8%B9%DB%8C-%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%AF-%D8%AD%D9%85%D9%84%D9%87-%D8%AF%D9%88%D8%A8%D8%A7%D8%B1%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%DB%8C%D9%88%D8%A7%D9%86%DA%AF%DB%8C-%D9%85%D8%AD%D8%B6-%D8%A7%D8%B3%D8%AA"
 ---
 According to ISNA, Former International Atomic Energy Agency (IAEA) Director General and Nobel Peace Prize laureate Mohamed ElBaradei issued a warning about the possibility of a new U.S. military strike against Iran, characterizing it as "complete madness" (Persian original: "divânegi-ye mahz"). According to ISNA, ElBaradei said that a new attempt at "military aggression" against Iran by the U.S. would be a grave mistake with severe regional and global consequences.

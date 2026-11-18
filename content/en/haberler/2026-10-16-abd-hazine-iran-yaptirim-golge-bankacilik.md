@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-abd-hazine-iran-yaptirim-golge-bankacilik.jpg
 gorsel_alt: Exterior facade of the U.S. Treasury Department building in Washington
 gorsel_kredi: Erich Robert Joli Weber, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Building_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The U.S. Treasury Department targeted Iran's networks for dollar acquisition, oil revenue transfer, and sanctions evasion, adding 16 Iranians and more than 10 institutions—including three banks, several money changers, and trading companies—to the sanctions list. According to Iran International, the department stated these networks were used for dollar sourcing, transferring oil revenues, and circumventing sanctions.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-turkiye-mossad-casusluk-sorusturmasi.jpg
 gorsel_alt: "İstanbul'un siluet görünümü"
 gorsel_kredi: "SegLig, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Istanbul_skyline_02.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın 17 Kasım'da aktardığına göre Türk medyası, İsrail'in dış istihbarat servisi Mossad adına casusluk yaptığı öne sürülen ve Türkiye'de yaşayan Filistinlileri hedef aldığı belirtilen bir soruşturma dosyasında yeni ayrıntılar bildirdi. ISNA'nın haberinin tam metnine, sitenin bilinen erişim sorunu nedeniyle ulaşılamadı; haberin içeriği RSS özetinden aktarılmıştır. Özete göre iddia edilen şebeke, Türkiye'de ikamet eden Filistin kökenli kişileri takip etmekle suçlanıyor.
 

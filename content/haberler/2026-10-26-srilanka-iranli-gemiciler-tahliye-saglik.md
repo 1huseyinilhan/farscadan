@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-srilanka-iranli-gemiciler-tahliye-saglik.jpg
 gorsel_alt: Sri Lanka'nın Galle limanının genel görünümü
 gorsel_kredi: Chamal N, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Galle_Harbour.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın Sri Lanka'nın Daily Mirror gazetesinden aktardığına göre Sri Lanka, gerekli koordinasyonu sağlayıp tıbbi tedavi ve hizmet sunduktan sonra 40 İranlı gemiciyi ülkelerine geri gönderdi. Sri Lanka Dışişleri Bakanı Vijitha Herath, Daily Mirror'a verdiği demeçte, gemicilerin cumartesi sabahı İran'a gönderilmeden önce tıbbi gözetim altına alındığını doğruladı: "40 gemiciyi kurtardık, kendilerine tedavi hizmeti sunduk ve bu sabah ülkelerine geri gönderdik" dedi.
 

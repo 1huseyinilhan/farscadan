@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-cezabe-sinir-kapisi-irak-iran-gerginligi.png
 gorsel_alt: Arvand (Şattülarap) Nehri ve İran-Irak sınır bölgesini gösteren harita
 gorsel_kredi: Orijentolog, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Arvand-Rud_(Cro).PNG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin haberine göre Irak Başbakanı Ali Falih el-Zeydi, İran ile Irak arasındaki Şiib (İran'da Çezabe olarak anılır) sınır kapısının yeniden açılması için hükümete bir haftalık süre tanıyan Meysan Eyalet Konseyi Başkanı Mustafa Duayir Abdülhasan hakkında dosya açılması ve soruşturma yürütülmesi talimatı verdi. Adım, Meysan yetkilisinin bir gün önce Zeydi hükümetine, belirlenen süre içinde kapı açılmazsa halkın sivil itaatsizliğe ve eyalette yolları kapatmaya başvuracağı uyarısında bulunmasının ardından geldi.
 

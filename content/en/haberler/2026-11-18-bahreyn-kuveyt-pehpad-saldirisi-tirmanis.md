@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-bahreyn-kuveyt-pehpad-saldirisi-tirmanis.jpg
 gorsel_alt: "Satellite view of the Persian Gulf and Strait of Hormuz region"
 gorsel_kredi: "NASA, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:ISS-40_Persian_Gulf.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to IRNA, on the night of November 17–18, alarm sirens sounded repeatedly in Bahrain, with the Interior Ministry instructing citizens to move to the nearest safe area. That same night, multiple explosion sounds were reported in Kuwait and air defense systems were activated. According to IRNA's account, the events occurred during a period of renewed escalation between the U.S. and Iran.
 

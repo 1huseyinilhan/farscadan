@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-pakistan-suudi-arabistan-turkiye-mekke-savunma-pakti.jpg
 gorsel_alt: Aerial view of Masjid al-Haram and the Kaaba in Mecca
 gorsel_kredi: Wurzelgnohm, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Masjidul-HaramAerealView.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline, Pakistan's military spokesman Brigadier General Ahmad Sherif Chaudhry officially confirmed in an interview with CNN broadcast Wednesday that Pakistani troops are permanently deployed in Saudi Arabia. Chaudhry said this presence continues within the framework of the "Mecca Joint Defense Agreement" signed in August and that Pakistani forces are operating in Saudi territory "in various capacities and operational areas."
 

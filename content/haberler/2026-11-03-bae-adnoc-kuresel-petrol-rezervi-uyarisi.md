@@ -13,7 +13,7 @@ gorsel: img/2026-11-03-bae-adnoc-kuresel-petrol-rezervi-uyarisi.jpg
 gorsel_alt: "Basra Körfezi'nde bir petrol tankerinin ham petrol yüklemesi"
 gorsel_kredi: "ABD Donanması / Fotoğrafçı Yardımcısı Eben Boothby, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_051111-N-8163B-032_An_oil_tanker_docked_to_the_Al_Basrah_Oil_Terminal_(ABOT)_takes_on_crude_oil_in_the_Persian_Gulf.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran Belediyesi'ne yakın Hamshahri'nin aktardığına göre, Abu Dabi Ulusal Petrol Şirketi'nin (ADNOC) üst düzey yöneticisi, İran'a karşı savaşın başlamasından bu yana küresel rezervlerden yaklaşık 1 milyar varil petrol çekildiğini ve dünyanın acil durum enerji stoklarının eridiğini söyledi. Hamshahri'nin haberi "ABD ve İsrail'in İran'a karşı savaşı", "özel haber" ve "BAE" etiketleriyle kısa bir metin olarak yayımlandı; haberde rakamın hangi döneme ait olduğu, hangi ülkelerin rezervlerinden ne kadar çekildiği ya da bu tüketimin hangi kritere göre hesaplandığı belirtilmiyor. Habere bağımsız bir uzman değerlendirmesi veya başka bir kaynağın doğrulaması eklenmemiş; iddia doğrudan ADNOC yöneticisinin açıklamasına atfedilerek, ek bir analiz yapılmadan aktarılıyor.
 

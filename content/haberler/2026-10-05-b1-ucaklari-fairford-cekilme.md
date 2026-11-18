@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-b1-ucaklari-fairford-cekilme.jpg
 gorsel_alt: B-1B Lancer bombardıman uçaklarının İngiltere'deki Fairford üssüne inişi
 gorsel_kredi: ABD Hava Kuvvetleri, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:B-1B_Lancers_return_to_RAF_Fairford_from_mission_(8091986).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın Wall Street Journal'a dayandırdığı habere göre ABD, İngiltere'deki Kraliyet Hava Kuvvetleri Fairford üssünde konuşlu tüm B-1 bombardıman uçaklarını, üsse yönelik şüpheli bir terör komplosu soruşturması sürerken ülkeye geri çekti. Pentagon, Fairford'a konuşlu tüm Amerikan bombardıman uçaklarının ABD'deki ana istasyonlarına taşındığını doğruladı. Üs, yedi aydır süren İran savaşında bombardıman uçaklarının uçuş süresini kısaltan bir ileri karakol olarak kullanılıyordu.
 

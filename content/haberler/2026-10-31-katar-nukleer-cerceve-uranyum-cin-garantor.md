@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor.jpg
 gorsel_alt: Doha şehrinin gökdelenlerle dolu ufuk çizgisi
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: Hamshahri, Axios (Barak Ravid) aktarımıyla (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1081540 ;; Hamshahri, El Arabiye aktarımıyla (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1081538
 ---
 Katarlı arabulucular, İran ile ABD arasında olası bir anlaşma üzerine Tahran'da 12 saat süren görüşmelerin ardından cuma günü başkent Doha'ya döndü. Donya-ye Eqtesad'ın aktardığına göre Axios muhabiri Barak Ravid, Katar heyetinin bir günlük görüşmenin ardından Tahran'dan ayrıldığını ve İranlı müzakere ekibinin de aynı uçakla Doha'ya geçtiğini yazdı; Hamshahri de aynı Axios haberini doğruladı ve müzakerelerin cumartesi günü de süreceğini ekledi.

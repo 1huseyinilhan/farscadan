@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-azerbaycan-hicap-yasagi-turkiye-geri-adim.jpg
 gorsel_alt: Official portrait of Turkey's Foreign Minister Hakan Fidan
 gorsel_kredi: U.S. Department of State, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 A new chapter has emerged in the protests that spread to Turkey over Azerbaijan's ban on headscarves in schools. According to a report Kayhan attributes to Tasnim, Turkish officials and media who criticized the ban last week have softened their stance this week; Kayhan interprets this as Ankara "backing down in the face of economic and political interests" and presents it in the headline as a "threat" to those in Turkey who criticize Azerbaijan's internal affairs.

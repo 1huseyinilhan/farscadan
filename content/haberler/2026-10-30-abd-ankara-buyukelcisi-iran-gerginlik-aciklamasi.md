@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-abd-ankara-buyukelcisi-iran-gerginlik-aciklamasi.jpg
 gorsel_alt: ABD'nin Ankara Büyükelçisi Thomas Barrack'ın resmi portresi
 gorsel_kredi: US Department of State, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD'nin Ankara Büyükelçisi ve Suriye-Irak özel temsilcisi Tom Barrack, İran'a yönelik savaşın yeniden başlayabileceğine dair haberlerin sürdüğü bir dönemde, Ortadoğu'daki gerginliklerin önümüzdeki iki hafta içinde azalabileceğine dair umut belirtti. IRNA'nın aktardığına göre Barrack, İran'la gerginliği azaltacak bir anlaşmaya yaklaşıldığını söyledi.
 

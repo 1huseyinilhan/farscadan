@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-hurmuz-donanma-cekilme-iddiasi.jpg
 gorsel_alt: Hürmüz Boğazı'nın uzaydan çekilmiş uydu görüntüsü
 gorsel_kredi: NASA, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Devrim Muhafızları Komutanlığı danışmanlar grubu başkanı General Ali Fedavi, "ilk kez" Basra Körfezi'nde, Hürmüz Boğazı'nda, Umman Denizi'nde ve hatta Hint Okyanusu'nun kuzeyinde hiçbir Amerikan deniz aracının bulunmadığını açıkladı. Fedavi, bunu "ABD'lilerin kaçtığının" ve İran'ın askeri üstünlüğünün kanıtı olarak sundu. Aynı akşam Umman'a yakın İran sularında bir petrol tankerine ateş açıldığı ve Kışm ile Siriki'de patlama sesleri duyulduğu bildirildi.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-10-13-yarana-nakdi-mehr-1405-odeme-takvimi.jpg
 gorsel_alt: Tahran Büyük Bazarı'nın renkli camlı tavanı ve dükkanları
 gorsel_kredi: Antoine Taveneaux, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran_12.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran'da Mehr ayı (İran takviminin yedinci ayı, bu yıl 23 Eylül-22 Ekim 2026'ya denk geliyor) nakit yardımı, yayınlanan takvime göre iki aşamada ödenecek. Ettelaat'ın haberine göre birinci ila üçüncü gelir dilimlerindeki haneler yardımı 25 Mehr'de (17 Ekim), dördüncü ila dokuzuncu dilimlerdeki haneler ise 30 Mehr'de (22 Ekim) alacak.
 

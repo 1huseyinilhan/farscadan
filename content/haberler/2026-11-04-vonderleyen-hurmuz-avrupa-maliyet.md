@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-vonderleyen-hurmuz-avrupa-maliyet.jpg
 gorsel_alt: "Avrupa Komisyonu Başkanı Ursula von der Leyen bir toplantıda konuşuyor"
 gorsel_kredi: "Avrupa Komisyonu Görsel-İşitsel Servisi / Christophe Licoppe, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mark_Carney_meets_Ursula_von_der_Leyen_2026-09_(4).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İSNA'nın aktardığına göre Avrupa Komisyonu Başkanı Ursula von der Leyen, Brüksel'de düzenlenen "Win-Win Brüksel" toplantısında yaptığı konuşmada Hürmüz Boğazı'nın kapalı kalmasının Avrupa'ya ağır bir fatura çıkardığını söyledi. Von der Leyen'e göre boğazın kapanmasından bu yana fosil yakıt ithalatı Avrupa'ya 127 milyar avro ek maliyet getirdi; buna karşılık kıta, kendi ifadesiyle "tek bir molekül bile" ilave enerji elde edemedi.
 

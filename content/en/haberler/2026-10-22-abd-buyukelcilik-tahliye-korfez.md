@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-abd-buyukelcilik-tahliye-korfez.jpg
 gorsel_alt: US Embassy building in Riyadh
 gorsel_kredi: US Embassy Riyadh, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:US_Embassy_Riyadh_lit_green_for_2022_Foundation_Day_of_Saudi_Arabia_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, citing AFP, the US ordered embassy personnel and their families in Saudi Arabia to leave the country. The report is attributed to a diplomatic source and does not provide a specific date for when the order was issued. IRNA also relayed the same AFP report, characterizing the source as "a diplomatic source."
 

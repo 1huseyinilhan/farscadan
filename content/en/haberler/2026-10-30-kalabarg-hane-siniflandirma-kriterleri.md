@@ -13,7 +13,7 @@ gorsel: img/2026-10-30-kalabarg-hane-siniflandirma-kriterleri.jpg
 gorsel_alt: Grocery store shelves with food products
 gorsel_kredi: Nick-D, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Aisle_in_Daily_Market_Groceries_Canberra_City_October_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Donya-e Eqtesad, Iran's government has implemented a new classification rule that divides households into three groups by asset status to determine Kalabarg (electronic food e-coupon) eligibility. The report says support to lower income brackets has been increased, while removing high-income households from the system is being "seriously considered." This continues an expansion trend that began [October 18, when cash aid was deposited for income tiers 1-3](../2026-10-18-kalabarg-yarane-destek-genisleme/).
 

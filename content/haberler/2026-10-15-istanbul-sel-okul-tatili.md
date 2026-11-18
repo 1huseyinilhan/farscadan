@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-istanbul-sel-okul-tatili.jpg
 gorsel_alt: İstanbul ve Boğaz'ın uzaydan çekilmiş fotoğrafı
 gorsel_kredi: NASA (ISS008-E-21752), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Istanbul_and_Bosporus_big.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İstanbul'u çarşamba günü vuran şiddetli yağış kente sel getirdi ve valiliği okulları tatil etmeye, bazı kamu çalışanlarına izin vermeye ve sakinlere evde kalma çağrısı yapmaya yöneltti. ISNA'nın aktardığına göre çarşamba günkü yoğun yağış İstanbul'un farklı bölgelerinde sel baskınına yol açtı.
 

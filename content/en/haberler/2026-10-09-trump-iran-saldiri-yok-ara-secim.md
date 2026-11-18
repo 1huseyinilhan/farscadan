@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-trump-iran-saldiri-yok-ara-secim.jpg
 gorsel_alt: Official portrait of U.S. President Donald Trump
 gorsel_kredi: Daniel Torok, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, U.S. President Donald Trump posted on Truth Social that the U.S. military would not conduct military strikes against Iran before the November 3 midterm elections. In the message, Trump stated that the U.S. is conducting "constructive talks" with Iran but that "the strangulation" will continue at full force and Iran will not obtain nuclear weapons.
 

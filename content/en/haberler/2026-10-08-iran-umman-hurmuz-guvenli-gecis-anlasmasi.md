@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi.jpg
 gorsel_alt: Night photograph of Hormuz Strait and Gulf of Oman from space station
 gorsel_kredi: NASA, Tim Kopra, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Donya-ye Eghtesad's report, citing Tasnim, Foreign Ministry Spokesman Ismail Bakaei said that in evaluating recent developments in Iran-U.S. negotiations, Iran's conditions and assessments regarding ending the war imposed on all fronts and restoring security to the Persian Gulf and Hormuz Strait region have been communicated "clearly and decisively" to the other side, and that necessary responses to U.S. proposals will be provided through intermediary channels.
 

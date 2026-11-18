@@ -14,7 +14,7 @@ gorsel: img/2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama.jpg
 gorsel_alt: Istanbul's nighttime skyline, the city where the suspect was arrested
 gorsel_kredi: Giorgio Galeotti, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Skyline_-_Istanbul,_Turkey_-_October_11,_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 On Tuesday (Aban 19), the U.S. Department of Justice unsealed a revised indictment charging three people with orchestrating roughly 20 terrorist attack attempts in Europe and the U.S. on behalf of a network linked to the Islamic Revolutionary Guard Corps (IRGC) and Iraq-based Kataib Hezbollah. According to Iran International, one of the defendants was arrested in Turkey earlier this year and turned over to the U.S.
 

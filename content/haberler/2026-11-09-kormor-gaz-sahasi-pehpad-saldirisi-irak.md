@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-kormor-gaz-sahasi-pehpad-saldirisi-irak.jpg
 gorsel_alt: Gece bir doğal gaz tesisinde yanan bir flare bacası (temsili görsel)
 gorsel_kredi: Tim Evanson, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Natural_gas_flare_night_02_-_Evanson_Place_-_Arnegard_North_Dakota_-_2013-07-03_(9283761831).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Irak Kürdistan Bölgesi'ndeki Kor Mor doğal gaz sahası, pazartesi akşamı aynı gece içinde ikinci kez pehpadla (drone) vuruldu. ISNA'nın aktardığına göre Süleymaniye vilayetine bağlı Chamchamal bölgesindeki tesiste bundan önce gerçekleşen ilk saldırı geniş çaplı bir yangına ve Kürdistan Bölgesi elektrik şebekesinde ciddi bir kesintiye yol açmıştı; saldırıları kimin düzenlediği henüz açıklanmadı.
 

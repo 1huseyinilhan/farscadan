@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-centcom-iran-petrol-abluka-reuters-celiski.jpg
 gorsel_alt: Kuru havuzda bakımdaki büyük bir ham petrol tankeri (VLCC)
 gorsel_kredi: Eric Gao, CC BY 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Vlcc_In_Dry_Dock_(142176503).jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 CENTCOM Komutanı Amiral Brad Cooper, 16 Ekim'de yayınlanan bir video mesajında ABD'nin "Epic Fury Operasyonu" sonrasında bölgede 50 binden fazla askerle İran'ın deniz yoluyla hiçbir ihracat ve ithalat yapamadığını, insani yardım dışında boğazın tamamen "aşılamaz" bir ablukaya alındığını söyledi. İran International'ın aktardığına göre Cooper, bu ablukanın en az 25 milyar dolarlık ham petrol ihracatını durdurduğunu, ayrıca diğer ABD kurumlarıyla birlikte yaklaşık 350 milyon dolarlık kripto varlığının dondurulmasına yardımcı olunduğunu iddia etti. Cooper'a göre bu baskı, İran hükümetinin güvenlik güçleri ve Devrim Muhafızları dahil birçok kurumda maaş ödemelerini aksatmasına yol açtı.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-11-05-iran-adliye-doviz-istirdadi.jpg
 gorsel_alt: "İran Merkez Bankası'nın bastığı 100 riyallik banknot"
 gorsel_kredi: "Bank Markazi Jomhouri Eslami Iran, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre Tahran Adliyesi Başkanı Nasır Atebati, ekonomik suçlara bakan özel mahkemelerle yapılan bir toplantıda, döviz dosyalarındaki kovuşturmalar sonucunda bugüne kadar 10,5 milyar euro dövizin ülkeye geri döndüğünü açıkladı. Açıklama, ekonomik suç dosyalarının sayısındaki hızlı artışın tartışıldığı bir oturumda yapıldı.
 

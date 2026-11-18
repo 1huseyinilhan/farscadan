@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-zahedan-rask-catisma-iddialari.jpg
 gorsel_alt: The Makki Mosque in Zahedan at night
 gorsel_kredi: Safa.daneshvar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:010231-MakkiMosque-Zahedan-IMG_0934-2.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The death toll from clashes near the cities of Zahedan and Rask in Sistan-Baluchestan province on Oct. 1-2 varies depending on the source reporting it. According to the hardline Kayhan newspaper, the Quds Base of the IRGC Ground Forces announced that it had neutralized "a terrorist team" in the region and that six people had been killed.
 

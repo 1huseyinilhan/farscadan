@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-vance-iran-zenginlestirme-sarti.jpg
 gorsel_alt: Official portrait of U.S. Vice President JD Vance
 gorsel_kredi: Emily J. Higgins, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, reporting based on Reuters, U.S. Vice President JD Vance reiterated Wednesday that for the war to end, Iran must "concretely" reduce its uranium enrichment capacity. Vance this time used the phrase reducing capacity rather than "stopping" enrichment and said it was unclear how Iran would make this decision.
 

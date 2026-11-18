@@ -13,7 +13,7 @@ gorsel: img/2026-10-03-elnaz-shakerdoost-hapis-cezasi.jpg
 gorsel_alt: Tahran'daki Azadi Kulesi
 gorsel_kredi: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İranlı sinema oyuncusu Elnaz Shakerdoost'un, Dey ayı 1404 (Ocak 2026) olaylarının ardından kişisel hesabında paylaştığı bir "story" nedeniyle aldığı 1 yıl hapis cezası, Tahran İstinaf Mahkemesi'nin 36. Dairesi tarafından onandı. Hamshahri'nin haberine göre davanın avukatı Houşeng Purbabai, kararı ve davanın ayrıntılarını kamuoyuyla paylaştı.
 

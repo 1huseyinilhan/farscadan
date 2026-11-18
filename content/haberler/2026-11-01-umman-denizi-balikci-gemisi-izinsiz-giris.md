@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-umman-denizi-balikci-gemisi-izinsiz-giris.jpg
 gorsel_alt: "ABD Donanması'na ait bir VBSS (ziyaret, arama, denetim) ekibinin bir balıkçı gemisine yaklaşması"
 gorsel_kredi: "Resmî ABD Donanması Sayfası, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_VBSS_team_approaches_a_fishing_vessel._(8200229514).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Britanya Deniz Ticareti Operasyonları Merkezi (UKMTO), Umman Denizi sularında büyük bir balıkçı gemisine izinsiz kişilerin girdiğini duyurdu. IRNA'nın haberine göre kurum, hangi geminin ya da hangi bayrağın hedef olduğunu açıklamadı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-mehr-ayi-idam-istatistik.jpg
 gorsel_alt: Tahran'daki Evin Cezaevi'nin dışarıdan görünümü
 gorsel_kredi: Ehsan Iran, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:EvinHouseofDetention.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran yargısı, Mehr ayında (23 Eylül-23 Ekim) ülke çapındaki cezaevlerinde aralarında iki kadının da bulunduğu en az 79 kişiyi farklı suçlamalarla idam etti. İran International'ın aktardığına göre bu rakam, resmî bir açıklamaya değil, infazların izlenmesiyle derlenen bir derlemeye dayanıyor; İran makamları aylık toplu idam istatistiği yayımlamıyor.
 

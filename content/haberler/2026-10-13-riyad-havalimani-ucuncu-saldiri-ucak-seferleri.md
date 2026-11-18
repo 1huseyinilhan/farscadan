@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-riyad-havalimani-ucuncu-saldiri-ucak-seferleri.jpg
 gorsel_alt: Suudi Arabistan'da Kral Fahd Uluslararası Havalimanı'nın iç terminal görünümü
 gorsel_kredi: Ciacho5, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Dammam0136.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Yemen'deki Ensarallah (Husi) hareketinin silahlı kuvvetler sözcüsü Yahya Seri, pazartesi akşamı Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'nın bir balistik füzeyle hedef alındığını açıkladı. Donya-ye Eghtesad'ın haberine göre Seri, füzenin hedefe isabet ettiğini belirtirken, ayrı bir operasyonda Humeys Müşeyt hava üssünün de bir insansız hava aracıyla vurulduğunu duyurdu.
 

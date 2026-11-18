@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-londra-casusluk-davasi-iran-internationali.jpg
 gorsel_alt: Woolwich Ceza Mahkemesi binasının dış görünüşü
 gorsel_kredi: N Chadwick, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Woolwich_Crown_Court_-_geograph.org.uk_-_7717781.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın aktardığına göre Londra'daki Woolwich Ceza Mahkemesi'nde salı günü başlayan bir duruşmada savcılar, üç İranlı sanığın işbirliği yaparak İran Internationali'ne bağlı en az iki gazeteciyi gözetleme ve hedef belirleme faaliyeti yürüttüğünü iddia etti. Habere göre savcı William Emlyn Jones, jüriye hitaben sanıkların "açıkça bir tür casusluk" niteliğinde bir faaliyette ortaklaşa yer aldığını söyledi.
 

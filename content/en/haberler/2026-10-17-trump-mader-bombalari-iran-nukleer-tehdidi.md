@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi.jpg
 gorsel_alt: U.S. Air Force GBU-43/B "mother of all bombs" (MOAB) test drop
 gorsel_kredi: U.S. Department of Defense, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:MOAB_bomb.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 U.S. President Donald Trump said in an interview Thursday with the right-leaning news site Newsmax that he will not use nuclear weapons against Iran, but he did not rule out deploying the country's most destructive non-nuclear munitions—the GBU-43/B "Massive Ordnance Air Blast" (MOAB, or "mother of all bombs")—against Iran's nuclear facilities. According to Ettelaat's citing of Al Jazeera, this is the first time Trump has explicitly mentioned nuclear weapons against Iran. Trump stated: "I'm not using nuclear weapons. We don't have to. We're the largest nuclear power in the world," and said the U.S. could strike Iran's Kuh-e Kolang Gadar facility, which is believed to be embedded within granite layers underground.

@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-trump-iran-savasi-secim-kaybi-demokratlar.jpg
 gorsel_alt: Official portrait of US President Donald Trump
 gorsel_kredi: Daniel Torok, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:January_2025_Official_Presidential_Portrait_of_Donald_J._Trump.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, in his first interview following the Congressional midterm election, President Donald Trump tied his party's electoral defeat to the war with Iran and rising gasoline prices; at the same time, he said he had no intention of escalating the conflict. The same day, Democratic Senator Elizabeth Warren announced that public pressure to end the war was growing.
 

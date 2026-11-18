@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-makron-fransa-sokak-olaylari-akaryakit.jpg
 gorsel_alt: French President Emmanuel Macron in 2026
 gorsel_kredi: Vlada Republike Slovenije, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_in_2026.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 French President Emmanuel Macron said in a television address Sunday evening that fuel price increases in France stem from "the U.S. war against Iran." According to Ettelaat, citing France24, Macron spoke from the Élysée Palace following a meeting with the prime minister and cabinet members, saying, "Tonight we are all angry; when we see the disaster happening in our streets, we are also ashamed."
 

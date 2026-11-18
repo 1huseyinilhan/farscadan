@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-cihat-yayci-turkiye-israil-uyari.jpg
 gorsel_alt: TCG Turgutreis frigate of Turkish Naval Forces underway at sea
 gorsel_kredi: Mass Communication Specialist 1st Class David R. Krigbaum, U.S. Navy, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Turkish_navy_frigate_TCG_Turgutreis_(F_241).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Retired Turkish admiral Cihat Yaycı, in an interview with Turkish media outlet GZT, evaluated what is reported to be an Israeli "security map" and described it as a "massive Israeli propaganda operation." According to the Ettelaat report, citing ISNA, Yaycı argued that this map aims to turn Syria into Israel's "backyard" and to prevent Damascus's central government from consolidating influence—a "game within a game"—and claimed Israel is trying to fuel broad sectarian conflict between Sunni and Shia communities in the Middle East through these moves.
 

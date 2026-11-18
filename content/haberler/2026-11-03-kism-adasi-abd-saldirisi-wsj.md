@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-kism-adasi-abd-saldirisi-wsj.jpg
 gorsel_alt: "Hürmüz Boğazı kıyısında Bender-i Abbas'ın genel görünümü"
 gorsel_kredi: "Hasanbardal, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:BandarAbbas-Landscape.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Tahran Belediyesi'ne yakın Hamshahri'nin aktardığına göre, Wall Street Journal'a konuşan isimsiz ABD yetkilileri, ABD ordusunun Kışm Adası'na bir saldırı düzenlediğini doğruladı. Hamshahri, Axios muhabirinin bir ABD yetkilisine dayanarak, bir ABD savaş uçağının adadaki bir füze fırlatma rampasını vurup imha ettiğini yazdığını aktardı. Haberde ayrıca NewsNation'ın isimsiz bir ABD yetkilisine dayanarak, saldırının İran'ın ABD unsurlarına karşı yüzeyden havaya füze kullanmasına karşılık verildiğini öne sürdüğü belirtildi. İran İnternational'ın aynı WSJ haberine dayanan aktarımına göre saldırı Pazartesi günü, ABD'deki ara seçimlerden bir gün önce gerçekleşti; bazı ABD yetkilileri saldırıları "savunma amaçlı" olarak tanımlayıp amacın İran'ın Hürmüz Boğazı'ndaki ticari gemilere serbestçe saldırmasını önlemek olduğunu söyledi. Aynı aktarıma göre Washington, geniş bir askeri operasyona geri döndüğü algısını yaratmamak için bu saldırıları önceki aşamalardan farklı olarak kamuoyuna açıklamadı; Pentagon sorulan soruları ABD Merkez Kuvvetler Komutanlığı'na (CENTCOM) yönlendirdi ve CENTCOM haberin yayımlandığı sırada yanıt vermedi.
 

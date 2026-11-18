@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-pentagon-kayip-sayisi-guncelleme.jpg
 gorsel_alt: Aerial view of the Pentagon building in Washington
 gorsel_kredi: Master Sgt. Ken Hammond / U.S. Air Force, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, the U.S. Department of Defense (Pentagon) quietly updated official casualty statistics in its war against Iran without announcement or media notification; the new figures show increases from previously disclosed totals.
 

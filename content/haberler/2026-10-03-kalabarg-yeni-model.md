@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-kalabarg-yeni-model.jpg
 gorsel_alt: Tahran'daki Tecriş Çarşısı'nın girişi
 gorsel_kredi: Arian Ar, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Tajrish_Bazaar_entrance.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Çalışma ve Sosyal Refah Bakanı Ahmed Meydari, elektronik gıda kuponu *kalabarg*ın hak sahiplerini belirleme yönteminin değiştiğini açıkladı. Khabar Online'ın aktardığına göre yeni modelde haneler, gelir ve varlık göstergelerine göre **düşük, orta ve yüksek** olmak üzere üç gelir grubuna ayrılacak. Önceki "onda birlik dilim" (dehek) sınıflandırması terk ediliyor.
 

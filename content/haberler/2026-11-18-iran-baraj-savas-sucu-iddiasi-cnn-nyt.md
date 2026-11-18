@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-iran-baraj-savas-sucu-iddiasi-cnn-nyt.jpg
 gorsel_alt: "Birleşmiş Milletler binasının önündeki bayrak direkleri"
 gorsel_kredi: "Damzow, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Flags_at_the_United_Nations_headquarters_1.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın aktardığına göre İran Dışişleri Bakanlığı Hukuk ve Uluslararası İşler Müsteşarı Kazım Gharibabadi, 17 Kasım'da X üzerinden yaptığı paylaşımda CNN'in İran'ın Washington'da kimyasal silah kullanmayı planladığına ilişkin haberini "utanç verici bir yalan ve tarihin tersine çevrilmesi" olarak nitelendirdi. Gharibabadi, İran'ın kimyasal silahların en büyük kurbanlarından biri olduğunu, bugünün iddiacılarının -özellikle ABD'nin- desteğiyle bu silahların hedefi olduğunu yazdı.
 

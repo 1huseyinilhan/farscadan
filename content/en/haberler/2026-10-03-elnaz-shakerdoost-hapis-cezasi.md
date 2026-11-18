@@ -13,7 +13,7 @@ gorsel: img/2026-10-03-elnaz-shakerdoost-hapis-cezasi.jpg
 gorsel_alt: The Azadi Tower in Tehran
 gorsel_kredi: Bernard Gagnon, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Azadi_Tower,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Branch 36 of the Tehran Court of Appeals has upheld the 1-year prison sentence handed to Iranian film actress Elnaz Shakerdoost over a "story" she posted on her personal account after the events of Dey 1404 (January 2026). According to Hamshahri, her lawyer, Houshang Pourbabaei, shared the ruling and details of the case with the public.
 

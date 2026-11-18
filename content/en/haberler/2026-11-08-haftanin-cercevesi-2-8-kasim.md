@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-centcom-demir-kapi-kara-sinirlari.jpg
 gorsel_alt: CENTCOM Commander Admiral Brad Cooper arriving in Cairo for Bright Star 25 exercise
 gorsel_kredi: Staff Sgt. Kevin Dunkleberger, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 editor_onay: 2026-11-08
 ---
 

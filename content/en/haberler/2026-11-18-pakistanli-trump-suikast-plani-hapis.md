@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-pakistanli-trump-suikast-plani-hapis.jpg
 gorsel_alt: "Exterior view of Brooklyn federal courthouse"
 gorsel_kredi: "Beyond My Ken, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Federal_Courthouse_Brooklyn.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, the U.S. Justice Department announced on Tuesday, November 17, that a Pakistani national accused of planning an assassination of Donald Trump had been sentenced to over 27 years in prison. According to Iran International's account, the convicted person's name is Asif Merchant, and U.S. authorities describe him as an individual with IRGC (Revolutionary Guard) connections; Hamshahri's report states the sentence as 330 months, or 27.5 years.
 

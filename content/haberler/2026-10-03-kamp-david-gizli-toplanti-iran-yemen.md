@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-kamp-david-gizli-toplanti-iran-yemen.jpg
 gorsel_alt: ABD Başkanlık malikanesi Camp David'den bir görünüm
 gorsel_kredi: ABD Beyaz Saray Fotoğraf Ofisi, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_George_W._Bush_at_Camp_David.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Başkanı Donald Trump'ın ulusal güvenlik ekibinin üst düzey üyeleri, Cuma günü Kamp David'de düzenlenen ve kamuoyuna açıklanmayan bir toplantıda İran savaşının sonraki adımlarını ve Suudi Arabistan'ın Yemen'deki Husilere yönelik olası harekâtını görüştü. Khabaronline'ın Axios'tan aktardığına göre toplantıya Başkan Yardımcısı J.D. Vance başkanlık etti.
 

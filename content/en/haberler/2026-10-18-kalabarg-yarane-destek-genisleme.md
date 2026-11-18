@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-kalabarg-yarane-destek-genisleme.jpg
 gorsel_alt: Crowded street scene in the Grand Bazaar of Tehran
 gorsel_kredi: Telluride, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Seyyid Hamid Pourmuhammadi, chief of the Budget and Planning Organization, told Tasnim—as reported by Kayhan—that other applicants requesting expanded food card support would be reviewed. Pourmuhammadi said verification and vetting of 44 million targeted recipients has begun, after which other applicants' situations will be examined and scarce resources directed to genuine need. Support will be approved only with verified information and met conditions, he added.
 

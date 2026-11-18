@@ -14,7 +14,7 @@ gorsel: img/2026-11-18-abdanan-otobus-kazasi-protesto.jpg
 gorsel_alt: "Abdanan yakınlarındaki Poşt-i Kale tepesinin genel görünümü"
 gorsel_kredi: "Kurd ilam, CC BY-SA 3.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Posht_ghaleh_abdanan.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Ettelaat'ın aktardığına göre 14 Kasım (23 Aban) günü İlam eyaletinde Deşt-i Abbas-Abdanan yolunda bir otobüsün devrilmesi sonucu Dehloran gaz rafinerisi projesinde çalışan 13 mühendis hayatını kaybetti. Kurdistan24'ün İngilizce aktarımına göre bazı uluslararası haber kuruluşları ölü sayısını 12, yaralı sayısını 16 olarak bildirdi; yaralılardan bazılarının ağır durumda olması nedeniyle ölü sayısının zamanla değiştiği görülüyor. Kesin ölü sayısı kaynaklar arasında **teyit edilmedi**.
 

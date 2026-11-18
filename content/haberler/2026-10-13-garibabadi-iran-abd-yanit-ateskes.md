@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-garibabadi-iran-abd-yanit-ateskes.jpg
 gorsel_alt: Tahran'daki İran Dışişleri Bakanlığı binasının taç kapısı ve İran bayrağı
 gorsel_kredi: xiquinhosilva, CC BY 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Affairs_Ministry_of_Iran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Dışişleri Bakan Yardımcısı Kazım Garib-Abadi, pazartesi günü El Arabiya televizyonuna verdiği demeçte, Tahran'ın ABD'nin yedi günlük ateşkes önerisine ilişkin görüşlerini hâlâ değerlendirdiğini ve yanıtını nihai hale getirmekte olduğunu açıkladı. Ettelaat'ın ISNA'ya dayandırdığı habere göre Garib-Abadi, İran'ın diplomasi yolunu desteklemeye devam ettiğini ama müzakerelerde öne sürülen taleplerin gerçekçi olması gerektiğini vurguladı.
 

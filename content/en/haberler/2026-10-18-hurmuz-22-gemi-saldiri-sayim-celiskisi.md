@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-hurmuz-22-gemi-saldiri-sayim-celiskisi.jpg
 gorsel_alt: Satellite photo of the Strait of Hormuz from space
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to a report cited by IRNA from Russian news agency TASS, 22 vessels were attacked in the Strait of Hormuz during the first 13 days of October. The UK Maritime Trade Operations Center (UKMTO), monitoring the same period from a different angle, recorded 12 attacks in the October 10-16 period in and around the strait; the two figures don't corroborate each other even if both are accepted as official counts.
 

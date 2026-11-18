@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-cnn-iran-washington-kimyasal-silah.jpg
 gorsel_alt: "ABD Kongre binası (Capitol) kubbesi, Washington D.C."
 gorsel_kredi: "Diliff, CC BY 2.5, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Muhalefet yanlısı Iran International'ın CNN'den aktardığına göre, yedi ABD yetkilisine dayanan yeni bilgiler İran'ın Trump yönetiminin üst düzey üyelerini hedef alan saldırı planları tasarladığına işaret ediyor; ancak ABD yetkilileri İran'ın bu planları uygulama kapasitesi ve niyeti konusunda hemfikir değil. CNN'in iki kaynağına göre bu planlar olası hedefler ve mekanlar da dahil olmak üzere somut ayrıntılar içeriyor ve bu durum ABD yetkililerini olası senaryoları ve karşı tedbirleri aciliyetle değerlendirmeye yöneltti. Ancak konuya yakın kaynaklar, bu planlamanın en azından şu an için büyük ölçüde "seçenek elde bulundurma" amacı taşıdığını, bir saldırının yakın olduğu anlamına gelmediğini söyledi. Beyaz Saray sözcüsü ise yaptığı açıklamada ABD'nin "tüm olası tehditleri izlediğini, ancak şu an için ABD topraklarına yönelik güvenilir bir tehdit bulunmadığını" belirtti.
 

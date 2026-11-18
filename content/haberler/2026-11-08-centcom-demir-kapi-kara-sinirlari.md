@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-centcom-demir-kapi-kara-sinirlari.jpg
 gorsel_alt: CENTCOM Komutanı Amiral Brad Cooper, Bright Star 25 tatbikatı için Kahire'ye gelişinde
 gorsel_kredi: Staff Sgt. Kevin Dunkleberger, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Muhalif, yurt dışı yayın yapan Iran International'ın aktardığına göre ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik mevcut deniz ablukasını kara sınırlarına ve Hazar Denizi'ne de genişletmek amacıyla cumartesi günü "Demir Kapı" (Task Force Iron Gate) adlı bir görev gücü kurduğunu açıkladı. Adım, İran'a gelişmiş silah sistemleri, çift kullanımlı teknoloji ve yaptırımlı malların girişini kesmeyi hedefliyor.
 

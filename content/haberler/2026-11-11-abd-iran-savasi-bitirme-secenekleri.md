@@ -13,7 +13,7 @@ gorsel: img/2026-11-11-abd-iran-savasi-bitirme-secenekleri.jpg
 gorsel_alt: ABD Savunma Bakanlığı'nın (Pentagon) havadan görünümü
 gorsel_kredi: mariordo59, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Pentagon,_Arlington,_VA_(38285035892).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Washington'da Trump yönetimi içinde, İran'la savaşın nasıl sona erdirileceğine ilişkin görüş ayrılıkları yeni bir aşamaya girdi. Donya-ye Eqtesad'ın (İlna'dan alıntıyla) aktardığına göre Beyaz Saray resmî olarak askeri operasyonların ana aşamasının bittiğini söylerken, yönetim içinde çatışmanın nihai şeklinin ve sona erme koşullarının ne olacağı konusunda henüz bir uzlaşı yok; üç farklı yaklaşım bu süreci şekillendirmek için rekabet ediyor.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-katar-nukleer-cerceve-uranyum-cin-garantor.jpg
 gorsel_alt: Doha skyline with tall buildings
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: Hamshahri, citing Axios (Barak Ravid) (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1081540 ;; Hamshahri, citing Al Arabiya (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1081538
 ---
 Qatari mediators returned to the capital Doha on Friday after 12 hours of talks in Tehran with Iran over a possible agreement with the U.S. According to Donya-ye Eqtesad, Axios correspondent Barak Ravid reported that the Qatari delegation left Tehran after a day of talks and the Iranian negotiating team boarded the same plane to Doha; Hamshahri confirmed the same Axios report and added that talks were expected to continue on Saturday.

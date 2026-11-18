@@ -14,7 +14,7 @@ gorsel: img/2026-11-05-turkiye-iran-sinirinda-asker-olumu.jpg
 gorsel_alt: "Hakkari ilinin dağlık sınır bölgesinden bir görünüm"
 gorsel_kredi: "VOA, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Hakkari.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin aktardığına göre Türkiye Savunma Bakanlığı, Hakkari'nin Yüksekova ilçesinde sınırdan yasa dışı geçişe müdahale sırasında bir askerin, İran tarafından geldiği değerlendirilen ateş sonucu öldüğünü açıkladı. Bakanlık, olayın tüm yönlerinin aydınlatılması için İran makamlarıyla eşgüdümlü olarak soruşturma yürütüldüğünü bildirdi.
 

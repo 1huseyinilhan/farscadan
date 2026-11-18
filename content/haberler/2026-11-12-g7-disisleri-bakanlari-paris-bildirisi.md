@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-g7-disisleri-bakanlari-paris-bildirisi.jpg
 gorsel_alt: Paris'teki Fransız Dışişleri Bakanlığı binası, Quai d'Orsay
 gorsel_kredi: Jebulon, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Minist%C3%A8re_fran%C3%A7ais_des_Affaires_Etrang%C3%A8res_et_Europ%C3%A9ennes_Quai_d%27Orsay_Paris.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 G7 üyesi ülkelerin dışişleri bakanları, 18-19 Kasım'da Paris'te düzenlenen toplantının ardından Çarşamba günü yayımladıkları ortak bildiride İran'ın "şiddet içeren komplolarından" duydukları kaygıyı dile getirdi. Iran International'ın aktardığına göre ABD, Britanya, Fransa, Almanya, İtalya, Kanada ve Japonya dışişleri bakanları ile AB'nin yüksek temsilcisi, İran'ın nükleer silah edinmesine asla izin verilmemesi gerektiğini ve diplomatik çözüm sağlanamazsa ekonomik ve siyasi baskının süreceğini vurguladı.
 

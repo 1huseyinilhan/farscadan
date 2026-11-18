@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-trump-iran-tehdit-katar-kongre.jpg
 gorsel_alt: "ABD Başkanı Donald Trump'ın resmî portresi"
 gorsel_kredi: "Shealeah Craighead, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre ABD Başkanı Donald Trump, partisinin Kongre seçimlerinde aldığı ağır yenilginin ve son günlerdeki tehditlerinden kısmen geri adım atmasının ardından, İran'a karşı olası bir askerî "maceracılık" söylemini yeniden tekrarladı. Haberde Trump'ın bu açıklamayı hangi platformda yaptığına dair ayrıntı verilmedi, ancak IRNA aynı gün ayrı bir haberde Temsilciler Meclisi azınlık liderinin "İran'ın şu an savaş öncesi dönemden daha güçlü olduğunu ve ABD'nin bu savaşa asla girmemesi gerektiğini" kabul ettiğini yazdı.
 

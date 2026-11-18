@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-b1-ucaklari-fairford-cekilme.jpg
 gorsel_alt: B-1B Lancer bombers landing at RAF Fairford in the UK
 gorsel_kredi: US Air Force, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:B-1B_Lancers_return_to_RAF_Fairford_from_mission_(8091986).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to reporting by Ettelaat citing the Wall Street Journal, the US withdrew all B-1 bomber aircraft from RAF Fairford in the UK while a suspected terror plot investigation targeting the base remained ongoing. The Pentagon confirmed that all American bomber aircraft stationed at Fairford have been relocated to primary bases in the US. The base had served as a forward operating post during the seven-month Iran war, reducing flight times for bomber sorties.
 

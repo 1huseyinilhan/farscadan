@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-trump-netanyahu-saldiri-yeniden-baslama-telefon.jpg
 gorsel_alt: "Donald Trump ve Benjamin Netanyahu'nun Beyaz Saray'da bir araya geldiği an"
 gorsel_kredi: "Dan Scavino, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Donald_Trump_and_Benjamin_Netanyahu_at_White_House_2025_(4).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre Wall Street Journal, ABD Başkanı Donald Trump'ın cumartesi sabahı, Washington'ın Orta Doğu'da savaşı yeniden başlatma hazırlıkları yaptığı bir dönemde, İsrail Başbakanı Benjamin Netanyahu ile telefonda görüştüğünü bildirdi. IRNA'nın verdiği habere göre görüşme, ABD'nin bölgedeki olası yeni saldırı hazırlıklarının sürdüğü bir dönemde gerçekleşti.
 

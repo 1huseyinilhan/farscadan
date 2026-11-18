@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-istanbul-disisleri-bakanlari-turkiye-hurmuz-yemen.jpg
 gorsel_alt: Entrance of Dolmabahçe Palace in Istanbul
 gorsel_kredi: Julian Lupyan, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Entrance_to_Dolmabah%C3%A7e_Palace,_Architectural_Panorama.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Turkish Foreign Minister Hakan Fidan hosted foreign ministers from seven nations in Istanbul on Friday. According to Iran International's reporting, the meeting's agenda included the Iran-U.S. war, security of the Strait of Hormuz and Bab al-Mandab, developments in Yemen, and the Palestine issue. Reuters confirmed that this was the first such meeting in this format.
 

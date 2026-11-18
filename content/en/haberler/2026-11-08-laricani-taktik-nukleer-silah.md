@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-laricani-taktik-nukleer-silah.jpg
 gorsel_alt: A photograph of Iran's Natanz nuclear facility taken in 2022
 gorsel_kredi: Parsa 2au, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Atomanlage_Natanz_(2022).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Khabaronline, Iranian politician and academic Mohammad Javad Larijani said on state television Sedavesima that nuclear weapons cannot be used against civilians but can be used "tactically" against an enemy military base. Larijani is identified in the report as head of the Institute for Research in Fundamental Sciences (IPM); he is a conservative politician and former diplomat. Larijani's remarks on Friday, aired on state television, represented a rare, openly stated formulation in Iranian public discourse on nuclear weapons use.
 

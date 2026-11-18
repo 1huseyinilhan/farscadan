@@ -14,7 +14,7 @@ gorsel: img/2026-11-07-rusya-iran-s400-rezai-telegraph.jpg
 gorsel_alt: "S-400 air defense launch systems during a military parade rehearsal in Moscow"
 gorsel_kredi: "Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Moscow_2012_Victory_Day_Parade_Rehearsal,_S-400,_Russia.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Ettelaat's report from Telegraph, the Kremlin visit by Supreme National Security Council Secretary Mohsen Rezai and his meeting with Putin weakens Trump's claim that "Russia is doing nothing to help Tehran." According to Telegraph, Iran and Russia are negotiating delivery of advanced air defense systems to Tehran.
 

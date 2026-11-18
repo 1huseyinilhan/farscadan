@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-cbrn-yidid-potasyum-savunma.jpg
 gorsel_alt: IOSAT marka yidid potasyum (iyot) tabletlerinin ambalajlı kutuları
 gorsel_kredi: ABD Hava Kuvvetleri fotoğrafı, Michael J. Veloz, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:110404-F-AM028-036_packs_of_IOSAT_potassium_iodide_tablets.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Gıda ve İlaç Örgütü Pasif Savunma Sekreteri Behruz Cennet, kimyasal, biyolojik, radyolojik ve nükleer (CBRN) tehditlere hazırlığın gerekliliğine dikkat çekerek bu tehditlere karşı ilaç ve panzehir tedarikinin bilimsel ihtiyaç analizine, tehlike türünün kesin belirlenmesine ve sorumlu kurumun açık olmasına dayanması gerektiğini söyledi. Khabaronline'ın IRNA'dan da aktardığı habere göre Cennet, teknik incelemeden ve maruziyet senaryosu belirlenmeden yapılan alımların acil durum hazırlığı için uygun bir yöntem olmadığını vurguladı.
 

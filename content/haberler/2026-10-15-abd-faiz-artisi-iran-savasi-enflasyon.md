@@ -14,7 +14,7 @@ gorsel: img/2026-10-15-abd-faiz-artisi-iran-savasi-enflasyon.jpg
 gorsel_alt: Washington'daki Federal Reserve (Eccles) binası
 gorsel_kredi: Federal Reserve, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Merkez Bankası (Fed), İran savaşının beslediği enflasyon baskısı nedeniyle faiz oranını 2023'ten bu yana ilk kez yükseltti. Kayhan'ın aktardığına göre Fed, en son toplantısında politika faizini 25 baz puan artırarak %3,75-4 aralığına çekti; bu, Başkan Donald Trump'ın faiz indirimi talebine açıkça aykırı bir adım oldu.
 

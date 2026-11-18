@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-cop31-antalya-iran-savasi-iklim.jpg
 gorsel_alt: Antalya'nın tarihi Kaleiçi mahallesinden bir sokak görünümü
 gorsel_kredi: REHBER0770, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Antalya_kalei%C3%A7i_2.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Birleşmiş Milletler'in 31. İklim Değişikliği Konferansı (COP31), Çarşamba günü Türkiye'nin ev sahipliğinde Antalya'da açıldı; zirveye katılan liderler, İran savaşının küresel ekonomiye etkisine dair uyarılarda bulunarak fosil yakıtlara bağımlılığın azaltılmasını istedi. Iran International'ın Reuters'a atfen aktardığına göre enerji ve gıda fiyatlarındaki artış, savaşlar ve ticaret anlaşmazlıkları hükümetlerin dikkatini iklim krizinden uzaklaştırırken, BM yetkilileri ve bazı dünya liderleri küresel ısınmayla mücadeleyi yalnızca çevresel bir zorunluluk değil, enflasyonu dizginleme ve ekonomik güvenliği güçlendirme aracı olarak sunmaya çalışıyor.
 

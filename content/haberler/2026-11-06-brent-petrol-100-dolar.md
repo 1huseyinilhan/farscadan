@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-brent-petrol-100-dolar.jpg
 gorsel_alt: Bir petrol sahasında çalışan pompa ünitesi (pumpjack)
 gorsel_kredi: Ken Lund, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=54270795
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın Reuters'tan aktardığına göre Brent petrol vadeli işlemleri cuma günü (6 Kasım) 2 doların üzerinde bir artışla varil başına 100 doları geçti. Fiyat hareketi, ABD ara seçimlerinin ardından yaşanan sert bir düşüşün hemen sonrasına denk geldi.
 

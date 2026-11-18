@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-riyad-havalimani-saldirisi.jpg
 gorsel_alt: Exterior of Riyadh's King Khalid International Airport
 gorsel_kredi: U.S. Air Mobility Command, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Saudi Arabia's Civil Aviation Authority, at least 12 people were killed in a missile strike on Riyadh's King Khalid International Airport on Saturday evening by Yemen's Houthi movement Ansarallah. The attack brought airport operations to a standstill and escalated regional tensions to a new level.
 

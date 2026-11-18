@@ -14,7 +14,7 @@ gorsel: img/2026-11-17-turkiye-mossad-casusluk-sorusturmasi.jpg
 gorsel_alt: Istanbul skyline view
 gorsel_kredi: "SegLig, CC BY 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Istanbul_skyline_02.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA on November 17, Turkish media reported new details in an intelligence file involving alleged Mossad espionage targeting Palestinians living in Turkey. ISNA's full article text was inaccessible due to the site's known access issues; the article's content is drawn from the RSS summary. According to the summary, the alleged network stands accused of monitoring Palestinian-origin individuals residing in Turkey.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-abd-iran-saldiri-plani-carsamba.jpg
 gorsel_alt: "USS Gerald R. Ford carrier strike group transiting the open ocean"
 gorsel_kredi: "U.S. Navy / Mass Communication Specialist 2nd Class Jackson Adkins, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:USS_Gerald_R._Ford_(CVN-78)_underway_in_the_Atlantic_Ocean_on_9_October_2022_(221009-N-TL968-1248).JPG"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Donya-ye Eghtesad, citing the New York Times, unnamed U.S. officials said that U.S. Central Command (CENTCOM) has prepared a strike plan against Iran and Washington could implement it as early as Wednesday or sooner. According to the report, the operation could take place immediately following U.S. midterm elections and at a time when three carrier strike groups are positioned in the region.
 

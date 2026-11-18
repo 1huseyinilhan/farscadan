@@ -13,7 +13,7 @@ gorsel: img/2026-11-01-binance-hack-kuzey-kore-fbi.jpg
 gorsel_alt: "Laptop screen showing cryptocurrency and cybersecurity themed visuals"
 gorsel_kredi: "Edwin.images, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Bitcoin_Cryptocurrency_Security.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to ISNA, the U.S. Federal Bureau of Investigation (FBI) announced Sunday that it has formally linked the theft of approximately $6 billion in digital assets from Binance, the world's largest cryptocurrency exchange, to North Korea. ISNA reported that FBI officials said the attack was carried out by a group affiliated with the North Korean state.
 

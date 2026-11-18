@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-kanada-csis-iran-komplo-toronto.jpg
 gorsel_alt: Toronto skyline with tall buildings
 gorsel_kredi: Martin St-Amant (S23678), CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:122_-_Toronto_-_Septembre_2009.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Canadian Security Intelligence Service (CSIS), in a special response to IranIntl's questions, confirmed it has countered threatening activities by Iranian intelligence services and their proxy elements operating on Canadian soil and has thwarted "potentially lethal" plots in some concrete cases. CSIS said it cannot provide details to protect ongoing investigations' sources and methods; however, it emphasized that threats from the Iranian regime's intelligence services and proxies have persisted throughout the year, that its personnel are in continuous counteraction against these entities, and that Tehran targets individuals and activists it views as threats.
 

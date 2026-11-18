@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-aramco-zehran-misil-saldirisi-tahliye.jpg
 gorsel_alt: Aramco's Dhahran administrative buildings and mosque
 gorsel_kredi: Eagleamn, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:AramcoCoreArea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Saudi Arabia's Energy Ministry confirmed that the headquarters building of state oil company Aramco in the Eastern Province city of Dhahran was targeted on Tuesday evening; the ministry reported no loss of life. According to IRNA, the strike was part of a series of missile attacks launched by armed forces in Yemen against Riyadh, Dhahran, and Dammam.
 

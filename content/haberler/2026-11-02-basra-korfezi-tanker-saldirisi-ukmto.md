@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-basra-korfezi-tanker-saldirisi-ukmto.jpg
 gorsel_alt: "ABD Donanması'na ait bir fırkateyn, Hürmüz Boğazı'ndan geçerken bir tankerin yanından geçiyor"
 gorsel_kredi: "ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:A_port_view_of_the_guided_missile_frigate_USS_TAYLOR_(FFG-50)_as_it_passes_a_tanker_after_going_through_the_Strait_of_Hormuz_during_Operation_Desert_Shield_-_DPLA_-_1fb70620034c5304df096b4526972ace.jpeg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "ISNA (yarı resmî) | https://www.isna.ir/news/1405081106692/ ;; Hamshahri (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1082242/ ;; Ettelaat (köklü gazete, ılımlı-gelenekçi) | https://www.ettelaat.com/news/176120/"
 ---
 IRNA'nın İngiltere Deniz Ticareti Operasyonları Örgütü'nden (UKMTO) aktardığına göre, pazartesi günü Suudi Arabistan'ın Ras el-Hafci kıyısının 72 deniz mili doğusunda seyreden bir tankerin iki bilinmeyen cisimle vurulduğuna dair bir bildirim alındı. ISNA ve Hamshahri'nin de aynı UKMTO açıklamasına dayanarak verdiği habere göre, Basra Körfezi'nde güneydoğu istikametinde hareket eden tanker, sol taraftan iki bilinmeyen cisimle vuruldu. UKMTO, mürettebatın tamamının güvende ve durumun kontrol altında olduğunu, şu ana kadar çevresel bir etkiye dair bir bildirim alınmadığını açıkladı. Örgüt, gemilere tedbirli seyretmelerini ve her türlü şüpheli faaliyeti kendilerine bildirmelerini tavsiye etti.

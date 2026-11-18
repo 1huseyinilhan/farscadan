@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-abd-hazine-iran-yaptirim-golge-bankacilik.jpg
 gorsel_alt: Washington'daki ABD Hazine Bakanlığı binasının dış cephesi
 gorsel_kredi: Erich Robert Joli Weber, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Building_(1).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Hazine Bakanlığı, İran'ın dolar temini, petrol gelirlerinin aktarılması ve yaptırımların delinmesinde rol oynadığı öne sürülen ağları hedef alarak 16 İranlı ile üç banka, birkaç döviz bürosu ve ticaret şirketi dahil 10'dan fazla kurumu yaptırım listesine ekledi. İran International'ın aktardığına göre bakanlık, bu şebekelerin dolar temininde, petrol gelirlerinin transferinde ve yaptırımlardan kaçınmada kullanıldığını belirtti.
 

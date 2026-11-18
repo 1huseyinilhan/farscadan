@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-fidan-istanbul-zirvesi-turkiye.jpg
 gorsel_alt: Türkiye Dışişleri Bakanı Hakan Fidan, ABD Dışişleri Bakanlığı'nda konuşma yapıyor
 gorsel_kredi: U.S. Department of State, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Foreign_Minister_of_Turkey_Hakan_Fidan_at_the_Department_of_State_in_Washington,_D.C.,_on_March_8,_2024_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye Dışişleri Bakanı Hakan Fidan, İstanbul'da R4 ve R4+E3 formatlarında düzenlenen dışişleri bakanları toplantısının ardından, İran'a yönelik yeni bir saldırının bölgede savaşı ve çatışmayı büyüteceği konusunda katılımcı ülkelerin hemfikir olduğunu açıkladı. IRNA'nın aktardığına göre Fidan, "aynı düşüncedeyiz ki İran'a yeniden saldırı, bölgede savaşı ve çatışmayı büyütecektir" dedi.
 

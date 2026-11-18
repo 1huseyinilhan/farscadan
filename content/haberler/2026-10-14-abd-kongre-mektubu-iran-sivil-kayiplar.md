@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-abd-kongre-mektubu-iran-sivil-kayiplar.jpg
 gorsel_alt: ABD Kongre binasının (Capitol) kubbesi
 gorsel_kredi: Noclip, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Kongresi'nden 77 yasa yapıcı, İran'la sürdürülen savaşta sivillere yönelik saldırılar ve bunların yol açtığı ölümler hakkında hükümetten ve Savaş Bakanlığı'ndan (Pentagon) resmî açıklama istedi. İRNA'nın haberine göre imzacılar, ortak bir mektupla gönderdikleri talepte saldırıların ayrıntılarının ve sivil kayıpların kamuoyuna açıklanmasını talep etti.
 

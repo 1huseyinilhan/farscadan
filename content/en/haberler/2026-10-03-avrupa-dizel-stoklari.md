@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-avrupa-dizel-stoklari.jpg
 gorsel_alt: Fuel pumps at a gas station
 gorsel_kredi: The Bushranger, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Pump_at_RaceTrac,_Bradford_County,_Florida.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 US President Donald Trump announced on Truth Social on Friday that Europe had **"agreed to release a very large volume of its abundant diesel stocks"** and that the process would begin immediately. According to Iran International, the statement came hours after talks among EU members. Three sources who spoke to Reuters said European countries were considering a French proposal. Under the proposal, 50 million barrels of diesel would be released from European stocks and 50 million barrels of crude oil from members of the International Energy Agency (IEA).
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-dolar-270-bin-kalabarg-sehmiye.jpg
 gorsel_alt: Exterior of the Islamic Consultative Assembly (Majlis) building in Iran
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Majlis.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Kayhan, Parliament Speaker Mohammad Baqer Kalaibaf responded to criticism of the Central Bank's decision to sell $10,000 to every citizen over 18, saying: "When I learned about this from the media, I was genuinely shocked. I didn't understand why such a thing was done." Tehran deputy Mehdi Kuchekzadeh criticized the policy during Sunday's session, saying "I haven't slept in days." The statement came after the dollar exchange rate exceeded 270,000 rials.
 

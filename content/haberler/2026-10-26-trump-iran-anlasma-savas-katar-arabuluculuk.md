@@ -13,7 +13,7 @@ gorsel: img/2026-10-26-trump-iran-anlasma-savas-katar-arabuluculuk.jpg
 gorsel_alt: Katar'ın başkenti Doha'nın gökdelen silüeti
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Iran International'ın haberine göre, ABD Başkanı Donald Trump, İran ile askerî eylem ve anlaşma arasında bir "karar zamanının" yaklaştığını söyledi; ayrı bir açıklamasında ise "bu gece İran'a saldırı olmayacağını" belirtti. Trump, Fox News'e verdiği ve pazar günü yayınlanan röportajda tercihini şöyle özetledi: "Onlarla anlaşma mı yapacağım yoksa işlerini mi bitireceğim?" CBS News'in canlı aktarımına göre Trump bu çerçeveyi reddetmedi ve askerî seçeneği masada tutmaya devam etti.
 

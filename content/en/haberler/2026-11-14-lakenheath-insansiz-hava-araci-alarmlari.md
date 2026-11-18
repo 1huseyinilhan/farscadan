@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-lakenheath-insansiz-hava-araci-alarmlari.jpg
 gorsel_alt: F-35A Lightning II aircraft landing at RAF Lakenheath
 gorsel_kredi: U.S. Air Force (Flickr), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:F-35A_Lightning_II%27s_land_at_Royal_Air_Force_Lakenheath_(33333775974).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suspicious unmanned aerial vehicle (UAV) activity over RAF Lakenheath air base in Britain was confirmed Friday evening. According to Hamshahri, citing Sky News, a U.S. Air Force spokesperson announced that security personnel responded after observing unauthorized drone flights in the airspace above the base.
 

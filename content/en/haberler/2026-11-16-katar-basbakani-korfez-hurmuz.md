@@ -14,7 +14,7 @@ gorsel: img/2026-11-16-katar-basbakani-korfez-hurmuz.jpg
 gorsel_alt: "Aerial view of Al Udeid Air Base in Qatar"
 gorsel_kredi: "U.S. Government, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Al_Udeid_Air_Base.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Qatar's Prime Minister and Foreign Minister Muhammad bin Abdulrahman bin Jassim Al Sani, in a speech on regional relations and Gulf security, said that any attack on foreign military bases in Gulf Arab states would be considered an attack on those nations' sovereignty. According to Donya-ye Eqtesad's account, Qatar's Prime Minister said: "Facilities hosting foreign powers in Qatar, the United Arab Emirates, Saudi Arabia, or other Gulf Cooperation Council member states are in fact sovereignty facilities of the host nations."

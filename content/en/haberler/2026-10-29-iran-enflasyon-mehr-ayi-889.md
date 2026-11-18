@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-iran-enflasyon-mehr-ayi-889.jpg
 gorsel_alt: Interior view of the Grand Bazaar (Bazar-i Bozorg) in Teheran
 gorsel_kredi: BABAK1985, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 According to Iran's Statistics Center report on mehr month (September 22–October 21) consumer prices, household monthly inflation stood at 4.4%, year-on-year point inflation at 88.7%, and the 12-month average inflation at 76.8%. According to Kayhan, this means a consumption basket that cost 100 units a year ago now costs an average of 188.7 units.

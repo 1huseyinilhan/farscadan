@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-hurmuz-tanker-louise-mina-saldirisi.jpg
 gorsel_alt: Large oil tanker transiting open seas
 gorsel_kredi: ImagePerson, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Oil_Tanker_in_North_Sea_3928.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: IranIntl, citing Financial Times (Opposition, diaspora) | https://www.iranintl.com/202610303557 ;; ISNA (Semi-official) | https://www.isna.ir/news/1405080805151/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%DB%8C%DA%A9-%D9%86%D9%81%D8%AA%DA%A9%D8%B4-%D9%85%D8%AA%D8%AE%D9%84%D9%81-%D8%AF%D8%B1-%D9%85%D8%B3%DB%8C%D8%B1-%D8%BA%DB%8C%D8%B1-%D9%85%D8%AC%D8%A7%D8%B2-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D9%85%DB%8C%D9%86 ;; Hamshahri (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1081530 ;; Kayhan (Hardline) | https://kayhan.ir/fa/news/341073
 ---
 A supertanker transiting an unauthorized route south of the Strait of Hormuz caught fire Thursday evening; according to IRNA, the Islamic Revolutionary Guard Corps (Sepah) Navy said the vessel hit a mine while attempting to pass through a restricted zone in disregard of warnings, causing a violent explosion. Sepah's statement described this as the fourth similar "violating" tanker. ISNA, Hamshahri, Kayhan, Donya-ye Eqtesad, Ettelaat, and Khabaronline all reported Sepah's statement as news.

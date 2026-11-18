@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-eisenkot-israil-birlik-hukumeti.jpg
 gorsel_alt: Gadi Eisenkot'un bir portresi
 gorsel_kredi: Ronen Horesh, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Gadi_Eisenkot_(R_H_3639).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 IRNA'nın aktardığına göre İsrail Cumhurbaşkanı İshak Herzog, cumartesi akşamı Binyamin Netanyahu'nun en sert rakibi kabul edilen Gadi Eisenkot'u yeni hükümeti kurmakla görevlendirdi; görev pazar günü resmî bir törenle Eisenkot'a tebliğ edilecek. İbranice medyaya dayanan haberlere göre 120 sandalyeli Knesset'te 67 vekil Eisenkot'u, 46 vekil ise Netanyahu'yu önermişti.
 

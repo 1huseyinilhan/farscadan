@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-pentagon-iran-saldiri-secenekleri-ara-secim.jpg
 gorsel_alt: Pentagon binasının havadan görünümü
 gorsel_kredi: Hava Kuvvetleri Çavuşu Brittany A. Chase, ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Aerial_Closeup_of_the_Pentagon,_May_11,_2021.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Hamshahri'nin Atlantic dergisine dayandırdığı haberine göre, iki ABD hükûmet yetkilisi derginin muhabirlerine Beyaz Saray'ın Pentagon'dan 3 Kasım ara seçiminden önce uygulanabilecek İran saldırı seçenekleri hazırlamasını istediğini söyledi. Haberde, bu konuda henüz nihai bir kararın alınmadığı belirtiliyor.
 

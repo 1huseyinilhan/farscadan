@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-iran-umman-hurmuz-guvenli-gecis-anlasmasi.jpg
 gorsel_alt: Uzay istasyonundan gece çekilmiş Hürmüz Boğazı ve Umman Körfezi görüntüsü
 gorsel_kredi: NASA, Tim Kopra, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:ISS-46_Gulf_of_Oman_with_Strait_of_Hormuz_at_night.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Donya-ye Eghtesad'ın Tasnim'e dayandırdığı haberine göre Dışişleri Bakanlığı Sözcüsü İsmail Bakayi, İran-ABD müzakerelerindeki son gelişmeleri değerlendirirken İran'ın tüm cephelerde dayatılan savaşı sona erdirme ve Basra Körfezi ile Hürmüz Boğazı bölgesine güvenliği geri getirme konusundaki şart ve değerlendirmelerinin "açık ve kesin biçimde" karşı tarafa iletildiğini, ABD'nin önerilerine de arabulucular kanalıyla gerekli yanıtın verileceğini söyledi.
 

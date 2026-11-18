@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari.jpg
 gorsel_alt: NASA satellite image of the Strait of Hormuz and surrounding area
 gorsel_kredi: MODIS Land Rapid Response Team, NASA GSFC, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Lebanese newspaper El Ahbar, Iran is updating its "target bank" in response to a potential new U.S. and Israeli attack, signaling that its response will not be limited to energy facilities and military bases but will also encompass communications and digital infrastructure. The newspaper reports that Tehran is operating on a principle of "security for all or security for none" and is messaging that any new strike will be met with expanded retaliation.
 

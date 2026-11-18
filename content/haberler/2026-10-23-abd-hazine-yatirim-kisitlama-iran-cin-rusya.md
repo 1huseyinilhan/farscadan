@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-abd-hazine-yatirim-kisitlama-iran-cin-rusya.jpg
 gorsel_alt: ABD Hazine Bakanlığı binasının arka cephesi, Washington
 gorsel_kredi: AgnosticPreachersKid, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Treasury_Department_rear_view.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Hazine Bakanlığı, 22 Ekim'de yayımladığı bir bildirimle İran'ı Çin, Rusya, Kuzey Kore ve Küba ile birlikte önerilen yeni yatırım kısıtlaması kuralının kapsamına aldı. İran International'ın Reuters'a ve Hazine'nin bildirimine dayandırdığı habere göre amaç, sermaye akışının ve beraberindeki avantajların bu ülkelerin askeri, istihbarat, gözetim veya siber kabiliyetlerini güçlendirecek teknolojik faaliyetlere ulaşmasını önlemek.
 

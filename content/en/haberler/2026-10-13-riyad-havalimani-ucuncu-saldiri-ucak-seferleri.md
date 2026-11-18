@@ -14,7 +14,7 @@ gorsel: img/2026-10-13-riyad-havalimani-ucuncu-saldiri-ucak-seferleri.jpg
 gorsel_alt: Interior view of a Saudi Arabian airport terminal
 gorsel_kredi: Ciacho5, CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Dammam0136.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Yahya Sari, a military spokesman for Yemen's Houthi-aligned Ansarallah movement, announced Monday evening that King Khalid International Airport in Riyadh was targeted with a ballistic missile. According to Donya-ye Eghtesad, Sari stated the missile struck its target, and in a separate operation, Khamis Mushait airbase was hit with an unmanned aircraft.
 

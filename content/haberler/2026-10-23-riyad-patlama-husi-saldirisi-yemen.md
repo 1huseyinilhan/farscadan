@@ -14,7 +14,7 @@ gorsel: img/2026-10-23-riyad-patlama-husi-saldirisi-yemen.jpg
 gorsel_alt: Riyad şehrinin gece silüeti
 gorsel_kredi: B.alotaby, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan'ın başkenti Riyad'da cuma sabahı şiddetli patlama sesleri duyuldu. Hamşehri'nin aktardığına göre Suudi Sivil Savunması kentte bir "tehlike" uyarısı yayımladı; patlamaların Yemenli Husilerin saldırılarıyla mı ilgili olduğu, yoksa başka bir nedenden mi kaynaklandığı henüz belli değil.
 

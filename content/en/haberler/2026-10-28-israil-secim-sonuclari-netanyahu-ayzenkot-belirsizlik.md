@@ -14,7 +14,7 @@ gorsel: img/2026-10-28-israil-secim-sonuclari-netanyahu-ayzenkot-belirsizlik.jpg
 gorsel_alt: Exterior view of the Israeli Knesset building in Jerusalem
 gorsel_kredi: Dror Feitelson (PikiWiki Israel), CC BY 2.5, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:146268_the_knesset_PikiWiki_Israel.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The first exit poll results announced after voting closed on Tuesday evening in Israel showed that neither Prime Minister Benjamin Netanyahu's alliance nor the opposition campaign led by retired major general Gadi Eisenkot achieved the 61 seats needed for government formation in the 120-seat Knesset. According to Hamshahri's report, exit polls from different Israeli television channels also do not align with each other.
 

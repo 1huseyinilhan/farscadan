@@ -14,7 +14,7 @@ gorsel: img/2026-10-10-abkik-rafineri-patlama-husi.jpg
 gorsel_alt: Historic aerial photo of Saudi Arabia's Abqaiq oil refinery
 gorsel_kredi: Arabian American Oil Co. (Aramco), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Abqaiq_refinary.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Hamshahri, early Saturday morning saw an incident at Abqaiq, Saudi Arabia's eastern oil facility. The site, one of the world's largest crude oil processing centers and a critical artery of Saudi oil production, reportedly experienced fires burning for over 24 hours. A foreign worker at the facility was said to have alleged that it had been struck by rocket and drone attacks; operations were suspended.
 

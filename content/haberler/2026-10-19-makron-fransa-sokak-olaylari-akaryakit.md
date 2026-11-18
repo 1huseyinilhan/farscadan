@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-makron-fransa-sokak-olaylari-akaryakit.jpg
 gorsel_alt: Fransa Cumhurbaşkanı Emmanuel Macron'un 2026 yılına ait bir fotoğrafı
 gorsel_kredi: Vlada Republike Slovenije, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_in_2026.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Fransa Cumhurbaşkanı Emmanuel Macron, pazar akşamı yaptığı televizyon açıklamasında ülkedeki akaryakıt fiyatlarındaki artışın "ABD'nin İran'a karşı savaşından" kaynaklandığını söyledi. Ettelaat'ın Fransa24'e dayandırdığı habere göre Macron, Elysee Sarayı'nda başbakan ve bakanlarla yaptığı toplantının ardından "bu gece hepimiz öfke duyuyoruz; sokaklarımızda yaşanan felaketleri görünce de utanç duyuyoruz" dedi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-kormor-gaz-sahasi-pehpad-saldirisi-irak.jpg
 gorsel_alt: A natural gas flare stack burning at night at an industrial facility (stock photo)
 gorsel_kredi: Tim Evanson, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Natural_gas_flare_night_02_-_Evanson_Place_-_Arnegard_North_Dakota_-_2013-07-03_(9283761831).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Kor Mor natural gas field in the Iraqi Kurdistan Region was struck by drone attack twice in the same evening on Monday. According to ISNA, a facility in the Chamchamal area of Sulaymaniyah Province was first hit by armed drones, triggering a massive fire and a severe outage in the Kurdistan Region's electrical grid; the responsibility for the strikes has not yet been announced.
 

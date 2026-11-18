@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-yemen-aramco-saldirisi.jpg
 gorsel_alt: An Aramco facility site in Saudi Arabia
 gorsel_kredi: Eagleamn, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:AramcoCoreArea.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Saudi warplanes bombed Yemen's capital, Sanaa, over the weekend, according to IRNA. On the same day, Yemen's Health Ministry said four people were killed or wounded in a Saudi drone strike on Taiz province. The Houthi movement (Ansarallah), in response, said it had struck facilities of the Saudi state oil company Aramco in Riyadh.
 

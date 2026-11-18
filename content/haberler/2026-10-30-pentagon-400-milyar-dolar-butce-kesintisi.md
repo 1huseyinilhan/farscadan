@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi.jpg
 gorsel_alt: ABD Savunma Bakanlığı'nın merkezi Pentagon binasının havadan görünümü
 gorsel_kredi: ABD Hava Kuvvetleri Baş Çavuşu Ken Hammond, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Savunma Bakanlığı'nın (Pentagon), Başkan Donald Trump'ın talep ettiği savunma bütçesinden 400 milyar dolar kesmeye hazırlandığı öne sürüldü. IRNA'nın Politico kaynaklı haberine göre bakanlık, mevcut bütçe talebinde böylesine büyük bir indirime gidebileceğini değerlendiriyor; haber İran'da devlet ve yarı resmî ajanslarca da aktarıldı.
 

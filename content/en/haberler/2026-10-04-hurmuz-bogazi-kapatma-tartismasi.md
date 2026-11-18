@@ -14,7 +14,7 @@ gorsel: img/2026-10-04-hurmuz-bogazi-kapatma-tartismasi.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz from space
 gorsel_kredi: NASA, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Whether the Strait of Hormuz is fully open or fully closed remains a question debated in the Iranian press for months. According to an analysis published by the moderate-conservative Khabaronline, the strait's status is "neither fully open nor fully closed"; the majority of traffic has been disrupted and energy transit has become more expensive. The newspaper describes this as an important lever in Iran's hand.

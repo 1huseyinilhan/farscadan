@@ -14,7 +14,7 @@ gorsel: img/2026-10-05-dolar-270-bin-kalabarg-sehmiye.jpg
 gorsel_alt: İran İslam Şura Meclisi'nin (Majlis) bina cephesi
 gorsel_kredi: Mahdifa33, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:National_Consultative_Majlis.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Kayhan'ın aktardığına göre Meclis Başkanı Muhammed Bakır Kalibaf, Merkez Bankası'nın 18 yaş üstü her vatandaşa 10 bin dolar satma kararına ilişkin eleştirilere yanıt verirken, "bunu medyadan öğrendiğimde ben de gerçekten şaşırdım, neden böyle bir şey yapıldığını anlamadım" dedi. Tahran milletvekili Mehdi Kuçekzade, Pazar günkü oturumda bu politikayı eleştirerek "günlerdir uykularım kaçıyor" demişti. Açıklama, dolar kurunun 270 bin tümeni aşmasının ardından geldi.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-abd-ucuslar-hava-trafik-arizasi.jpg
 gorsel_alt: "Bir ABD Donanması hava trafik kontrolörü radar ekranında yaklaşan bir uçağı izliyor"
 gorsel_kredi: "ABD Donanması fotoğrafçısı Andrew King, Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:US_Navy_041019-N-7945K-002_Air_Traffic_Controller_3rd_Class_Jeff_Gessler,_center,_watches_an_approaching_aircraft_on_his_radar_screen_during_a_Federal_Aviation_Administration_(FAA)_Certification_test.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Federal Havacılık İdaresi (FAA), Cuma günü hava trafik kontrol merkezlerinde çıkan iletişim arızası nedeniyle ülke çapındaki tüm yolcu uçuşlarını geçici olarak durdurdu. Donya-ye Eqtesad'ın aktardığına göre FAA resmî bir açıklamayla tüm havalimanlarının kapatıldığını bildirirken, yaklaşık 7 bin uçuş iptal oldu veya gecikti.
 

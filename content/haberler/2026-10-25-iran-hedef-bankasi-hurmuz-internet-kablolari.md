@@ -14,7 +14,7 @@ gorsel: img/2026-10-25-iran-hedef-bankasi-hurmuz-internet-kablolari.jpg
 gorsel_alt: Hürmüz Boğazı ve çevresinin NASA uydu görüntüsü
 gorsel_kredi: MODIS Land Rapid Response Team, NASA GSFC, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Lübnan merkezli El Ahbar gazetesinin aktardığına göre İran, ABD ve İsrail'in olası yeni bir saldırısına karşı "hedef bankasını" güncelliyor ve yanıtının kapsamını enerji tesisleri ve askeri üslerle sınırlı tutmayacağını, iletişim ve dijital altyapıyı da kapsayacağını bildiriyor. Gazeteye göre Tahran "herkes için güvenlik ya da hiç kimse için güvenlik yok" ilkesine dayanıyor ve yeni bir saldırı durumunda karşılığın genişleyeceği mesajını veriyor.
 

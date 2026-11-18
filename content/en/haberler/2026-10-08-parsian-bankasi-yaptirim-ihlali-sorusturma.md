@@ -14,7 +14,7 @@ gorsel: img/2026-10-08-parsian-bankasi-yaptirim-ihlali-sorusturma.jpg
 gorsel_alt: Tower of a bank building in Tehran
 gorsel_kredi: GTVM92, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Bank_Mellat_Tower_1.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International's investigation based on leaked Parsian Bank documents, the bank transferred millions in dollars abroad despite U.S. sanctions through its own exchange house "Parsian Exchange." The investigation is based on documents covering November 2022–June 2023 and shows that the Central Bank of Iran and other financial institutions also used Parsian Exchange to facilitate payments.
 

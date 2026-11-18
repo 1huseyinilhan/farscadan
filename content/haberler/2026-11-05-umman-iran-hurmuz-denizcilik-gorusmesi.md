@@ -13,7 +13,7 @@ gorsel: img/2026-11-05-umman-iran-hurmuz-denizcilik-gorusmesi.jpg
 gorsel_alt: "Hürmüz Boğazı'nın ve çevresindeki kıyı şeridinin harita üzerinde gösterimi"
 gorsel_kredi: "Almajidy, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_ARZ.png
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın aktardığına göre Umman Dışişleri Bakanlığı, Hürmüz Boğazı'nda deniz trafiğinin engelsiz şekilde yeniden başlamasına yönelik pratik, siyasi ve teknik düzenlemelerin değerlendirildiğini bildirdi. Açıklama, Umman Dışişleri Bakanı Bedir el-Busaidi ile İran Dışişleri Bakanı Seyyid Abbas Arakçi arasındaki telefon görüşmesinin ardından yapıldı.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-manchester-iki-iran-vatandasi.jpg
 gorsel_alt: Manchester'ın Northern Quarter semtinde Newton Street köşesi
 gorsel_kredi: Mrozzymania, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Newton_Street_Corner,_Northern_Quarter(Manchester).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İngiliz polisi, iki İran vatandaşının Manchester'daki Yahudi toplumuna yönelik bir terör saldırısına hazırlık yapmakla suçlandığını açıkladı. Iran International'ın aktardığına göre polis, iki kişinin bu planla bağlantılı olarak İngiltere dışındaki, **"İran'da olabilecek"** biri ile temas halinde olduğunu belirtti.
 

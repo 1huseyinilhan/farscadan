@@ -13,7 +13,7 @@ gorsel: img/2026-10-18-uzmanlar-meclisi-hicap-abd-tehdit-bildiri.jpg
 gorsel_alt: Clock tower at the entrance gate of Fatima Masumeh Shrine in Qom
 gorsel_kredi: Mostafameraji, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:%D8%A8%D8%B1%D8%AC_%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AF%D8%B1_%D8%AD%D8%B1%D8%A9_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D9%82%D9%85.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The Experts Assembly, the body with constitutional authority to select and oversee the leader, released a statement reaffirming hijab as a "religious duty and legal obligation" and calling on cultural and executive agencies for a comprehensive program against the "normalization of impropriety." According to Iran International's compilation of Persian press accounts, the assembly resisted reducing the law to a "temporary matter," demanded coordination with religious education and public culture, and recommended that methods like "wisdom, rationality, and persuasion" accompany strict law enforcement.
 

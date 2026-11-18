@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-ahlagi-savunma-bakani-meclis-oyu.jpg
 gorsel_alt: İran İslam Meclisi'nin iç salonundan bir görünüm
 gorsel_kredi: Mahdi Sigari, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Iranian_Majlis.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran Meclisi pazar günü yaptığı oturumda, 42 yıllık savunma sanayii geçmişine sahip Mehrdad Ahlaki Kitabçi'yi 237 kabul, 15 ret ve çekimser oy olmadan savunma ve silahlı kuvvetler lojistik bakanı olarak onayladı. Kayhan'ın haberine göre 277 milletvekilinin katıldığı oturumda Ahlaki, göreve başlamadan önceki nitelik değerlendirmesinde İran'ın İsrail'le olası bir çatışmaya "tetikte" hazır olduğunu ve kendi ifadesiyle "4. savaş" adını verdiği senaryoya hazırlıklı olduklarını söyledi.
 

@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-iran-abd-doha-muzakereleri-aksios.jpg
 gorsel_alt: "Katar'ın başkenti Doha'nın West Bay semtindeki gökdelen silüeti"
 gorsel_kredi: "Thameur Belghith, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Doha_West_Bay_Skyline_Qatar_Jan_2020.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Hamshahri (Tahran Belediyesi, ilkeci) | https://www.hamshahrionline.ir/news/1082228/ ;; Ettelaat (köklü gazete, ılımlı-gelenekçi) | https://www.ettelaat.com/news/176048/ ;; IRNA (devlet ajansı) | https://www.irna.ir/news/86309622/"
 ---
 Ekonomi gazetesi Donya-ye Eghtesad'ın aktardığına göre, Axios muhabiri Barak Ravid, İran-ABD müzakerelerine katılan bir diplomatın kendisine İran heyetinin pazar sabahı (1 Kasım) Doha'yı terk ettiğini söylediğini yazdı. Donya-ye Eghtesad'a göre söz konusu diplomat, "önceki günün görüşmeleri olumlu geçti ve arabulucular, iki tarafın bir önceki günkü toplantılarda ortaya çıkan görüş farklılıklarını ve kalan kaygılarını gidermeye çalışıyor" dedi. Hamshahri de aynı Axios haberine dayanarak özdeş bir metin yayınladı.

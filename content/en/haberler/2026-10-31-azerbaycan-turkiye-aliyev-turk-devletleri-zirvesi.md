@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-azerbaycan-turkiye-aliyev-turk-devletleri-zirvesi.jpg
 gorsel_alt: Portrait of Azerbaijani President Ilham Aliyev
 gorsel_kredi: Office of the President of Azerbaijan, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_2024_(%C4%B0lham_%C6%8Fliyevin)_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: Hamshahri, citing BBC Persian (Tehran municipality, principlist) | https://www.hamshahrionline.ir/news/1081533 ;; Azat TV (English, Turkic world source) | https://azat.tv/en/ankara-dismisses-adviser-azerbaijan-ties-repair/
 ---
 Azerbaijani President Ilham Aliyev did not attend the Organization of Turkic States summit held in Ankara on Friday. According to ISNA, this occurred despite President Recep Tayyip Erdoğan's personal invitation and has strengthened claims of growing friction between the two "longstanding allies" over domestic politics and regional issues. Hamshahri also reported the development via BBC Persian as "rising disagreements in Ankara-Baku relations."

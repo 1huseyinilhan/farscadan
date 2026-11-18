@@ -14,7 +14,7 @@ gorsel: img/2026-11-15-abd-meclisi-savas-yetkileri-iran.jpg
 gorsel_alt: Washington'daki ABD Kongre Binası'nın (Capitol) dış görünümü
 gorsel_kredi: Noclip, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Temsilciler Meclisi'nde Cumhuriyetçi ve Demokrat bir grup vekil, Başkan Donald Trump'ın İran'a karşı sürdürdüğü askerî harekâtı sınırlamak için yeni bir savaş yetkileri kararı hazırlığında. Hamshahri'nin aktardığına göre bazı ABD'li yasa koyucular, daha fazla Cumhuriyetçinin Trump'tan uzaklaşıp bu kararı destekleyebileceğini söylüyor.
 

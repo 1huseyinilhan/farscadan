@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-seybe-petrol-sahasi-iha-saldirisi.jpg
 gorsel_alt: Suudi Arabistan'daki bir Aramco petrol tesisinin uydu görüntüsü
 gorsel_kredi: Planet Labs, Inc., CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Khurais_Oil_Processing_Facility,_Saudi_Arabia_by_Planet_Labs.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan Enerji Bakanlığı'na bağlı bir yetkilinin resmî haber ajansı VAS aracılığıyla yaptığı açıklamaya göre, çarşamba sabahı bir İHA, Aramco'ya ait Şeybe petrol sahasındaki bir tesisi hedef almaya çalıştı. Hamshahri'nin aktardığına göre saldırıda iki işçi hayatını kaybetti, iki işçi de yaralandı.
 

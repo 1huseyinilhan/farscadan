@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-turkiye-sosyal-medya-yasagi.jpg
 gorsel_alt: Members of the Turkish Grand National Assembly
 gorsel_kredi: Yıldız Yazıcıoğlu (VOA), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Turkey's enforcement regulations for a law restricting social media access for children under 15 were published in the Official Gazette on Saturday, October 10. According to Kayhan, the Presidential Directorate of Cybersecurity's regulation requires social media platforms to provide age-appropriate services and verify users' ages.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-12-zarif-uranyum-bomba-iddiasi.jpg
 gorsel_alt: Portrait of Mohammad Javad Zarif
 gorsel_kredi: khamenei.ir, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Mohammad_javad_zarif_in_2021_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Mohammad Javad Zarif, the former Foreign Minister who negotiated the 2015 nuclear accord and a senior diplomat, argued that nuclear weapons are not necessarily a deterrent and claimed Iran lacks even the enriched uranium needed to make an atomic bomb. According to Khabaronline reporting from Saberin News, Zarif grounded this assessment in recent developments in Israel and the collapse of the Soviet Union.

@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-abd-kamuoyu-iran-savasi-anketi.jpg
 gorsel_alt: The US Capitol at sunrise
 gorsel_kredi: US House of Representatives, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:2023_United_States_Capitol_118th_Congress,_sunrise.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 About 70% of US adults believe the war the United States and Israel are waging against Iran "wasn't worth it," according to a new national poll. The AP-NORC survey released Thursday, which Ettelaat cited via Al Jazeera, shows the share has risen 5 points since July.
 

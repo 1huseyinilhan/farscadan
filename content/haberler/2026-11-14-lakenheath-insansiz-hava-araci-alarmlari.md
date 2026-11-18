@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-lakenheath-insansiz-hava-araci-alarmlari.jpg
 gorsel_alt: "F-35A Lightning II savaş uçakları RAF Lakenheath üssüne inişe geçiyor"
 gorsel_kredi: "ABD Hava Kuvvetleri (Flickr), Kamu malı, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:F-35A_Lightning_II%27s_land_at_Royal_Air_Force_Lakenheath_(33333775974).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İngiltere'deki RAF Lakenheath hava üssü üzerinde şüpheli insansız hava aracı (İHA) faaliyeti Cuma akşamı doğrulandı. Hamshahri'nin Sky News'ten aktardığına göre ABD Hava Kuvvetleri sözcüsü, güvenlik personelinin üssün hava sahasında yetkisiz İHA uçuşları gözlemlemesi üzerine devreye girdiğini duyurdu.
 

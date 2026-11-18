@@ -13,7 +13,7 @@ gorsel: img/2026-10-18-uzmanlar-meclisi-hicap-abd-tehdit-bildiri.jpg
 gorsel_alt: Kum kentindeki Hz. Fatıma Masume Türbesi'nin saat kuleli ana kapısı
 gorsel_kredi: Mostafameraji, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:%D8%A8%D8%B1%D8%AC_%D8%B3%D8%A7%D8%B9%D8%AA_%D8%AF%D8%B1_%D8%AD%D8%B1%D9%85_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87_%D8%AF%D8%B1_%D8%B4%D9%87%D8%B1_%D9%82%D9%85.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Rehberi seçme ve denetleme yetkisine sahip Uzmanlar Meclisi, yayımladığı bildiride hicabın "şer'i görev ve yasal sorumluluk" olduğunu yineleyerek kültürel ve yürütme makamlarından "iffetsizliğin normalleşmesine" karşı kapsamlı bir program istedi. İran International'ın İran basınından derlediği habere göre meclis, kanunun "geçici bir mesele"ye indirgenmemesini, dinî eğitim ve kamu kültürüyle birlikte yürütülmesini talep etti; "hikmet, akılcılık ve ikna" gibi yöntemlerin de kanunun kesin uygulanmasının yanında kullanılmasını önerdi.
 

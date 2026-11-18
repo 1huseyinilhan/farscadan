@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-lubnan-iran-bankasi-ruhsat-iptal.jpg
 gorsel_alt: Beyrut şehir manzarası, liman bölgesinden batıya bakış
 gorsel_kredi: Vyacheslav Argenberg, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Beirut_skyline,_Beirut,_Lebanon.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Lübnan Merkez Bankası, İran Saderat Bankası'nın ülkedeki faaliyet ruhsatını iptal etti. Hamşehri'nin Bloomberg'e dayandırdığı haberine göre karar, bölgedeki bazı ülkelerin İran'ın mali sistemine yönelik benzer kısıtlamalarıyla aynı çizgide alındı.
 

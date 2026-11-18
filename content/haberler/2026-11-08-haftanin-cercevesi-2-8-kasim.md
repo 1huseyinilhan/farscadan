@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-centcom-demir-kapi-kara-sinirlari.jpg
 gorsel_alt: CENTCOM Komutanı Amiral Brad Cooper, Bright Star 25 tatbikatı için Kahire'ye gelişinde
 gorsel_kredi: Staff Sgt. Kevin Dunkleberger, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:CENTCOM_Commander_Admiral_Cooper_visits_CEAB.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 editor_onay: 2026-11-08
 ---
 2-8 Kasım haftasında Farsça basının gündemi, ABD ara seçiminin (3 Kasım) ardından açılacağı öne sürülen bir saldırı penceresi etrafında şekillendi. Hafta, bu pencerenin fiilen kullanıldığına dair haberlerle (Kışm Adası vuruşu, CENTCOM'un ablukayı karaya taşıması) başladı ve Hürmüz Boğazı'nda iki tankerin aynı gece ateş almasıyla kapandı. Bu gerilimin yanında İran'ın caydırıcılık arayışı da öne çıktı: Rusya'dan S-400 talebi ve nükleer silahın "taktik kullanımı" tartışması. Bu yazı, Farsçadan'ın hafta boyunca yayımladığı haberlerden derlenmiştir. Her bilgi ilgili habere ve o haberin dayandığı yayın organına atfedilir.

@@ -14,7 +14,7 @@ gorsel: img/2026-11-12-basra-havalimani-iran-futbol-yaptirim.jpg
 gorsel_alt: Basra Uluslararası Havalimanı'nın terminal binası
 gorsel_kredi: Looper5920, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Basrah_Intl_Airport_terminal_building_april_1_2008.JPG
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Reuters'ın Basra Havalimanı yetkililerine atfen aktardığı habere göre Irak, Salı günü (19 Aban) ABD'nin İran hava yolu şirketlerine yönelik yaptırımları nedeniyle, İran milli futbol takımı oyuncularını taşıyan uçağın Basra Havalimanı'na inmesine izin vermedi. Iran International'ın aktardığına göre İran milli takımı, Irak, Lübnan ve Filistin takımlarının katıldığı Basra Dörtlü Turnuvası'na katılmak için bu ülkeye gitmişti.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-hurmuz-tanker.jpg
 gorsel_alt: Hürmüz Boğazı ve Umman Körfezi'nin uydu görüntüsü
 gorsel_kredi: MODIS Land Rapid Response Team, NASA GSFC, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_(MODIS_2020-12-04).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İngiltere Deniz Ticaret Operasyonları Merkezi (UKMTO), ham petrol taşıyan bir tankerin Umman kıyısının yaklaşık 4 deniz mili doğusunda **"kimliği belirsiz bir mermi"** ile vurulduğuna dair bir bildirim aldığını açıkladı. ISNA'nın aktarımına göre mermi geminin sol bordasına isabet etti.
 

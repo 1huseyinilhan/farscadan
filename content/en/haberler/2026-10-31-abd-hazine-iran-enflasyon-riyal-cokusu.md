@@ -13,7 +13,7 @@ gorsel: img/2026-10-31-abd-hazine-iran-enflasyon-riyal-cokusu.jpg
 gorsel_alt: Iranian 10,000 rial banknote
 gorsel_kredi: Parsa 2au, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:10000_Rials_banknote_of_the_Islamic_Republic_of_Iran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: The Hill (English, primary source) | https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact/ ;; Yahoo News, via Axios (English, primary source) | https://www.yahoo.com/news/politics/articles/treasury-department-says-iran-economy-215320765.html
 ---
 According to a report released by the U.S. Treasury Department on October 30 and obtained by Axios, Iran's annual inflation reached approximately 90% in September—more than double the 35% rate at the start of 2025. According to IranIntl, the Treasury stated that since the launch of "Operation Economic Outcast" in August, the rial has lost roughly 25% of its value on the open market, and no petroleum has been loaded onto any tanker from Iran during this period. Reports from The Hill and Yahoo News, citing Axios, confirmed that the report shows the free-market rate reached 2.687 million rials per dollar in October, up from 2.02 million when the campaign began.

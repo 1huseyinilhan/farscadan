@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-turkiye-mekke-pakti-muhalefet-yemen-savasi.jpg
 gorsel_alt: Turkish members of parliament in the Grand National Assembly plenary chamber
 gorsel_kredi: Yıldız Yazıcıoğlu (VOA), Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs_in_June_2015.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Various Turkish political parties leveled sharp criticism at the "Mecca Pact" signed among Ankara, Islamabad, and Riyadh. According to ISNA, the parties expressed concern that the agreement uses Muslims' religious sentiments as a tool to justify Saudi Arabia's military operations in Yemen, and could thereby pull Turkish armed forces into a regional conflict.
 

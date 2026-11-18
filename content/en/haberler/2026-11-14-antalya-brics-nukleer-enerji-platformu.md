@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-antalya-brics-nukleer-enerji-platformu.jpg
 gorsel_alt: Akkuyu Nuclear Power Plant built by Russia in Turkey
 gorsel_kredi: Rosatom Digital Press Office, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Akkuyu_Nuclear_Power_Plant.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The annual meeting of the BRICS member states' Nuclear Energy Platform took place Friday in Antalya, Turkey. According to IRNA, Iran's delegation attended the meeting; the news agency reported that discussions focused on developing nuclear interactions among BRICS nations.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-10-18-katar-6-milyar-dolar-iran-bloke-para.jpg
 gorsel_alt: Sunset skyline of Doha with high-rise buildings
 gorsel_kredi: Zairon, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Doha_Skyline_01.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Qatar's Foreign Ministry spokesman Majid al-Ansari told Donya-ye Eghtesad, according to reports, that approximately $6 billion in Iranian funds held in Qatar under the 2023 humanitarian channel agreement are considered "one of the key incentive mechanisms" in the negotiation process between the sides and a means of building mutual confidence. Al-Ansari's statement came in response to speculation about military activity and security concerns in the region.
 

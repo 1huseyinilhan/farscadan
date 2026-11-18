@@ -14,7 +14,7 @@ gorsel: img/2026-11-14-trump-xi-putin-uclu-zirve-sencen.jpg
 gorsel_alt: Nighttime skyline view of Shenzhen, China
 gorsel_kredi: Fumikas Sagisavas, CC0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Skyline_in_Shenzhen_(20250327).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The leaders of the United States, Russia, and China will hold a trilateral meeting Thursday in Shenzhen, China, as part of the Asia-Pacific Economic Cooperation (APEC) summit. According to Donya-ye Eqtesad, citing the New York Post, a White House official said the meeting would focus primarily on drafting an arms control agreement, with the war against Iran and the North Korea issue also potentially on the agenda.
 

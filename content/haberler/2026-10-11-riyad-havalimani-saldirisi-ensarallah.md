@@ -14,7 +14,7 @@ gorsel: img/2026-10-11-riyad-havalimani-saldirisi.jpg
 gorsel_alt: Riyad Kral Halid Uluslararası Havalimanı'nın dış cephesi
 gorsel_kredi: ABD Hava Hareketlilik Komutanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Suudi Arabistan Sivil Havacılık Otoritesi'nin açıklamasına göre, Yemen'deki Husi hareketi Ensarallah'ın cumartesi akşamı Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlediği füze saldırısında en az 12 kişi öldü. Saldırı havalimanının faaliyetlerini durma noktasına getirdi ve bölgedeki gerilimi yeni bir boyuta taşıdı.
 

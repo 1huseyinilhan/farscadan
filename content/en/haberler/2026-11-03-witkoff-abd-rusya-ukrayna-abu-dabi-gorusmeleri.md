@@ -14,7 +14,7 @@ gorsel: img/2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri.jpg
 gorsel_alt: "City skyline of Abu Dhabi from the Corniche district"
 gorsel_kredi: "AdnanDekedek, CC BY-SA 4.0, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Corniche_skyline.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Donya-ye Eghtesad reporting based on Mehr news agency, Steve Witkoff, special representative of the U.S. President, announced plans for trilateral talks between Washington, Kyiv, and Moscow. According to the report, representatives of all three countries will participate; the meeting is scheduled for November 19-20 (Aban 19-20 in the Iranian calendar, November 10-11 in Western dating) in Abu Dhabi. The semi-official ISNA report on the same topic confirms the venue and date. Donya-ye Eghtesad's report contains no direct quote from Witkoff; the announcement is presented indirectly, attributed to a Mehr news agency dispatch and a U.S. official confirming it, as reported by Reuters.
 

@@ -14,7 +14,7 @@ gorsel: img/2026-11-13-dolar-tumen-300-bin-sinir-ablukasi.jpg
 gorsel_alt: "Iranian 10,000-rial banknote of the Islamic Republic of Iran"
 gorsel_kredi: "Parsa 2au, Public domain, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:10000_Rials_banknote_of_the_Islamic_Republic_of_Iran.jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to market analyst Milad Zamani, citing Ettela'at's report from tecarat-news, a dollar rate of 300,000 tomans "would not be unexpected" given current economic conditions. The report says the dollar rate in recent days is being shaped less by a single economic factor than by the market's stance as it awaits clarity on the country's political and military outlook: sanctions and trade restrictions are not declining but expanding to land and border routes, while news and speculation about a possible deal are pushing some investors to expect a rate correction.
 

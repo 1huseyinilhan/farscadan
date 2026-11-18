@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-imf-iran-ekonomi-buyume-tahmini.jpg
 gorsel_alt: Journalists visiting the Central Bank of Iran following restoration of SWIFT connection
 gorsel_kredi: Mohammadreza Abbasi, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Reporters_visiting_the_Central_Bank_of_Iran_following_SWIFT_re-connection_(06).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The International Monetary Fund (IMF), in its latest World Economic Outlook report, projected that Iran's economy will contract 7.6% in 2026 due to destruction from the war. According to Kayhan, the same report forecast that the economy will return to 3.6% growth in 2027 and inflation will fall from 78.6% to 42%.
 

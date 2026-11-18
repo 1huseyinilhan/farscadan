@@ -9,7 +9,7 @@ kaynak_adi: Iran International
 kaynak_yonelim: Muhalif, yurt dışı
 kaynak_url: https://www.iranintl.com/202610080785
 kaynak_baslik_fa: چین به نفت عراق روی می‌آورد؛ آیا جمهوری اسلامی با روشی قدیمی محاصره آمریکا را دور می‌زند؟
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-09-cin-irak-petrol-iran-yaptirimlari.jpg
 gorsel_alt: Irak'ın petrol ve doğalgaz altyapısını gösteren harita
 gorsel_kredi: ABD Merkezi Haberalma Teşkilatı (CIA), Kamu malı, Wikimedia Commons

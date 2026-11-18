@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-dolar-260-bin-tumen.jpg
 gorsel_alt: A rial banknote issued by the Central Bank of Iran
 gorsel_kredi: Bank Markazi Jomhouri Eslami Iran, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:100_Rials_Iranian_Bank_Note.jpeg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The sharp rise in Iran's open-market exchange rate has prompted the central bank to issue a public warning. In a statement published by Ettelaat, the bank said it was monitoring the currency market constantly and that **"the timing, volume and method of intervention will be determined according to market conditions, the needs of the economy and the adequacy of reserves."**
 

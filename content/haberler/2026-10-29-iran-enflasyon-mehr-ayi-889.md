@@ -14,7 +14,7 @@ gorsel: img/2026-10-29-iran-enflasyon-mehr-ayi-889.jpg
 gorsel_alt: Tahran'daki Büyük Çarşı'nın (Bazar-ı Bozorg) iç görünümü
 gorsel_kredi: BABAK1985, CC BY-SA 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_Bazaar_Tehran.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran İstatistik Merkezi'nin mehr ayı (22 Eylül-21 Ekim) tüketici fiyat endeksi raporuna göre, hanelerin aylık enflasyonu %4,4, yıllık nokta enflasyonu %88,7, son 12 ayın ortalama enflasyonu ise %76,8 olarak kaydedildi. Kayhan'ın aktardığına göre bu, bir yıl önce 100 birime alınabilen bir tüketim sepetinin bugün ortalama 188,7 birime mal olduğu anlamına geliyor.
 

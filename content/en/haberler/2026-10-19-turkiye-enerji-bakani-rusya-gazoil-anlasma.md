@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-turkiye-enerji-bakani-rusya-gazoil-anlasma.jpg
 gorsel_alt: Portrait of Turkey's Energy and Natural Resources Minister Alparslan Bayraktar
 gorsel_kredi: European Communities, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Alparslan_Bayraktar_(cropped).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Turkey's Energy and Natural Resources Minister Alparslan Bayraktar said Sunday evening in an interview with Channel 7 that a deal has been reached between Russia and U.S. President Donald Trump on gasoil, and that during the talks it was agreed Turkey would also receive a share of this volume. According to Donya-ye Eqtesad, citing ISNA, Bayraktar said, "The Russia-U.S. gasoil agreement is important for Turkey from an energy security perspective; Ankara is dependent on Russia for some energy needs, and also on Iran, Azerbaijan, and other countries," and added that Turkey is trying to diversify supply sources through agreements with the U.S. and other partners.
 

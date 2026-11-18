@@ -14,7 +14,7 @@ gorsel: img/2026-10-03-sanayi-gaz-kesintisi.jpg
 gorsel_alt: Onshore facilities of the South Pars gas field
 gorsel_kredi: Hamed Malekpour, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:South_Pars_Onshore_Facilities_(3).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Reza Sepahvand, spokesman for the Iranian parliament's Energy Committee, said the country's natural gas supply-demand gap has **grown by 130 million cubic meters compared with last year**. Sepahvand said gas supplied to industry could be cut during the cold season. According to Donya-e-Eqtesad, the spokesman also said **gas and electricity cuts to industry will continue until the end of the year**. In the Iranian calendar, the end of the year falls in March 2027.
 

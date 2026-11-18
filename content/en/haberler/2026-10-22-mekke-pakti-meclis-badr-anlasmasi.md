@@ -14,7 +14,7 @@ gorsel: img/2026-10-22-mekke-pakti-meclis-badr-anlasmasi.jpg
 gorsel_alt: Exterior of the Grand National Assembly of Turkey building
 gorsel_kredi: Clemens Holzmeister (Makril), CC BY-SA 3.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Building_of_the_Grand_National_Assembly_of_Turkey.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The "Mecca Pact," signed by Turkey, Saudi Arabia, and Pakistan in August, was submitted to the Turkish Grand National Assembly for ratification. According to Reuters sources cited by three parliamentary staff members and relayed by Iran International, Ankara also signed a separate defense industry cooperation agreement with Qatar, Pakistan, and Indonesia in Doha in the same period.
 

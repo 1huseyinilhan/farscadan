@@ -14,7 +14,7 @@ gorsel: img/2026-10-19-fairford-iran-plan-rubio-ingiltere.jpg
 gorsel_alt: RAF Fairford üssünde bir B-1 Lancer bombardıman uçağında bakım yapan ABD askerleri
 gorsel_kredi: Senior Airman Ryan Hayman, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford,_England,_November_1,_2023.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Dışişleri Bakanı Marco Rubio, İngiltere'nin Fairford hava üssüne yönelik saldırı planında İran yönetiminin rolüne ilişkin değerlendirmesine Washington'ın katıldığını söyledi. Londra merkezli muhalif yayın İran International'ın haberine göre Rubio'nun sözleri, ABD bombardıman uçaklarının İran'a yönelik operasyonlarda kullanıldığı üs hakkındaki İngiliz-Amerikan değerlendirmesinin örtüştüğünü gösteriyor.
 

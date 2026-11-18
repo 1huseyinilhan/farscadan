@@ -14,7 +14,7 @@ gorsel: img/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi.jpg
 gorsel_alt: Official portrait of President Recep Tayyip Erdoğan from 2017
 gorsel_kredi: U.S. State Department, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_2017.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Presidential chief adviser Oktay Saral was dismissed on Sunday following his criticism of restrictions targeting the headscarf in Azerbaijan schools. According to Iran's hardline Kayhan newspaper, the dismissal is part of an effort to calm diplomatic tensions between Ankara and Baku.
 

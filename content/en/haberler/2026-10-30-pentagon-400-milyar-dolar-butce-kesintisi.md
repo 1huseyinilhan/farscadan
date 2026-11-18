@@ -14,7 +14,7 @@ gorsel: img/2026-10-30-pentagon-400-milyar-dolar-butce-kesintisi.jpg
 gorsel_alt: Aerial view of the Pentagon, U.S. Department of Defense headquarters
 gorsel_kredi: U.S. Air Force Master Sergeant Ken Hammond, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 The U.S. Department of Defense (Pentagon) is reportedly preparing to cut $400 billion from President Donald Trump's requested defense budget. According to IRNA's Politico-based report, the department is evaluating whether it can make such a large reduction in its current budget request; the report was also carried by Iran's state and semi-official agencies.
 

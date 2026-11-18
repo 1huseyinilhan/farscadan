@@ -14,7 +14,7 @@ gorsel: img/2026-11-06-brent-petrol-100-dolar.jpg
 gorsel_alt: Pump jack operating at an oil field
 gorsel_kredi: Ken Lund, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/w/index.php?curid=54270795
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 
 Per IRNA citing Reuters, Brent crude futures on Friday (November 6) surged more than $2 per barrel to cross $100. The price movement came immediately following a sharp decline that occurred after Democrats' decisive victory in U.S. mid-term elections.

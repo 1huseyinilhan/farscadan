@@ -13,7 +13,7 @@ gorsel: img/2026-11-02-somali-korsanlari-iran-balikci-gemisi.jpg
 gorsel_alt: "Hindistan deniz kuvvetlerine bağlı bir devriye teknesi Somali kıyılarında silah ve mühimmat ele geçiriyor"
 gorsel_kredi: "Hindistan Deniz Kuvvetleri, CC BY 2.5 İn, Wikimedia Commons"
 gorsel_kredi_url: "https://commons.wikimedia.org/wiki/File:INS_Sunayna_seizes_arms_and_ammunition_off_the_Somali_coast,_2018_(1).jpg"
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ek_kaynaklar: "Associated Press aktarımıyla Puntland deniz güvenliği yetkilisi | https://www.iranintl.com/202611013737 ;; Inside Somalia haber sitesi | https://www.iranintl.com/202611013737 ;; AB Deniz Güvenliği Merkezi (MSCHOA/Hint Okyanusu) | https://www.iranintl.com/202611013737"
 ---
 Londra merkezli Farsça yayın yapan Iran International'ın Associated Press'ten aktardığına göre, Somalili korsanlar 23 kişilik bir mürettebatı taşıyan İranlı bir balıkçı gemisini Hint Okyanusu'nda kaçırdı. Habere göre "Azini" adlı gemi, 29 Ekim'de (7 Aban) Somali'nin kuzeydoğusunda Bandar Beyla ile Hafun sahil kasabaları arasındaki sularda ele geçirildi. Gemide 21 İranlı denizci ile 2 Somalili güvenlik görevlisi bulunuyordu.

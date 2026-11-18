@@ -14,7 +14,7 @@ gorsel: img/2026-10-27-oktay-saral-azerbaycan-basortusu-krizi.jpg
 gorsel_alt: Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2017 tarihli resmi portresi
 gorsel_kredi: ABD Dışişleri Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Recep_Tayyip_Erdogan_2017.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Cumhurbaşkanlığı baş müşaviri Oktay Saral, Azerbaycan'daki okullarda başörtüsünü hedef alan kısıtlamayı eleştirmesinin ardından pazar günü görevden alındı. İran'ın sertlik yanlısı Kayhan gazetesinin aktardığına göre azil, Ankara ile Bakü arasındaki diplomatik gerginliği yatıştırma çabasının bir parçası.
 

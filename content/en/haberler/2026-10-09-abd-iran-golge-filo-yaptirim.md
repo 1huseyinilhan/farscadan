@@ -14,7 +14,7 @@ gorsel: img/2026-10-09-abd-iran-golge-filo-yaptirim.jpg
 gorsel_alt: Crude oil tanker moored to a monobuoy, aerial view
 gorsel_kredi: Simon Tomson, CC BY-SA 2.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_%22Strymon%22_on_Tetney_Monobuoy,_aerial_2024_(1)_-_geograph.org.uk_-_7839122.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 According to Iran International citing the U.S. Treasury Department's official list, the Treasury's Office of Foreign Assets Control (OFAC) designated 6 individuals, 27 companies, and 22 vessels for their connections to Iran in a list released Thursday, October 8. OFAC's own official statement dated October 8 confirms these figures and the breakdown under Executive Orders 13846 and 13902: six individuals, 10 companies, and 5 vessels were designated under order 13846; 17 companies and 17 vessels were designated under order 13902.
 

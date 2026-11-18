@@ -14,7 +14,7 @@ gorsel: img/2026-11-09-rubio-iran-muzakere-katar-basbakani-trump.jpg
 gorsel_alt: ABD Dışişleri Bakanı Marco Rubio'nun resmî portresi
 gorsel_kredi: ABD Dışişleri Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 İran International'ın aktardığına göre ABD Dışişleri Bakanı Marco Rubio, pazar günü Fransa'ya hareket etmeden önce gazetecilere İran'la sürdürülen müzakerelerin ilerleme göstermediğini söyledi. Aynı gün Beyaz Saray, Başkan Donald Trump'ın bugün (pazartesi) Washington'da Katar Başbakanı Muhammed bin Abdurrahman Al Sani'yi ağırlayacağını, görüşmenin bölgesel gelişmeler ve ABD-İran gerginliği odaklı olacağını açıkladı.
 

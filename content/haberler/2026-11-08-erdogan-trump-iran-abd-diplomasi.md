@@ -14,7 +14,7 @@ gorsel: img/2026-11-08-erdogan-trump-iran-abd-diplomasi.jpg
 gorsel_alt: Cumhurbaşkanı Erdoğan ve Başkan Trump, Birleşmiş Milletler Genel Merkezi'nde çok taraflı bir toplantıda
 gorsel_kredi: Beyaz Saray, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:President_Donald_Trump_participates_in_a_multilateral_meeting_with_Turkish_President_Tayyip_Erdogan,_and_others_at_the_United_Nations_Headquarters_(54823840079).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Khabaronline'ın Anadolu Ajansı'na dayandırdığı habere göre Cumhurbaşkanı Recep Tayyip Erdoğan, cumartesi akşamı ABD Başkanı Donald Trump ile yaptığı telefon görüşmesinde, Washington ile Tahran arasındaki gerginliğin diplomasi yoluyla çözülmesi gerektiğini söyledi. Khabaronline'a göre Türkiye Cumhurbaşkanlığı İletişim Başkanlığı'nın açıklamasına dayanan Anadolu Ajansı haberinde, görüşmenin ikili ilişkiler ile bölgesel ve küresel gelişmeleri de kapsadığı belirtildi. Khabaronline haberinde ayrıca bu bilginin İran'ın devlet haber ajansı IRNA tarafından da aktarıldığını belirtti; yani görüşmenin varlığı, hem Türkiye'nin resmî kanalı hem de İran devlet medyası üzerinden teyit edildi, ama görüşmenin tam metni ya da süresi açıklanmadı.
 

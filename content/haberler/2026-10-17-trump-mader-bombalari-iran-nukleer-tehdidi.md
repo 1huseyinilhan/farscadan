@@ -14,7 +14,7 @@ gorsel: img/2026-10-17-trump-mader-bombalari-iran-nukleer-tehdidi.jpg
 gorsel_alt: ABD Hava Kuvvetleri'nin GBU-43/B "mader bombaları" (MOAB) test atışı
 gorsel_kredi: ABD Savunma Bakanlığı, Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:MOAB_bomb.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ABD Başkanı Donald Trump, perşembe günü sağcı haber sitesi Newsmax'e verdiği röportajda İran'a karşı nükleer silah kullanmayacağını söyledi, ancak ülkenin en yıkıcı nükleer olmayan mühimmatı GBU-43/B "Massive Ordnance Air Blast" (mader bombaları, MOAB) bombasının İran'ın nükleer tesislerine karşı kullanılması seçeneğini reddetmedi. Ettelaat'ın Al Jazeera'ya dayandırdığı habere göre bu, Trump'ın İran'a karşı savaşta nükleer silahlardan açıkça söz ettiği ilk an oldu; Trump "nükleer silah kullanmıyorum, buna mecbur değiliz, dünyanın en büyük nükleer gücüyüz" dedi ve ABD'nin özellikle Tahran'ın granit katmanları içine gömülü olduğu düşünülen Kuh-e Kolang Gadar tesisine yeniden saldırabileceğini söyledi.
 

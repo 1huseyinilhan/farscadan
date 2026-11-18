@@ -14,7 +14,7 @@ gorsel: img/2026-10-14-imf-iran-ekonomi-buyume-tahmini.jpg
 gorsel_alt: Gazetecilerin SWIFT bağlantısının yeniden kurulmasının ardından İran Merkez Bankası'nı ziyareti
 gorsel_kredi: Mohammadreza Abbasi, CC BY 4.0, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Reporters_visiting_the_Central_Bank_of_Iran_following_SWIFT_re-connection_(06).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Uluslararası Para Fonu (İMF), son "Dünya Ekonomik Görünümü" raporunda İran ekonomisinin savaşın yol açtığı tahribat nedeniyle 2026'da %7,6 küçüleceğini öngördü. Kayhan'ın aktardığına göre aynı rapor, 2027'de ekonominin %3,6 büyümeye döneceğini ve enflasyonun %78,6'dan %42'ye ineceğini tahmin ediyor.
 

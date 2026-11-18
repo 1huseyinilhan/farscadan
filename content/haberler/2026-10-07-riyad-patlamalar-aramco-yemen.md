@@ -14,7 +14,7 @@ gorsel: img/2026-10-07-riyad-patlamalar-aramco-yemen.jpg
 gorsel_alt: Riyad Kral Halid Uluslararası Havalimanı'nın dış görünüşü
 gorsel_kredi: Air Mobility Command (ABD Hava Kuvvetleri), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Riyadh-airport.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 ISNA'nın aktardığına göre Yemen güçleri çarşamba sabahı (7 Ekim), Suudi Arabistan destekli 22. Tugay'ın konuşlandığı Aden Uluslararası Havalimanı'na füze saldırısı düzenledi; bölge güvenlik kaynakları, havalimanına doğru birkaç füze atıldığını ve ardından şiddetli patlamalar yaşandığını bildirdi. Saldırının boyutu ve olası can kaybına ilişkin ayrıntı henüz paylaşılmadı.
 

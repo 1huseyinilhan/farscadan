@@ -10,7 +10,7 @@ kaynak_yonelim: State news agency
 kaynak_url: https://www.irna.ir/news/86304370/
 kaynak_baslik_fa: انفجارها شرق عربستان را لرزاند / توقف پروازها در فرودگاه ملک فهد دمام
 ek_kaynaklar: Aerocorner | https://aerocorner.com/news/dammam-airport-attack-death-toll-two-flights-resume/ ;; Airways Magazine | https://airwaysmag.com/new-post/dammam-airport-resumes-flights-attack-two-killed
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 gorsel: img/2026-10-27-dammam-havalimani-patlama-ucuslar.jpg
 gorsel_alt: Hangar at King Fahd International Airport in Dammam
 gorsel_kredi: U.S. Air Force, Public domain, Wikimedia Commons

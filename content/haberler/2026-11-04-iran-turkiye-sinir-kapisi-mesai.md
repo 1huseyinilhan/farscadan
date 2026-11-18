@@ -14,7 +14,7 @@ gorsel: img/2026-11-04-iran-turkiye-sinir-kapisi-mesai.jpg
 gorsel_alt: "Gürbulak sınır kapısında Türkiye-İran sınırının genel görünümü"
 gorsel_kredi: "Adam Jones, CC BY-SA 2.0, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Waiting_Out_a_Rainstorm_-_Turkish-Iranian_Frontier_at_Gurbulak_-_Turkey_(5804191283).jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Sertlik yanlısı Kayhan'ın Tasnim'den aktardığına göre İran Ekonomi ve Maliye Bakanı Seyyid Ali Madenizade ile Türkiye Ticaret Bakanı Ömer Bolat, İstanbul'da düzenlenen İslam İşbirliği Teşkilatı Ekonomik ve Ticari İşbirliği Daimi Komitesi'nin (COMCEC) 42. oturumu kenarında bir araya gelerek iki ülke arasındaki sınır kapılarının 24 saat kesintisiz çalışmasının gerekliliğini vurguladı.
 

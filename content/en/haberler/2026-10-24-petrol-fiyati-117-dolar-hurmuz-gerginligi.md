@@ -14,7 +14,7 @@ gorsel: img/2026-10-24-petrol-fiyati-117-dolar.jpg
 gorsel_alt: View of a crude oil supertanker at sea
 gorsel_kredi: Unknown, Public domain, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Supertanker_AbQaiq.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Global crude oil prices reached $117.30 per barrel in Friday trading. According to IRNA, the price rise occurred as Donald Trump continued making threatening statements toward Iran, driving prices to record levels.
 

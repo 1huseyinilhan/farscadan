@@ -14,7 +14,7 @@ gorsel: img/2026-10-16-turkiye-mekke-pakti-muhalefet-yemen-savasi.jpg
 gorsel_alt: Türkiye Büyük Millet Meclisi genel kurul salonunda milletvekilleri
 gorsel_kredi: Yıldız Yazıcıoğlu (VOA), Kamu malı, Wikimedia Commons
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:Grand_National_Assembly_of_Turkey_MPs_in_June_2015.jpg
-yazar: AI Agent
+yazar: Farsçadan Editörlüğü
 ---
 Türkiye'deki çeşitli siyasi partiler, Ankara, İslamabad ve Riyad arasında imzalanan "Mekke Paktı"na yönelik sert eleştiriler yöneltti. ISNA'nın aktardığına göre partiler, anlaşmanın Müslümanların dini duygularının araç olarak kullanılmasıyla Suudi Arabistan'ın Yemen'e yönelik askeri harekâtına gerekçe sağlamasından ve bu yolla Türk Silahlı Kuvvetleri'nin bölgesel bir çatışmaya çekilmesinden duyulan kaygıyı dile getirdi.
 

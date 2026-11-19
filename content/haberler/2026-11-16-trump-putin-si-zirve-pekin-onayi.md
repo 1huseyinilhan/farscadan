@@ -48,3 +48,5 @@ IRNA'nın haberine göre Çin Dışişleri Bakanlığı'nın bildirisi, görüş
 **Yasaklar gözetildi:** Zirvenin İran-ABD savaşına etkisine ilişkin değerlendirmeler yalnızca kaynağa atfedilerek verildi; bir sonuç veya niyet okuması yapılmadı.
 
 *Not: 6 Kasım 2026 tarihli İngilizce haberlerde zirvenin henüz kesinleşmediği, Çin'in resmi ağızlarının üçlü silahsızlanma müzakerelerini "adil, makul ve gerçekçi olmadığı" gerekçesiyle bu aşamada mesafeli karşıladığı da bildirilmişti; bugünkü İran basını haberleri ise Pekin'in artık tarih ve yer vererek görüşmeyi doğrudan teyit ettiğini aktarıyor.*
+
+*Düzeltme (19 Kasım 2026): Bu haberde geçen "Şincan" adı hatalıdır; zirvenin düzenlendiği kent Çin'in güneyindeki Guangdong eyaletindeki Şenzen'dir (Shenzhen), ülkenin kuzeybatısındaki Şincan (Xinjiang) özerk bölgesiyle karıştırılmamalıdır. Bkz. [19 Kasım 2026 haberi](../2026-11-19-trump-xi-putin-zirve-sencen-basliyor/).*

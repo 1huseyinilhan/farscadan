@@ -51,3 +51,5 @@ Devlet ve yarı resmî kaynaklar görüşmeyi büyük ölçüde nükleer silah k
 - APEC liderler zirvesi ilk kez 1989'da yapıldı; Çin bu zirveye 2001 (Şanghay) ve 2014'te (Pekin) olmak üzere iki kez ev sahipliği yaptı.
 
 **Sırada ne var:** Üç liderin görüşmesi, 17-18 Kasım'daki APEC CEO Zirvesi'nin ardından 18-19 Kasım'daki liderler zirvesi sırasında, Perşembe günü (19 Kasım) gerçekleşecek. Görüşmenin kesin gündemi ve katılımcı heyetlerin bileşimi resmî olarak açıklanmadı.
+
+*Düzeltme (19 Kasım 2026): Bu habede ve görsel açıklamasında geçen "Şincan" adı hatalıdır; zirvenin düzenlendiği kent Çin'in güneyindeki Guangdong eyaletinde yer alan Şenzen'dir (Shenzhen), Çin'in kuzeybatısındaki Şincan (Xinjiang) özerk bölgesiyle karıştırılmamalıdır. Bkz. [19 Kasım 2026 haberi](../2026-11-19-trump-xi-putin-zirve-sencen-basliyor/).*

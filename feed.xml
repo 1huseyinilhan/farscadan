@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Thu, 19 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 21:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>İran basın haritası: hangi gazete, hangi kampın sesi?</title>
+    <link>https://farscadan.com/haber/2026-11-19-rehber-iran-basin-haritasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-19-rehber-iran-basin-haritasi/</guid>
+    <pubDate>Thu, 19 Nov 2026 21:00:00 +0300</pubDate>
+    <category>Rehber</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>IRNA&#x27;dan Kayhan&#x27;a, Hamşehri&#x27;den Iran International&#x27;a: İran basınındaki başlıca yayın organlarının sahiplik ve siyasi yönelim haritası. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Trump-Şi-Putin üçlü zirvesi Şenzen&#x27;de başlıyor; Trump İran&#x27;da yardım istemediğini söyledi</title>
     <link>https://farscadan.com/haber/2026-11-19-trump-xi-putin-zirve-sencen-basliyor/</link>
@@ -177,15 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Hükümeti kurmakla görevlendirilen Gadi Eisenkot, Netanyahu&#x27;nun İsrail demokrasisi için acil bir tehdit olduğunu söyledi; koalisyon krizi büyüyor. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Pekin, Trump-Putin-Şi üçlü zirvesinin 19 Kasım&#x27;da Şincan&#x27;da yapılacağını doğruladı</title>
-    <link>https://farscadan.com/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</guid>
-    <pubDate>Mon, 16 Nov 2026 22:40:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Çin Dışişleri Bakanlığı, ABD, Rusya ve Çin liderlerinin Perşembe günü Şincan&#x27;da üçlü görüşme yapacağını açıkladı; gündemde silah kontrolü var. (Kaynak: ISNA)</description>
   </item>
 </channel>
 </rss>

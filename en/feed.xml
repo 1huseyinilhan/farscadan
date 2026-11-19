@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Thu, 19 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 21:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Iran&#x27;s press map: which newspaper, which faction&#x27;s voice?</title>
+    <link>https://farscadan.com/en/haber/2026-11-19-rehber-iran-basin-haritasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-19-rehber-iran-basin-haritasi/</guid>
+    <pubDate>Thu, 19 Nov 2026 21:00:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>From IRNA to Kayhan, from Hamshahri to Iran International: a map of Iranian media&#x27;s ownership and political orientation. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Trump-Xi-Putin trilateral summit in Shenzhen begins; Trump says he doesn&#x27;t need their help on Iran</title>
     <link>https://farscadan.com/en/haber/2026-11-19-trump-xi-putin-zirve-sencen-basliyor/</link>
@@ -177,15 +186,6 @@
     <category>Diplomacy</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>Gadi Eisenkot, tasked with forming government, says Netanyahu is an urgent threat to Israeli democracy; coalition crisis deepens. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Beijing confirms Trump-Putin-Xi three-way summit on Nov. 19 in Shenzhen</title>
-    <link>https://farscadan.com/en/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-16-trump-putin-si-zirve-pekin-onayi/</guid>
-    <pubDate>Mon, 16 Nov 2026 22:40:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>China&#x27;s Foreign Ministry announced that U.S., Russian, and Chinese leaders will hold a three-way meeting Thursday in Shenzhen; arms control on agenda. (Source: ISNA)</description>
   </item>
 </channel>
 </rss>

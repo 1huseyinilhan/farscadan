@@ -45,6 +45,6 @@ Ettelaat'ın aktardığına göre kaza sonrası Abdanan'da Vali-i Asr Meydanı'n
 - Iran International'ın aktardığına göre protestoların ardından en az 6 kişi gözaltına alındı.
 - Ettelaat'ın gözlemine göre protesto, başlangıçta 200-300 kişilik bir çekirdekten yaklaşık 1000 kişiye büyüdü.
 
-**Sırada ne var:** İlam baş savcılığının soruşturması ve şirket/yol idaresi yöneticileri hakkındaki suç duyurusunun sonucu henüz açıklanmadı; bu kişiler hakkında **masumiyet karinesi geçerlidir**.
+**Sırada ne var:** İlam baş savcılığının soruşturması ve şirket/yol idaresi yöneticileri hakkındaki suç duyurusunun sonucu henüz açıklanmadı; bu kişiler hakkında **masumiyet karinesi geçerlidir**. Protesto ertesi gün de sürdü; Kayhan gösterileri "düşman" yönlendirmesiyle ilişkilendirirken muhalif basında dayanışma mesajları yer aldı ([Farsçadan](../2026-11-19-abdanan-protesto-kayhan-dusman/)).
 
 *Bu habere kadar ulaşılan bilgilere göre, kazaya ilişkin görevden alma ve suç duyurusu resmî makamlarca açıklanmış idari/hukuki adımlardır; protesto ve gözaltı sayılarına ilişkin veriler kaynağına göre değişmektedir.*

@@ -37,6 +37,7 @@ According to Iran International's compilation, in response to the IRGC's strike 
 - **March 2, 2026:** IRGC announced striking Ali al-Salem Air Base where U.S. personnel were also stationed (The National).
 - **June 3, 2026:** Kuwait Airfield struck by missiles and drones; 1 killed and 63 wounded at Kuwait Airport; CENTCOM said the strike "did not achieve its objective" (Khaleej Times, The National).
 - **July 18, 2026:** In the 18th phase of IRGC's "Nasr-2" operation, Arifjan Base and Ali al-Salem radar facility in Kuwait were allegedly targeted; Kuwait airspace was closed (newsonair.gov.in).
+- **November 13, 2026:** IRGC announced it struck a U.S. early-warning radar in Bahrain in response to a "hostile air strike" on the town of Sirik in Hormozgan ([Farsçadan](../2026-11-13-sepah-bahreyn-radar-sirik-saldirisi/)).
 - **November 17–18, 2026 (today):** New wave of alarms and explosions in Bahrain and Kuwait; U.S. said to have struck Qeshm in response.
 
 **Who is who / concepts:** *CENTCOM* (United States Central Command) is the regional command of the U.S. Department of Defense responsible for the Middle East, Central Asia, and Red Sea region. *Sheikh Isa Air Base* is a Royal Bahraini Air Force installation where U.S. forces are also stationed.

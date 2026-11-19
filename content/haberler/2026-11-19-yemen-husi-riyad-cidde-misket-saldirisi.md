@@ -34,6 +34,7 @@ IRNA'nın ayrı haberine göre Kral Halid Havalimanı ve Riyad'daki mali merkez,
 - **Temmuz 2026'dan beri:** Husilerin Suudi havalimanlarına ve enerji tesislerine yönelik saldırıları yoğunlaştı (Reuters/al-Monitor aktarımı, Donya-ye Eqtesad).
 - **12 Ekim 2026:** Al Jazeera'nın haberine göre Husiler, Riyad'ı art arda üçüncü gün füzeyle hedef aldı.
 - **15 Kasım 2026:** Şafak News'in aktardığına göre Husi sözcüsü Saree, Kral Halid Havalimanı ve Riyad'daki bir mali merkeze iki balistik füze attıklarını açıkladı; Suudi öncülüğündeki koalisyon bu füzeleri "imha ettiğini" bildirdi.
+- **17 Kasım 2026:** Hamshahri'nin aktardığına göre aynı havalimanında Yemen kaynaklı bir pehpad saldırısı sonrası uçuş operasyonları yeniden askıya alınmıştı ([Farsçadan](../2026-11-17-riyad-havalimani-pehpad-saldirisi/)).
 - **19 Kasım 2026 (bugün):** Hamşehri ve IRNA'nın aktardığına göre, hedef sayısı ve kapsamı önceki saldırılara göre genişleyerek Cidde havalimanının faaliyetinin durmasına yol açtı.
 
 **Kim kimdir / kavram:** *Ensarullah* (Husi Hareketi), Yemen'in kuzeyinde 2014'ten beri ülkenin büyük bölümünü kontrol eden, İran'a yakın olduğu değerlendirilen silahlı siyasi hareket. Sözcüsü Yahya Saree, hareketin askerî açıklamalarını düzenli olarak duyuran kişidir. *Kral Abdullah Mali Bölgesi* (King Abdullah Financial District), Riyad'ın kuzeyinde bankacılık ve finans kuruluşlarının yoğunlaştığı iş bölgesidir; Şafak News'in 15 Kasım'da aktardığına göre Husilerin "mali merkez" olarak andığı hedefin bu bölge olduğu değerlendiriliyor, ancak Saree bölgeyi adıyla doğrulamadı.

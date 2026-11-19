@@ -34,6 +34,7 @@ According to a separate IRNA report, King Khalid Airport and Riyadh's financial 
 - **Since July 2026:** Houthi missile and drone strikes on Saudi airports and energy facilities intensified (Reuters/al-Monitor reporting via Donya-ye Eqtesad).
 - **October 12, 2026:** Al Jazeera reported Houthis targeted Riyadh for a third consecutive day with missiles.
 - **November 15, 2026:** According to Shafaq News, Houthi spokesman Saree announced they fired two ballistic missiles at King Khalid Airport and a Riyadh financial center; the Saudi-led coalition reported it "destroyed" the missiles.
+- **November 17, 2026:** According to Hamshahri, flight operations at the same airport were again suspended following a Yemen-sourced drone attack ([Farsçadan](../2026-11-17-riyad-havalimani-pehpad-saldirisi/)).
 - **November 19, 2026 (today):** According to Hamshahri and IRNA, the target scope expanded, causing Jeddah airport operations suspension.
 
 **Key terms / concepts:** *Ansarullah* (the Houthi Movement), a political-military movement based in northern Yemen that has controlled much of the country since 2014 and is assessed to be close to Iran. Yahya Saree is the spokesman who regularly announces military statements from the movement. *King Abdullah Financial District* (King Abdullah Financial District), a business zone north of Riyadh concentrating banking and financial institutions; according to Shafaq News' November 15 report, the "financial center" Houthis reference as a target is assessed to be this district, though Saree has not confirmed the name.

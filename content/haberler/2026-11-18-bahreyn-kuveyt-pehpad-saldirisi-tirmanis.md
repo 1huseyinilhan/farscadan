@@ -37,6 +37,7 @@ Iran International'ın derlediğine göre ABD savaş uçakları, Sepah'ın Bahre
 - **2 Mart 2026:** Sepah, ABD askerlerinin de bulunduğu Ali es-Salim Hava Üssü'nü vurduğunu açıkladı (The National).
 - **3 Haziran 2026:** Kuveyt'te füze ve pehpad saldırılarında Kuveyt Havalimanı'nda 1 kişi öldü, 63 kişi yaralandı; CENTCOM saldırının "hedefine ulaşamadığını" söyledi (Khaleej Times, The National).
 - **18 Temmuz 2026:** Sepah'ın "Nasr-2" operasyonunun 18. aşamasında Kuveyt'teki Arifjan Üssü ve Ali es-Salim radar tesisinin hedef alındığı iddia edildi; Kuveyt hava sahası kapatıldı (newsonair.gov.in).
+- **13 Kasım 2026:** Sepah, Hürmüzgan'ın Sirik kasabasına yönelik "düşman hava saldırısına" karşılık Bahreyn'deki bir ABD erken uyarı radarını vurduğunu açıkladı ([Farsçadan](../2026-11-13-sepah-bahreyn-radar-sirik-saldirisi/)).
 - **17-18 Kasım 2026 (bugün):** Bahreyn ve Kuveyt'te yeni alarm ve patlama dalgası; ABD'nin Kaşm'a karşılık verdiği iddia edildi.
 
 **Kim kimdir / kavram:** *CENTCOM* (United States Central Command), ABD Savunma Bakanlığı'nın Orta Doğu, Orta Asya ve Kızıldeniz bölgesinden sorumlu bölgesel komutanlığıdır. *Şeyh İsa Üssü*, Bahreyn Kraliyet Hava Kuvvetleri'ne ait, ABD birliklerinin de konuşlandığı bir hava üssüdür.

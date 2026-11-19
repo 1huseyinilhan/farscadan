@@ -38,6 +38,7 @@ Dava, ABD makamlarının son yıllarda kamuoyuna açıkladığı, İran'a bağl�
 - **3 Ocak 2020:** Sepah Kudüs Gücü Komutanı Kasım Süleymani, Bağdat'ta bir ABD dronu saldırısında öldürüldü; İran yetkilileri o tarihten beri misilleme yemini etti (JNS).
 - **2024 (tarih netleşmedi):** Asif Merchant'ın tutuklandığı ve suikast planıyla suçlandığı kamuoyuna duyuruldu (JNS).
 - **Mart 2026:** Brooklyn'deki federal jüri, Merchant'ı kiralık cinhayet ve ulusal sınırları aşan terör eylemi girişiminden suçlu buldu; o tarihte henüz infaz tarihi belirlenmemişti (JNS).
+- **11 Kasım 2026:** ABD, Sepah ve Kataib Hizbullah'a bağlı üç kişiyi ayrı bir soruşturmada yaklaşık 20 terör saldırısı girişimiyle suçladı; zanlılardan biri İstanbul'da yakalanmıştı ([Farsçadan](../2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama/)).
 - **17 Kasım 2026 (bugün):** ABD Adalet Bakanlığı, Merchant'a 330 ay (27,5 yıl) hapis cezası verildiğini açıkladı.
 
 **Kim kimdir / kavram:** *Sepah-e Qods* (Kudüs Gücü), İran Devrim Muhafızları Ordusu'nun (Sepah) yurt dışı operasyonlarından sorumlu birimidir. *Kiralık cinayet* (murder-for-hire) ve *ulusal sınırları aşan terör eylemi*, ABD federal ceza hukukunda sanığa uygulanan iki ayrı suç başlığıdır.

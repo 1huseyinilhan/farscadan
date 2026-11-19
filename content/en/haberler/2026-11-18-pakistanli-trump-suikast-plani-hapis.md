@@ -38,6 +38,7 @@ The case is presented as one of several similar investigations publicly disclose
 - **January 3, 2020:** IRGC Quds Force Commander Qasem Soleimani was killed in a U.S. drone strike in Baghdad; Iranian officials vowed retaliation from that date forward (JNS).
 - **2024 (date unclear):** Asif Merchant's arrest and charges related to the assassination plot became public (JNS).
 - **March 2026:** A federal jury in Brooklyn found Merchant guilty of murder-for-hire and crossing national borders to conduct terrorism; the sentencing date had not been set at that time (JNS).
+- **November 11, 2026:** The U.S. charged three people linked to the IRGC and Kataib Hezbollah in a separate case involving roughly 20 attempted terror attacks; one suspect had been arrested in Istanbul ([Farsçadan](../2026-11-11-abd-iran-teror-suclamasi-turkiye-tutuklama/)).
 - **November 17, 2026 (today):** The U.S. Justice Department announced Merchant had been sentenced to 330 months (27.5 years) in prison.
 
 **Who is who / concepts:** *Sepah-e Quds* (Quds Force) is the unit of Iran's Islamic Revolutionary Guard Corps (IRGC) responsible for operations outside Iran. *Murder-for-hire* and *crossing national borders to conduct terrorism* are two separate federal criminal charges in U.S. law to which the defendant was subject.

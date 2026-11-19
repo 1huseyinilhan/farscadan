@@ -45,6 +45,6 @@ According to Ettelaat's account, following the crash, a protest gathering began 
 - According to Iran International, at least 6 people were arrested following the protests.
 - According to Ettelaat's observation, the protest grew from an initial core of 200–300 people to approximately 1,000.
 
-**What's next:** The investigation by Ilam's prosecutor and the outcome of the charges against company and road authority officials have not yet been announced; the **presumption of innocence applies** to those individuals.
+**What's next:** The investigation by Ilam's prosecutor and the outcome of the charges against company and road authority officials have not yet been announced; the **presumption of innocence applies** to those individuals. The protest continued the next day; Kayhan linked the demonstrations to "enemy" interference, while opposition media carried solidarity messages ([Farsçadan](../2026-11-19-abdanan-protesto-kayhan-dusman/)).
 
 *Based on information available to this report, the removal from office and charges related to the crash are administrative and legal steps announced by official authorities; figures on protests and arrest numbers vary by source.*

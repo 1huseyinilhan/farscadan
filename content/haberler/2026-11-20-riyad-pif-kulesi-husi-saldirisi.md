@@ -35,7 +35,8 @@ Ettelaat'ın aktardığına göre Suudi makamların hasarı kabul etmesi, olayda
 ## Bağlam
 
 **Arka plan:**
-- **8 Kasım 2026:** Husiler, Riyad'ın mali bölgesindeki Aramco binasına ilk büyük saldırıyı düzenledi; Suudi yetkililer hasarı "sınırlı" olarak tanımladı ve can kaybı bildirilmedi (Al Jazeera'nin aktardığına göre).
+- **8 Kasım 2026:** Husiler, Riyad'ın mali bölgesindeki Aramco binasına ilk büyük saldırıyı düzenledi; Suudi yetkililer hasarı "sınırlı" olarak tanımladı ve can kaybı bildirilmedi (Al Jazeera'nin aktardığına göre; Farsçadan bu saldırıyı [9 Kasım'da haberleştirmişti](../2026-11-09-riyad-havalimani-pehpad-saldirisi-husi-aramco/)).
+- **17 Kasım 2026:** Yemen kaynaklı bir pehpad saldırısı sonrası Riyad havalimanında uçuşlar yeniden durduruldu ([Farsçadan](../2026-11-17-riyad-havalimani-pehpad-saldirisi/)).
 - **15 Kasım 2026:** Husi sözcüsü Yahya Saree, Kral Halid Havalimanı ve Riyad mali merkezini iki balistik füzeyle vurduklarını iddia etti; Suudi öncülüğündeki koalisyon iki füze ve iki drone'u düşürdüğünü bildirdi (Al Jazeera).
 - **19 Kasım 2026 (bugün):** Aynı mali merkezdeki PIF Kulesi yeniden ve bu kez Suudi makamlarca doğrulanmış şekilde hedef oldu; Husiler ayrıca havalimanı, hava üssü ve petrokimya tesisini de hedef aldıklarını iddia etti.
 

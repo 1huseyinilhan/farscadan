@@ -50,4 +50,4 @@ Roll Call'ın aktardığına göre karar, Eylül ayında Temsilciler Meclisi'nde
 - Savaşın tahmini maliyeti: 48,3 milyar dolar, Pentagon'un 13 Kasım 2026 itibarıyla Kongre'ye bildirdiği rakam (IRNA).
 - Bu yılki toplam oylama sayısı: 12'den fazla (Khabaronline, 19 Kasım 2026).
 
-**Sırada ne var:** Roll Call'ın aktardığına göre Temsilciler Meclisi'nin yıl sonundan önce savaş yetkileri konusunda yeni bir oylama yapması bekleniyor; tarih henüz açıklanmadı. Senato'daki bir sonraki oylamanın ne zaman yapılacağına ilişkin de kaynaklarda bir takvim bilgisi bulunmuyor.
+**Sırada ne var:** Roll Call'ın aktardığına göre Temsilciler Meclisi'nin yıl sonundan önce savaş yetkileri konusunda yeni bir oylama yapması bekleniyor; tarih henüz açıklanmadı. Senato'daki bir sonraki oylamanın ne zaman yapılacağına ilişkin de kaynaklarda bir takvim bilgisi bulunmuyor. Oylamanın ertesi günü Financial Times'a dayanan ayrı bir haberde CENTCOM'un Trump yönetimine İran'a yönelik harekat için zaman ve kaynağın daraldığı uyarısını ilettiği bildirildi ([Farsçadan](../2026-11-21-sentkom-trump-iran-saldiri-firsat-uyarisi/)).

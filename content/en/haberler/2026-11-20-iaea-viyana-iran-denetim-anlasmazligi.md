@@ -49,4 +49,4 @@ In response, Iran International reported that the U.S., UK, France, and Germany 
 - Najafi noted that after Israel's 1981 strike on Iraq, IAEA bodies passed roughly 10 condemnatory resolutions; this time, no condemnation passed (Ettelaat).
 - The September 2026 Board resolution referred the issue to the UN Security Council and General Assembly (Iran International).
 
-**What comes next:** According to Al Jazeera, Grossi said inspectors' return depends on "returning to the table," technical work is complete, but talks remain stalled; no new negotiating date has been announced.
+**What comes next:** According to Al Jazeera, Grossi said inspectors' return depends on "returning to the table," technical work is complete, but talks remain stalled; no new negotiating date has been announced. A day later, Foreign Minister Araghchi repeated in an interview that the debate over changing nuclear doctrine and Iran's red lines on its 60%-enriched uranium stockpile continued ([Farsçadan](../2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/)).

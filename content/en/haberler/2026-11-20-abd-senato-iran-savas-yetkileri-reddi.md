@@ -50,4 +50,4 @@ According to Roll Call, the resolution had passed the House of Representatives i
 - Estimated war cost: $48.3 billion, as of November 13, 2026, according to the Pentagon (IRNA).
 - Total votes this year: Over 12 (Khabaronline, November 19, 2026).
 
-**What comes next:** The House is expected to hold another war powers vote before year's end, according to Roll Call; no date has been announced. No timeline has emerged for the Senate's next vote.
+**What comes next:** The House is expected to hold another war powers vote before year's end, according to Roll Call; no date has been announced. No timeline has emerged for the Senate's next vote. The day after this vote, a separate report citing the Financial Times said CENTCOM had warned the Trump administration that the window and resources for a military operation against Iran were narrowing ([Farsçadan](../2026-11-21-sentkom-trump-iran-saldiri-firsat-uyarisi/)).

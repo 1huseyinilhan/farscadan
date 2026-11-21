@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 21 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Devrim Muhafızları (Sepah) nedir: yapısı, Besic ve Kudüs Gücü, Arteş&#x27;ten farkı</title>
+    <link>https://farscadan.com/haber/2026-11-21-rehber-devrim-muhafizlari-sepah/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-rehber-devrim-muhafizlari-sepah/</guid>
+    <pubDate>Sat, 21 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Rehber</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Sepah&#x27;ın kuruluşu, kara-deniz-hava kolları, Besic ve Kudüs Gücü ile ilişkisi, düzenli orduyla (Arteş) farkı kaynaklı rakamlarla anlatılıyor. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Araghçi: Hürmüz&#x27;ün açılması 7 şarta bağlı, &#x27;ne savaş ne barış&#x27; bitmeli</title>
     <link>https://farscadan.com/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</link>
@@ -177,15 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Ettelaat&#x27;ın aktardığına göre İran Dışişleri, CNN&#x27;in &#x27;kimyasal silah&#x27; ve NYT&#x27;nin baraj haberlerini yalan ve savaş suçu zemini olarak nitelendirdi. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>CENTCOM Komutanı Cooper, Tel Aviv&#x27;den sonra 36 danışmanla Suudi Arabistan&#x27;a gidecek</title>
-    <link>https://farscadan.com/haber/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Hamshahri&#x27;nin aktardığına göre CENTCOM Komutanı Cooper Tel Aviv&#x27;i ziyaret etti; Sepah sözcüsü 75 pehpat iddiasıyla alay etti. (Kaynak: Hamshahri)</description>
   </item>
 </channel>
 </rss>

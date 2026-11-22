@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sun, 22 Nov 2026 11:00:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 22:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Haftanın Çerçevesi (16-22 Kasım): Hürmüz&#x27;de abluka deliniyor, Körfez&#x27;de ateş teatisi yeniden alevlendi</title>
+    <link>https://farscadan.com/haber/2026-11-22-haftanin-cercevesi-16-22-kasim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-haftanin-cercevesi-16-22-kasim/</guid>
+    <pubDate>Sun, 22 Nov 2026 22:00:00 +0300</pubDate>
+    <category>Analiz</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Farsça basında 16-22 Kasım: Hürmüz&#x27;de petrol akışının yarılanması, Bahreyn-Riyad-Cidde&#x27;de yeniden alevlenen ateş teatisi, Abdanan protestosu ve kış sıkıntısı. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Sepah, Bahreyn&#x27;deki Patriot radarlarını vurduğunu açıkladı; Bahreyn ve ABD doğrulamadı</title>
     <link>https://farscadan.com/haber/2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/</link>
@@ -177,15 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Trump, Xi ve Putin APEC kapsamında Şenzen&#x27;de üçlü görüşme yapacak; Trump İran savaşını bitirmek için ikisinin yardımına ihtiyacı olmadığını söyledi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>Hürmüz&#x27;de yeni vaka: Umman açıklarında bir tankere kimliği belirsiz bir cisim çarptı</title>
-    <link>https://farscadan.com/haber/2026-11-19-hurmuz-pertabe-tanker-ukmto/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-19-hurmuz-pertabe-tanker-ukmto/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>UKMTO, Hürmüz Boğazı&#x27;ndan çıkmaya çalışan bir tankere kimliği belirsiz bir cismin çarptığını bildirdi; neden belirsizliğini koruyor. (Kaynak: IRNA)</description>
   </item>
 </channel>
 </rss>

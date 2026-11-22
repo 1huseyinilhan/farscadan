@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Sat, 21 Nov 2026 20:30:00 +0300</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 11:00:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Sepah, Bahreyn&#x27;deki Patriot radarlarını vurduğunu açıkladı; Bahreyn ve ABD doğrulamadı</title>
+    <link>https://farscadan.com/haber/2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/</guid>
+    <pubDate>Sun, 22 Nov 2026 11:00:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>İran Devrim Muhafızları, Bahreyn&#x27;deki ABD üslerinde 2 Patriot radarını vurduğunu açıkladı; Bahreyn BM Güvenlik Konseyi&#x27;ni harekete çağırdı. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Fidan: İran-ABD anlaşması Hürmüz&#x27;ün açılmasından daha önemli</title>
+    <link>https://farscadan.com/haber/2026-11-22-fidan-iran-abd-anlasma-hurmuz/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-fidan-iran-abd-anlasma-hurmuz/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:50:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Dışişleri Bakanı Fidan, İran-ABD anlaşmasının Hürmüz&#x27;ün açılmasından önemli olduğunu, savaşın mali yükünün ülkeleri zorladığını söyledi. (Kaynak: Khabaronline)</description>
+  </item>
+  <item>
+    <title>Katar arabuluculuğu sürüyor: heyet Tahran&#x27;a gitti, Pakistan ve Almanya-Katar devrede</title>
+    <link>https://farscadan.com/haber/2026-11-22-katar-pakistan-almanya-iran-araci/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-katar-pakistan-almanya-iran-araci/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:40:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Katarlı bir heyet Tahran&#x27;ı ziyaret etti; Pakistan Dışişleri Bakanı anlaşmaya umutlu, Katar-Almanya ortak bildiri yayımladı. (Kaynak: Ettelaat)</description>
+  </item>
+  <item>
+    <title>ABD&#x27;nin desteğiyle Abu Dabi, Hürmüz ablukasını petrol taşımacılığıyla deliyor</title>
+    <link>https://farscadan.com/haber/2026-11-22-adnoc-hurmuz-petrol-rota-abluka/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-adnoc-hurmuz-petrol-rota-abluka/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:30:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>WSJ: Abu Dabi&#x27;nin ADNOC&#x27;u ABD desteğiyle Hürmüz&#x27;den petrol taşıyor; FT&#x27;ye göre boğazdaki akış ikinci haftada yarı yarıya düştü. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>Nişabur&#x27;da ev yapımı alkol zehirlenmesi: 33 kişi hastanede, 3 ölü</title>
+    <link>https://farscadan.com/haber/2026-11-22-nisabur-alkol-zehirlenmesi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-22-nisabur-alkol-zehirlenmesi/</guid>
+    <pubDate>Sun, 22 Nov 2026 10:20:00 +0300</pubDate>
+    <category>Toplum</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Nişabur&#x27;da ev yapımı alkollü içki içen 33 kişi zehirlendi, 3 kişi öldü; ölenlerden ikisinde beyin ölümü gerçekleştiği bildirildi. (Kaynak: IRNA)</description>
+  </item>
   <item>
     <title>Devrim Muhafızları (Sepah) nedir: yapısı, Besic ve Kudüs Gücü, Arteş&#x27;ten farkı</title>
     <link>https://farscadan.com/haber/2026-11-21-rehber-devrim-muhafizlari-sepah/</link>
@@ -141,51 +186,6 @@
     <category>Güvenlik</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>UKMTO, Hürmüz Boğazı&#x27;ndan çıkmaya çalışan bir tankere kimliği belirsiz bir cismin çarptığını bildirdi; neden belirsizliğini koruyor. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>BM Üçüncü Komitesi İran insan hakları kararını kabul etti, oy sayımı tartışıldı</title>
-    <link>https://farscadan.com/haber/2026-11-19-bm-ucuncu-komite-iran-insan-haklari/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-19-bm-ucuncu-komite-iran-insan-haklari/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:20:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>BM Üçüncü Komitesi, Kanada öncülüğündeki İran insan hakları kararını 76-27-64 oyla kabul etti; İran basınında yorum ikiye bölündü. (Kaynak: Ettelaat)</description>
-  </item>
-  <item>
-    <title>Yemen&#x27;den Riyad ve Cidde&#x27;ye füze dalgası: havalimanı faaliyeti durduruldu</title>
-    <link>https://farscadan.com/haber/2026-11-19-yemen-husi-riyad-cidde-misket-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-19-yemen-husi-riyad-cidde-misket-saldirisi/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Husi güçleri Riyad&#x27;daki havalimanı ve mali merkezi, Cidde havalimanının faaliyetini durduran bir füze dalgasıyla hedef aldığını açıkladı. (Kaynak: Hamşehri)</description>
-  </item>
-  <item>
-    <title>Abdanan protestosunda ikinci perde: Kayhan &#x27;düşman&#x27; diyor, dayanışma mesajları sürüyor</title>
-    <link>https://farscadan.com/haber/2026-11-19-abdanan-protesto-kayhan-dusman/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-19-abdanan-protesto-kayhan-dusman/</guid>
-    <pubDate>Thu, 19 Nov 2026 09:00:00 +0300</pubDate>
-    <category>İç Politika</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Kayhan, Abdanan&#x27;daki otobüs kazası protestosunun &#x27;düşman&#x27; tarafından yönlendirildiğini yazdı; muhalif basında dayanışma mesajları sürüyor. (Kaynak: Khabaronline)</description>
-  </item>
-  <item>
-    <title>Bahreyn ve Kuveyt&#x27;te art arda patlamalar: ABD-İran ateş teatisi yeniden tırmandı</title>
-    <link>https://farscadan.com/haber/2026-11-18-bahreyn-kuveyt-pehpad-saldirisi-tirmanis/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-18-bahreyn-kuveyt-pehpad-saldirisi-tirmanis/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:40:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>IRNA&#x27;nın aktardığına göre Bahreyn ve Kuveyt&#x27;te alarm sirenleri çaldı; Sepah ve ABD karşılıklı hedef vurma iddiasında bulundu. (Kaynak: IRNA)</description>
-  </item>
-  <item>
-    <title>İran: CNN ve NYT&#x27;nin baraj haberleri dezenformasyon kampanyası</title>
-    <link>https://farscadan.com/haber/2026-11-18-iran-baraj-savas-sucu-iddiasi-cnn-nyt/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-18-iran-baraj-savas-sucu-iddiasi-cnn-nyt/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:30:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Ettelaat&#x27;ın aktardığına göre İran Dışişleri, CNN&#x27;in &#x27;kimyasal silah&#x27; ve NYT&#x27;nin baraj haberlerini yalan ve savaş suçu zemini olarak nitelendirdi. (Kaynak: Ettelaat)</description>
   </item>
 </channel>
 </rss>

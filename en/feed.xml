@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Sat, 21 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>What is the Revolutionary Guard (Sepah): structure, Basij and Quds Force, difference from Artesh</title>
+    <link>https://farscadan.com/en/haber/2026-11-21-rehber-devrim-muhafizlari-sepah/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-21-rehber-devrim-muhafizlari-sepah/</guid>
+    <pubDate>Sat, 21 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Structure, branches, Basij and Quds Force relationship, and differences from the regular army, with sourced figures. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Araghchi: Strait of Hormuz reopening requires 7 conditions, &#x27;neither war nor peace&#x27; must end</title>
     <link>https://farscadan.com/en/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</link>
@@ -177,15 +186,6 @@
     <category>Diplomacy</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>According to Ettelaat, Iran&#x27;s Foreign Ministry called CNN&#x27;s chemical weapons claim and NYT&#x27;s dam report false and war crime material. (Source: Ettelaat)</description>
-  </item>
-  <item>
-    <title>CENTCOM Commander Cooper&#x27;s tour: Tel Aviv first, then Saudi Arabia with 36 advisors</title>
-    <link>https://farscadan.com/en/haber/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-18-sentkom-cooper-suudi-arabistan-israil-ziyareti/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:20:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>According to Hamshahri, CENTCOM Commander Cooper visited Tel Aviv; IRGC spokesman mocked claimed 75 drone losses to Iran. (Source: Hamshahri)</description>
   </item>
 </channel>
 </rss>

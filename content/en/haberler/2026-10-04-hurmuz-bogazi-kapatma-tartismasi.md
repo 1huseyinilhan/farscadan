@@ -1,10 +1,10 @@
 ---
-baslik: What does closing the Strait of Hormuz gain Iran? Contradictory accounts in Tehran press
+baslik: Closing the Strait of Hormuz: What does Iran gain? Conflicting accounts in Tehran press
 seo_baslik: Does closing the Strait of Hormuz benefit Iran?
-ozet: Tehran newspapers debate whether long-term closure of the Strait of Hormuz benefits or harms Iran; oil rose to $103.
+ozet: Tehran newspapers debate whether long-term closure benefits or harms Iran; oil reached $103.
 tarih: 2026-10-04T08:50:00+03:00
 kategori: Güvenlik
-etiketler: Strait of Hormuz, oil price, Kayhan, Khabaronline, energy security
+etiketler: Strait of Hormuz, oil prices, Kayhan, Khabaronline, energy security
 kaynak_adi: Khabaronline
 kaynak_yonelim: Moderate conservative (Larijani circle)
 kaynak_url: https://www.khabaronline.ir/news/2283245/%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B5%D9%88%D9%84%DA%AF%D8%B1%D8%A7-%D8%A8%D8%B3%D8%AA%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AF%D8%AA-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
@@ -20,9 +20,9 @@ Whether the Strait of Hormuz is fully open or fully closed has been a debated qu
 
 According to Khabaronline's analysis, oil prices exceeding $100 — compared to $70 before the conflict — suggest that the blockade of the strait has worked to some degree. However, the article points out that Saudi Arabia, the UAE, and Iraq are increasingly establishing "workarounds" such as pipelines and ship-to-ship transfers south of the strait; though these routes currently carry small volumes of oil, they could permanently diminish the strait's geopolitical value over time. For this reason, the newspaper argues, keeping the strait closed for a prolonged period could produce a more dangerous outcome than opening it.
 
-The hardline Kayhan, by contrast, frames the issue differently. In a report titled "Day 218 of the conflict," it notes that Trump has repeated for seven months his claim that oil prices will fall when the war ends, yet prices remain $30 higher than pre-conflict levels. Despite Treasury Secretary Bessent's promises of increased supply and despite the U.S. announcement of 40 million barrels in strategic reserves releases, Brent crude has climbed back to $103. According to Kayhan, this demonstrates that Iran's pressure on the strait is straining the U.S. economy.
+Hardline Kayhan frames it differently. In a report titled "Day 218 of the conflict," it states that Trump has repeated for seven months that oil prices will fall when the war ends, but prices remain $30 higher than pre-conflict levels. Despite Treasury Secretary Bessent's promises of increased supply and despite the U.S. releasing 40 million barrels from reserves, the market dismissed these announcements and Brent crude climbed back to $103. According to Kayhan, this shows that Iran's pressure on the strait is straining the U.S. economy.
 
-Kayhan also reports that the European Union stands ready, alongside the International Energy Agency, to release emergency reserves, but according to former IEA official Neil Atkinson, this would provide only short-term relief and global supply would remain structurally low.
+Kayhan also notes that the European Union and the International Energy Agency are preparing to release emergency reserves, but according to former IEA official Neil Atkinson, this will provide only short-term relief while global supply remains structurally low.
 
 ## How the Persian press covered it
 

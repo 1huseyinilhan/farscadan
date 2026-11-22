@@ -47,6 +47,6 @@ UANI'nin (United Against Nuclear Iran) İngilizce raporuna göre ABD donanmasın
 
 **Türkiye boyutu:** Farsçadan'ın önceki haberinde TBMM Araştırma Merkezi notuna atıfla, Türkiye'nin ham petrol ihtiyacının yaklaşık %20'sinin Hürmüz Boğazı üzerinden Körfez ülkelerinden karşılandığı aktarılmıştı ([Farsçadan](../2026-11-17-hurmuz-tanker-yangin-ukmto/)); İran'ın ablukayı delme girişimleri bu güzergâhtaki güvenlik ve navlun riskini dolaylı olarak etkileyebilir, ancak bugünkü iddiada bu yönde doğrudan bir veri bulunmuyor.
 
-**Sırada ne var:** Madani, bahsi geçen tankerin ablukayı geçip geçmeyeceğinin henüz belirsiz olduğunu söyledi; İran hükümetinin iddiaya ilişkin bir açıklama yapıp yapmayacağı da **teyit edilmedi**.
+**Sırada ne var:** Madani, bahsi geçen tankerin ablukayı geçip geçmeyeceğinin henüz belirsiz olduğunu söyledi; İran hükümetinin iddiaya ilişkin bir açıklama yapıp yapmayacağı da **teyit edilmedi**. İki gün sonra Abu Dabi'nin ABD desteğiyle Hürmüz ablukasını alternatif bir rotayla deldiği bildirildi ([Farsçadan](../2026-11-22-adnoc-hurmuz-petrol-rota-abluka/)).
 
 *Bu haber bilgilendirme amaçlıdır; yatırım tavsiyesi değildir.*

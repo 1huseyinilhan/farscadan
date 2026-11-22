@@ -47,6 +47,6 @@ According to UANI (United Against Nuclear Iran), the U.S. Navy blockade as of Oc
 
 **Turkey angle:** In an earlier Farsçadan report, citing an TBMM Research Center note, it was reported that roughly 20% of Turkey's crude oil needs come from Gulf countries through the Strait of Hormuz ([Farsçadan](../2026-11-17-hurmuz-tanker-yangin-ukmto/)). Iran's attempts to breach the blockade could indirectly affect security and shipping costs on this route, though today's claim contains no direct data on this dimension.
 
-**What comes next:** Madani said it remains unclear whether the vessel will breach the blockade; it has not been confirmed whether Iran's government will issue any statement in response.
+**What comes next:** Madani said it remains unclear whether the vessel will breach the blockade; it has not been confirmed whether Iran's government will issue any statement in response. Two days later, Abu Dhabi was reported to be breaching the Hormuz blockade via an alternative route with US backing ([Farsçadan](../2026-11-22-adnoc-hurmuz-petrol-rota-abluka/)).
 
 *For information only; not investment advice.*

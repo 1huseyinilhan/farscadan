@@ -45,4 +45,4 @@ Hamshahri reported the story as "CENTCOM warning Trump of lost opportunity to st
 
 **Turkey dimension:** Incirlik Air Base near Adana, a NATO key installation, witnessed missile alarm reports allegedly originating from Iran during earlier stages of the conflict; Turkey denied these claims and emphasized that it maintains full control of the base. According to TRT World, the base hosts U.S., Spanish, Polish, and Qatari military personnel; Turkey's Foreign Ministry denied claims that the U.S. sought to use the base for Iran operations.
 
-**What's next:** According to FT, U.S. and Israeli officials expect a decision before the calendar year ends; however, the Trump administration has not yet announced an official date or decision.
+**What's next:** According to FT, U.S. and Israeli officials expect a decision before the calendar year ends; however, the Trump administration has not yet announced an official date or decision. The following night, the IRGC said it had struck a US Patriot radar in Bahrain; Bahrain and the US did not confirm the claim ([Farsçadan](../2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/)).

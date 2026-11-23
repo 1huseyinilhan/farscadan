@@ -45,6 +45,6 @@ This statement aligns with data released earlier by the Statistical Center of Ir
 - IMF's projected average consumer price inflation for 2026: 68.9 percent (World Economic Outlook).
 - Central Bank's reported annual point inflation for the same period: 83.1 percent (below SCI; the two agencies use different methodologies and baskets).
 
-**What's next:** When the government will submit the 1406 budget bill and at what wage-increase rate, and whether the Budget Reconciliation Commission accepts it, will dominate the coming weeks' agenda. As in last year's example, the final rate is expected to be raised during parliament debates.
+**What's next:** When the government will submit the 1406 budget bill and at what wage-increase rate, and whether the Budget Reconciliation Commission accepts it, will dominate the coming weeks' agenda. As in last year's example, the final rate is expected to be raised during parliament debates. A recent example of how contentious sessions can disrupt parliament's work came on [November 23, 2026, when a session was canceled amid a tablet malfunction or brawl](../2026-11-23-meclis-tablet-lat-tartisma/).
 
 *This news story was translated from Persian press with AI assistance. The news organization listed is responsible for the content.*

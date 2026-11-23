@@ -44,6 +44,6 @@ Bu açıklama, İran İstatistik Merkezi'nin (SCI) daha önce yayımladığı me
 - IMF'nin 2026 için öngördüğü ortalama tüketici fiyatları enflasyonu: yüzde 68,9 (Dünya Ekonomik Görünüm Raporu).
 - Merkez Bankası'nın aynı dönem için bildirdiği yıllık nokta enflasyonu: yüzde 83,1 (SCI'den düşük, iki kurum arasında farklı metodoloji ve sepet hesabı kullanılıyor).
 
-**Sırada ne var:** Hükûmetin 1406 bütçe tasarısını hangi maaş artış oranıyla Meclis'e sunacağı ve Bütçe Uyum Komisyonu'nun tasarıyı kabul edip etmeyeceği önümüzdeki haftaların gündeminde olacak. Geçen yılki örnekte olduğu gibi, nihai oranın Meclis görüşmeleri sırasında yukarı çekilmesi olası görülüyor.
+**Sırada ne var:** Hükûmetin 1406 bütçe tasarısını hangi maaş artış oranıyla Meclis'e sunacağı ve Bütçe Uyum Komisyonu'nun tasarıyı kabul edip etmeyeceği önümüzdeki haftaların gündeminde olacak. Geçen yılki örnekte olduğu gibi, nihai oranın Meclis görüşmeleri sırasında yukarı çekilmesi olası görülüyor. Meclis'teki tartışmalı oturumların bütçe görüşmelerini nasıl etkileyebileceğine dair güncel bir örnek, [23 Kasım 2026'da bir oturumun tablet arızası ya da kavga iddiasıyla iptal edilmesinde](../2026-11-23-meclis-tablet-lat-tartisma/) görüldü.
 
 *Bu haber Farsça kaynaktan yapay zekâ desteğiyle çevrilmiştir. Haberin sorumluluğu ilgili yayın organına aittir.*

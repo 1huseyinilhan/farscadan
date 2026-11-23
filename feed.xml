@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>İran ekonomisini okumak: riyal-tümen, resmî/serbest kur, enflasyon ve petrol ihracatı</title>
+    <link>https://farscadan.com/haber/2026-11-23-rehber-iran-ekonomisini-okumak/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-23-rehber-iran-ekonomisini-okumak/</guid>
+    <pubDate>Mon, 23 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Rehber</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Riyal-tümen farkı, resmî/serbest döviz kuru, kronik enflasyon ve yaptırımlar altındaki petrol ihracatı; İran ekonomisini okuma rehberi. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Trump Fox News&#x27;e: Anlaşma olmazsa yeni yıldan sonra İran&#x27;a saldırabiliriz</title>
     <link>https://farscadan.com/haber/2026-11-23-trump-nefkes-tehdidi-savas-zamani/</link>
@@ -177,15 +186,6 @@
     <category>Rehber</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Rehber, Cumhurbaşkanı, Meclis, Anayasayı Koruyucular Konseyi, Uzmanlar Meclisi ve Düzenin Maslahatını Teşhis Konseyi&#x27;nin yetkileri, kaynaklarıyla. (Kaynak: Farsçadan)</description>
-  </item>
-  <item>
-    <title>ABD Senatosu, Trump&#x27;ın İran&#x27;a karşı savaş yetkisini sınırlayan kararı yine reddetti</title>
-    <link>https://farscadan.com/haber/2026-11-20-abd-senato-iran-savas-yetkileri-reddi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-20-abd-senato-iran-savas-yetkileri-reddi/</guid>
-    <pubDate>Fri, 20 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Senato, Trump&#x27;ın İran&#x27;a karşı askerî operasyonlarını durdurmasını isteyen kararı 48&#x27;e karşı 51 oyla reddetti; bu yıl 12. oylama oldu. (Kaynak: ISNA)</description>
   </item>
 </channel>
 </rss>

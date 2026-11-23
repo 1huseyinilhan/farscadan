@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Mon, 23 Nov 2026 07:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Reading Iran&#x27;s economy: rial-toman, official/free-market rates, inflation, and oil exports</title>
+    <link>https://farscadan.com/en/haber/2026-11-23-rehber-iran-ekonomisini-okumak/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-23-rehber-iran-ekonomisini-okumak/</guid>
+    <pubDate>Mon, 23 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>The rial-toman distinction, official and parallel exchange rates, chronic inflation, and sanctioned oil exports; a guide to reading Iran&#x27;s economy. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Trump to Fox News: If no deal, we can strike Iran after the new year</title>
     <link>https://farscadan.com/en/haber/2026-11-23-trump-nefkes-tehdidi-savas-zamani/</link>
@@ -177,15 +186,6 @@
     <category>Guides</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>Guide to the powers of the Supreme Leader, President, Parliament, Guardian Council, Expediency Council, and Assembly of Experts, with sources. (Source: Farsçadan)</description>
-  </item>
-  <item>
-    <title>U.S. Senate rejects resolution to limit Trump&#x27;s Iran war powers again</title>
-    <link>https://farscadan.com/en/haber/2026-11-20-abd-senato-iran-savas-yetkileri-reddi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-20-abd-senato-iran-savas-yetkileri-reddi/</guid>
-    <pubDate>Fri, 20 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Senate votes 48-51 to reject resolution restricting Trump&#x27;s Iran military ops; Pennsylvania Democrat Fetterman broke ranks. This is the 12th vote this year. (Source: ISNA)</description>
   </item>
 </channel>
 </rss>

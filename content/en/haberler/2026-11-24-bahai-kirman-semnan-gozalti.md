@@ -33,6 +33,7 @@ According to a Human Rights Watch report from December 2025, Iran's judiciary pl
 - **January 2026:** The Center for Human Rights in Iran (CHRI) reported waves of raids and detentions on Bahai homes in multiple cities following the protests.
 - **December 2025:** Human Rights Watch released a report stating that Iran's judiciary played a leading role in persecution of Bahais.
 - **November 15, 2026:** Intelligence officials searched Lida Pirasteh's home in Semnan.
+- **November 18, 2026:** The UN General Assembly's Third Committee adopted a resolution on Iran's human rights situation ([UN resolution on Iran](../2026-11-19-bm-ucuncu-komite-iran-insan-haklari/)).
 - **November 22-23, 2026:** Three individuals were detained in Kerman; Pirasteh was called in again.
 
 **Who is who / concepts:** Bahaism (Bahaiyyat) is an independent religion that emerged in 19th-century Iran and is considered heretical by Shiite clergy. Iran's constitution does not recognize Bahaism among recognized religions, and practitioners' open practice of their faith has no legal protection. The "Vezarat-i Ettilaat" (Ministry of Intelligence) is the body conducting these detentions and interrogations; it is responsible for internal security and intelligence operations.

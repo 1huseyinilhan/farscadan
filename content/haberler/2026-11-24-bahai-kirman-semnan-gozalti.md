@@ -32,6 +32,7 @@ Human Rights Watch'ın Aralık 2025 tarihli raporuna göre İran yargısı, Baha
 - **Ocak 2026:** Center for Human Rights in Iran (CHRI), protestoların ardından çok sayıda şehirde Bahai evlerine baskın ve gözaltı dalgası başladığını bildirdi.
 - **Aralık 2025:** Human Rights Watch, İran yargısının Bahailere yönelik baskıda öncü rol oynadığını belirten bir rapor yayınladı.
 - **15 Kasım 2026:** İstihbarat görevlileri Semnan'da Lida Pirasteh'in evini aradı.
+- **18 Kasım 2026:** BM Genel Kurulu Üçüncü Komitesi, İran'daki insan hakları durumuna ilişkin kararı kabul etti ([BM'den İran kararı](../2026-11-19-bm-ucuncu-komite-iran-insan-haklari/)).
 - **22-23 Kasım 2026:** Kirman'da üç kişi gözaltına alındı, Pirasteh ikinci kez çağrıldı.
 
 **Kim kimdir / kavram:** Bahailik (Bahaiyyat), 19. yüzyılda İran'da ortaya çıkan, Şii din adamlarınca sapkın kabul edilen bağımsız bir dindir; İran anayasası Bahailiği tanınan dinler arasında saymaz ve mensuplarının inançlarını açıkça uygulaması yasal güvence altında değildir. "Vezaret-i İttilaat" (Bakanlık-ı İttilaat) olarak bilinen İstihbarat Bakanlığı, bu haberde gözaltı ve sorguları yürüten kurumdur; iç güvenlik ve istihbarat operasyonlarından sorumludur.

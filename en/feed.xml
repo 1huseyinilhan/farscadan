@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Tue, 24 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Turkey-Iran relations: trade, natural gas, borders, and regional rivalry</title>
+    <link>https://farscadan.com/en/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</guid>
+    <pubDate>Tue, 24 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Turkey and Iran share a 1639 border, pursue $30B annual trade, have a 1996 gas deal ending in 2026, and face migration and smuggling pressure. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Three tankers hit mines in Strait of Hormuz, burst into flames; stern warning from IRGC Navy</title>
     <link>https://farscadan.com/en/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</link>
@@ -177,15 +186,6 @@
     <category>Guides</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>Structure, branches, Basij and Quds Force relationship, and differences from the regular army, with sourced figures. (Source: Farsçadan)</description>
-  </item>
-  <item>
-    <title>Araghchi: Strait of Hormuz reopening requires 7 conditions, &#x27;neither war nor peace&#x27; must end</title>
-    <link>https://farscadan.com/en/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Diplomacy</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Foreign Minister Araghchi says 7 conditions apply to Strait of Hormuz reopening; states 60% enriched uranium will not leave Iran. (Source: Hamshahri)</description>
   </item>
 </channel>
 </rss>

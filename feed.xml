@@ -5,8 +5,53 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Mon, 23 Nov 2026 20:30:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Hürmüz&#x27;de üç tanker mayına çarpıp alev aldı: Sepah donanmasından sert uyarı</title>
+    <link>https://farscadan.com/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</guid>
+    <pubDate>Tue, 24 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Güvenlik</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Sepah donanması, Hürmüz Boğazı&#x27;nda üç tankerin deniz mayınına çarpıp alev aldığını açıkladı; ABD hava desteği kazayı önleyemedi. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>TCMB Başkanı: Rezervlerimiz İran savaşından bu yana 51 milyar dolar eridi</title>
+    <link>https://farscadan.com/haber/2026-11-24-turkiye-rezerv-iran-savasi/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-turkiye-rezerv-iran-savasi/</guid>
+    <pubDate>Tue, 24 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Türkiye</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>TCMB Başkanı Karahan, brüt rezervlerin savaşın başından bu yana 210 milyar dolardan 159 milyar dolara indiğini açıkladı. (Kaynak: Hamshahri)</description>
+  </item>
+  <item>
+    <title>ABD Hazinesi&#x27;nden İran&#x27;a yeni yaptırım: 8 kişi, 22 şirket gölge bankacılıkla suçlandı</title>
+    <link>https://farscadan.com/haber/2026-11-24-abd-iran-golge-bankacilik-yaptirim/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-abd-iran-golge-bankacilik-yaptirim/</guid>
+    <pubDate>Tue, 24 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Ekonomi</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Hazine, &#x27;Ekonomik Dışlama Operasyonu&#x27; kapsamında 8 İranlıyı ve 22 şirketi yaptırımladı; FinCEN 14,7 milyar dolarlık şüpheli hareket belirledi. (Kaynak: Iran International)</description>
+  </item>
+  <item>
+    <title>Kalibaf: Düşman bize yıpratıcı &#x27;ne savaş ne barış&#x27; durumunu dayatmak istiyor</title>
+    <link>https://farscadan.com/haber/2026-11-24-kalibaf-caydiricilik-meclis/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-kalibaf-caydiricilik-meclis/</guid>
+    <pubDate>Tue, 24 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Diplomasi</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Meclis Başkanı Kalibaf, düşmanın İran&#x27;a yıpratıcı bir &#x27;ne savaş ne barış&#x27; süreci dayatmak istediğini, çıkış yolunun kalıcı caydırıcılık olduğunu söyledi. (Kaynak: IRNA)</description>
+  </item>
+  <item>
+    <title>Kirman&#x27;da üç Bahai vatandaş gözaltına alındı, Semnan&#x27;da biri ikinci gün çağrıldı</title>
+    <link>https://farscadan.com/haber/2026-11-24-bahai-kirman-semnan-gozalti/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-bahai-kirman-semnan-gozalti/</guid>
+    <pubDate>Tue, 24 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Toplum</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>İstihbarat Bakanlığı görevlileri Kirman&#x27;da üç Bahai vatandaşını gözaltına aldı, Semnan&#x27;da bir Bahai&#x27;yi ikinci gün üst üste sorguya çağırdı. (Kaynak: Iran International)</description>
+  </item>
   <item>
     <title>İran ekonomisini okumak: riyal-tümen, resmî/serbest kur, enflasyon ve petrol ihracatı</title>
     <link>https://farscadan.com/haber/2026-11-23-rehber-iran-ekonomisini-okumak/</link>
@@ -141,51 +186,6 @@
     <category>Diplomasi</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Dışişleri Bakanı Araghçi, Hürmüz Boğazı&#x27;nın açılması için 7 şartın geçerli olduğunu, %60 uranyumun ülkeden çıkmayacağını söyledi. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>CENTCOM&#x27;dan Trump&#x27;a İran uyarısı: Saldırı penceresi hızla kapanıyor</title>
-    <link>https://farscadan.com/haber/2026-11-21-sentkom-trump-iran-saldiri-firsat-uyarisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-sentkom-trump-iran-saldiri-firsat-uyarisi/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Financial Times&#x27;a göre CENTCOM, İran&#x27;a saldırı için zaman ve kaynağın azaldığını Trump yönetimine bildirdi; İsrail yeni harekat için baskı yapıyor. (Kaynak: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Fairford davası: New York&#x27;ta mahkemede &#x27;Kasım Süleymani&#x27;nin ordusuyuz&#x27; çıkışı</title>
-    <link>https://farscadan.com/haber/2026-11-21-fairford-hava-ussu-saldiri-plani-davasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-fairford-hava-ussu-saldiri-plani-davasi/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:20:00 +0300</pubDate>
-    <category>Güvenlik</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>RAF Fairford saldırı planı davasında New York&#x27;taki sanık mahkemeyi karıştırdı; Londra&#x27;daki iki sanığın avukatı suçlamaları reddedeceklerini söyledi. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>ABD Hazinesi&#x27;nden çifte hamle: Singapur-Malezya uyarısı ve 4 İranlıya yaptırım</title>
-    <link>https://farscadan.com/haber/2026-11-21-abd-singapur-malezya-paravan-sirket-yaptirim/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-abd-singapur-malezya-paravan-sirket-yaptirim/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:10:00 +0300</pubDate>
-    <category>Ekonomi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>ABD Hazinesi, Singapur ve Malezya&#x27;yı İran&#x27;a bağlı paravan şirketlere karşı uyardı; futbol federasyonu başkanının kardeşi dahil 4 İranlıyı yaptırdı. (Kaynak: İran International)</description>
-  </item>
-  <item>
-    <title>Tahran&#x27;da iki saatlik elektrik kesintisi: Yetkililer &#x27;şebeke tamiratı&#x27; dedi</title>
-    <link>https://farscadan.com/haber/2026-11-21-tahran-iki-saatlik-elektrik-kesintisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-tahran-iki-saatlik-elektrik-kesintisi/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:00:00 +0300</pubDate>
-    <category>Toplum</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Tahran Elektrik Dağıtım Şirketi 30 Aban için 2 saatlik kesinti duyurdu; yetkililer nedeni şebeke tamiratına bağlarken kış enerji krizi derinleşiyor. (Kaynak: Iran International)</description>
-  </item>
-  <item>
-    <title>İran&#x27;da kim karar verir? Altı kurum ve yetki haritası</title>
-    <link>https://farscadan.com/haber/2026-11-20-rehber-iran-kim-karar-verir/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-20-rehber-iran-kim-karar-verir/</guid>
-    <pubDate>Fri, 20 Nov 2026 20:30:00 +0300</pubDate>
-    <category>Rehber</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Rehber, Cumhurbaşkanı, Meclis, Anayasayı Koruyucular Konseyi, Uzmanlar Meclisi ve Düzenin Maslahatını Teşhis Konseyi&#x27;nin yetkileri, kaynaklarıyla. (Kaynak: Farsçadan)</description>
   </item>
 </channel>
 </rss>

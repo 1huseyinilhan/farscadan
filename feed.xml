@@ -5,8 +5,17 @@
   <link>https://farscadan.com/</link>
   <description>İran&#x27;ın Farsça basınından seçilmiş haberlerin yapay zekâ destekli Türkçe çevirileri. Her haberde kaynağın yönelimi belirtilir.</description>
   <language>tr</language>
-  <lastBuildDate>Tue, 24 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 20:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Türkiye-İran ilişkileri: ticaret, doğal gaz, sınır ve bölgesel rekabet</title>
+    <link>https://farscadan.com/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</link>
+    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</guid>
+    <pubDate>Tue, 24 Nov 2026 20:30:00 +0300</pubDate>
+    <category>Rehber</category>
+    <dc:creator>Farsçadan Editörlüğü</dc:creator>
+    <description>Türkiye ve İran arasındaki 1639&#x27;dan gelen sınır, 30 milyar dolarlık ticaret hedefi, 1996 doğal gaz anlaşması ve sınırdaki göç-kaçakçılık bir arada. (Kaynak: Farsçadan)</description>
+  </item>
   <item>
     <title>Hürmüz&#x27;de üç tanker mayına çarpıp alev aldı: Sepah donanmasından sert uyarı</title>
     <link>https://farscadan.com/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</link>
@@ -177,15 +186,6 @@
     <category>Rehber</category>
     <dc:creator>Farsçadan Editörlüğü</dc:creator>
     <description>Sepah&#x27;ın kuruluşu, kara-deniz-hava kolları, Besic ve Kudüs Gücü ile ilişkisi, düzenli orduyla (Arteş) farkı kaynaklı rakamlarla anlatılıyor. (Kaynak: Farsçadan)</description>
-  </item>
-  <item>
-    <title>Araghçi: Hürmüz&#x27;ün açılması 7 şarta bağlı, &#x27;ne savaş ne barış&#x27; bitmeli</title>
-    <link>https://farscadan.com/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</link>
-    <guid isPermaLink="true">https://farscadan.com/haber/2026-11-21-araghchi-hurmuz-yedi-sart-nukleer-doktrin/</guid>
-    <pubDate>Sat, 21 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Diplomasi</category>
-    <dc:creator>Farsçadan Editörlüğü</dc:creator>
-    <description>Dışişleri Bakanı Araghçi, Hürmüz Boğazı&#x27;nın açılması için 7 şartın geçerli olduğunu, %60 uranyumun ülkeden çıkmayacağını söyledi. (Kaynak: Hamshahri)</description>
   </item>
 </channel>
 </rss>

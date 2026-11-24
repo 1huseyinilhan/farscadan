@@ -38,3 +38,5 @@ Kayhan also reports that the European Union, together with the International Ene
 The Strait of Hormuz is the narrow waterway connecting the Persian Gulf to the open sea through which a significant portion of the world's oil shipments pass; its partial encirclement by Iran's coastline gives Tehran strategic control. Under wartime conditions, security risks in the strait and restrictions Iran has imposed have raised oil prices significantly above pre-war levels. This discussion connects to [the previous report on the tanker strike](../2026-10-03-hurmuz-tanker/): each security incident in the strait becomes a new calculation for both political camps in Tehran and global energy markets.
 
 The core risk Khabaronline emphasizes is the "normalization" of alternative routes. According to the article, while a few million barrels daily flowing south around the strait currently seems minor, the permanence of such flows could weaken the strait's deterrent power for years; the newspaper considers this a greater strategic loss than opening the strait.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)

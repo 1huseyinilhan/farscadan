@@ -45,6 +45,6 @@ Zamani ayrıca küresel altın ons fiyatının savaş haberleri, petrol fiyatı 
 
 **Türkiye boyutu:** Eghtesadonline'ın aktardığına göre ABD, Pakistan'ın yanı sıra Türkiye ile de İran'ın kara ticaret yollarını kısıtlama yönünde eşgüdüm aradığını açıklamıştı; ancak aynı habere göre Türkiye, Pakistan ve Irak'ın aksine İran'la ticari kara sınırını tamamen kapatmadı ve İran'ın en büyük kara ticaret ortağı olmayı sürdürüyor (Eghtesadonline, Ekim 2026).
 
-**Sırada ne var:** Zamani, dolar kurunun yıl sonuna yaklaşılırken mevsimsel talep artışıyla yeniden yükselebileceğini öngörüyor; bunun dışında takvime bağlı bir gelişme belirtilmedi. Pakistan ve Irak sınır geçişlerindeki kısıtlamaların kalıcı olup olmayacağı da izlenmesi gereken bir başlık.
+**Sırada ne var:** Zamani, dolar kurunun yıl sonuna yaklaşılırken mevsimsel talep artışıyla yeniden yükselebileceğini öngörüyor; bunun dışında takvime bağlı bir gelişme belirtilmedi. Pakistan ve Irak sınır geçişlerindeki kısıtlamaların kalıcı olup olmayacağı da izlenmesi gereken bir başlık. Nitekim 23-25 Kasım 2026'da kamyoncu sendikaları, lastik ve yağ fiyatlarındaki dolar bazlı artışı protesto ederek 15 şehirde üç gün art arda yük taşımayı durdurdu ([ayrıntılar](../2026-11-25-iran-kamyoncu-grevi-ucuncu-gun/)).
 
 *Bu haber bilgilendirme amaçlıdır; yatırım tavsiyesi değildir.*

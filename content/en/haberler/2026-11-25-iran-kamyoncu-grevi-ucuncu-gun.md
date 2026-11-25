@@ -33,6 +33,7 @@ Iran International's report directly contradicts official statements; the strike
 
 **Background:**
 - **2018 and 2019:** Iranian truckers staged consecutive nationwide strikes over hauling fees and spare parts prices.
+- **November 13, 2026:** The dollar rate neared the 300,000-toman band again, pressured by restrictions at the Pakistan and Iraq borders ([details](../2026-11-13-dolar-tumen-300-bin-sinir-ablukasi/)).
 - **November 23 (2 Azar), 2026:** Turani-Kazvini, an association member, publicly stated that hauling fees do not reflect real costs.
 - **November 23-25 (23-25 Azar), 2026:** The union announced a three-day "no cargo" action across 15 cities; official agencies denied the strike.
 

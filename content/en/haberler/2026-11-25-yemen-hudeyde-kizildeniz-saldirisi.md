@@ -34,7 +34,7 @@ According to IRNA, a spokesperson for Yemen's Armed Forces said that Saudi Arabi
 - **2015:** A Saudi-led coalition launched air campaigns against Houthi-controlled areas.
 - **January 2024:** The U.S. and U.K. imposed sanctions on senior Houthi officials over Red Sea shipping attacks.
 - **November 12, 2026:** The UN Security Council extended the sanctions regime against the Houthis through November 2027 and expanded it to include weapon components and chemical precursors.
-- **November 8-19, 2026:** Houthis staged consecutive strikes on towers in Riyadh's financial district; Saudi officials announced no casualties in both strikes.
+- **November 8-19, 2026:** Houthis staged consecutive strikes on towers in Riyadh's financial district; Saudi officials announced no casualties in both strikes ([the November 19 PIF Tower strike](../2026-11-20-riyad-pif-kulesi-husi-saldirisi/)).
 - **November 25, 2026:** Saudi jets struck Hodeidah port and airport, with Sanaa naming Saudi Red Sea ports as targets.
 
 **Who and what:** "Ansarullah" (Houthis) is a Zaydi Shiite armed political organization controlling a wide area including Sanaa in northern Yemen since 2014; Iran describes this group as part of the "axis of resistance" but denies direct command. Al-Masirah is the Houthi-affiliated broadcast network. The Saudi-led coalition, formed in 2015 to support Yemen's internationally recognized government, includes the UAE, Bahrain, and other Arab states; it has conducted regular airstrikes against Houthi-controlled areas since then. King Abdullah Financial District (KAFD) is the business hub in Riyadh where major Saudi corporations and state investment institutions are headquartered.

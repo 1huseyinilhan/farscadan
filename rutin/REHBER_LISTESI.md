@@ -9,7 +9,7 @@ Liste bitince adım kendiliğinden durur. Yeni konu eklemek kullanıcı/yönetic
 - [x] (2026-11-22, rehber-iran-nukleer-npt-koep) İran'ın nükleer programı: kronoloji ve temel kavramlar (NPT, UAEA, KOEP/JCPOA, zenginleştirme oranları, snapback)
 - [x] (2026-11-23, rehber-iran-ekonomisini-okumak) İran ekonomisini okumak: riyal ve tümen, enflasyon, petrol ihracatı, yaptırımlar, resmî ve serbest kur
 - [x] (2026-11-24, rehber-turkiye-iran-iliskileri) Türkiye–İran ilişkileri: ticaret, doğal gaz, sınır ve göç, bölgesel rekabet ve iş birliği
-- [ ] İran'da seçimler nasıl işler: aday onayı, cumhurbaşkanlığı ve meclis seçimleri, katılım verileri
+- [x] (2026-11-25, rehber-iran-secimleri) İran'da seçimler nasıl işler: aday onayı, cumhurbaşkanlığı ve meclis seçimleri, katılım verileri
 - [ ] "Direniş Ekseni" nedir: İran'ın bölgesel ortakları ve ilişkilerin yapısı
 - [ ] Hürmüz Boğazı ve enerji güvenliği: rakamlar, tarihsel krizler, Türkiye'ye etkisi
 - [ ] İran'da internet ve sosyal medya: filtreleme, ulusal internet ağı, VPN kullanımı, platform yasakları

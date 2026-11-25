@@ -33,6 +33,7 @@ Iran International'ın haberi ile resmî yetkililerin açıklamaları doğrudan 
 
 **Arka plan:**
 - **2018 ve 2019:** İran'da kamyoncular, navlun ücretleri ve yedek parça fiyatları nedeniyle art arda ülke çapında grevlere gitti.
+- **13 Kasım 2026:** Dolar kuru, Pakistan ve Irak sınırındaki kısıtlamaların baskısıyla yeniden 300 bin tümen bandına yaklaşmıştı ([ayrıntılar](../2026-11-13-dolar-tumen-300-bin-sinir-ablukasi/)).
 - **2 Azar (23 Kasım) 2026:** Nakliye şirketleri derneği üyesi Turani-Kazvini, navlun ücretlerinin gerçek maliyeti yansıtmadığını kamuya açıkladı.
 - **23-25 Kasım 2026:** Sendika, 15 şehirde üç günlük "yük almama" eylemini duyurdu; resmî kurumlar eylemi yalanladı.
 

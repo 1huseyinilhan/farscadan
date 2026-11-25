@@ -45,6 +45,6 @@ Zamani also said that global gold-per-ounce prices are affected by war news, oil
 
 **Turkey angle:** Eghtesadonline reported that the U.S. sought coordination with Turkey as well as Pakistan to restrict Iran's land trade routes; however, the same report noted that Turkey, unlike Pakistan and Iraq, did not fully close its land border with Iran and continued as Iran's largest land-trade partner (Eghtesadonline, October 2026).
 
-**What to watch:** Zamani forecasts the dollar rate may rise again toward year-end due to seasonal demand increases; otherwise no calendar-based developments were noted. Whether restrictions at Pakistan and Iraq border crossings prove permanent remains to be seen.
+**What to watch:** Zamani forecasts the dollar rate may rise again toward year-end due to seasonal demand increases; otherwise no calendar-based developments were noted. Whether restrictions at Pakistan and Iraq border crossings prove permanent remains to be seen. Indeed, on November 23-25, 2026, trucking unions halted cargo hauling for three consecutive days across 15 cities, protesting dollar-denominated price hikes on tires and oil ([details](../2026-11-25-iran-kamyoncu-grevi-ucuncu-gun/)).
 
 *For information only; not investment advice.*

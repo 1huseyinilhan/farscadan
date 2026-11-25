@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 25 Nov 2026 12:00:00 +0300</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 21:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>How do Iranian elections work? Candidate vetting, ballots, and turnout figures</title>
+    <link>https://farscadan.com/en/haber/2026-11-25-rehber-iran-secimleri/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-25-rehber-iran-secimleri/</guid>
+    <pubDate>Wed, 25 Nov 2026 21:30:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Presidential, parliamentary, and Assembly of Experts elections: candidate vetting, turnout figures, and 2024 results, with sources. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Baghdad centralizes Kurdish oil fields; Erbil rejects move as &#x27;unacceptable&#x27;</title>
     <link>https://farscadan.com/en/haber/2026-11-25-bagdat-erbil-petrol-gerginligi/</link>
@@ -177,15 +186,6 @@
     <category>Guides</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>NPT, IAEA oversight, JCPOA limits, enrichment rates, and the snapback mechanism explained chronologically from 1970 to 2026. (Source: Farsçadan)</description>
-  </item>
-  <item>
-    <title>IRGC claims Patriot radar strike on Bahrain bases; Bahrain and U.S. do not confirm</title>
-    <link>https://farscadan.com/en/haber/2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-22-bahreyn-patriot-radar-sepah-saldirisi/</guid>
-    <pubDate>Sun, 22 Nov 2026 11:00:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Iran&#x27;s IRGC announced striking two Patriot radars at U.S. bases in Bahrain; Bahrain called UN Security Council meeting. (Source: Khabaronline)</description>
   </item>
 </channel>
 </rss>

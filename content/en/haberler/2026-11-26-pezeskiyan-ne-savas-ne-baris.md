@@ -39,6 +39,7 @@ During a speech at Ferdowsi University in Mashhad, addressing previously circula
 - **June-July 2026:** The region witnessed a "40-day war" in which Hayber Shikin, Emad, and Qadir missiles were used, according to Hamshahri's report (Hamshahri, November 10, 2026).
 - **October 4, 2026:** Pezeshkian explained that his administration had restructured the economy in line with the "enemy's economic warfare" (see [related report](../2026-10-04-pezeskiyan-savas-ekonomisi/)).
 - **November 9, 2026:** According to Saudi Gazette, Pezeshkian said Iran is open to dialogue to end the current "no war, no peace" state but wants negotiation based on mutual respect.
+- **November 26, 2026:** The same day, U.S. presidential envoy Jared Kushner said in an interview that he had met Iranian representatives more than once and that Trump keeps all options on the table ([related report](../2026-11-26-kusner-iran-gorusmeler-secenekler/)).
 
 **Who and what:** Masoud Pezeshkian is a cardiac surgeon-turned-politician who was elected president in 2024 with support from a reformist-centrist coalition; this early election followed the death of his predecessor Ibrahim Raisi in a helicopter crash. With Azerbaijani paternal ancestry and Kurdish maternal ancestry, Pezeshkian worked as a cardiovascular surgeon at Tabriz University before taking office and served as a Tabriz member of parliament. The Farsi phrase "نه جنگ و نه صلح" (na jang-o na solh) translates to "no war, no peace," describing an interim state where active combat has halted but no formal peace exists.
 

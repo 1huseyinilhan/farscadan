@@ -39,6 +39,7 @@ Meşhed'deki Firdevsi Üniversitesi'nde yaptığı konuşmada, çalışma odası
 - **Haziran-Temmuz 2026:** Bölgede, Hamşehri'nin aktardığına göre Hayber Şiken, İmad ve Kadir füzelerinin kullanıldığı "40 günlük savaş" yaşandı (Hamşehri, 10 Kasım 2026).
 - **4 Ekim 2026:** Pizişkiyan, hükümetin ekonomiyi "düşmanın ekonomik savaşına" göre yeniden düzenlediğini açıklamıştı (bkz. [ilgili haber](../2026-10-04-pezeskiyan-savas-ekonomisi/)).
 - **9 Kasım 2026:** Saudi Gazette'in haberine göre Pizişkiyan, İran'ın mevcut "ne savaş ne barış" durumunu sona erdirmek için diyaloğa açık olduğunu, ancak karşılıklı saygı temelinde bir müzakere istediğini söylemişti.
+- **26 Kasım 2026:** Aynı gün ABD Başkanı özel temsilcisi Jared Kuşner de bir röportajda İran temsilcileriyle birden fazla kez görüştüğünü ve Trump'ın tüm seçeneklerini masada tuttuğunu söyledi ([ilgili haber](../2026-11-26-kusner-iran-gorusmeler-secenekler/)).
 
 **Kim kimdir / kavram:** Mesud Pizişkiyan, kalp cerrahı kökenli, 2024'te reformcu-merkezci bir koalisyonun desteğiyle cumhurbaşkanı seçilen bir siyasetçi; bu erken seçim, selefi İbrahim Reisi'nin bir helikopter kazasında ölümü üzerine yapılmıştı. Babası Azerbaycan, annesi Kürt kökenli olan Pizişkiyan, göreve gelmeden önce Tebriz Üniversitesi'nde kalp-damar cerrahı olarak çalışmış ve Meclis'te Tebriz milletvekilliği yapmıştı. Farsça "نه جنگ و نه صلح" ifadesinin Latin harfli okunuşu "na jang-o na solh"tur; Türkçe karşılığı "ne savaş ne barış" olup fiilî çatışmanın durduğu ama resmî bir barışın kurulmadığı ara durumu tanımlar.
 

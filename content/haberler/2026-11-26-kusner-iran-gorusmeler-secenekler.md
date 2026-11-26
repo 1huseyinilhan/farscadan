@@ -42,6 +42,7 @@ ISNA'nın "Netanyahu işi zorlaştırıyor" başlığıyla verdiği alıntının
 - **Haziran 2026:** Trump, Hürmüz Boğazı'ndaki gerginliği yatıştırmak amacıyla Kuşner ve Witkoff'u Doha'ya gönderdi; aynı dönemde Witkoff ABD-Rusya-Ukrayna görüşmelerinde de görev aldı ([bkz. Witkoff'un Abu Dabi'deki üçlü görüşmeleri](../2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri/)).
 - **Eylül 2026:** BM Genel Kurulu haftasında New York'ta ABD'li yetkililerle Tahran heyeti arasında üç saatlik bir görüşme yapıldığı bildirildi; Trump bunu İran konusunda "büyük bir karar" beklediğini söyleyerek duyurdu.
 - **Kasım 2026:** Kuşner'in "MD Meets" röportajı, Dışişleri Bakanı Hakan Fidan'ın İran-ABD anlaşmasını Hürmüz'ün açılmasından daha önemli bulduğunu söylediği açıklamayla ([ilgili haber](../2026-11-22-fidan-iran-abd-anlasma-hurmuz/)) aynı haftaya denk geldi.
+- **26 Kasım 2026:** Aynı gün Cumhurbaşkanı Mesud Pizişkiyan da Horasan gezisinde ABD ile görüşmelerin sürdüğünü, ancak "zorbalığa karşı eğilmeyeceklerini" söyledi ([ilgili haber](../2026-11-26-pezeskiyan-ne-savas-ne-baris/)).
 
 **Kim kimdir:** Jared Kuşner, Trump'ın damadı ve ikinci başkanlık döneminde Orta Doğu dosyalarında özel temsilci olarak görev yapan iş insanı; resmî bir bakanlık görevi bulunmuyor, yetkisini doğrudan Trump'tan alıyor. Steve Witkoff ise Trump'ın Orta Doğu özel temsilcisi olarak İran dosyasında Kuşner'le birlikte çalışıyor; ikili aynı zamanda Rusya-Ukrayna müzakerelerinde de görev almıştı.
 

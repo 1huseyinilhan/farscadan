@@ -41,6 +41,7 @@ ISNA's "Netanyahu is making things harder" quote and its original context in the
 - **February 2026:** Kushner and special envoy Steve Witkoff met with Iranian officials at the residence of the Omani ambassador in Geneva.
 - **June 2026:** Trump sent Kushner and Witkoff to Doha to calm tensions in the Strait of Hormuz; during the same period, Witkoff was also tasked with U.S.-Russia-Ukraine talks ([see Witkoff's trilateral talks in Abu Dhabi](../2026-11-03-witkoff-abd-rusya-ukrayna-abu-dabi-gorusmeleri/)).
 - **September 2026:** A three-hour meeting between U.S. officials and a Tehran delegation was reported during UN General Assembly week in New York; Trump announced this as a sign of "a big decision" on Iran.
+- **November 26, 2026:** The same day, President Masoud Pezeshkian said during his Khorasan trip that talks with the U.S. continue, but Iran "will not bow to bullying" ([related report](../2026-11-26-pezeskiyan-ne-savas-ne-baris/)).
 - **November 2026:** Kushner's "MD Meets" interview coincided with Foreign Minister Hakan Fidan's statement that an Iran-U.S. agreement is more important than opening the Strait ([related report](../2026-11-22-fidan-iran-abd-anlasma-hurmuz/)).
 
 **Who and what:** Jared Kushner is Trump's son-in-law and special envoy for Middle East affairs in his second term; he holds no formal cabinet position and derives his authority directly from Trump. Steve Witkoff serves as Trump's Middle East special envoy and works with Kushner on the Iran file; the two also served together in Russia-Ukraine negotiations.

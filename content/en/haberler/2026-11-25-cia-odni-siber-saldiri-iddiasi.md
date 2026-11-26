@@ -36,6 +36,7 @@ IRNA and ISNA's underlying U.S. media report could not be directly accessed at t
 - **July 2025:** The Washington Times reported that a website affiliated with a CIA-linked open-source intelligence program called "Digital Hammer" had been hacked; whether the breach involved classified information remained unclear at the time.
 - **November 19, 2026:** According to Saudi Gazette, the NSA experienced a two-day technical outage; U.S. National Intelligence Director Jay Clayton said he had "very high confidence" this was not a cyberattack.
 - **November 24-25, 2026:** Based on U.S. media reports, a new breach allegation emerged at a CIA/ODNI open-source intelligence network.
+- A CIA classified assessment reported on October 29, 2026 suggested that one of Iran's possible retaliation options against new U.S. strikes was a cyberattack on targets inside the United States ([related report](../2026-10-29-cia-iran-karsilik-senaryolari-rusya/)).
 
 **Who and what:** The Office of the Director of National Intelligence (ODNI) is the central hub coordinating 18 U.S. intelligence agencies, established in 2005 as part of post-9/11 intelligence reform. The Central Intelligence Agency (CIA) collects and analyzes foreign intelligence and reports directly to the White House, not Congress. "Open-source intelligence" (OSINT) is intelligence derived from public, non-classified data—social media, commercial satellite imagery, news reports—which the allegedly targeted network was designed to process.
 

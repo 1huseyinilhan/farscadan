@@ -1,18 +1,18 @@
 ---
-baslik: What does closing the Strait of Hormuz gain Iran? Conflicting accounts in Tehran press
-seo_baslik: What closing Hormuz gains Iran
-ozet: Tehran newspapers debate whether closing the Strait of Hormuz benefits or harms Iran long-term; oil reaches $103 per barrel.
+baslik: "What does closing the Strait of Hormuz gain Iran? Contradictory calculations in Tehran press"
+seo_baslik: "Does closing the Strait of Hormuz benefit Iran?"
+ozet: "Tehran newspapers debate whether closing the Strait of Hormuz benefits or harms Iran long-term; oil reaches $103 per barrel."
 tarih: 2026-10-04T08:50:00+03:00
 kategori: Güvenlik
-etiketler: Strait of Hormuz, oil price, Kayhan, Khabaronline, energy security
+etiketler: Strait of Hormuz, oil prices, Kayhan, Khabaronline, energy security
 kaynak_adi: Khabaronline
 kaynak_yonelim: Moderate conservative (Larijani circle)
 kaynak_url: https://www.khabaronline.ir/news/2283245/%D8%B1%D9%88%D8%B2%D9%86%D8%A7%D9%85%D9%87-%D8%A7%D8%B5%D9%88%D9%84%DA%AF%D8%B1%D8%A7-%D8%A8%D8%B3%D8%AA%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%AF%D8%AA-%D8%B7%D9%88%D9%84%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%86%D9%81%D8%B9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86
 kaynak_baslik_fa: روزنامه اصولگرا: بستن تنگه هرمز برای مدت طولانی به نفع ایران نیست
-ek_kaynaklar: Kayhan (Hardline) | https://kayhan.ir/fa/news/339253/%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D9%86%D9%81%D8%AA-%D8%AD%D9%84-%D9%86%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA ;; IRNA (State news agency) | https://www.irna.ir/news/86282246/%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%A7%D8%B5%D8%B1%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%86%D8%B4-%D8%86%D9%87%D8%B1%D9%87-%D8%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2
+ek_kaynaklar: "Kayhan (Hardline) | https://kayhan.ir/fa/news/339253/%D8%A8%D8%AD%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%DA%AF%D9%87-%D9%87%D8%B1%D9%85%D8%B2-%D8%A8%D8%A7-%D8%B0%D8%AE%D8%A7%DB%8C%D8%B1-%D9%86%D9%81%D8%AA-%D8%AD%D9%84-%D9%86%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA ;; IRNA (State news agency) | https://www.irna.ir/news/86282246/%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%AF%D8%A7%D9%88%D9%85-%D8%A7%D8%B5%D8%B1%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%86%D8%B4-%DA%86%D9%87%D8%B1%D9%87-%DA%86%D8%B4%D9%85-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2"
 gorsel: img/2026-10-04-hurmuz-bogazi-kapatma-tartismasi.jpg
 gorsel_alt: Satellite image of the Strait of Hormuz from space
-gorsel_kredi: NASA, Public domain, Wikimedia Commons
+gorsel_kredi: "NASA, Public domain, Wikimedia Commons"
 gorsel_kredi_url: https://commons.wikimedia.org/wiki/File:STS004-37-716_-_Strait_of_Hormuz.jpg
 yazar: Farsçadan Editörlüğü
 ---

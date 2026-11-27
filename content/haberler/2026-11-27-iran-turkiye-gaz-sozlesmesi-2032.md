@@ -35,7 +35,7 @@ Ancak bu iddia, Farsçadan'ın bu haberi hazırladığı sırada bağımsız bir
 
 **Rakamlarla:** Reuters kaynaklı verilere göre Türkiye geçen yıl İran'dan yaklaşık 7,6 milyar metreküp gaz ithal etti; bu, Türkiye'nin toplam gaz ithalatının yaklaşık yüzde 13'üne denk geliyor (Gas Processing News, Nisan 2026 güncellemesi). Düzenleyici kurum verilerine göre boru hattı, sözleşmedeki tam hacme en son 2022'de ulaşmıştı; sonraki yıllarda akış hacmin altında seyretti.
 
-**Türkiye boyutu:** Haber doğrudan Türkiye'yi ilgilendiriyor: iddia doğruysa Türkiye, İran gazına altı yıl daha bağımlı kalacak; iddia sözleşmenin fiilen sona erdiği bilgisini doğruluyorsa Türkiye'nin enerji tedarikinde LNG ve alternatif kaynaklara yönelmesi gündeme gelebilir. Türkiye ayrıca Azerbaycan ile gaz sözleşmesini 2030'a kadar uzatmıştı; bu, Ankara'nın tedarik çeşitlendirmesinin bir başka ayağıdır.
+**Türkiye boyutu:** Haber doğrudan Türkiye'yi ilgilendiriyor: iddia doğruysa Türkiye, İran gazına altı yıl daha bağımlı kalacak; iddia sözleşmenin fiilen sona erdiği bilgisini doğruluyorsa Türkiye'nin enerji tedarikinde LNG ve alternatif kaynaklara yönelmesi gündeme gelebilir. Türkiye ayrıca Azerbaycan ile gaz sözleşmesini 2030'a kadar uzatmıştı; bu, Ankara'nın tedarik çeşitlendirmesinin bir başka ayağıdır. Türkiye-İran enerji ve ticaret ilişkisinin diğer boyutları [Farsçadan'ın rehberinde](../2026-11-24-rehber-turkiye-iran-iliskileri/) ayrıca ele alınmıştı.
 
 **Sırada ne var:** BOTAŞ veya Türkiye Enerji ve Tabii Kaynaklar Bakanlığı, bu yazının hazırlandığı sırada 2032 iddiasını doğrulayan veya yalanlayan bir açıklama yapmadı. Resmî bir Türk kaynağının konuyu teyit edip etmeyeceği bu yazının hazırlandığı sırada bilinmiyor.
 

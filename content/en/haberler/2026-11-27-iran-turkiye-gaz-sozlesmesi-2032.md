@@ -35,7 +35,7 @@ However, at the time Farsçadan prepared this article, this claim could not be v
 
 **By the numbers:** According to Reuters data, Turkey imported approximately 7.6 billion cubic meters of gas from Iran last year, equivalent to roughly 13% of Turkey's total gas imports (Gas Processing News, April 2026 update). According to regulatory authority data, the pipeline last reached full contracted capacity in 2022; in subsequent years, flow has remained below capacity.
 
-**Turkey dimension:** The news directly concerns Turkey: if the claim is true, Turkey will remain dependent on Iranian gas for six more years; if the claim confirms the contract has effectively expired, Turkey's shift toward LNG and alternative sources becomes a priority. Turkey had also extended its gas agreement with Azerbaijan through 2030, another aspect of Ankara's supply diversification.
+**Turkey dimension:** The news directly concerns Turkey: if the claim is true, Turkey will remain dependent on Iranian gas for six more years; if the claim confirms the contract has effectively expired, Turkey's shift toward LNG and alternative sources becomes a priority. Turkey had also extended its gas agreement with Azerbaijan through 2030, another aspect of Ankara's supply diversification. Other dimensions of Turkey-Iran energy and trade relations are covered in [Farsçadan's guide](../2026-11-24-rehber-turkiye-iran-iliskileri/).
 
 **What's ahead:** At the time this article was prepared, neither BOTAS nor Turkey's Ministry of Energy and Natural Resources issued a statement confirming or denying the 2032 claim. It remains unclear whether an official Turkish source will verify the matter.
 

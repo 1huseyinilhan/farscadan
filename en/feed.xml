@@ -5,8 +5,17 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 27 Nov 2026 09:40:00 +0300</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 21:30:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The Strait of Hormuz and energy security: figures, historical crises, impact on Turkey</title>
+    <link>https://farscadan.com/en/haber/2026-11-27-rehber-hurmuz-bogazi-enerji-guvenligi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-27-rehber-hurmuz-bogazi-enerji-guvenligi/</guid>
+    <pubDate>Fri, 27 Nov 2026 21:30:00 +0300</pubDate>
+    <category>Guides</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Oil and LNG flows through Hormuz, major crises since the 1980s, and the strait&#x27;s role in Turkey&#x27;s energy security—sourced. (Source: Farsçadan)</description>
+  </item>
   <item>
     <title>Drone attack in Kuwait kills 2 Italian technicians: Tehran denies responsibility</title>
     <link>https://farscadan.com/en/haber/2026-11-27-kuveyt-dron-saldirisi-italyan-teknisyen/</link>
@@ -177,15 +186,6 @@
     <category>Security</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>IRGC Navy announced three tankers struck naval mines and caught fire in Strait of Hormuz; U.S. air support failed to prevent the incident. (Source: Hamshahri)</description>
-  </item>
-  <item>
-    <title>Central Bank chief: Our reserves eroded by $51 billion since Iran war began</title>
-    <link>https://farscadan.com/en/haber/2026-11-24-turkiye-rezerv-iran-savasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-24-turkiye-rezerv-iran-savasi/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:30:00 +0300</pubDate>
-    <category>Turkey</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Central Bank chief Karahan announced gross reserves fell from $210 billion to $159 billion since war began—a $51 billion decline. (Source: Hamshahri)</description>
   </item>
 </channel>
 </rss>

@@ -19,7 +19,7 @@ yazar: Farsçadan Editörlüğü
 
 Nearly every week, Farsçadan publishes a story about the Strait of Hormuz. All these reports share one thread: a narrow waterway but of enormous consequence in energy commerce—the Strait of Hormuz. This passage connects the Persian Gulf to the Gulf of Oman and from there to the open ocean, and is the only exit to sea for oil and gas producers in the gulf.
 
-This guide explains the strait's geography, oil and LNG volumes passing through it, major crises from the 1980s to today, and its relationship to Turkey's energy security. For a brief definition and current wartime status, see the [Strait of Hormuz glossary entry](../../sozluk/hurmuz-bogazi/); this guide deepens the numerical and historical context.
+This guide explains the strait's geography, oil and LNG volumes passing through it, major crises from the 1980s to today, and its relationship to Turkey's energy security. For a brief definition and current wartime status, see the [Strait of Hormuz glossary entry](../../glossary/hurmuz-bogazi/); this guide deepens the numerical and historical context.
 
 ## Geography: the world's narrowest energy gateway
 
@@ -62,7 +62,7 @@ Wikipedia reports that Iran has also raised closing the strait at other times—
 
 ## How the Persian press refers to it
 
-The Persian press calls this waterway **تنگه هرمز** (*tenge-ye Hormoz*); Turkish is "Hürmüz Boğazı." For detailed definitions, see the [Strait of Hormuz glossary entry](../../sozluk/hurmuz-bogazi/); for the Islamic Revolutionary Guards Corps, see the [Sepah glossary entry](../../sozluk/devrim-muhafizlari/).
+The Persian press calls this waterway **تنگه هرمز** (*tenge-ye Hormoz*); Turkish is "Hürmüz Boğazı." For detailed definitions, see the [Strait of Hormuz glossary entry](../../glossary/hurmuz-bogazi/); for the Islamic Revolutionary Guards Corps, see the [Sepah glossary entry](../../glossary/devrim-muhafizlari/).
 
 ## Turkey's perspective
 

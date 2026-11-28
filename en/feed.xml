@@ -5,8 +5,53 @@
   <link>https://farscadan.com/en/</link>
   <description>AI-assisted English translations of selected stories from Iran&#x27;s Persian-language press. Every story notes the outlet&#x27;s political orientation.</description>
   <language>en</language>
-  <lastBuildDate>Fri, 27 Nov 2026 21:30:00 +0300</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 09:40:00 +0300</lastBuildDate>
   <atom:link href="https://farscadan.com/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Bloomberg: Iran-Turkey gas contract extended to 2032, official confirmation still pending</title>
+    <link>https://farscadan.com/en/haber/2026-11-28-iran-turkiye-gaz-bloomberg-dogrulama/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-28-iran-turkiye-gaz-bloomberg-dogrulama/</guid>
+    <pubDate>Sat, 28 Nov 2026 09:40:00 +0300</pubDate>
+    <category>Turkey</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>News citing Bloomberg reported that BOTAŞ and Iran&#x27;s gas company extended their import contract to 2032; both companies made no official statement. (Source: Donya-ye Eghtesad)</description>
+  </item>
+  <item>
+    <title>Second mine incident in Hormuz in four days: IRGC Navy warns &#x27;air support insufficient&#x27;</title>
+    <link>https://farscadan.com/en/haber/2026-11-28-hurmuz-tanker-mayin-ikinci-saldiri/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-28-hurmuz-tanker-mayin-ikinci-saldiri/</guid>
+    <pubDate>Sat, 28 Nov 2026 09:30:00 +0300</pubDate>
+    <category>Security</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>The IRGC Navy announced that two tankers caught fire near the Strait of Hormuz east of Khasab, with one hitting a naval mine. (Source: Hamshahri)</description>
+  </item>
+  <item>
+    <title>Mecca Alliance strategic committee convened: Fidan announces new membership criteria</title>
+    <link>https://farscadan.com/en/haber/2026-11-28-mekke-ittifaki-stratejik-komite/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-28-mekke-ittifaki-stratejik-komite/</guid>
+    <pubDate>Sat, 28 Nov 2026 09:20:00 +0300</pubDate>
+    <category>Diplomacy</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Turkey, Saudi Arabia, and Pakistan&#x27;s Mecca Alliance committee pledged to lower tensions; Houthis harshly rejected the alliance. (Source: ISNA)</description>
+  </item>
+  <item>
+    <title>Central Bank froze accounts of 3 crypto exchanges: credibility test underway</title>
+    <link>https://farscadan.com/en/haber/2026-11-28-kripto-borsa-kapatma-guven-sinavi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-28-kripto-borsa-kapatma-guven-sinavi/</guid>
+    <pubDate>Sat, 28 Nov 2026 09:10:00 +0300</pubDate>
+    <category>Economy</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Iran&#x27;s Central Bank froze bank accounts of Nikpardakht, Bit Meet, and RavenX exchanges, citing they &#x27;violated economic order.&#x27; (Source: Kayhan)</description>
+  </item>
+  <item>
+    <title>Teacher retirement: 33,900 chose to stay on duty, ministry expressed gratitude</title>
+    <link>https://farscadan.com/en/haber/2026-11-28-ogretmen-emeklilik-personel-acigi/</link>
+    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-28-ogretmen-emeklilik-personel-acigi/</guid>
+    <pubDate>Sat, 28 Nov 2026 09:00:00 +0300</pubDate>
+    <category>Society</category>
+    <dc:creator>Farsçadan Editors</dc:creator>
+    <description>Iran&#x27;s Ministry of Education announced that 33,900 teachers eligible for retirement chose to continue working; this number exceeded those who retired. (Source: Kayhan (from Mehr))</description>
+  </item>
   <item>
     <title>The Strait of Hormuz and energy security: figures, historical crises, impact on Turkey</title>
     <link>https://farscadan.com/en/haber/2026-11-27-rehber-hurmuz-bogazi-enerji-guvenligi/</link>
@@ -141,51 +186,6 @@
     <category>Security</category>
     <dc:creator>Farsçadan Editors</dc:creator>
     <description>Saudi warplanes hit Yemen&#x27;s Hodeidah port and international airport; Houthi spokesman warned all Saudi ports on the Red Sea are now targets. (Source: IRNA)</description>
-  </item>
-  <item>
-    <title>Iran&#x27;s press says &#x27;CIA cyberattack&#x27;; U.S. says classified systems unaffected</title>
-    <link>https://farscadan.com/en/haber/2026-11-25-cia-odni-siber-saldiri-iddiasi/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-25-cia-odni-siber-saldiri-iddiasi/</guid>
-    <pubDate>Wed, 25 Nov 2026 11:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>CIA and ODNI&#x27;s open-source intelligence network was breached; U.S. officials said classified systems were not compromised. (Source: Donya-e Eqtesad)</description>
-  </item>
-  <item>
-    <title>Truckers in Iran strike for third day; cargo halted in 15 cities</title>
-    <link>https://farscadan.com/en/haber/2026-11-25-iran-kamyoncu-grevi-ucuncu-gun/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-25-iran-kamyoncu-grevi-ucuncu-gun/</guid>
-    <pubDate>Wed, 25 Nov 2026 11:30:00 +0300</pubDate>
-    <category>Domestic Politics</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Protesting dollar-based price hikes on tires and fuel, truckers across 15 Iranian cities stopped hauling cargo for the third consecutive day. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>In Ekbatan case, execution halted at last minute; UN calls for M.A. and N.N.</title>
-    <link>https://farscadan.com/en/haber/2026-11-25-ekbatan-davasi-idam-durduruldu/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-25-ekbatan-davasi-idam-durduruldu/</guid>
-    <pubDate>Wed, 25 Nov 2026 11:20:00 +0300</pubDate>
-    <category>Society</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Executions of M.A. and N.N. in Ekbatan case halted last minute after families and UN pressure; case enters third year. (Source: Iran International)</description>
-  </item>
-  <item>
-    <title>Turkey-Iran relations: trade, natural gas, borders, and regional rivalry</title>
-    <link>https://farscadan.com/en/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-24-rehber-turkiye-iran-iliskileri/</guid>
-    <pubDate>Tue, 24 Nov 2026 20:30:00 +0300</pubDate>
-    <category>Guides</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>Turkey and Iran share a 1639 border, pursue $30B annual trade, have a 1996 gas deal ending in 2026, and face migration and smuggling pressure. (Source: Farsçadan)</description>
-  </item>
-  <item>
-    <title>Three tankers hit mines in Strait of Hormuz, burst into flames; stern warning from IRGC Navy</title>
-    <link>https://farscadan.com/en/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</link>
-    <guid isPermaLink="true">https://farscadan.com/en/haber/2026-11-24-hurmuz-tanker-mayin-patlama/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:40:00 +0300</pubDate>
-    <category>Security</category>
-    <dc:creator>Farsçadan Editors</dc:creator>
-    <description>IRGC Navy announced three tankers struck naval mines and caught fire in Strait of Hormuz; U.S. air support failed to prevent the incident. (Source: Hamshahri)</description>
   </item>
 </channel>
 </rss>
